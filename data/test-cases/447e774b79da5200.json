@@ -1,0 +1,46 @@
+{
+  "uid" : "447e774b79da5200",
+  "name" : "should input numerical values inside the input field",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students.should input numerical values inside the input field",
+  "historyId" : "6bef58e89a6790c253e3f6093dc96d8a",
+  "time" : {
+    "start" : 1642319072930,
+    "stop" : 1642319084225,
+    "duration" : 11295
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input numerical values inside the input field"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "447e774b79da5200.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c4f279bdeb3e54af",
+  "name" : "should input values into value field from the Follow Up Calls second",
+  "fullName" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls.should input values into value field from the Follow Up Calls second",
+  "historyId" : "7b1aa1b45e73fe73a3e4354bbbe3009f",
+  "time" : {
+    "start" : 1642323098543,
+    "stop" : 1642323100292,
+    "duration" : 1749
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input values into value field from the Follow Up Calls second"
+  }, {
+    "name" : "package",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4f279bdeb3e54af.json",
+  "parameterValues" : [ ]
+}

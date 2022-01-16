@@ -1,0 +1,46 @@
+{
+  "uid" : "50506a753aa1ddb4",
+  "name" : "should input a school number in the search field",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan .should input a school number in the search field",
+  "historyId" : "75912917eb0f9d9a1b091775f03af7db",
+  "time" : {
+    "start" : 1642323698257,
+    "stop" : 1642323699814,
+    "duration" : 1557
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a school number in the search field"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50506a753aa1ddb4.json",
+  "parameterValues" : [ ]
+}

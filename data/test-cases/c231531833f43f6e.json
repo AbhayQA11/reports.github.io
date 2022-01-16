@@ -1,0 +1,46 @@
+{
+  "uid" : "c231531833f43f6e",
+  "name" : "should  check the discount exists in the Family",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students.should  check the discount exists in the Family",
+  "historyId" : "83aebfb98d301b823a551ee38fbee6a8",
+  "time" : {
+    "start" : 1642319007074,
+    "stop" : 1642319013878,
+    "duration" : 6804
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should  check the discount exists in the Family"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c231531833f43f6e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "3b73731aa3b1e259",
+  "name" : "should remove the last added Fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages.should remove the last added Fee",
+  "historyId" : "a815d6bcbe384fa47b8c9c0ca82cc214",
+  "time" : {
+    "start" : 1642320599699,
+    "stop" : 1642320611721,
+    "duration" : 12022
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should remove the last added Fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b73731aa3b1e259.json",
+  "parameterValues" : [ ]
+}

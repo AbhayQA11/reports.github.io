@@ -1,0 +1,46 @@
+{
+  "uid" : "18917d775e2d9ccf",
+  "name" : "should verify that the Reason field maximum text length is 100",
+  "fullName" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls.should verify that the Reason field maximum text length is 100",
+  "historyId" : "768dddbf1195f6b1db146fb8cb89199d",
+  "time" : {
+    "start" : 1642323028900,
+    "stop" : 1642323030463,
+    "duration" : 1563
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Reason field maximum text length is 100"
+  }, {
+    "name" : "package",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18917d775e2d9ccf.json",
+  "parameterValues" : [ ]
+}

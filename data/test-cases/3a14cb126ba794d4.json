@@ -1,0 +1,46 @@
+{
+  "uid" : "3a14cb126ba794d4",
+  "name" : "should verify that the Submit button is disabled first time",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees controls Verification.should verify that the Submit button is disabled first time",
+  "historyId" : "a3eab532d3d15b889b982977b74c6de8",
+  "time" : {
+    "start" : 1642323168014,
+    "stop" : 1642323169142,
+    "duration" : 1128
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Submit button is disabled first time"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a14cb126ba794d4.json",
+  "parameterValues" : [ ]
+}

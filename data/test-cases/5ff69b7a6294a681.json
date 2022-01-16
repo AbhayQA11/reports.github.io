@@ -1,0 +1,46 @@
+{
+  "uid" : "5ff69b7a6294a681",
+  "name" : "should create another family with CC to use later",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Several Families And Students.should create another family with CC to use later",
+  "historyId" : "4a0f7ec2388fcb9f282f1d199022728e",
+  "time" : {
+    "start" : 1642318643348,
+    "stop" : 1642318646997,
+    "duration" : 3649
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create another family with CC to use later"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ff69b7a6294a681.json",
+  "parameterValues" : [ ]
+}

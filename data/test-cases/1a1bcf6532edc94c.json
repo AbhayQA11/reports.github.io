@@ -1,0 +1,46 @@
+{
+  "uid" : "1a1bcf6532edc94c",
+  "name" : "should click on the first Edit Button",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case.should click on the first Edit Button",
+  "historyId" : "bfaa827e0917ef0530166bf04f6ed002",
+  "time" : {
+    "start" : 1642323102192,
+    "stop" : 1642323104408,
+    "duration" : 2216
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the first Edit Button"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a1bcf6532edc94c.json",
+  "parameterValues" : [ ]
+}

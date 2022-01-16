@@ -1,0 +1,46 @@
+{
+  "uid" : "e4ea8febdf11934b",
+  "name" : "should click on the School Late Fees On/Off button, third time",
+  "fullName" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls.should click on the School Late Fees On/Off button, third time",
+  "historyId" : "790ec5f11de0c9de267732752d795b62",
+  "time" : {
+    "start" : 1642323040595,
+    "stop" : 1642323042233,
+    "duration" : 1638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the School Late Fees On/Off button, third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4ea8febdf11934b.json",
+  "parameterValues" : [ ]
+}

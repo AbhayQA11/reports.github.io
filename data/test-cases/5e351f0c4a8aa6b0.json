@@ -1,0 +1,46 @@
+{
+  "uid" : "5e351f0c4a8aa6b0",
+  "name" : "should wait for the family and students billing details page to load",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should wait for the family and students billing details page to load",
+  "historyId" : "a028f468f4a6046c6567dcf61bfecc81",
+  "time" : {
+    "start" : 1642317975816,
+    "stop" : 1642317977070,
+    "duration" : 1254
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for the family and students billing details page to load"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e351f0c4a8aa6b0.json",
+  "parameterValues" : [ ]
+}

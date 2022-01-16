@@ -1,0 +1,46 @@
+{
+  "uid" : "c99599d2f46f3e0e",
+  "name" : "should input new value into the CityName field",
+  "fullName" : "Renweb Tests: Registration for creating new family.should input new value into the CityName field",
+  "historyId" : "a86f71ece97d22731a6e7821a33039e2",
+  "time" : {
+    "start" : 1642318055876,
+    "stop" : 1642318056724,
+    "duration" : 848
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new value into the CityName field"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c99599d2f46f3e0e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "3c134084dc282ef0",
+  "name" : "should mouse over Fees and Discounts, then click fees and Discounts Summary Snapshot",
+  "fullName" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check.should mouse over Fees and Discounts, then click fees and Discounts Summary Snapshot",
+  "historyId" : "31ff182cf77200e404c8d30a094659a2",
+  "time" : {
+    "start" : 1642320192693,
+    "stop" : 1642320193873,
+    "duration" : 1180
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouse over Fees and Discounts, then click fees and Discounts Summary Snapshot"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c134084dc282ef0.json",
+  "parameterValues" : [ ]
+}

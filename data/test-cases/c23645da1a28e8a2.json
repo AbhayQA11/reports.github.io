@@ -1,0 +1,46 @@
+{
+  "uid" : "c23645da1a28e8a2",
+  "name" : "should wait for notification gone year change message",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_004.should wait for notification gone year change message",
+  "historyId" : "cf46fff38ae91de09f2bc7c46ff1cfc8",
+  "time" : {
+    "start" : 1642323292947,
+    "stop" : 1642323294284,
+    "duration" : 1337
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for notification gone year change message"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c23645da1a28e8a2.json",
+  "parameterValues" : [ ]
+}

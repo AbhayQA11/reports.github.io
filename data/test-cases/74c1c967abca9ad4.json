@@ -1,0 +1,46 @@
+{
+  "uid" : "74c1c967abca9ad4",
+  "name" : "should verify that Assigned To buttons are displayed",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should verify that Assigned To buttons are displayed",
+  "historyId" : "4a843f6180789a928068c908f3b6ead1",
+  "time" : {
+    "start" : 1642323001103,
+    "stop" : 1642323003613,
+    "duration" : 2510
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Assigned To buttons are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74c1c967abca9ad4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "80bc369ec40069be",
+  "name" : "should load Luca login Page successfully second time",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should load Luca login Page successfully second time",
+  "historyId" : "3d265ab31463141e5b4c6ae32d52e9a0",
+  "time" : {
+    "start" : 1642318197137,
+    "stop" : 1642318198712,
+    "duration" : 1575
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80bc369ec40069be.json",
+  "parameterValues" : [ ]
+}

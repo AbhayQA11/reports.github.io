@@ -1,0 +1,46 @@
+{
+  "uid" : "1a1dd314516f9683",
+  "name" : "should verify that the Priority Buttons are displayed",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should verify that the Priority Buttons are displayed",
+  "historyId" : "ae771ee9894717de1bc4f4eed3af600b",
+  "time" : {
+    "start" : 1642322999849,
+    "stop" : 1642323001103,
+    "duration" : 1254
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Priority Buttons are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a1dd314516f9683.json",
+  "parameterValues" : [ ]
+}

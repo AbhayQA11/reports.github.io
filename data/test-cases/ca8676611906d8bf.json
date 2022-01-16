@@ -1,0 +1,46 @@
+{
+  "uid" : "ca8676611906d8bf",
+  "name" : "should click login button",
+  "fullName" : "Luca Settings: OW API_008 tests.should click login button",
+  "historyId" : "7c88ae787a8651dd419ac6fcf5ebff0f",
+  "time" : {
+    "start" : 1642323318558,
+    "stop" : 1642323324877,
+    "duration" : 6319
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click login button"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ca8676611906d8bf.json",
+  "parameterValues" : [ ]
+}

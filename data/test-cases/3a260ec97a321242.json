@@ -1,0 +1,46 @@
+{
+  "uid" : "3a260ec97a321242",
+  "name" : "should click on login button",
+  "fullName" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard.should click on login button",
+  "historyId" : "be749f5312d53acaad22ac199012fae2",
+  "time" : {
+    "start" : 1642320042039,
+    "stop" : 1642320047738,
+    "duration" : 5699
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on login button"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a260ec97a321242.json",
+  "parameterValues" : [ ]
+}

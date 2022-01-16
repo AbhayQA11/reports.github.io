@@ -1,0 +1,48 @@
+{
+  "uid" : "5eaaa5d61c5f337c",
+  "name" : "should check if Automatic filter is working",
+  "fullName" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page.should check if Automatic filter is working",
+  "historyId" : "746c9261aa480d250b2cd0af8a30ecf2",
+  "time" : {
+    "start" : 1642320986288,
+    "stop" : 1642320986289,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check if Automatic filter is working"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5eaaa5d61c5f337c.json",
+  "parameterValues" : [ ]
+}

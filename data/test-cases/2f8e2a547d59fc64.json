@@ -1,0 +1,46 @@
+{
+  "uid" : "2f8e2a547d59fc64",
+  "name" : "should hover over a family name and check the tooltip displayed",
+  "fullName" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page.should hover over a family name and check the tooltip displayed",
+  "historyId" : "835f77d201f4bd094d556bd44884da63",
+  "time" : {
+    "start" : 1642320927185,
+    "stop" : 1642320930078,
+    "duration" : 2893
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should hover over a family name and check the tooltip displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f8e2a547d59fc64.json",
+  "parameterValues" : [ ]
+}

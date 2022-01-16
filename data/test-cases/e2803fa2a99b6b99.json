@@ -1,0 +1,46 @@
+{
+  "uid" : "e2803fa2a99b6b99",
+  "name" : "should upload the Spreadsheet Upload xls file",
+  "fullName" : "lucaAddANoteTests: Create a note and attaching an attachment.should upload the Spreadsheet Upload xls file",
+  "historyId" : "9af348ea34a74ec33e3ce20af96750ba",
+  "time" : {
+    "start" : 1642322981744,
+    "stop" : 1642322982980,
+    "duration" : 1236
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should upload the Spreadsheet Upload xls file"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2803fa2a99b6b99.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "405d886870e52c6a",
+  "name" : "should verify that the appropriate login error message is received when the invalid password in used",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should verify that the appropriate login error message is received when the invalid password in used",
+  "historyId" : "b811b032a74e5697fec0c3eb8601afb6",
+  "time" : {
+    "start" : 1642318013492,
+    "stop" : 1642318018105,
+    "duration" : 4613
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate login error message is received when the invalid password in used"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "405d886870e52c6a.json",
+  "parameterValues" : [ ]
+}

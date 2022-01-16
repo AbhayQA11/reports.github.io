@@ -1,0 +1,46 @@
+{
+  "uid" : "e31743d1c7daab44",
+  "name" : "should select family view from the View Mode drop-down",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should select family view from the View Mode drop-down",
+  "historyId" : "3f84d7d987759cac1c67a228f0825c7b",
+  "time" : {
+    "start" : 1642318439039,
+    "stop" : 1642318442431,
+    "duration" : 3392
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select family view from the View Mode drop-down"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e31743d1c7daab44.json",
+  "parameterValues" : [ ]
+}

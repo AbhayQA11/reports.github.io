@@ -1,0 +1,46 @@
+{
+  "uid" : "80b166b2267533ae",
+  "name" : "should accept terms and conditions",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should accept terms and conditions",
+  "historyId" : "5e529977737bdb501d33cc8838c1cf85",
+  "time" : {
+    "start" : 1642319184598,
+    "stop" : 1642319185254,
+    "duration" : 656
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should accept terms and conditions"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80b166b2267533ae.json",
+  "parameterValues" : [ ]
+}

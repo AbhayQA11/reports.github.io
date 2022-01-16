@@ -1,0 +1,46 @@
+{
+  "uid" : "f8474435f1e000c3",
+  "name" : "should make a API payment with that family in order to verify Pre-existing card on Pay My bill page",
+  "fullName" : "Parent Site Payment Verification.should make a API payment with that family in order to verify Pre-existing card on Pay My bill page",
+  "historyId" : "85a6763531b1f443632e2137feb2cc62",
+  "time" : {
+    "start" : 1642323838665,
+    "stop" : 1642323839001,
+    "duration" : 336
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should make a API payment with that family in order to verify Pre-existing card on Pay My bill page"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8474435f1e000c3.json",
+  "parameterValues" : [ ]
+}

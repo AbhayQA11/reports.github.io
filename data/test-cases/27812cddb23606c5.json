@@ -1,0 +1,46 @@
+{
+  "uid" : "27812cddb23606c5",
+  "name" : "should click on the Add a note pictogram",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on the Add a note pictogram",
+  "historyId" : "f0b673443674d9493806f785295f1e93",
+  "time" : {
+    "start" : 1642322958017,
+    "stop" : 1642322961888,
+    "duration" : 3871
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Add a note pictogram"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "27812cddb23606c5.json",
+  "parameterValues" : [ ]
+}

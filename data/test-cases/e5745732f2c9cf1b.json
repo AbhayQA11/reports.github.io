@@ -1,0 +1,46 @@
+{
+  "uid" : "e5745732f2c9cf1b",
+  "name" : "should verify that the Save button from the newly appeared popup is disabled",
+  "fullName" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls.should verify that the Save button from the newly appeared popup is disabled",
+  "historyId" : "ca83a21446e0daea8bc3570dd71c8dfc",
+  "time" : {
+    "start" : 1642323021434,
+    "stop" : 1642323023153,
+    "duration" : 1719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Save button from the newly appeared popup is disabled"
+  }, {
+    "name" : "package",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5745732f2c9cf1b.json",
+  "parameterValues" : [ ]
+}

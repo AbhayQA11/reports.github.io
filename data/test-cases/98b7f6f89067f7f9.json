@@ -1,0 +1,46 @@
+{
+  "uid" : "98b7f6f89067f7f9",
+  "name" : "should select the first record second time",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Several Families And Students.should select the first record second time",
+  "historyId" : "ef699fb783741beecaa8315407afa766",
+  "time" : {
+    "start" : 1642318883715,
+    "stop" : 1642318890235,
+    "duration" : 6520
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the first record second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98b7f6f89067f7f9.json",
+  "parameterValues" : [ ]
+}

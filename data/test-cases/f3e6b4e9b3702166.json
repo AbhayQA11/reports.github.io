@@ -1,0 +1,46 @@
+{
+  "uid" : "f3e6b4e9b3702166",
+  "name" : "should verify that the Recognition Type is set To NA in the Table",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case.should verify that the Recognition Type is set To NA in the Table",
+  "historyId" : "b644da24cba24b9b01cf197ea80b4b3d",
+  "time" : {
+    "start" : 1642323102257,
+    "stop" : 1642323103754,
+    "duration" : 1497
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Recognition Type is set To NA in the Table"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3e6b4e9b3702166.json",
+  "parameterValues" : [ ]
+}

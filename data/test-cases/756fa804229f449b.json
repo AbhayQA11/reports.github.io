@@ -1,0 +1,46 @@
+{
+  "uid" : "756fa804229f449b",
+  "name" : "should verify all sections are present in the payment information page",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment.should verify all sections are present in the payment information page",
+  "historyId" : "b0ae9b6c90c63aad8508cb0b72f890e3",
+  "time" : {
+    "start" : 1642321052538,
+    "stop" : 1642321057078,
+    "duration" : 4540
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify all sections are present in the payment information page"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "756fa804229f449b.json",
+  "parameterValues" : [ ]
+}

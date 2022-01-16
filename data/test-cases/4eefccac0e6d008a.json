@@ -1,0 +1,46 @@
+{
+  "uid" : "4eefccac0e6d008a",
+  "name" : "should click the Save button eighth",
+  "fullName" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls.should click the Save button eighth",
+  "historyId" : "71c457d5d79212131676ed6017d7787b",
+  "time" : {
+    "start" : 1642323128354,
+    "stop" : 1642323130784,
+    "duration" : 2430
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Save button eighth"
+  }, {
+    "name" : "package",
+    "value" : "lucaReviewManageFollowUpTests: Review Manage Follow Up Validations UI Controls"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4eefccac0e6d008a.json",
+  "parameterValues" : [ ]
+}

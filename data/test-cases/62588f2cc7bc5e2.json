@@ -1,0 +1,46 @@
+{
+  "uid" : "62588f2cc7bc5e2",
+  "name" : "should input password",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case.should input password",
+  "historyId" : "b1b7b91c0703f0c925a037fe5c2dfc78",
+  "time" : {
+    "start" : 1642323077001,
+    "stop" : 1642323078154,
+    "duration" : 1153
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input password"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62588f2cc7bc5e2.json",
+  "parameterValues" : [ ]
+}

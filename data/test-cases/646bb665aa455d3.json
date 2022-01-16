@@ -1,0 +1,46 @@
+{
+  "uid" : "646bb665aa455d3",
+  "name" : "should click on Payment Settings",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details Payment settings.should click on Payment Settings",
+  "historyId" : "ed0fb2fbc36acb5e520eb07c98db9b13",
+  "time" : {
+    "start" : 1642318425150,
+    "stop" : 1642318425545,
+    "duration" : 395
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Payment Settings"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "646bb665aa455d3.json",
+  "parameterValues" : [ ]
+}

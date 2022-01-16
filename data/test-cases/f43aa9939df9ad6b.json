@@ -1,0 +1,46 @@
+{
+  "uid" : "f43aa9939df9ad6b",
+  "name" : "should check the discount exists in the  again",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should check the discount exists in the  again",
+  "historyId" : "66983a01f21fbc2d4b8ab26df0fda506",
+  "time" : {
+    "start" : 1642318507646,
+    "stop" : 1642318514353,
+    "duration" : 6707
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check the discount exists in the  again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f43aa9939df9ad6b.json",
+  "parameterValues" : [ ]
+}

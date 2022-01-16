@@ -1,0 +1,46 @@
+{
+  "uid" : "1100590f2cb0cbab",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case.should load Luca login Page successfully",
+  "historyId" : "3bf9580d418edd8357316c21a6b5ae39",
+  "time" : {
+    "start" : 1642323071881,
+    "stop" : 1642323074784,
+    "duration" : 2903
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1100590f2cb0cbab.json",
+  "parameterValues" : [ ]
+}

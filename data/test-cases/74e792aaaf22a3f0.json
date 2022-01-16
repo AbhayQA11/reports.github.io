@@ -1,0 +1,46 @@
+{
+  "uid" : "74e792aaaf22a3f0",
+  "name" : "should input a valid Password",
+  "fullName" : "Call Center Authentification tests.should input a valid Password",
+  "historyId" : "43dafb37138b9e7195f09400e80d70d3",
+  "time" : {
+    "start" : 1642323865508,
+    "stop" : 1642323866947,
+    "duration" : 1439
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a valid Password"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74e792aaaf22a3f0.json",
+  "parameterValues" : [ ]
+}

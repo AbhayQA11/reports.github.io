@@ -1,0 +1,46 @@
+{
+  "uid" : "57f8bc71d6a1acac",
+  "name" : "should click the drop-down modal fee second time",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students.should click the drop-down modal fee second time",
+  "historyId" : "51884b29a0066f810325dc53a42adb0c",
+  "time" : {
+    "start" : 1642318933674,
+    "stop" : 1642318938930,
+    "duration" : 5256
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the drop-down modal fee second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57f8bc71d6a1acac.json",
+  "parameterValues" : [ ]
+}

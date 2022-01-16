@@ -1,0 +1,46 @@
+{
+  "uid" : "4a135b45958ea1af",
+  "name" : "should click On Student for the discount",
+  "fullName" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family.should click On Student for the discount",
+  "historyId" : "1735bb1cb7603f363be1a3b6083a600e",
+  "time" : {
+    "start" : 1642320367584,
+    "stop" : 1642320369962,
+    "duration" : 2378
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click On Student for the discount"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a135b45958ea1af.json",
+  "parameterValues" : [ ]
+}

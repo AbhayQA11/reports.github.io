@@ -1,0 +1,70 @@
+{
+  "uid" : "2c57a02b6f965f2f",
+  "name" : "should verify that the appropriate message is received after clicking submit second time",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students.should verify that the appropriate message is received after clicking submit second time",
+  "historyId" : "1acc09c57d32d19e32e9b9e543048555",
+  "time" : {
+    "start" : 1642319061596,
+    "stop" : 1642319069723,
+    "duration" : 8127
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'There was an error processing one or more students. Please check the indicator icon next to each row for details.' to contain 'All students were processed successfully.'.",
+  "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/lucaPages/lucaBatchUploadPage/lucaBatchEnrollmentPage.js:2394:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:804:32\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'There was an error processing one or more students. Please check the indicator icon next to each row for details.' to contain 'All students were processed successfully.'.",
+    "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/lucaPages/lucaBatchUploadPage/lucaBatchEnrollmentPage.js:2394:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:804:32\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "811d50ee59660524",
+      "name" : "Screenshot",
+      "source" : "811d50ee59660524.png",
+      "type" : "image/png",
+      "size" : 211236
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received after clicking submit second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2c57a02b6f965f2f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "f365402169b82038",
+  "name" : "should conplete the Describe Situation Field",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should conplete the Describe Situation Field",
+  "historyId" : "424dd8c37c5b7893a8175910cce947b0",
+  "time" : {
+    "start" : 1642323010375,
+    "stop" : 1642323012194,
+    "duration" : 1819
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should conplete the Describe Situation Field"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f365402169b82038.json",
+  "parameterValues" : [ ]
+}

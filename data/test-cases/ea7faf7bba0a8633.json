@@ -1,0 +1,46 @@
+{
+  "uid" : "ea7faf7bba0a8633",
+  "name" : "should filter by Payment Type - Give Now on Manage Transactions Page",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Transactions Groups.should filter by Payment Type - Give Now on Manage Transactions Page",
+  "historyId" : "cd4b907f9596420b2f9d4d4056e22e92",
+  "time" : {
+    "start" : 1642320935795,
+    "stop" : 1642320944760,
+    "duration" : 8965
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Transactions Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Transactions Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should filter by Payment Type - Give Now on Manage Transactions Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Transactions Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea7faf7bba0a8633.json",
+  "parameterValues" : [ ]
+}

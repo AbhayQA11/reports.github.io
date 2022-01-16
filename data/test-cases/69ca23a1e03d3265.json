@@ -1,0 +1,46 @@
+{
+  "uid" : "69ca23a1e03d3265",
+  "name" : "should input correct username",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should input correct username",
+  "historyId" : "6069337ecec5d7d310dc363db0b0cf31",
+  "time" : {
+    "start" : 1642320052416,
+    "stop" : 1642320054812,
+    "duration" : 2396
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct username"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69ca23a1e03d3265.json",
+  "parameterValues" : [ ]
+}

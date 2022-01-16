@@ -1,0 +1,46 @@
+{
+  "uid" : "a2fd36054ad2d649",
+  "name" : "should move the mouse over the Families link and click on View All Families",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests.should move the mouse over the Families link and click on View All Families",
+  "historyId" : "3d070b598098ea0ed3c1c2381db030e3",
+  "time" : {
+    "start" : 1642323691802,
+    "stop" : 1642323695006,
+    "duration" : 3204
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should move the mouse over the Families link and click on View All Families"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2fd36054ad2d649.json",
+  "parameterValues" : [ ]
+}

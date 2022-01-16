@@ -1,0 +1,46 @@
+{
+  "uid" : "36b444f2188f1aa8",
+  "name" : "should verify the user receive the Please enter your Username Error",
+  "fullName" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site.should verify the user receive the Please enter your Username Error",
+  "historyId" : "a0cdf5e5eb26dc99795455d36472d81f",
+  "time" : {
+    "start" : 1642323845443,
+    "stop" : 1642323847061,
+    "duration" : 1618
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the user receive the Please enter your Username Error"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36b444f2188f1aa8.json",
+  "parameterValues" : [ ]
+}

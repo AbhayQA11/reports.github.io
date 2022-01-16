@@ -1,0 +1,46 @@
+{
+  "uid" : "8be6a74ac4bd5a11",
+  "name" : "should input Bank Account number",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should input Bank Account number",
+  "historyId" : "671f92da49b2be963647dafd033a6d5d",
+  "time" : {
+    "start" : 1642319183268,
+    "stop" : 1642319184598,
+    "duration" : 1330
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input Bank Account number"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8be6a74ac4bd5a11.json",
+  "parameterValues" : [ ]
+}

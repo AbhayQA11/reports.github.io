@@ -1,0 +1,46 @@
+{
+  "uid" : "25f9275bc1212ec7",
+  "name" : "should click to accept the Terms and Conditions",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should click to accept the Terms and Conditions",
+  "historyId" : "67b77e811f8cbd70731b5998542d19d2",
+  "time" : {
+    "start" : 1642323430006,
+    "stop" : 1642323430676,
+    "duration" : 670
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click to accept the Terms and Conditions"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25f9275bc1212ec7.json",
+  "parameterValues" : [ ]
+}

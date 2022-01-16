@@ -1,0 +1,70 @@
+{
+  "uid" : "6433da4ca9867b4d",
+  "name" : "should verify that the the filters are still on upon returning to the Pending Families Page",
+  "fullName" : "lucaEnrollment: verify filters on Deleted Families.should verify that the the filters are still on upon returning to the Pending Families Page",
+  "historyId" : "104adbd0305f10e054066432a1cfae69",
+  "time" : {
+    "start" : 1642319442605,
+    "stop" : 1642319445227,
+    "duration" : 2622
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Any  ' not to contain 'Any'.",
+  "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/lucaPages/lucaBatchUploadPage/lucaBatchEnrollmentPage.js:2154:24\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:804:32\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Any  ' not to contain 'Any'.",
+    "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/lucaPages/lucaBatchUploadPage/lucaBatchEnrollmentPage.js:2154:24\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:804:32\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "57d404defb9d4be9",
+      "name" : "Screenshot",
+      "source" : "57d404defb9d4be9.png",
+      "type" : "image/png",
+      "size" : 87502
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the the filters are still on upon returning to the Pending Families Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6433da4ca9867b4d.json",
+  "parameterValues" : [ ]
+}

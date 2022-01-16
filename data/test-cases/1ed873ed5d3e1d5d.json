@@ -1,0 +1,46 @@
+{
+  "uid" : "1ed873ed5d3e1d5d",
+  "name" : "should click on next button in order to reach the confirmation page",
+  "fullName" : "homepageTests: Enrollment with Mail In Invoice payment option.should click on next button in order to reach the confirmation page",
+  "historyId" : "3a381f1ddf70d7bf445777fce70c61d3",
+  "time" : {
+    "start" : 1642317926741,
+    "stop" : 1642317929499,
+    "duration" : 2758
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on next button in order to reach the confirmation page"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ed873ed5d3e1d5d.json",
+  "parameterValues" : [ ]
+}

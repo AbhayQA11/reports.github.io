@@ -1,0 +1,46 @@
+{
+  "uid" : "10601c2658a820c6",
+  "name" : "should modify user data in order to activate the family",
+  "fullName" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification.should modify user data in order to activate the family",
+  "historyId" : "f2b839fb375896aeadab75d76c45e6db",
+  "time" : {
+    "start" : 1642323174845,
+    "stop" : 1642323210908,
+    "duration" : 36063
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to activate the family"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10601c2658a820c6.json",
+  "parameterValues" : [ ]
+}

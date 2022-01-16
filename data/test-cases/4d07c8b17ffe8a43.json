@@ -1,0 +1,46 @@
+{
+  "uid" : "4d07c8b17ffe8a43",
+  "name" : "should modify user data in order to activate the family",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios.should modify user data in order to activate the family",
+  "historyId" : "9e2d7b9028b698480605a6fcf59e1af5",
+  "time" : {
+    "start" : 1642321166713,
+    "stop" : 1642321201841,
+    "duration" : 35128
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to activate the family"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d07c8b17ffe8a43.json",
+  "parameterValues" : [ ]
+}

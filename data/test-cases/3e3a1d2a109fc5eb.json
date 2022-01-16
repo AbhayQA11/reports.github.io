@@ -1,0 +1,46 @@
+{
+  "uid" : "3e3a1d2a109fc5eb",
+  "name" : "should verify payment ammout field only accepts 10 digits",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment.should verify payment ammout field only accepts 10 digits",
+  "historyId" : "b066e121e530f557314ef7a2263db151",
+  "time" : {
+    "start" : 1642321074759,
+    "stop" : 1642321076650,
+    "duration" : 1891
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify payment ammout field only accepts 10 digits"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e3a1d2a109fc5eb.json",
+  "parameterValues" : [ ]
+}

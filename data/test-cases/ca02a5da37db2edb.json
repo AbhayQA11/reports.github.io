@@ -1,0 +1,46 @@
+{
+  "uid" : "ca02a5da37db2edb",
+  "name" : "should load call API successfully and check for discount names",
+  "fullName" : "Luca Settings: Manage Payment Plans tests API_014.should load call API successfully and check for discount names",
+  "historyId" : "91b9602eb347518660cdbb5cf93a6a9a",
+  "time" : {
+    "start" : 1642323398282,
+    "stop" : 1642323401025,
+    "duration" : 2743
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load call API successfully and check for discount names"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ca02a5da37db2edb.json",
+  "parameterValues" : [ ]
+}

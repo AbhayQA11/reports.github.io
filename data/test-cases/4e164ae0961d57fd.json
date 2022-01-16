@@ -1,0 +1,46 @@
+{
+  "uid" : "4e164ae0961d57fd",
+  "name" : "should input the first Fee name into the filter and Verify it is displayed",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality .should input the first Fee name into the filter and Verify it is displayed",
+  "historyId" : "794b7466890b38daf0df78869ee4eb43",
+  "time" : {
+    "start" : 1642323023139,
+    "stop" : 1642323032843,
+    "duration" : 9704
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality "
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the first Fee name into the filter and Verify it is displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e164ae0961d57fd.json",
+  "parameterValues" : [ ]
+}

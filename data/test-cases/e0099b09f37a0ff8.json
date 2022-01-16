@@ -1,0 +1,46 @@
+{
+  "uid" : "e0099b09f37a0ff8",
+  "name" : "should verify that the Smart Search Page has been reached",
+  "fullName" : "Main Landing Page, Verify Search Functionality.should verify that the Smart Search Page has been reached",
+  "historyId" : "13e0977fa7f20bc9a9331ce66f0fee91",
+  "time" : {
+    "start" : 1642319923828,
+    "stop" : 1642319927479,
+    "duration" : 3651
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Smart Search Page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0099b09f37a0ff8.json",
+  "parameterValues" : [ ]
+}

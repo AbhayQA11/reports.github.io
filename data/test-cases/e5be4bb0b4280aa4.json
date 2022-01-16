@@ -1,0 +1,46 @@
+{
+  "uid" : "e5be4bb0b4280aa4",
+  "name" : "should click Batch action button fourth time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should click Batch action button fourth time",
+  "historyId" : "7f817b20f322f59d78f72693ab2f246c",
+  "time" : {
+    "start" : 1642318508503,
+    "stop" : 1642318509925,
+    "duration" : 1422
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click Batch action button fourth time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5be4bb0b4280aa4.json",
+  "parameterValues" : [ ]
+}

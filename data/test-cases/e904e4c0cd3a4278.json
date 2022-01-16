@@ -1,0 +1,46 @@
+{
+  "uid" : "e904e4c0cd3a4278",
+  "name" : "should delete the new Group",
+  "fullName" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups.should delete the new Group",
+  "historyId" : "a3b2b7aab3523a79aecb4b5808478024",
+  "time" : {
+    "start" : 1642320973818,
+    "stop" : 1642320981505,
+    "duration" : 7687
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should delete the new Group"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e904e4c0cd3a4278.json",
+  "parameterValues" : [ ]
+}

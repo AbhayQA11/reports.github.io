@@ -1,0 +1,44 @@
+{
+  "uid" : "e5304571e44c1b6c",
+  "name" : "should verify that the appropriate message is received after clicking submit fee again",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should verify that the appropriate message is received after clicking submit fee again",
+  "historyId" : "19f9ae4929b7aba00740adbd59b1ea65",
+  "time" : {
+    "start" : 1642318521743,
+    "stop" : 1642318529449,
+    "duration" : 7706
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received after clicking submit fee again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5304571e44c1b6c.json",
+  "parameterValues" : [ ]
+}

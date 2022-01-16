@@ -1,0 +1,46 @@
+{
+  "uid" : "ef0821491f05c96a",
+  "name" : "should input Bank Rooting number",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account.should input Bank Rooting number",
+  "historyId" : "c5ca7977c36630e46e7523c25032dbc3",
+  "time" : {
+    "start" : 1642319350788,
+    "stop" : 1642319351913,
+    "duration" : 1125
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input Bank Rooting number"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef0821491f05c96a.json",
+  "parameterValues" : [ ]
+}

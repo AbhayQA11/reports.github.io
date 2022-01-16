@@ -1,0 +1,46 @@
+{
+  "uid" : "ad4a596536fa2079",
+  "name" : "should verify the country",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should verify the country",
+  "historyId" : "1b3a9c6f1fa50436c111a583cfe81f12",
+  "time" : {
+    "start" : 1642323457621,
+    "stop" : 1642323459157,
+    "duration" : 1536
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the country"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad4a596536fa2079.json",
+  "parameterValues" : [ ]
+}

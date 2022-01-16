@@ -1,0 +1,46 @@
+{
+  "uid" : "263a99b8f5494eba",
+  "name" : "should input school number 11084 in the search field",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should input school number 11084 in the search field",
+  "historyId" : "f773ffafbb87ccc2a45a3efccb56457a",
+  "time" : {
+    "start" : 1642318516900,
+    "stop" : 1642318518450,
+    "duration" : 1550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input school number 11084 in the search field"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "263a99b8f5494eba.json",
+  "parameterValues" : [ ]
+}

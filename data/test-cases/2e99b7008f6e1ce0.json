@@ -1,0 +1,46 @@
+{
+  "uid" : "2e99b7008f6e1ce0",
+  "name" : "should reach view all families",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee.should reach view all families",
+  "historyId" : "4b5644205a6b1165d5e29f4e3f75ae03",
+  "time" : {
+    "start" : 1642323177600,
+    "stop" : 1642323180652,
+    "duration" : 3052
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach view all families"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e99b7008f6e1ce0.json",
+  "parameterValues" : [ ]
+}

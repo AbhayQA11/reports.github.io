@@ -1,0 +1,46 @@
+{
+  "uid" : "e3cacd3bccb3d405",
+  "name" : "should click on a deactivation popup button",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should click on a deactivation popup button",
+  "historyId" : "71b413e20728f917168976e5704bcc3f",
+  "time" : {
+    "start" : 1642323475251,
+    "stop" : 1642323475823,
+    "duration" : 572
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on a deactivation popup button"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3cacd3bccb3d405.json",
+  "parameterValues" : [ ]
+}

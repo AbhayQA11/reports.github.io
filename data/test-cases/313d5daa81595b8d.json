@@ -1,0 +1,46 @@
+{
+  "uid" : "313d5daa81595b8d",
+  "name" : "should mouseover Activities in the Past 30 days chart and verify that Number of Notes added is displayed",
+  "fullName" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard.should mouseover Activities in the Past 30 days chart and verify that Number of Notes added is displayed",
+  "historyId" : "afdb0679cfdc9be7483f286fd7ea6df2",
+  "time" : {
+    "start" : 1642320068930,
+    "stop" : 1642320070638,
+    "duration" : 1708
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Activities in the Past 30 days chart and verify that Number of Notes added is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "313d5daa81595b8d.json",
+  "parameterValues" : [ ]
+}

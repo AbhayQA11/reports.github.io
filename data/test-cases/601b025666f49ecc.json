@@ -1,0 +1,46 @@
+{
+  "uid" : "601b025666f49ecc",
+  "name" : "should select the third record first time",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students.should select the third record first time",
+  "historyId" : "9aaea2442a57712e8f19025280604efb",
+  "time" : {
+    "start" : 1642319354472,
+    "stop" : 1642319360994,
+    "duration" : 6522
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the third record first time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "601b025666f49ecc.json",
+  "parameterValues" : [ ]
+}

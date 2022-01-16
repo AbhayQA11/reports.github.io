@@ -1,0 +1,46 @@
+{
+  "uid" : "992aa6b404c77054",
+  "name" : "should modify user data in order to log in into Jake site",
+  "fullName" : "Tuition Manager Authentification Module.should modify user data in order to log in into Jake site",
+  "historyId" : "d157ab5941adff8671c323bba4f6fd22",
+  "time" : {
+    "start" : 1642323933227,
+    "stop" : 1642323970978,
+    "duration" : 37751
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to log in into Jake site"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "992aa6b404c77054.json",
+  "parameterValues" : [ ]
+}

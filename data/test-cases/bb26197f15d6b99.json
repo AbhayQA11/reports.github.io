@@ -1,0 +1,46 @@
+{
+  "uid" : "bb26197f15d6b99",
+  "name" : "should click on the Save button",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case.should click on the Save button",
+  "historyId" : "fb340baeaffbe39c90b3267e56e78fcf",
+  "time" : {
+    "start" : 1642323090249,
+    "stop" : 1642323092939,
+    "duration" : 2690
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Save button"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb26197f15d6b99.json",
+  "parameterValues" : [ ]
+}

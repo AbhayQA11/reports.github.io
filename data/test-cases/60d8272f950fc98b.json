@@ -1,0 +1,46 @@
+{
+  "uid" : "60d8272f950fc98b",
+  "name" : "should click on the Edit Billing Details",
+  "fullName" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63.should click on the Edit Billing Details",
+  "historyId" : "1d106cd71de320509ef331a72fe7369c",
+  "time" : {
+    "start" : 1642323553067,
+    "stop" : 1642323561172,
+    "duration" : 8105
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Edit Billing Details"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60d8272f950fc98b.json",
+  "parameterValues" : [ ]
+}

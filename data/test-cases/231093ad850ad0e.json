@@ -1,0 +1,46 @@
+{
+  "uid" : "231093ad850ad0e",
+  "name" : "should click on the Settings Button, then click on Day 1 Settings",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should click on the Settings Button, then click on Day 1 Settings",
+  "historyId" : "4bb81c75fa142a2f3848cf7fffac82c3",
+  "time" : {
+    "start" : 1642323031276,
+    "stop" : 1642323034952,
+    "duration" : 3676
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Settings Button, then click on Day 1 Settings"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "231093ad850ad0e.json",
+  "parameterValues" : [ ]
+}

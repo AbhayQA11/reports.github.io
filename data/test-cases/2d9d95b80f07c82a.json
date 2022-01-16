@@ -1,0 +1,46 @@
+{
+  "uid" : "2d9d95b80f07c82a",
+  "name" : "should select 5 tuition months",
+  "fullName" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024.should select 5 tuition months",
+  "historyId" : "79ae82bd8d3399968c85ebd578043a63",
+  "time" : {
+    "start" : 1642323260345,
+    "stop" : 1642323262766,
+    "duration" : 2421
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select 5 tuition months"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d9d95b80f07c82a.json",
+  "parameterValues" : [ ]
+}

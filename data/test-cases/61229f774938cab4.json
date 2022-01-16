@@ -1,0 +1,46 @@
+{
+  "uid" : "61229f774938cab4",
+  "name" : "should should input new value into the Phone Home field",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools.should should input new value into the Phone Home field",
+  "historyId" : "d3cc5ddff8a3599f9c6699a355b7639e",
+  "time" : {
+    "start" : 1642318016506,
+    "stop" : 1642318017483,
+    "duration" : 977
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should should input new value into the Phone Home field"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61229f774938cab4.json",
+  "parameterValues" : [ ]
+}

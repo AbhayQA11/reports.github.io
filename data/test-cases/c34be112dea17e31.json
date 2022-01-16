@@ -1,0 +1,46 @@
+{
+  "uid" : "c34be112dea17e31",
+  "name" : "should select a discount which applies only to one of the students, QA Discount 003",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Discount.should select a discount which applies only to one of the students, QA Discount 003",
+  "historyId" : "6a4bd1e305d23d7a6b74554a14ed0139",
+  "time" : {
+    "start" : 1642319769307,
+    "stop" : 1642319771317,
+    "duration" : 2010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a discount which applies only to one of the students, QA Discount 003"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c34be112dea17e31.json",
+  "parameterValues" : [ ]
+}

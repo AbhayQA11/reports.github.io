@@ -1,0 +1,46 @@
+{
+  "uid" : "3901566d9c1edf05",
+  "name" : "should click purge a family button again",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students.should click purge a family button again",
+  "historyId" : "6c46909fbd215acdc705c6f8bc94e12c",
+  "time" : {
+    "start" : 1642319293259,
+    "stop" : 1642319299244,
+    "duration" : 5985
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click purge a family button again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3901566d9c1edf05.json",
+  "parameterValues" : [ ]
+}

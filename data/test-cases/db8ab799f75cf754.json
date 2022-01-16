@@ -1,0 +1,46 @@
+{
+  "uid" : "db8ab799f75cf754",
+  "name" : "should reach Update Family And Student Information for the first family in order to add a new student",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students.should reach Update Family And Student Information for the first family in order to add a new student",
+  "historyId" : "be1663fd8959cf2ceae68d7029a22ce0",
+  "time" : {
+    "start" : 1642318731416,
+    "stop" : 1642318731822,
+    "duration" : 406
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach Update Family And Student Information for the first family in order to add a new student"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db8ab799f75cf754.json",
+  "parameterValues" : [ ]
+}

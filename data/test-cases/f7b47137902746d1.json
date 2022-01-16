@@ -1,0 +1,46 @@
+{
+  "uid" : "f7b47137902746d1",
+  "name" : "should verify that the Remove Button for the newly added Fee is not Shown",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts.should verify that the Remove Button for the newly added Fee is not Shown",
+  "historyId" : "19b72c4ab80d1e85526a8b4afe2d8490",
+  "time" : {
+    "start" : 1642320654641,
+    "stop" : 1642320666279,
+    "duration" : 11638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Remove Button for the newly added Fee is not Shown"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7b47137902746d1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "4321e509a5a15415",
+  "name" : "should mouseover Fees and discounts, then select Manage Fees and Discounts",
+  "fullName" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee.should mouseover Fees and discounts, then select Manage Fees and Discounts",
+  "historyId" : "4d652804a115af28cf9096827075d15f",
+  "time" : {
+    "start" : 1642320801344,
+    "stop" : 1642320804139,
+    "duration" : 2795
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Fees and discounts, then select Manage Fees and Discounts"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4321e509a5a15415.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "8d1658dc644200e7",
+  "name" : "should add all the information required for a new fee: General Ledger Id",
+  "fullName" : "Luca Settings: OW API_007 tests.should add all the information required for a new fee: General Ledger Id",
+  "historyId" : "e02c3188b68942836526faa5aee4b31a",
+  "time" : {
+    "start" : 1642323329359,
+    "stop" : 1642323331137,
+    "duration" : 1778
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add all the information required for a new fee: General Ledger Id"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d1658dc644200e7.json",
+  "parameterValues" : [ ]
+}

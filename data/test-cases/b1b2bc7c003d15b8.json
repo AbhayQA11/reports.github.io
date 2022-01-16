@@ -1,0 +1,46 @@
+{
+  "uid" : "b1b2bc7c003d15b8",
+  "name" : "should verify the Appearance and Additional Themes are Default, Yety, Flatly, Darkly, Slate",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings.should verify the Appearance and Additional Themes are Default, Yety, Flatly, Darkly, Slate",
+  "historyId" : "65400844c2b8d84f17d11f2d59ccce88",
+  "time" : {
+    "start" : 1642320872362,
+    "stop" : 1642320872689,
+    "duration" : 327
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Appearance and Additional Themes are Default, Yety, Flatly, Darkly, Slate"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b1b2bc7c003d15b8.json",
+  "parameterValues" : [ ]
+}

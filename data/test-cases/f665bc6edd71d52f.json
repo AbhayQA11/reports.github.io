@@ -1,0 +1,46 @@
+{
+  "uid" : "f665bc6edd71d52f",
+  "name" : "should select the Visa option from the dropdown",
+  "fullName" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied.should select the Visa option from the dropdown",
+  "historyId" : "a6ef1134c9e044144ef3ae60486eec66",
+  "time" : {
+    "start" : 1642324027318,
+    "stop" : 1642324029000,
+    "duration" : 1682
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testClass",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the Visa option from the dropdown"
+  }, {
+    "name" : "package",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f665bc6edd71d52f.json",
+  "parameterValues" : [ ]
+}

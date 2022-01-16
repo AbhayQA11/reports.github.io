@@ -1,0 +1,46 @@
+{
+  "uid" : "d6ad1eb868aad906",
+  "name" : "should click on Payments After Follow-Up ",
+  "fullName" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard.should click on Payments After Follow-Up ",
+  "historyId" : "f740dd4c0b23ccbbee11890bab22d6c4",
+  "time" : {
+    "start" : 1642320057218,
+    "stop" : 1642320062499,
+    "duration" : 5281
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Payments After Follow-Up "
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6ad1eb868aad906.json",
+  "parameterValues" : [ ]
+}

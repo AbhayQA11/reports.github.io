@@ -1,0 +1,46 @@
+{
+  "uid" : "30946613ffdde8c9",
+  "name" : "should load Tuition Manager Page Succesfully and create a new family",
+  "fullName" : "Tuition Manager Authentification Module.should load Tuition Manager Page Succesfully and create a new family",
+  "historyId" : "3803ffa00ec971e5f01f438106f68522",
+  "time" : {
+    "start" : 1642323926879,
+    "stop" : 1642323933227,
+    "duration" : 6348
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Tuition Manager Page Succesfully and create a new family"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "30946613ffdde8c9.json",
+  "parameterValues" : [ ]
+}

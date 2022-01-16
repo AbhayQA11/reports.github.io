@@ -1,0 +1,46 @@
+{
+  "uid" : "474bfe36526dc857",
+  "name" : "should select the MasterCard option from the dropdown",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should select the MasterCard option from the dropdown",
+  "historyId" : "b340fa217d8f628d04290e13d09e9812",
+  "time" : {
+    "start" : 1642319313194,
+    "stop" : 1642319314780,
+    "duration" : 1586
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the MasterCard option from the dropdown"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "474bfe36526dc857.json",
+  "parameterValues" : [ ]
+}

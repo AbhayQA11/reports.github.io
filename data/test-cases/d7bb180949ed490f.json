@@ -1,0 +1,46 @@
+{
+  "uid" : "d7bb180949ed490f",
+  "name" : "should click on Add New Fee Button in order for the pop-up to appear",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria.should click on Add New Fee Button in order for the pop-up to appear",
+  "historyId" : "54a0b5f0a38683dd60f41b0a745d9bc5",
+  "time" : {
+    "start" : 1642320248136,
+    "stop" : 1642320253638,
+    "duration" : 5502
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Add New Fee Button in order for the pop-up to appear"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7bb180949ed490f.json",
+  "parameterValues" : [ ]
+}

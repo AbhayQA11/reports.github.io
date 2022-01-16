@@ -1,0 +1,46 @@
+{
+  "uid" : "bec391b4d1c42145",
+  "name" : "should verify the family in luca",
+  "fullName" : "homepageTests: Enrollment with all payment options.should verify the family in luca",
+  "historyId" : "b79bc833e71ecaba0efe101a4b76d2c9",
+  "time" : {
+    "start" : 1642317968887,
+    "stop" : 1642317972942,
+    "duration" : 4055
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the family in luca"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bec391b4d1c42145.json",
+  "parameterValues" : [ ]
+}

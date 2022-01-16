@@ -1,0 +1,44 @@
+{
+  "uid" : "c27140ab51c9db20",
+  "name" : "should verify that all grades are checked",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should verify that all grades are checked",
+  "historyId" : "542eac9ae2592474c57aa1f8dc4ff7d0",
+  "time" : {
+    "start" : 1642318319399,
+    "stop" : 1642318320686,
+    "duration" : 1287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that all grades are checked"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c27140ab51c9db20.json",
+  "parameterValues" : [ ]
+}

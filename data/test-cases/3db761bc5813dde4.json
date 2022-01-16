@@ -1,0 +1,46 @@
+{
+  "uid" : "3db761bc5813dde4",
+  "name" : "should click the Edit button in order to turn Grade Based Account from On To Off--Cleanup",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case.should click the Edit button in order to turn Grade Based Account from On To Off--Cleanup",
+  "historyId" : "a55106aa84e4b886c8fd370e2e2b5e08",
+  "time" : {
+    "start" : 1642323103754,
+    "stop" : 1642323106002,
+    "duration" : 2248
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Edit button in order to turn Grade Based Account from On To Off--Cleanup"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3db761bc5813dde4.json",
+  "parameterValues" : [ ]
+}

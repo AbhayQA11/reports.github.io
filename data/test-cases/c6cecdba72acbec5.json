@@ -1,0 +1,46 @@
+{
+  "uid" : "c6cecdba72acbec5",
+  "name" : "should click login button",
+  "fullName" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family.should click login button",
+  "historyId" : "8908a0b59a45c7b60a12cd8ee84b0488",
+  "time" : {
+    "start" : 1642320313914,
+    "stop" : 1642320320343,
+    "duration" : 6429
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click login button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c6cecdba72acbec5.json",
+  "parameterValues" : [ ]
+}

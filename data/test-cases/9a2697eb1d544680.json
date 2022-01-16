@@ -1,0 +1,46 @@
+{
+  "uid" : "9a2697eb1d544680",
+  "name" : "should verify that the Account Type Is Saving",
+  "fullName" : "Luca Settings: Create a family Via APi, verify Payment Methods in UI API_048, API_049 , API_050, API_051, API_052, API_053, API_054, API_055.should verify that the Account Type Is Saving",
+  "historyId" : "dd3d657b7f210e29c756c6dcd9be501a",
+  "time" : {
+    "start" : 1642323533427,
+    "stop" : 1642323539005,
+    "duration" : 5578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify Payment Methods in UI API_048, API_049 , API_050, API_051, API_052, API_053, API_054, API_055"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify Payment Methods in UI API_048, API_049 , API_050, API_051, API_052, API_053, API_054, API_055"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Account Type Is Saving"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify Payment Methods in UI API_048, API_049 , API_050, API_051, API_052, API_053, API_054, API_055"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a2697eb1d544680.json",
+  "parameterValues" : [ ]
+}

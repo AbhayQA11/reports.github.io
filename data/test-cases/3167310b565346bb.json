@@ -1,0 +1,46 @@
+{
+  "uid" : "3167310b565346bb",
+  "name" : "should verify that the error box is displayed at the bottom of the page",
+  "fullName" : "lucaEnrollment: Enroll new family .should verify that the error box is displayed at the bottom of the page",
+  "historyId" : "bf5912386e2f0baa5f134a740ca7def4",
+  "time" : {
+    "start" : 1642319116405,
+    "stop" : 1642319117380,
+    "duration" : 975
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the error box is displayed at the bottom of the page"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3167310b565346bb.json",
+  "parameterValues" : [ ]
+}

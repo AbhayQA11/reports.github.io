@@ -1,0 +1,44 @@
+{
+  "uid" : "96bbf408efa350cc",
+  "name" : "should click on a search term",
+  "fullName" : "negativeTests: Enrollment Negative Payer Name test.should click on a search term",
+  "historyId" : "9fc64b647789e6fd1fe73a0ed90e6932",
+  "time" : {
+    "start" : 1642318096422,
+    "stop" : 1642318099492,
+    "duration" : 3070
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "testClass",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on a search term"
+  }, {
+    "name" : "package",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96bbf408efa350cc.json",
+  "parameterValues" : [ ]
+}

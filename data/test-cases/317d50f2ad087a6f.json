@@ -1,0 +1,46 @@
+{
+  "uid" : "317d50f2ad087a6f",
+  "name" : "should verify that Follow Up, Priority and Assigned to buttons are disabled",
+  "fullName" : "lucaAddANoteTests: Verifying Read Only Test User.should verify that Follow Up, Priority and Assigned to buttons are disabled",
+  "historyId" : "3f808218d854e862b4a4def34a7c3c9f",
+  "time" : {
+    "start" : 1642322959265,
+    "stop" : 1642322962173,
+    "duration" : 2908
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Follow Up, Priority and Assigned to buttons are disabled"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "317d50f2ad087a6f.json",
+  "parameterValues" : [ ]
+}

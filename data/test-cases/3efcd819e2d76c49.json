@@ -1,0 +1,46 @@
+{
+  "uid" : "3efcd819e2d76c49",
+  "name" : "should click on Specific Months button required for a new fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts.should click on Specific Months button required for a new fee",
+  "historyId" : "d79980b035c6897224f57702713eb589",
+  "time" : {
+    "start" : 1642320376461,
+    "stop" : 1642320378907,
+    "duration" : 2446
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Specific Months button required for a new fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3efcd819e2d76c49.json",
+  "parameterValues" : [ ]
+}

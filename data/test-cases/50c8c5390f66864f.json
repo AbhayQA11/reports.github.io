@@ -1,0 +1,46 @@
+{
+  "uid" : "50c8c5390f66864f",
+  "name" : "should select family view from the View Mode drop-down first time",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students.should select family view from the View Mode drop-down first time",
+  "historyId" : "c2959b86dfc4138e7d381a461822aa4f",
+  "time" : {
+    "start" : 1642318826349,
+    "stop" : 1642318829801,
+    "duration" : 3452
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select family view from the View Mode drop-down first time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50c8c5390f66864f.json",
+  "parameterValues" : [ ]
+}

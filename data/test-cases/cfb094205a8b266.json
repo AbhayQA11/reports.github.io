@@ -1,0 +1,46 @@
+{
+  "uid" : "cfb094205a8b266",
+  "name" : "should verify that the School Contact Information page has been reached",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should verify that the School Contact Information page has been reached",
+  "historyId" : "dd89ff092166b0ea57074f683722fe40",
+  "time" : {
+    "start" : 1642320076111,
+    "stop" : 1642320079732,
+    "duration" : 3621
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the School Contact Information page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cfb094205a8b266.json",
+  "parameterValues" : [ ]
+}

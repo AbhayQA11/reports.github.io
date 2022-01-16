@@ -1,0 +1,46 @@
+{
+  "uid" : "91e8f83d54e0e778",
+  "name" : "should load call API successfully",
+  "fullName" : "Luca Settings: Auth OW Api - login with bad token tests API_017.should load call API successfully",
+  "historyId" : "a6d9a8019364827b61be823ca9158265",
+  "time" : {
+    "start" : 1642323350123,
+    "stop" : 1642323351629,
+    "duration" : 1506
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Auth OW Api - login with bad token tests API_017"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Auth OW Api - login with bad token tests API_017"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load call API successfully"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Auth OW Api - login with bad token tests API_017"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91e8f83d54e0e778.json",
+  "parameterValues" : [ ]
+}

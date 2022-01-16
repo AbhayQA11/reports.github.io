@@ -1,0 +1,46 @@
+{
+  "uid" : "c3eacd6c6c446d91",
+  "name" : "should verify the confirmation message again",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should verify the confirmation message again",
+  "historyId" : "753023bb295a4f654b184f57e3d376b1",
+  "time" : {
+    "start" : 1642323319004,
+    "stop" : 1642323326721,
+    "duration" : 7717
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the confirmation message again"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3eacd6c6c446d91.json",
+  "parameterValues" : [ ]
+}

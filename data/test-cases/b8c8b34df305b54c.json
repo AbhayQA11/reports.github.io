@@ -1,0 +1,46 @@
+{
+  "uid" : "b8c8b34df305b54c",
+  "name" : "should mouseover Families and Students and select the All Families",
+  "fullName" : "Tuition Manager Authentification Module.should mouseover Families and Students and select the All Families",
+  "historyId" : "80295f9662684a2af8997f6e87f63194",
+  "time" : {
+    "start" : 1642324020468,
+    "stop" : 1642324030290,
+    "duration" : 9822
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Families and Students and select the All Families"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8c8b34df305b54c.json",
+  "parameterValues" : [ ]
+}

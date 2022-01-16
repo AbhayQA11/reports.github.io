@@ -1,0 +1,46 @@
+{
+  "uid" : "8083253cb1447752",
+  "name" : "should select the latest school year",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should select the latest school year",
+  "historyId" : "549c0b61491dd6f61a0a953aabf65f04",
+  "time" : {
+    "start" : 1642323276883,
+    "stop" : 1642323281631,
+    "duration" : 4748
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8083253cb1447752.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "ada7d2dff52fa50b",
+  "name" : "should mouseover Fees & Discounts and then select Fee Report",
+  "fullName" : "Main Landing Page, Verify Families + Discounts Menu Accessibility.should mouseover Fees & Discounts and then select Fee Report",
+  "historyId" : "6af64698cbe2e7e4a49be989ebd980d9",
+  "time" : {
+    "start" : 1642319923110,
+    "stop" : 1642319923665,
+    "duration" : 555
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Fees & Discounts and then select Fee Report"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ada7d2dff52fa50b.json",
+  "parameterValues" : [ ]
+}

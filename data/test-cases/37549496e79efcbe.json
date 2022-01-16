@@ -1,0 +1,46 @@
+{
+  "uid" : "37549496e79efcbe",
+  "name" : "should verify that the Pending Notes and Requests Page is reached",
+  "fullName" : "Tuition Manager Authentification Module.should verify that the Pending Notes and Requests Page is reached",
+  "historyId" : "23baa2a403f1b710ba8d7ab2ca6275e8",
+  "time" : {
+    "start" : 1642324009819,
+    "stop" : 1642324012378,
+    "duration" : 2559
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Pending Notes and Requests Page is reached"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37549496e79efcbe.json",
+  "parameterValues" : [ ]
+}

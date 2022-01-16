@@ -1,0 +1,46 @@
+{
+  "uid" : "5492ac54bc7de7a1",
+  "name" : "should add Fee Amount necessary information for a new Discount",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts.should add Fee Amount necessary information for a new Discount",
+  "historyId" : "846d07ecc48c3aa62023a9c1c9f28aa0",
+  "time" : {
+    "start" : 1642320399164,
+    "stop" : 1642320401120,
+    "duration" : 1956
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add Fee Amount necessary information for a new Discount"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5492ac54bc7de7a1.json",
+  "parameterValues" : [ ]
+}

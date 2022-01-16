@@ -1,0 +1,46 @@
+{
+  "uid" : "9d289bed19a448a1",
+  "name" : "should verify the proper Error Is Displayed, 2nd time",
+  "fullName" : "Call Center Authentification tests.should verify the proper Error Is Displayed, 2nd time",
+  "historyId" : "b380229a34c11b84124f0c5a2a30a46d",
+  "time" : {
+    "start" : 1642323862412,
+    "stop" : 1642323863962,
+    "duration" : 1550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the proper Error Is Displayed, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d289bed19a448a1.json",
+  "parameterValues" : [ ]
+}

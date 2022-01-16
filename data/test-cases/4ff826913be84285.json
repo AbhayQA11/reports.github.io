@@ -1,0 +1,46 @@
+{
+  "uid" : "4ff826913be84285",
+  "name" : "should click On Student for fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts.should click On Student for fee",
+  "historyId" : "ae2de0c9686e96c22c5bdafe3d2217db",
+  "time" : {
+    "start" : 1642320349935,
+    "stop" : 1642320352302,
+    "duration" : 2367
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click On Student for fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ff826913be84285.json",
+  "parameterValues" : [ ]
+}

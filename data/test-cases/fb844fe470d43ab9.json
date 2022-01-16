@@ -1,0 +1,46 @@
+{
+  "uid" : "fb844fe470d43ab9",
+  "name" : "should input the year expiration",
+  "fullName" : "homepageTests: Enrollment with Mail In Invoice payment option.should input the year expiration",
+  "historyId" : "b48f5f7d6441752e2edddeda3cc51d4b",
+  "time" : {
+    "start" : 1642317923244,
+    "stop" : 1642317924305,
+    "duration" : 1061
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the year expiration"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb844fe470d43ab9.json",
+  "parameterValues" : [ ]
+}

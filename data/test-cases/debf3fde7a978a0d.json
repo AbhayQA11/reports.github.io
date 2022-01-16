@@ -1,0 +1,46 @@
+{
+  "uid" : "debf3fde7a978a0d",
+  "name" : "should input Invalid Username",
+  "fullName" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site.should input Invalid Username",
+  "historyId" : "ccdadf6ffe64053ff27ac57cac546c62",
+  "time" : {
+    "start" : 1642323854205,
+    "stop" : 1642323856116,
+    "duration" : 1911
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input Invalid Username"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "debf3fde7a978a0d.json",
+  "parameterValues" : [ ]
+}

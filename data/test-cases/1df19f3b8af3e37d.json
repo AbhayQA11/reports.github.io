@@ -1,0 +1,46 @@
+{
+  "uid" : "1df19f3b8af3e37d",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard.should load Luca login Page successfully",
+  "historyId" : "705ab8dfd3220e34a2e19c9da26a0bc7",
+  "time" : {
+    "start" : 1642320001589,
+    "stop" : 1642320004554,
+    "duration" : 2965
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1df19f3b8af3e37d.json",
+  "parameterValues" : [ ]
+}

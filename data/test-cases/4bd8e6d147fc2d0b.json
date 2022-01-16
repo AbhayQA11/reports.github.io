@@ -1,0 +1,46 @@
+{
+  "uid" : "4bd8e6d147fc2d0b",
+  "name" : "families, fees, report and enroll tabs should be present",
+  "fullName" : "lucaAuthentificationTests: User Authentification and Author, School Validation.families, fees, report and enroll tabs should be present",
+  "historyId" : "e098e4cf3754f550a862a640d1d4fa92",
+  "time" : {
+    "start" : 1642318224836,
+    "stop" : 1642318225660,
+    "duration" : 824
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "families, fees, report and enroll tabs should be present"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4bd8e6d147fc2d0b.json",
+  "parameterValues" : [ ]
+}

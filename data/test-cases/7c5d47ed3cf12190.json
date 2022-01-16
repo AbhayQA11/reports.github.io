@@ -1,0 +1,46 @@
+{
+  "uid" : "7c5d47ed3cf12190",
+  "name" : "should click on search button",
+  "fullName" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard.should click on search button",
+  "historyId" : "b66958f388db3e16913a281ead376d88",
+  "time" : {
+    "start" : 1642319989786,
+    "stop" : 1642319991108,
+    "duration" : 1322
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c5d47ed3cf12190.json",
+  "parameterValues" : [ ]
+}

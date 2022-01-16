@@ -1,0 +1,46 @@
+{
+  "uid" : "896414aa0271b3b9",
+  "name" : "should click on Grade Based Account from Off To On",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case.should click on Grade Based Account from Off To On",
+  "historyId" : "27345cf7d94da233afef844ce3ee763c",
+  "time" : {
+    "start" : 1642323087268,
+    "stop" : 1642323088762,
+    "duration" : 1494
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Grade Based Account from Off To On"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "896414aa0271b3b9.json",
+  "parameterValues" : [ ]
+}

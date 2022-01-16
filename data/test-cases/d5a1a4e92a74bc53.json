@@ -1,0 +1,46 @@
+{
+  "uid" : "d5a1a4e92a74bc53",
+  "name" : "should click on Pay a Different Ammount",
+  "fullName" : "Parent Site Payment Verification.should click on Pay a Different Ammount",
+  "historyId" : "3e0cabc82929c1564009db3afd386741",
+  "time" : {
+    "start" : 1642323896636,
+    "stop" : 1642323898336,
+    "duration" : 1700
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Pay a Different Ammount"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5a1a4e92a74bc53.json",
+  "parameterValues" : [ ]
+}

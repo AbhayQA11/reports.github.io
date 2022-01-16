@@ -1,0 +1,46 @@
+{
+  "uid" : "8ad699cb79ab3480",
+  "name" : "should get the dicount name and store it again",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should get the dicount name and store it again",
+  "historyId" : "1298b107322202e5951e91fe97058d38",
+  "time" : {
+    "start" : 1642318476001,
+    "stop" : 1642318479365,
+    "duration" : 3364
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get the dicount name and store it again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ad699cb79ab3480.json",
+  "parameterValues" : [ ]
+}

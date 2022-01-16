@@ -1,0 +1,46 @@
+{
+  "uid" : "8d923de6e00ce0fb",
+  "name" : "should verify that the Families Enrollment Status Page has been reached",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should verify that the Families Enrollment Status Page has been reached",
+  "historyId" : "e356f2d7b75b2c11b2b1d08a0cc151fc",
+  "time" : {
+    "start" : 1642319961043,
+    "stop" : 1642319964685,
+    "duration" : 3642
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Families Enrollment Status Page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d923de6e00ce0fb.json",
+  "parameterValues" : [ ]
+}

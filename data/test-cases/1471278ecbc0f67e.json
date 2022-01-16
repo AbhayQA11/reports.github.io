@@ -1,0 +1,44 @@
+{
+  "uid" : "1471278ecbc0f67e",
+  "name" : "should select the uncheck all option",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should select the uncheck all option",
+  "historyId" : "62fab5adf80932ff06c0f4c929103ea",
+  "time" : {
+    "start" : 1642318315068,
+    "stop" : 1642318315650,
+    "duration" : 582
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the uncheck all option"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1471278ecbc0f67e.json",
+  "parameterValues" : [ ]
+}

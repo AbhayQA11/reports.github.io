@@ -1,0 +1,46 @@
+{
+  "uid" : "e05ca5cf87cbc28f",
+  "name" : "should move the mouse over the Families link and click on View All Families",
+  "fullName" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios.should move the mouse over the Families link and click on View All Families",
+  "historyId" : "6cfb91f5f794dbd77e2bfb19bfcb6861",
+  "time" : {
+    "start" : 1642321231986,
+    "stop" : 1642321234922,
+    "duration" : 2936
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "should move the mouse over the Families link and click on View All Families"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e05ca5cf87cbc28f.json",
+  "parameterValues" : [ ]
+}

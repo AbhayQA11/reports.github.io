@@ -1,0 +1,46 @@
+{
+  "uid" : "e26cc54ef4b0dcc9",
+  "name" : "should click one new account option in order to select a new account",
+  "fullName" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied.should click one new account option in order to select a new account",
+  "historyId" : "ad6b9956b603f9af668c13df0844ea8e",
+  "time" : {
+    "start" : 1642324109094,
+    "stop" : 1642324110778,
+    "duration" : 1684
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testClass",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click one new account option in order to select a new account"
+  }, {
+    "name" : "package",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e26cc54ef4b0dcc9.json",
+  "parameterValues" : [ ]
+}

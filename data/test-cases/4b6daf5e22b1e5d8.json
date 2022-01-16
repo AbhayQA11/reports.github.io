@@ -1,0 +1,46 @@
+{
+  "uid" : "4b6daf5e22b1e5d8",
+  "name" : "should verify that the Day One page has been reached, 2nd time",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should verify that the Day One page has been reached, 2nd time",
+  "historyId" : "10f83a95f4a84fd90ad4b80186b5b008",
+  "time" : {
+    "start" : 1642319961304,
+    "stop" : 1642319964991,
+    "duration" : 3687
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Day One page has been reached, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b6daf5e22b1e5d8.json",
+  "parameterValues" : [ ]
+}

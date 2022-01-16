@@ -1,0 +1,46 @@
+{
+  "uid" : "c3a75648602d29b8",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should load Luca login Page successfully",
+  "historyId" : "2e99f8e1d0d93b33bcae2fc20fa2184",
+  "time" : {
+    "start" : 1642320119095,
+    "stop" : 1642320121773,
+    "duration" : 2678
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3a75648602d29b8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "410e56ab0c5c105e",
+  "name" : "should fill in the City And State in order to create a family with Auto Debit Credit Card Option",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should fill in the City And State in order to create a family with Auto Debit Credit Card Option",
+  "historyId" : "3a027f3648fcbf0ff52efc29b5b7b298",
+  "time" : {
+    "start" : 1642319330898,
+    "stop" : 1642319332841,
+    "duration" : 1943
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the City And State in order to create a family with Auto Debit Credit Card Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "410e56ab0c5c105e.json",
+  "parameterValues" : [ ]
+}

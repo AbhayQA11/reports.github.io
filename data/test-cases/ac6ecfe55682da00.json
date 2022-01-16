@@ -1,0 +1,46 @@
+{
+  "uid" : "ac6ecfe55682da00",
+  "name" : "should click on Undo Changes button",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should click on Undo Changes button",
+  "historyId" : "35621eed661bc15d9c3a839fb544734b",
+  "time" : {
+    "start" : 1642319604512,
+    "stop" : 1642319605525,
+    "duration" : 1013
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Undo Changes button"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac6ecfe55682da00.json",
+  "parameterValues" : [ ]
+}

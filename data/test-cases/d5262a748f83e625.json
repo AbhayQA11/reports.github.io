@@ -1,0 +1,44 @@
+{
+  "uid" : "d5262a748f83e625",
+  "name" : "should select a security question",
+  "fullName" : "negativeTests: Enrollment Negative Payer Name test.should select a security question",
+  "historyId" : "48e253ab0931ab11109bf2c933b62a8e",
+  "time" : {
+    "start" : 1642318069159,
+    "stop" : 1642318070294,
+    "duration" : 1135
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "testClass",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a security question"
+  }, {
+    "name" : "package",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5262a748f83e625.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "47214133c8361f2f",
+  "name" : "should click on the Forgot credential hyperlink",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should click on the Forgot credential hyperlink",
+  "historyId" : "39e1161ed8817affd4fe9b6f1afc27e5",
+  "time" : {
+    "start" : 1642318262000,
+    "stop" : 1642318263408,
+    "duration" : 1408
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Forgot credential hyperlink"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47214133c8361f2f.json",
+  "parameterValues" : [ ]
+}

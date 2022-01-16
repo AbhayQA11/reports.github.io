@@ -1,0 +1,46 @@
+{
+  "uid" : "7e43d3da825d5a5f",
+  "name" : "should click on Add New Fee Button in order for the pop-up to appear",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts.should click on Add New Fee Button in order for the pop-up to appear",
+  "historyId" : "427848dfdf5201f299afc6791b724b39",
+  "time" : {
+    "start" : 1642320338710,
+    "stop" : 1642320344047,
+    "duration" : 5337
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Add New Fee Button in order for the pop-up to appear"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e43d3da825d5a5f.json",
+  "parameterValues" : [ ]
+}

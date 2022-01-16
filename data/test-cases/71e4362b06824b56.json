@@ -1,0 +1,46 @@
+{
+  "uid" : "71e4362b06824b56",
+  "name" : "should get and store the newly added amount",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should get and store the newly added amount",
+  "historyId" : "df16ea1972be490bf51ed241d03a75f9",
+  "time" : {
+    "start" : 1642323894704,
+    "stop" : 1642323895876,
+    "duration" : 1172
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the newly added amount"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71e4362b06824b56.json",
+  "parameterValues" : [ ]
+}

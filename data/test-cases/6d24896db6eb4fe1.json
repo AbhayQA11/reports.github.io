@@ -1,0 +1,46 @@
+{
+  "uid" : "6d24896db6eb4fe1",
+  "name" : "should verify that the appropriate confirmation message is displayed",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should verify that the appropriate confirmation message is displayed",
+  "historyId" : "4a121b72a802fac591fba87c11318000",
+  "time" : {
+    "start" : 1642317943011,
+    "stop" : 1642317946386,
+    "duration" : 3375
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate confirmation message is displayed"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d24896db6eb4fe1.json",
+  "parameterValues" : [ ]
+}

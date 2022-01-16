@@ -1,0 +1,46 @@
+{
+  "uid" : "4340e0b513dcdba6",
+  "name" : "should click on the Close button again",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality .should click on the Close button again",
+  "historyId" : "f19b69d62d1b152a49c2e4a1a64b5619",
+  "time" : {
+    "start" : 1642323061618,
+    "stop" : 1642323065063,
+    "duration" : 3445
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality "
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Close button again"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4340e0b513dcdba6.json",
+  "parameterValues" : [ ]
+}

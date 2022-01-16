@@ -1,0 +1,48 @@
+{
+  "uid" : "afaebecd52870414",
+  "name" : "should click to download Frequently Asked Questions for Parents Spanish",
+  "fullName" : "Main Landing Page, Verify the accessibility of Training Classes.should click to download Frequently Asked Questions for Parents Spanish",
+  "historyId" : "6d45fbccdde4a408b59cd78fa6c76190",
+  "time" : {
+    "start" : 1642320108220,
+    "stop" : 1642320108220,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click to download Frequently Asked Questions for Parents Spanish"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afaebecd52870414.json",
+  "parameterValues" : [ ]
+}

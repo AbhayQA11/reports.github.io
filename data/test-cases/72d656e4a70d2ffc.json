@@ -1,0 +1,46 @@
+{
+  "uid" : "72d656e4a70d2ffc",
+  "name" : "should click on save fee button",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should click on save fee button",
+  "historyId" : "71c661b49eb87770731df9f5f1f90e98",
+  "time" : {
+    "start" : 1642323316759,
+    "stop" : 1642323319004,
+    "duration" : 2245
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on save fee button"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72d656e4a70d2ffc.json",
+  "parameterValues" : [ ]
+}

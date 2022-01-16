@@ -1,0 +1,46 @@
+{
+  "uid" : "73bb95f6722ddf00",
+  "name" : "should verify last extended last month is not changeable",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests.should verify last extended last month is not changeable",
+  "historyId" : "cf7914a42bf7184c4359719596c37e18",
+  "time" : {
+    "start" : 1642323811999,
+    "stop" : 1642323814075,
+    "duration" : 2076
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify last extended last month is not changeable"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "73bb95f6722ddf00.json",
+  "parameterValues" : [ ]
+}

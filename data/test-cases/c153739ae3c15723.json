@@ -1,0 +1,46 @@
+{
+  "uid" : "c153739ae3c15723",
+  "name" : "should input Bank Name Field",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should input Bank Name Field",
+  "historyId" : "a1cf7a92e495e14da0d73d27df64ada7",
+  "time" : {
+    "start" : 1642318574484,
+    "stop" : 1642318576017,
+    "duration" : 1533
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input Bank Name Field"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c153739ae3c15723.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "9b92995ec7dee74e",
+  "name" : "should make a API payment with that family in order to verify payment history",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should make a API payment with that family in order to verify payment history",
+  "historyId" : "888ae19d034818dd7edf9ebeccefdd5a",
+  "time" : {
+    "start" : 1642323859193,
+    "stop" : 1642323859547,
+    "duration" : 354
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should make a API payment with that family in order to verify payment history"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b92995ec7dee74e.json",
+  "parameterValues" : [ ]
+}

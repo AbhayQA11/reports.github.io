@@ -1,0 +1,46 @@
+{
+  "uid" : "95536755feac9d55",
+  "name" : "should click on the Search Button",
+  "fullName" : "Call Center Payment Encryption Tests, Credit card family.should click on the Search Button",
+  "historyId" : "502be5ad17eaa51a6405e4d9d67b789b",
+  "time" : {
+    "start" : 1642323945908,
+    "stop" : 1642323951673,
+    "duration" : 5765
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Search Button"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "95536755feac9d55.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "e3595db1f992b01f",
+  "name" : "should click on lastest school year from search results",
+  "fullName" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee.should click on lastest school year from search results",
+  "historyId" : "7dfe0b15ac0d8bf2e0ef1402b31f7727",
+  "time" : {
+    "start" : 1642318325857,
+    "stop" : 1642318329688,
+    "duration" : 3831
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on lastest school year from search results"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3595db1f992b01f.json",
+  "parameterValues" : [ ]
+}

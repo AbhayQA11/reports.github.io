@@ -1,0 +1,46 @@
+{
+  "uid" : "7a74714c7f048722",
+  "name" : "should move the mouse over the Families link and click on View All Families",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan .should move the mouse over the Families link and click on View All Families",
+  "historyId" : "375ba79ce65093ed9eb095fdb900b61",
+  "time" : {
+    "start" : 1642323704848,
+    "stop" : 1642323708137,
+    "duration" : 3289
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testMethod",
+    "value" : "should move the mouse over the Families link and click on View All Families"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a74714c7f048722.json",
+  "parameterValues" : [ ]
+}

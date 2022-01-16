@@ -1,0 +1,46 @@
+{
+  "uid" : "c32aec6870657d0",
+  "name" : "should log out from luca",
+  "fullName" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups.should log out from luca",
+  "historyId" : "f2394c9854f8f221adeec570c7aa71ec",
+  "time" : {
+    "start" : 1642320981505,
+    "stop" : 1642320984479,
+    "duration" : 2974
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c32aec6870657d0.json",
+  "parameterValues" : [ ]
+}

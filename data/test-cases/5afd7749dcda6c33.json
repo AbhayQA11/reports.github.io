@@ -1,0 +1,46 @@
+{
+  "uid" : "5afd7749dcda6c33",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Fees Test Case.should load Luca login Page successfully",
+  "historyId" : "356afedd7c87880d27adc39402d369b7",
+  "time" : {
+    "start" : 1642323020610,
+    "stop" : 1642323023812,
+    "duration" : 3202
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Fees Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Fees Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Fees Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5afd7749dcda6c33.json",
+  "parameterValues" : [ ]
+}

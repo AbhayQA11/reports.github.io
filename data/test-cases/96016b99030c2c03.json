@@ -1,0 +1,46 @@
+{
+  "uid" : "96016b99030c2c03",
+  "name" : "should fill in the Student Grade required form in the Add New family Page",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should fill in the Student Grade required form in the Add New family Page",
+  "historyId" : "6950ed53e0b07647e46832af2baa32a",
+  "time" : {
+    "start" : 1642319172387,
+    "stop" : 1642319173901,
+    "duration" : 1514
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Student Grade required form in the Add New family Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96016b99030c2c03.json",
+  "parameterValues" : [ ]
+}

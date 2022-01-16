@@ -1,0 +1,46 @@
+{
+  "uid" : "ad040c46f0de90c2",
+  "name" : "should click on Family Accounts button",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should click on Family Accounts button",
+  "historyId" : "61c3c2ac171da604cb4473658075b6b0",
+  "time" : {
+    "start" : 1642323066569,
+    "stop" : 1642323067955,
+    "duration" : 1386
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Family Accounts button"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad040c46f0de90c2.json",
+  "parameterValues" : [ ]
+}

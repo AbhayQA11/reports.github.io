@@ -1,0 +1,46 @@
+{
+  "uid" : "aacce2054583ec5b",
+  "name" : "should click batch action button second time",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students.should click batch action button second time",
+  "historyId" : "a97fe875f553df3b8872050b5ca3be",
+  "time" : {
+    "start" : 1642319665062,
+    "stop" : 1642319666504,
+    "duration" : 1442
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click batch action button second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aacce2054583ec5b.json",
+  "parameterValues" : [ ]
+}

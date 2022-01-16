@@ -1,0 +1,46 @@
+{
+  "uid" : "3f4e69b62c888c7b",
+  "name" : "should input valid username in order to verify API data is correct in UI",
+  "fullName" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083.should input valid username in order to verify API data is correct in UI",
+  "historyId" : "f799e3c9c0906bbb324d7da96ab1c941",
+  "time" : {
+    "start" : 1642323565951,
+    "stop" : 1642323568237,
+    "duration" : 2286
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid username in order to verify API data is correct in UI"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f4e69b62c888c7b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "102485fadbc5a65c",
+  "name" : "should mouseover Fees and Discounts, then select Manage Fees and Discounts",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should mouseover Fees and Discounts, then select Manage Fees and Discounts",
+  "historyId" : "9413a11fabcbe6276cd9b1496d41bd71",
+  "time" : {
+    "start" : 1642320138331,
+    "stop" : 1642320140850,
+    "duration" : 2519
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Fees and Discounts, then select Manage Fees and Discounts"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "102485fadbc5a65c.json",
+  "parameterValues" : [ ]
+}

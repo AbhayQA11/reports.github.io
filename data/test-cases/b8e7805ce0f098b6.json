@@ -1,0 +1,46 @@
+{
+  "uid" : "b8e7805ce0f098b6",
+  "name" : "should input Credit Card Number",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should input Credit Card Number",
+  "historyId" : "967c0599d6baa7af83d0637aad161e56",
+  "time" : {
+    "start" : 1642319316945,
+    "stop" : 1642319318497,
+    "duration" : 1552
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should input Credit Card Number"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8e7805ce0f098b6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "5fdb2c8ca5a7c28f",
+  "name" : "should click on the school finance information",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click on the school finance information",
+  "historyId" : "881b909482f44232e2872f7e29e473c",
+  "time" : {
+    "start" : 1642319889744,
+    "stop" : 1642319890920,
+    "duration" : 1176
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the school finance information"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fdb2c8ca5a7c28f.json",
+  "parameterValues" : [ ]
+}

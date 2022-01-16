@@ -1,0 +1,46 @@
+{
+  "uid" : "a28307af108d35d5",
+  "name" : "should select the second income GL ID option",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case.should select the second income GL ID option",
+  "historyId" : "76b936ba7ac888c6436258e14422642f",
+  "time" : {
+    "start" : 1642323136365,
+    "stop" : 1642323137999,
+    "duration" : 1634
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the second income GL ID option"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Discounts, Tuition, Grades Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a28307af108d35d5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "ab08ab599db668c2",
+  "name" : "should input the zip code",
+  "fullName" : "homepageTests: Enrolling New Family with Credit Card.should input the zip code",
+  "historyId" : "2bbe11327e3d0940a532e7c378548896",
+  "time" : {
+    "start" : 1642317951801,
+    "stop" : 1642317952857,
+    "duration" : 1056
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the zip code"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab08ab599db668c2.json",
+  "parameterValues" : [ ]
+}

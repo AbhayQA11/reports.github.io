@@ -1,0 +1,46 @@
+{
+  "uid" : "1db4513c67dec0ef",
+  "name" : "should verify that the Manage Payment Plans page has been reached",
+  "fullName" : "Luca Settings: Manage Payment Plans tests, API_003.should verify that the Manage Payment Plans page has been reached",
+  "historyId" : "a90630e7f1038be0a5db742c0b6ccf29",
+  "time" : {
+    "start" : 1642323263727,
+    "stop" : 1642323267319,
+    "duration" : 3592
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Manage Payment Plans page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1db4513c67dec0ef.json",
+  "parameterValues" : [ ]
+}

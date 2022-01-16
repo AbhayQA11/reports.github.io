@@ -1,0 +1,46 @@
+{
+  "uid" : "4b604834bfc68082",
+  "name" : "should generate second hash",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Bank Account.should generate second hash",
+  "historyId" : "92deb7e8accf6b970421f113c02f8f58",
+  "time" : {
+    "start" : 1642318245190,
+    "stop" : 1642318272118,
+    "duration" : 26928
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should generate second hash"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b604834bfc68082.json",
+  "parameterValues" : [ ]
+}

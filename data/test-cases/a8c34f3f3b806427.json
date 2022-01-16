@@ -1,0 +1,46 @@
+{
+  "uid" : "a8c34f3f3b806427",
+  "name" : "should verify that the last 4 digits of the Account number are displayed",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should verify that the last 4 digits of the Account number are displayed",
+  "historyId" : "7e73aa5fab868465a075585a35537e75",
+  "time" : {
+    "start" : 1642323890653,
+    "stop" : 1642323891556,
+    "duration" : 903
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the last 4 digits of the Account number are displayed"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8c34f3f3b806427.json",
+  "parameterValues" : [ ]
+}

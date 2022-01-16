@@ -1,0 +1,46 @@
+{
+  "uid" : "38e304a94fd8397",
+  "name" : "should verify that the total ammount was not saved",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should verify that the total ammount was not saved",
+  "historyId" : "d392edf99b15917a38bc52d3e35b468d",
+  "time" : {
+    "start" : 1642319603981,
+    "stop" : 1642319604512,
+    "duration" : 531
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the total ammount was not saved"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38e304a94fd8397.json",
+  "parameterValues" : [ ]
+}

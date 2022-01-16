@@ -1,0 +1,46 @@
+{
+  "uid" : "5fc6496682e703d1",
+  "name" : "should click on the family ID sort button, in order to sort by latest created family",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should click on the family ID sort button, in order to sort by latest created family",
+  "historyId" : "4ec214e6d441b67370cc08d84fef1bb9",
+  "time" : {
+    "start" : 1642318401305,
+    "stop" : 1642318414827,
+    "duration" : 13522
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the family ID sort button, in order to sort by latest created family"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fc6496682e703d1.json",
+  "parameterValues" : [ ]
+}

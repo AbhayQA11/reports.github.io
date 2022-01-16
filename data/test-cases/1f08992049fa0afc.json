@@ -1,0 +1,46 @@
+{
+  "uid" : "1f08992049fa0afc",
+  "name" : "should check the timestamp",
+  "fullName" : "Renweb Tests: Registration for creating new family.should check the timestamp",
+  "historyId" : "1426711b31b5481643975517d20210e3",
+  "time" : {
+    "start" : 1642318127137,
+    "stop" : 1642318127755,
+    "duration" : 618
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check the timestamp"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f08992049fa0afc.json",
+  "parameterValues" : [ ]
+}

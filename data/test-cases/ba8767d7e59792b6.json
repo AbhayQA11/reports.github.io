@@ -1,0 +1,46 @@
+{
+  "uid" : "ba8767d7e59792b6",
+  "name" : "should input the newly created fee name in order to check it exists",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria.should input the newly created fee name in order to check it exists",
+  "historyId" : "afce5978cb231387b208538d51d85c3b",
+  "time" : {
+    "start" : 1642320317575,
+    "stop" : 1642320321870,
+    "duration" : 4295
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the newly created fee name in order to check it exists"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba8767d7e59792b6.json",
+  "parameterValues" : [ ]
+}

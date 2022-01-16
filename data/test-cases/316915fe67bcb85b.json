@@ -1,0 +1,46 @@
+{
+  "uid" : "316915fe67bcb85b",
+  "name" : "should click the confirm button",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment.should click the confirm button",
+  "historyId" : "be07e3d8578f08a918f1c1bc9e19acd6",
+  "time" : {
+    "start" : 1642321119988,
+    "stop" : 1642321123612,
+    "duration" : 3624
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the confirm button"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "316915fe67bcb85b.json",
+  "parameterValues" : [ ]
+}

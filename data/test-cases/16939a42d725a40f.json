@@ -1,0 +1,54 @@
+{
+  "uid" : "16939a42d725a40f",
+  "name" : "should input a correct ammount inside the input field and then click submit again",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should input a correct ammount inside the input field and then click submit again",
+  "historyId" : "99bf2231aa4402a0a011910174dc94e6",
+  "time" : {
+    "start" : 1642322734497,
+    "stop" : 1642322746251,
+    "duration" : 11754
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a correct ammount inside the input field and then click submit again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c5fd7951b0a4fab7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318510791,
+        "stop" : 1642318521743,
+        "duration" : 10952
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16939a42d725a40f.json",
+  "parameterValues" : [ ]
+}

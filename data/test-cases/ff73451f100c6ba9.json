@@ -1,0 +1,46 @@
+{
+  "uid" : "ff73451f100c6ba9",
+  "name" : "should wait for the update family and studnet page to load",
+  "fullName" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts.should wait for the update family and studnet page to load",
+  "historyId" : "ea69b5f067fe743f0ea09e274593e0f3",
+  "time" : {
+    "start" : 1642319725152,
+    "stop" : 1642319732383,
+    "duration" : 7231
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for the update family and studnet page to load"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff73451f100c6ba9.json",
+  "parameterValues" : [ ]
+}

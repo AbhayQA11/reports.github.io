@@ -1,0 +1,46 @@
+{
+  "uid" : "7d79dd27035f5065",
+  "name" : "should Post a payment from Credit Card and check for the appropriate Response body",
+  "fullName" : "lucaBillingTests: Encryption verification, Verify Accounts Number, AccountType, Card Type, Get Family Snapshot, confirmation ID.should Post a payment from Credit Card and check for the appropriate Response body",
+  "historyId" : "9c8978ebecacc23496929ff7675d5904",
+  "time" : {
+    "start" : 1642319893891,
+    "stop" : 1642319906198,
+    "duration" : 12307
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Encryption verification, Verify Accounts Number, AccountType, Card Type, Get Family Snapshot, confirmation ID"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Encryption verification, Verify Accounts Number, AccountType, Card Type, Get Family Snapshot, confirmation ID"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Post a payment from Credit Card and check for the appropriate Response body"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Encryption verification, Verify Accounts Number, AccountType, Card Type, Get Family Snapshot, confirmation ID"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d79dd27035f5065.json",
+  "parameterValues" : [ ]
+}

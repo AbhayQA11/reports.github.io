@@ -1,0 +1,46 @@
+{
+  "uid" : "a93aa5b078a5e028",
+  "name" : "should click on Enrollment Center, then add new family",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account.should click on Enrollment Center, then add new family",
+  "historyId" : "a59506ab6d3fe83c268bc870ca184624",
+  "time" : {
+    "start" : 1642319332027,
+    "stop" : 1642319334713,
+    "duration" : 2686
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Enrollment Center, then add new family"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a93aa5b078a5e028.json",
+  "parameterValues" : [ ]
+}

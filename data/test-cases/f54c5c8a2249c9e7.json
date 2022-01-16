@@ -1,0 +1,46 @@
+{
+  "uid" : "f54c5c8a2249c9e7",
+  "name" : "should verify that the appropriate message is received after Reactivating the fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should verify that the appropriate message is received after Reactivating the fee",
+  "historyId" : "57152a1cfa36af0beff702e08e5df844",
+  "time" : {
+    "start" : 1642320215674,
+    "stop" : 1642320223326,
+    "duration" : 7652
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received after Reactivating the fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f54c5c8a2249c9e7.json",
+  "parameterValues" : [ ]
+}

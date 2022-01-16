@@ -1,0 +1,114 @@
+{
+  "total" : 167,
+  "items" : [ {
+    "uid" : "3001f2462c59221f641aa06c339f528e",
+    "name" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios",
+    "statistic" : {
+      "failed" : 40,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 52
+    }
+  }, {
+    "uid" : "88da24539e6f4cc2bdb0e5900f485733",
+    "name" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family",
+    "statistic" : {
+      "failed" : 36,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 45,
+      "unknown" : 0,
+      "total" : 81
+    }
+  }, {
+    "uid" : "9fef4b979a63ca381b0e3421e3bd6540",
+    "name" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification",
+    "statistic" : {
+      "failed" : 35,
+      "broken" : 0,
+      "skipped" : 10,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 59
+    }
+  }, {
+    "uid" : "c3e0e5e0d9c0b672a1636c798e3280c7",
+    "name" : "Tuition Manager Bank Account Payment Encryption Verification",
+    "statistic" : {
+      "failed" : 35,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 46
+    }
+  }, {
+    "uid" : "933e6d10da3efcbd733048a262124f52",
+    "name" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios",
+    "statistic" : {
+      "failed" : 33,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 15,
+      "unknown" : 0,
+      "total" : 48
+    }
+  }, {
+    "uid" : "fbc5cbfe9896e2473a8f9cbffb89825d",
+    "name" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account",
+    "statistic" : {
+      "failed" : 30,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 42
+    }
+  }, {
+    "uid" : "b7d2c47ed244b08a810120d4843cb872",
+    "name" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service",
+    "statistic" : {
+      "failed" : 29,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 12,
+      "unknown" : 0,
+      "total" : 41
+    }
+  }, {
+    "uid" : "80b2d0ff2da7c163f713706d3778576e",
+    "name" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee on Specific Months on Several Families And Students",
+    "statistic" : {
+      "failed" : 28,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 78,
+      "unknown" : 0,
+      "total" : 106
+    }
+  }, {
+    "uid" : "fbfdcdc81e2ded9fbb30a6e0827593f2",
+    "name" : "lucaAddANoteTests: Verifying Maximum Text Length for input fields",
+    "statistic" : {
+      "failed" : 28,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 32
+    }
+  }, {
+    "uid" : "135b45769d7f53172ac63ee46682c846",
+    "name" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts",
+    "statistic" : {
+      "failed" : 26,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 52,
+      "unknown" : 0,
+      "total" : 78
+    }
+  } ]
+}

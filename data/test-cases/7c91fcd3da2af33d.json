@@ -1,0 +1,46 @@
+{
+  "uid" : "7c91fcd3da2af33d",
+  "name" : "should click on Edit My Profile Tab",
+  "fullName" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site.should click on Edit My Profile Tab",
+  "historyId" : "a64419dd13cdf4fc87563f606eb170a",
+  "time" : {
+    "start" : 1642323882977,
+    "stop" : 1642323885885,
+    "duration" : 2908
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Edit My Profile Tab"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c91fcd3da2af33d.json",
+  "parameterValues" : [ ]
+}

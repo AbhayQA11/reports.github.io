@@ -1,0 +1,46 @@
+{
+  "uid" : "6a6d56fa183fe57f",
+  "name" : "should input valid password",
+  "fullName" : "lucaAddANoteTests: Verifying Maximum Text Length for input fields.should input valid password",
+  "historyId" : "29e46e6e6910b037559675bb969c6e7a",
+  "time" : {
+    "start" : 1642322907282,
+    "stop" : 1642322908549,
+    "duration" : 1267
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Maximum Text Length for input fields"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Maximum Text Length for input fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid password"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Maximum Text Length for input fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a6d56fa183fe57f.json",
+  "parameterValues" : [ ]
+}

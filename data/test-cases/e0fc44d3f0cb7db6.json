@@ -1,0 +1,70 @@
+{
+  "uid" : "e0fc44d3f0cb7db6",
+  "name" : "should input the city name",
+  "fullName" : "negativeTests: Enrollment Negative Payer Name test.should input the city name",
+  "historyId" : "bf8b6bc94d814c51d39eee7f295d99ea",
+  "time" : {
+    "start" : 1642318165502,
+    "stop" : 1642318166512,
+    "duration" : 1010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "testClass",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the city name"
+  }, {
+    "name" : "package",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e5428e56fdff8ec5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318114545,
+        "stop" : 1642318115459,
+        "duration" : 914
+      }
+    }, {
+      "uid" : "9767347521cacf52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318063124,
+        "stop" : 1642318064121,
+        "duration" : 997
+      }
+    }, {
+      "uid" : "3f840c53ae979810",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318012346,
+        "stop" : 1642318013376,
+        "duration" : 1030
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0fc44d3f0cb7db6.json",
+  "parameterValues" : [ ]
+}

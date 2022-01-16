@@ -1,0 +1,46 @@
+{
+  "uid" : "287775aadf73757b",
+  "name" : "should click on the In School Payment button",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on the In School Payment button",
+  "historyId" : "b3441ec755ffca4a4d0b28b77e0ada0b",
+  "time" : {
+    "start" : 1642322980016,
+    "stop" : 1642322981786,
+    "duration" : 1770
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the In School Payment button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "287775aadf73757b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "656c4ef38458f64d",
+  "name" : "should input Valid Password",
+  "fullName" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site.should input Valid Password",
+  "historyId" : "468e7258e64820487026c75415921973",
+  "time" : {
+    "start" : 1642323856116,
+    "stop" : 1642323858010,
+    "duration" : 1894
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input Valid Password"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "656c4ef38458f64d.json",
+  "parameterValues" : [ ]
+}

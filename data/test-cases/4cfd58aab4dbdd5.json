@@ -1,0 +1,46 @@
+{
+  "uid" : "4cfd58aab4dbdd5",
+  "name" : "should reach Edit Family Info",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Fees.should reach Edit Family Info",
+  "historyId" : "94ac38b26a07b42c92c762a4a990613c",
+  "time" : {
+    "start" : 1642319603045,
+    "stop" : 1642319611002,
+    "duration" : 7957
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach Edit Family Info"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4cfd58aab4dbdd5.json",
+  "parameterValues" : [ ]
+}

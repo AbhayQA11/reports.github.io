@@ -1,0 +1,46 @@
+{
+  "uid" : "f82f63ad45207776",
+  "name" : "should wait for the cvv notification message to disappear",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools.should wait for the cvv notification message to disappear",
+  "historyId" : "4a5906bc0956dac8c301d94f824831f9",
+  "time" : {
+    "start" : 1642318228362,
+    "stop" : 1642318229098,
+    "duration" : 736
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for the cvv notification message to disappear"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f82f63ad45207776.json",
+  "parameterValues" : [ ]
+}

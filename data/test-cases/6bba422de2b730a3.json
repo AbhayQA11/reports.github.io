@@ -1,0 +1,46 @@
+{
+  "uid" : "6bba422de2b730a3",
+  "name" : "should input the Street Address",
+  "fullName" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied.should input the Street Address",
+  "historyId" : "75fb9e0fd7181dfe42b9618aad24f726",
+  "time" : {
+    "start" : 1642323977435,
+    "stop" : 1642323978307,
+    "duration" : 872
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testClass",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the Street Address"
+  }, {
+    "name" : "package",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6bba422de2b730a3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "36e05674b69ed416",
+  "name" : "should click on the Close Button, when the pop up appears",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should click on the Close Button, when the pop up appears",
+  "historyId" : "7458dbf65d7ffffee7ab16dff3bce2e3",
+  "time" : {
+    "start" : 1642323000216,
+    "stop" : 1642323004344,
+    "duration" : 4128
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Close Button, when the pop up appears"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36e05674b69ed416.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "b83c9f7fbc37c3d4",
+  "name" : "should input the Email Address",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should input the Email Address",
+  "historyId" : "712155bfbd197c8cf0fad08a5c746721",
+  "time" : {
+    "start" : 1642317924545,
+    "stop" : 1642317925202,
+    "duration" : 657
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the Email Address"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b83c9f7fbc37c3d4.json",
+  "parameterValues" : [ ]
+}

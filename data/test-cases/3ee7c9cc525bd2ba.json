@@ -1,0 +1,46 @@
+{
+  "uid" : "3ee7c9cc525bd2ba",
+  "name" : "should input a correct ammount inside the input field and then click submit",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students.should input a correct ammount inside the input field and then click submit",
+  "historyId" : "e6da33cfb936b9a991cfb6cf37da17a6",
+  "time" : {
+    "start" : 1642318980222,
+    "stop" : 1642318991591,
+    "duration" : 11369
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a correct ammount inside the input field and then click submit"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Discount on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ee7c9cc525bd2ba.json",
+  "parameterValues" : [ ]
+}

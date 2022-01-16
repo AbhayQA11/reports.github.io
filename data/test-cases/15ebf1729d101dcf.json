@@ -1,0 +1,54 @@
+{
+  "uid" : "15ebf1729d101dcf",
+  "name" : "should select Student view from the View Mode drop-down",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should select Student view from the View Mode drop-down",
+  "historyId" : "bb8a2a6c1d3370d2f6b7a94b6298a6a5",
+  "time" : {
+    "start" : 1642322716952,
+    "stop" : 1642322718934,
+    "duration" : 1982
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select Student view from the View Mode drop-down"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "42fcb77698a69980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318493662,
+        "stop" : 1642318495447,
+        "duration" : 1785
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "15ebf1729d101dcf.json",
+  "parameterValues" : [ ]
+}

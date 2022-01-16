@@ -1,0 +1,46 @@
+{
+  "uid" : "1ee925e9fdbb3510",
+  "name" : "should click on lastest school year from search results",
+  "fullName" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan.should click on lastest school year from search results",
+  "historyId" : "770af0a3ffd7139ff3beb457bc2093c7",
+  "time" : {
+    "start" : 1642323711477,
+    "stop" : 1642323715094,
+    "duration" : 3617
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on lastest school year from search results"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ee925e9fdbb3510.json",
+  "parameterValues" : [ ]
+}

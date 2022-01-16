@@ -1,0 +1,46 @@
+{
+  "uid" : "59ca249a433f97ec",
+  "name" : "should input valid username",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should input valid username",
+  "historyId" : "896d867eda75b97d7f099221f5324d2",
+  "time" : {
+    "start" : 1642322904894,
+    "stop" : 1642322907127,
+    "duration" : 2233
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid username"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59ca249a433f97ec.json",
+  "parameterValues" : [ ]
+}

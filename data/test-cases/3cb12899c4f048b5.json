@@ -1,0 +1,46 @@
+{
+  "uid" : "3cb12899c4f048b5",
+  "name" : "should click login button",
+  "fullName" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024.should click login button",
+  "historyId" : "60aba512e4120c0b7e6430589398183d",
+  "time" : {
+    "start" : 1642323195856,
+    "stop" : 1642323203555,
+    "duration" : 7699
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click login button"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3cb12899c4f048b5.json",
+  "parameterValues" : [ ]
+}

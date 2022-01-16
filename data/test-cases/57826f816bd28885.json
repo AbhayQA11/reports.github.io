@@ -1,0 +1,46 @@
+{
+  "uid" : "57826f816bd28885",
+  "name" : "should input the Item Name, General Ledger ID and the Description on the new Item, 2nd time",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items.should input the Item Name, General Ledger ID and the Description on the new Item, 2nd time",
+  "historyId" : "5302d0c8aeb7b8be524601728ba6d209",
+  "time" : {
+    "start" : 1642320838026,
+    "stop" : 1642320840331,
+    "duration" : 2305
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the Item Name, General Ledger ID and the Description on the new Item, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57826f816bd28885.json",
+  "parameterValues" : [ ]
+}

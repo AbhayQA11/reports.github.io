@@ -1,0 +1,46 @@
+{
+  "uid" : "a2a2c98cc5639c1b",
+  "name" : "should verify the Enable Invite Family and Friends Button is Off",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups.should verify the Enable Invite Family and Friends Button is Off",
+  "historyId" : "9f23c937167691801df80efa1a768ab0",
+  "time" : {
+    "start" : 1642320896566,
+    "stop" : 1642320898433,
+    "duration" : 1867
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Enable Invite Family and Friends Button is Off"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2a2c98cc5639c1b.json",
+  "parameterValues" : [ ]
+}

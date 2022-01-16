@@ -1,0 +1,46 @@
+{
+  "uid" : "7b6406d3fe2dc6fb",
+  "name" : "should verify that the Newly Enrolled Family is displayed in the Table",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should verify that the Newly Enrolled Family is displayed in the Table",
+  "historyId" : "8597fd563087e395ef91869fb20ad5ef",
+  "time" : {
+    "start" : 1642319217648,
+    "stop" : 1642319220881,
+    "duration" : 3233
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Newly Enrolled Family is displayed in the Table"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b6406d3fe2dc6fb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "afdc09e986a13a97",
+  "name" : "should click on the Newly Appeared Late Fee Review button",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on the Newly Appeared Late Fee Review button",
+  "historyId" : "d5961165d6c3305137f76f7220df5fa0",
+  "time" : {
+    "start" : 1642322966195,
+    "stop" : 1642322968026,
+    "duration" : 1831
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Newly Appeared Late Fee Review button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afdc09e986a13a97.json",
+  "parameterValues" : [ ]
+}

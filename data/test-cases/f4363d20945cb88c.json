@@ -1,0 +1,46 @@
+{
+  "uid" : "f4363d20945cb88c",
+  "name" : "should reach view all families",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should reach view all families",
+  "historyId" : "365ccdfd0b2d9987d0d24f98e59dc0a6",
+  "time" : {
+    "start" : 1642322955096,
+    "stop" : 1642322958017,
+    "duration" : 2921
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach view all families"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4363d20945cb88c.json",
+  "parameterValues" : [ ]
+}

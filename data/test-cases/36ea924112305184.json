@@ -1,0 +1,46 @@
+{
+  "uid" : "36ea924112305184",
+  "name" : "should Reactivate last Fee removed",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should Reactivate last Fee removed",
+  "historyId" : "8eb36e6b4eb38fe926b9fd095a237af0",
+  "time" : {
+    "start" : 1642320214174,
+    "stop" : 1642320215674,
+    "duration" : 1500
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Reactivate last Fee removed"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36ea924112305184.json",
+  "parameterValues" : [ ]
+}

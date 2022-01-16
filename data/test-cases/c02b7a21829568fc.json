@@ -1,0 +1,46 @@
+{
+  "uid" : "c02b7a21829568fc",
+  "name" : "should click on search button in order to change school and select latest school year",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should click on search button in order to change school and select latest school year",
+  "historyId" : "1c8be7173e5e911e0942103d4d4fa778",
+  "time" : {
+    "start" : 1642323402921,
+    "stop" : 1642323404569,
+    "duration" : 1648
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button in order to change school and select latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c02b7a21829568fc.json",
+  "parameterValues" : [ ]
+}

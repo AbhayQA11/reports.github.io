@@ -1,0 +1,46 @@
+{
+  "uid" : "a3e124a5a48b21a1",
+  "name" : "should click on the SmartTuition logo, 5th time",
+  "fullName" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard.should click on the SmartTuition logo, 5th time",
+  "historyId" : "ae3e757aa773f8f57e6710bfe7ce2f1b",
+  "time" : {
+    "start" : 1642320143246,
+    "stop" : 1642320144916,
+    "duration" : 1670
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the SmartTuition logo, 5th time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3e124a5a48b21a1.json",
+  "parameterValues" : [ ]
+}

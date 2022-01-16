@@ -1,0 +1,46 @@
+{
+  "uid" : "ebe797cc6599c3f3",
+  "name" : "should accept terms qand conditions",
+  "fullName" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification.should accept terms qand conditions",
+  "historyId" : "50f97e896a10696e27a885b06ce6cbcb",
+  "time" : {
+    "start" : 1642319789210,
+    "stop" : 1642319789886,
+    "duration" : 676
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should accept terms qand conditions"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ebe797cc6599c3f3.json",
+  "parameterValues" : [ ]
+}

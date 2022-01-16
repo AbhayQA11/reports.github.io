@@ -1,0 +1,46 @@
+{
+  "uid" : "54ada2d73bd58a9e",
+  "name" : "should get and store the email address in order to search the family by it",
+  "fullName" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification.should get and store the email address in order to search the family by it",
+  "historyId" : "2725b693c2e96f8ebf8db5ab2b841b60",
+  "time" : {
+    "start" : 1642319784857,
+    "stop" : 1642319785895,
+    "duration" : 1038
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the email address in order to search the family by it"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54ada2d73bd58a9e.json",
+  "parameterValues" : [ ]
+}

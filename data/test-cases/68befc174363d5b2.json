@@ -1,0 +1,46 @@
+{
+  "uid" : "68befc174363d5b2",
+  "name" : "should accept terms and conditions",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should accept terms and conditions",
+  "historyId" : "1cba89da08295e128588a38e2d8c2889",
+  "time" : {
+    "start" : 1642319347556,
+    "stop" : 1642319348196,
+    "duration" : 640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should accept terms and conditions"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68befc174363d5b2.json",
+  "parameterValues" : [ ]
+}

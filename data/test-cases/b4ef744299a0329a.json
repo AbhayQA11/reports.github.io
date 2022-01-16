@@ -1,0 +1,46 @@
+{
+  "uid" : "b4ef744299a0329a",
+  "name" : "should click on the Select Card Type dropdown",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should click on the Select Card Type dropdown",
+  "historyId" : "db67ead24b0b519cac372b6f105dc4c1",
+  "time" : {
+    "start" : 1642319311689,
+    "stop" : 1642319313194,
+    "duration" : 1505
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Select Card Type dropdown"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4ef744299a0329a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "75e876816251ae31",
+  "name" : "should verify that Download Web Connector button is visible",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should verify that Download Web Connector button is visible",
+  "historyId" : "a73afc8b824b1af0aba148947fadde9e",
+  "time" : {
+    "start" : 1642323062644,
+    "stop" : 1642323063812,
+    "duration" : 1168
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Download Web Connector button is visible"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75e876816251ae31.json",
+  "parameterValues" : [ ]
+}

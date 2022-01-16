@@ -1,0 +1,46 @@
+{
+  "uid" : "29542ce8e36beadb",
+  "name" : "should select AMEX credit card option",
+  "fullName" : "homepageTests: Enrolling New Family with Credit Card.should select AMEX credit card option",
+  "historyId" : "761d8357482e727d820bf1d0514c087e",
+  "time" : {
+    "start" : 1642317974037,
+    "stop" : 1642317975617,
+    "duration" : 1580
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select AMEX credit card option"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29542ce8e36beadb.json",
+  "parameterValues" : [ ]
+}

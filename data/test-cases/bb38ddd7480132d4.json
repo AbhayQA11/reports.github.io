@@ -1,0 +1,46 @@
+{
+  "uid" : "bb38ddd7480132d4",
+  "name" : "should verify the proper Error Is Displayed, 1st time",
+  "fullName" : "Call Center Authentification tests.should verify the proper Error Is Displayed, 1st time",
+  "historyId" : "1f3956bbd9cb91d0ff287fe87dd382da",
+  "time" : {
+    "start" : 1642323855647,
+    "stop" : 1642323857319,
+    "duration" : 1672
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the proper Error Is Displayed, 1st time"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb38ddd7480132d4.json",
+  "parameterValues" : [ ]
+}

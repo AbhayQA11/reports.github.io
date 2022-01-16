@@ -1,0 +1,46 @@
+{
+  "uid" : "9fb47b266287b1a5",
+  "name" : "should verify that the appropriate message is received after Removing the fee",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should verify that the appropriate message is received after Removing the fee",
+  "historyId" : "d1c91786d65634d1d7286de51b052707",
+  "time" : {
+    "start" : 1642323337120,
+    "stop" : 1642323344747,
+    "duration" : 7627
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received after Removing the fee"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9fb47b266287b1a5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "522925928926827a",
+  "name" : "should click edit for the previously added plan",
+  "fullName" : "Luca Settings: Verify newly added planis displayed in API result, API_030, Verify if user update any payment plan, then updated payment plan data, will be displayed in API result API_031.should click edit for the previously added plan",
+  "historyId" : "d5ff2e41636a99d1c3ea784a1891f9b4",
+  "time" : {
+    "start" : 1642323472887,
+    "stop" : 1642323480841,
+    "duration" : 7954
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added planis displayed in API result, API_030, Verify if user update any payment plan, then updated payment plan data, will be displayed in API result API_031"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added planis displayed in API result, API_030, Verify if user update any payment plan, then updated payment plan data, will be displayed in API result API_031"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click edit for the previously added plan"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added planis displayed in API result, API_030, Verify if user update any payment plan, then updated payment plan data, will be displayed in API result API_031"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "522925928926827a.json",
+  "parameterValues" : [ ]
+}

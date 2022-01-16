@@ -1,0 +1,46 @@
+{
+  "uid" : "b9a5a7b93b5218aa",
+  "name" : "should click on search button",
+  "fullName" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard.should click on search button",
+  "historyId" : "1bc0d68f9cc38b6b048a012a0cdc2a00",
+  "time" : {
+    "start" : 1642320049150,
+    "stop" : 1642320050481,
+    "duration" : 1331
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9a5a7b93b5218aa.json",
+  "parameterValues" : [ ]
+}

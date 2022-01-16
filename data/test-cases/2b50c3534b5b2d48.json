@@ -1,0 +1,46 @@
+{
+  "uid" : "2b50c3534b5b2d48",
+  "name" : "should click on specific months button",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_006.should click on specific months button",
+  "historyId" : "9b15822e40b6f7ec34683d9de04891a2",
+  "time" : {
+    "start" : 1642323307824,
+    "stop" : 1642323310319,
+    "duration" : 2495
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on specific months button"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b50c3534b5b2d48.json",
+  "parameterValues" : [ ]
+}

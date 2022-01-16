@@ -1,0 +1,46 @@
+{
+  "uid" : "b41a6516255c2431",
+  "name" : "should log out from luca",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_004.should log out from luca",
+  "historyId" : "4711e4587dec4e75863c4c1aad1a9714",
+  "time" : {
+    "start" : 1642323307103,
+    "stop" : 1642323309574,
+    "duration" : 2471
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b41a6516255c2431.json",
+  "parameterValues" : [ ]
+}

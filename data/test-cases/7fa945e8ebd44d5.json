@@ -1,0 +1,46 @@
+{
+  "uid" : "7fa945e8ebd44d5",
+  "name" : "should verify that the latest added fee is incremented into the Montly Charge Column",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee.should verify that the latest added fee is incremented into the Montly Charge Column",
+  "historyId" : "660b391eb2635d7a8c62315c6f0956a4",
+  "time" : {
+    "start" : 1642323198956,
+    "stop" : 1642323200075,
+    "duration" : 1119
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the latest added fee is incremented into the Montly Charge Column"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7fa945e8ebd44d5.json",
+  "parameterValues" : [ ]
+}

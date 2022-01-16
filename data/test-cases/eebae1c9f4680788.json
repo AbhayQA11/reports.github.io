@@ -1,0 +1,46 @@
+{
+  "uid" : "eebae1c9f4680788",
+  "name" : "should log out from luca",
+  "fullName" : "Luca Settings: OW API_007 tests.should log out from luca",
+  "historyId" : "3de4b4214f94306c1c98ac8cda5e66f5",
+  "time" : {
+    "start" : 1642323359045,
+    "stop" : 1642323362433,
+    "duration" : 3388
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eebae1c9f4680788.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c37c259263c8164f",
+  "name" : "should click Seccond Family",
+  "fullName" : "lucaAddANoteTests: Verifying Read Only Test User.should click Seccond Family",
+  "historyId" : "aed49f3f055626d0576d258ced391d8e",
+  "time" : {
+    "start" : 1642322949425,
+    "stop" : 1642322951642,
+    "duration" : 2217
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click Seccond Family"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c37c259263c8164f.json",
+  "parameterValues" : [ ]
+}

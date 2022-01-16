@@ -1,0 +1,46 @@
+{
+  "uid" : "76815dc0c0a92f19",
+  "name" : "should click the Filter By Payment Plan button in order to check if the latest added Payment Plan Action is Updated",
+  "fullName" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan.should click the Filter By Payment Plan button in order to check if the latest added Payment Plan Action is Updated",
+  "historyId" : "f2a41064d9d874413ff5fb0f4f656338",
+  "time" : {
+    "start" : 1642323769169,
+    "stop" : 1642323770680,
+    "duration" : 1511
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Filter By Payment Plan button in order to check if the latest added Payment Plan Action is Updated"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76815dc0c0a92f19.json",
+  "parameterValues" : [ ]
+}

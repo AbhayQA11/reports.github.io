@@ -1,0 +1,46 @@
+{
+  "uid" : "90490c7de88131fa",
+  "name" : "should input newly created family",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests.should input newly created family",
+  "historyId" : "a0f619c61e1c4c5b32ba1898afe2a88d",
+  "time" : {
+    "start" : 1642323699226,
+    "stop" : 1642323703808,
+    "duration" : 4582
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input newly created family"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90490c7de88131fa.json",
+  "parameterValues" : [ ]
+}

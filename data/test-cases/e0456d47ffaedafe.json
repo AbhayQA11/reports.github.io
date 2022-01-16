@@ -1,0 +1,46 @@
+{
+  "uid" : "e0456d47ffaedafe",
+  "name" : "should click on Edit My Profile Tab, again",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should click on Edit My Profile Tab, again",
+  "historyId" : "399a196be43a188d389af24fc440de30",
+  "time" : {
+    "start" : 1642323921256,
+    "stop" : 1642323926681,
+    "duration" : 5425
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Edit My Profile Tab, again"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0456d47ffaedafe.json",
+  "parameterValues" : [ ]
+}

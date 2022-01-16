@@ -1,0 +1,46 @@
+{
+  "uid" : "c1be9782324d98b9",
+  "name" : "should verify that the latest note contains a attachment pictogram",
+  "fullName" : "lucaAddANoteTests: Create a note and attaching an attachment.should verify that the latest note contains a attachment pictogram",
+  "historyId" : "cb02eacd471b207fa16941b2e5d01f60",
+  "time" : {
+    "start" : 1642322993154,
+    "stop" : 1642322994340,
+    "duration" : 1186
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the latest note contains a attachment pictogram"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1be9782324d98b9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c42bc593a1680be7",
+  "name" : "should log out from luca",
+  "fullName" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056.should log out from luca",
+  "historyId" : "81c5d2f4822b4b579890fb913965d32c",
+  "time" : {
+    "start" : 1642323550083,
+    "stop" : 1642323552793,
+    "duration" : 2710
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c42bc593a1680be7.json",
+  "parameterValues" : [ ]
+}

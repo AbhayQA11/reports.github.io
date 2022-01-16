@@ -1,0 +1,46 @@
+{
+  "uid" : "8a820d95c93720ff",
+  "name" : "should click on Auto Debit button",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on Auto Debit button",
+  "historyId" : "816c0a432f055b2cf64645b72031693f",
+  "time" : {
+    "start" : 1642322996365,
+    "stop" : 1642322998128,
+    "duration" : 1763
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Auto Debit button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a820d95c93720ff.json",
+  "parameterValues" : [ ]
+}

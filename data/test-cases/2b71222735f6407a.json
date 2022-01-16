@@ -1,0 +1,46 @@
+{
+  "uid" : "2b71222735f6407a",
+  "name" : "should click on the Add Fee button third time",
+  "fullName" : "lucaBillingTests: Edit Billing module, Total Column Verification.should click on the Add Fee button third time",
+  "historyId" : "54fc92cfa34bee5aa09bf28a1b47435c",
+  "time" : {
+    "start" : 1642319791292,
+    "stop" : 1642319795830,
+    "duration" : 4538
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Add Fee button third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b71222735f6407a.json",
+  "parameterValues" : [ ]
+}

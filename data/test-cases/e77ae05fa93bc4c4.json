@@ -1,0 +1,46 @@
+{
+  "uid" : "e77ae05fa93bc4c4",
+  "name" : "should click on delete payment plan",
+  "fullName" : "Luca Settings: Manage Payment Plans tests, API_003.should click on delete payment plan",
+  "historyId" : "13ae5c9040dcb5d96d14c3ecc7298fee",
+  "time" : {
+    "start" : 1642323254271,
+    "stop" : 1642323255883,
+    "duration" : 1612
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on delete payment plan"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e77ae05fa93bc4c4.json",
+  "parameterValues" : [ ]
+}

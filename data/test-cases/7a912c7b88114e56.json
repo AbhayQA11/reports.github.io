@@ -1,0 +1,46 @@
+{
+  "uid" : "7a912c7b88114e56",
+  "name" : "should click on the Add a note pictogram",
+  "fullName" : "lucaAddANoteTests: Verifying Error Validation.should click on the Add a note pictogram",
+  "historyId" : "6f05162b42109930c84e4fb83e2bd3df",
+  "time" : {
+    "start" : 1642322957686,
+    "stop" : 1642322961587,
+    "duration" : 3901
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Add a note pictogram"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a912c7b88114e56.json",
+  "parameterValues" : [ ]
+}

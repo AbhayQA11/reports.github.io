@@ -1,0 +1,46 @@
+{
+  "uid" : "ae38eedcc7e7b3e5",
+  "name" : "should click go button",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests.should click go button",
+  "historyId" : "8f5f167eeece71b4fdf7d44ad7567a84",
+  "time" : {
+    "start" : 1642323727690,
+    "stop" : 1642323729061,
+    "duration" : 1371
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click go button"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae38eedcc7e7b3e5.json",
+  "parameterValues" : [ ]
+}

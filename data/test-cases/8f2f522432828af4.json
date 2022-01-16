@@ -1,0 +1,46 @@
+{
+  "uid" : "8f2f522432828af4",
+  "name" : "should click on the login button Without inputing any values into login fields",
+  "fullName" : "Tuition Manager Authentification Module.should click on the login button Without inputing any values into login fields",
+  "historyId" : "37adaac95a8f43abc159e53c5ca70922",
+  "time" : {
+    "start" : 1642323972652,
+    "stop" : 1642323975039,
+    "duration" : 2387
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the login button Without inputing any values into login fields"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f2f522432828af4.json",
+  "parameterValues" : [ ]
+}

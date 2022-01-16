@@ -1,0 +1,46 @@
+{
+  "uid" : "a7a93b6f0c904926",
+  "name" : "should create a family via Onboard API",
+  "fullName" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90.should create a family via Onboard API",
+  "historyId" : "b20b202a1adb2a9a78ad2ee80e61eaf3",
+  "time" : {
+    "start" : 1642323578812,
+    "stop" : 1642323610687,
+    "duration" : 31875
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family via Onboard API"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7a93b6f0c904926.json",
+  "parameterValues" : [ ]
+}

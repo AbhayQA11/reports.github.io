@@ -1,0 +1,46 @@
+{
+  "uid" : "5adb1c5bbc4eb094",
+  "name" : "should purge the families created",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should purge the families created",
+  "historyId" : "b055575ba63a88a72a00b4b21ef27c11",
+  "time" : {
+    "start" : 1642318527826,
+    "stop" : 1642318532093,
+    "duration" : 4267
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should purge the families created"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5adb1c5bbc4eb094.json",
+  "parameterValues" : [ ]
+}

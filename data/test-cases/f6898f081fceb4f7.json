@@ -1,0 +1,46 @@
+{
+  "uid" : "f6898f081fceb4f7",
+  "name" : "should input school name in search field:12606",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should input school name in search field:12606",
+  "historyId" : "9f60e7a4dde0ad8d0553368078f2797b",
+  "time" : {
+    "start" : 1642323274094,
+    "stop" : 1642323275569,
+    "duration" : 1475
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input school name in search field:12606"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6898f081fceb4f7.json",
+  "parameterValues" : [ ]
+}

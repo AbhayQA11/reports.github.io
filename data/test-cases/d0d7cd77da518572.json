@@ -1,0 +1,46 @@
+{
+  "uid" : "d0d7cd77da518572",
+  "name" : "should click on lastest school year from search results",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should click on lastest school year from search results",
+  "historyId" : "875f1fdea8127f5441bb15d251231466",
+  "time" : {
+    "start" : 1642318357351,
+    "stop" : 1642318361317,
+    "duration" : 3966
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on lastest school year from search results"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0d7cd77da518572.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "dccb0d69209b95b4",
+  "name" : "should verify the confirmation message",
+  "fullName" : "Luca Settings: OW Api - edit family details, API_026.should verify the confirmation message",
+  "historyId" : "7b45d28a09e60d5801eea0deba2566ad",
+  "time" : {
+    "start" : 1642323430576,
+    "stop" : 1642323438433,
+    "duration" : 7857
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the confirmation message"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dccb0d69209b95b4.json",
+  "parameterValues" : [ ]
+}

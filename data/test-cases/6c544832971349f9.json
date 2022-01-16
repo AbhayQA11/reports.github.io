@@ -1,0 +1,46 @@
+{
+  "uid" : "6c544832971349f9",
+  "name" : "should input the Aditional Authorized Party first and second name",
+  "fullName" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied.should input the Aditional Authorized Party first and second name",
+  "historyId" : "c14bda2b885ca5d4e670f1e39bf7cb1b",
+  "time" : {
+    "start" : 1642323975605,
+    "stop" : 1642323976693,
+    "duration" : 1088
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testClass",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the Aditional Authorized Party first and second name"
+  }, {
+    "name" : "package",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c544832971349f9.json",
+  "parameterValues" : [ ]
+}

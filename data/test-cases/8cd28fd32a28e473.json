@@ -1,0 +1,46 @@
+{
+  "uid" : "8cd28fd32a28e473",
+  "name" : "should select the latest school year",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should select the latest school year",
+  "historyId" : "b89c088e21d9f53fcd1aca3133a2482d",
+  "time" : {
+    "start" : 1642320067871,
+    "stop" : 1642320071824,
+    "duration" : 3953
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8cd28fd32a28e473.json",
+  "parameterValues" : [ ]
+}

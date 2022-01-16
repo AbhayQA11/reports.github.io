@@ -1,0 +1,46 @@
+{
+  "uid" : "7a0bd7484e8ec718",
+  "name" : "should load luca page successfully",
+  "fullName" : "homepageTests: Enrollment with Credit Card and Debit Bank account option.should load luca page successfully",
+  "historyId" : "9199814d4ee8764c1eaba64008794324",
+  "time" : {
+    "start" : 1642317890322,
+    "stop" : 1642317892669,
+    "duration" : 2347
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load luca page successfully"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a0bd7484e8ec718.json",
+  "parameterValues" : [ ]
+}

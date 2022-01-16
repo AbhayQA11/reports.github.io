@@ -1,0 +1,46 @@
+{
+  "uid" : "4f6cf6b483c25554",
+  "name" : "should input valid password",
+  "fullName" : "lucaAddANoteTests: Create a note and attaching an attachment.should input valid password",
+  "historyId" : "9c533f7c5b2576be84716b801a9294c5",
+  "time" : {
+    "start" : 1642322907044,
+    "stop" : 1642322908339,
+    "duration" : 1295
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid password"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f6cf6b483c25554.json",
+  "parameterValues" : [ ]
+}

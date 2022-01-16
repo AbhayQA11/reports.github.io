@@ -1,0 +1,46 @@
+{
+  "uid" : "b7b931f5ef700a28",
+  "name" : "should verify that Your Password has been updated is displayed",
+  "fullName" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site.should verify that Your Password has been updated is displayed",
+  "historyId" : "7cf50b7274cff30530b38072725fd9b2",
+  "time" : {
+    "start" : 1642323881182,
+    "stop" : 1642323882977,
+    "duration" : 1795
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Your Password has been updated is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7b931f5ef700a28.json",
+  "parameterValues" : [ ]
+}

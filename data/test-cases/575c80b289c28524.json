@@ -1,0 +1,46 @@
+{
+  "uid" : "575c80b289c28524",
+  "name" : "should verify that Select QuickBooks verison type of Buttons are displayed",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should verify that Select QuickBooks verison type of Buttons are displayed",
+  "historyId" : "4fc3ccc355e434baa6b7c69a30cfb385",
+  "time" : {
+    "start" : 1642323056287,
+    "stop" : 1642323059223,
+    "duration" : 2936
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Select QuickBooks verison type of Buttons are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "575c80b289c28524.json",
+  "parameterValues" : [ ]
+}

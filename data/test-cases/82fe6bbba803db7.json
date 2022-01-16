@@ -1,0 +1,44 @@
+{
+  "uid" : "82fe6bbba803db7",
+  "name" : "should click on the grade dropdown and then select the check all option",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should click on the grade dropdown and then select the check all option",
+  "historyId" : "60e0a5f9e792a5006cf33e9e9b6ddd2c",
+  "time" : {
+    "start" : 1642318316628,
+    "stop" : 1642318319399,
+    "duration" : 2771
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the grade dropdown and then select the check all option"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "82fe6bbba803db7.json",
+  "parameterValues" : [ ]
+}

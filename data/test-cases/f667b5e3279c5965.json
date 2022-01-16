@@ -1,0 +1,46 @@
+{
+  "uid" : "f667b5e3279c5965",
+  "name" : "should click on the SmartTuition logo, 2nd time",
+  "fullName" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard.should click on the SmartTuition logo, 2nd time",
+  "historyId" : "62bb6c3adad37ebd184267255200ed37",
+  "time" : {
+    "start" : 1642320078779,
+    "stop" : 1642320079749,
+    "duration" : 970
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the SmartTuition logo, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f667b5e3279c5965.json",
+  "parameterValues" : [ ]
+}

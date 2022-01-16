@@ -1,0 +1,48 @@
+{
+  "uid" : "7a9607f2036b1bc",
+  "name" : "should verify that the Bank Account No is Encrypted in non-Primary payment Account Info section",
+  "fullName" : "Tuition Manager Bank Account Payment Encryption Verification.should verify that the Bank Account No is Encrypted in non-Primary payment Account Info section",
+  "historyId" : "c61e60296a41e46f4770ebd2b6776ec5",
+  "time" : {
+    "start" : 1642324199295,
+    "stop" : 1642324199297,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Bank Account No is Encrypted in non-Primary payment Account Info section"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a9607f2036b1bc.json",
+  "parameterValues" : [ ]
+}

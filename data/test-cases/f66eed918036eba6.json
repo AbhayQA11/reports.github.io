@@ -1,0 +1,46 @@
+{
+  "uid" : "f66eed918036eba6",
+  "name" : "should click the Perform Batch Action button first time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should click the Perform Batch Action button first time",
+  "historyId" : "6c61e09b6dbb6da6a80cf6bb86981f08",
+  "time" : {
+    "start" : 1642318383214,
+    "stop" : 1642318384661,
+    "duration" : 1447
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Perform Batch Action button first time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f66eed918036eba6.json",
+  "parameterValues" : [ ]
+}

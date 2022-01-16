@@ -1,0 +1,46 @@
+{
+  "uid" : "918949752267a80b",
+  "name" : "should verify that the submit button is disabled if the Reason field is empty",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee.should verify that the submit button is disabled if the Reason field is empty",
+  "historyId" : "c6216f78c18a701b9f9ba6cb83ef8c8b",
+  "time" : {
+    "start" : 1642323206886,
+    "stop" : 1642323207996,
+    "duration" : 1110
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the submit button is disabled if the Reason field is empty"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "918949752267a80b.json",
+  "parameterValues" : [ ]
+}

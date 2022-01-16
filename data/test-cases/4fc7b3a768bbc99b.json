@@ -1,0 +1,46 @@
+{
+  "uid" : "4fc7b3a768bbc99b",
+  "name" : "should mouseover Families and then select View All Families",
+  "fullName" : "lucaBillingTests: Edit Billing module, Fee and discount month availability.should mouseover Families and then select View All Families",
+  "historyId" : "de7253caa5b4011924fa44e694fa2570",
+  "time" : {
+    "start" : 1642319830255,
+    "stop" : 1642319833288,
+    "duration" : 3033
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Families and then select View All Families"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fc7b3a768bbc99b.json",
+  "parameterValues" : [ ]
+}

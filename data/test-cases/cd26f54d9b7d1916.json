@@ -1,0 +1,46 @@
+{
+  "uid" : "cd26f54d9b7d1916",
+  "name" : "should click on register Family button",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should click on register Family button",
+  "historyId" : "cde3cbb3f716b1023bc1773c789793",
+  "time" : {
+    "start" : 1642323434066,
+    "stop" : 1642323435829,
+    "duration" : 1763
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on register Family button"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd26f54d9b7d1916.json",
+  "parameterValues" : [ ]
+}

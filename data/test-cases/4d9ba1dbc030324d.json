@@ -1,0 +1,46 @@
+{
+  "uid" : "4d9ba1dbc030324d",
+  "name" : "should attempt to create a family with no students and verify Invalid request message API_046",
+  "fullName" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046.should attempt to create a family with no students and verify Invalid request message API_046",
+  "historyId" : "b287b194231aa023ed9c9c762360a3e8",
+  "time" : {
+    "start" : 1642323402937,
+    "stop" : 1642323404308,
+    "duration" : 1371
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046"
+  }, {
+    "name" : "testMethod",
+    "value" : "should attempt to create a family with no students and verify Invalid request message API_046"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d9ba1dbc030324d.json",
+  "parameterValues" : [ ]
+}

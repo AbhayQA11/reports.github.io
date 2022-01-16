@@ -1,0 +1,46 @@
+{
+  "uid" : "431920c1d72e9c31",
+  "name" : "should click on search button in order to search for school year",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts.should click on search button in order to search for school year",
+  "historyId" : "ab2da11e548e2263fb11866aef268c8",
+  "time" : {
+    "start" : 1642320354383,
+    "stop" : 1642320355788,
+    "duration" : 1405
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button in order to search for school year"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "431920c1d72e9c31.json",
+  "parameterValues" : [ ]
+}

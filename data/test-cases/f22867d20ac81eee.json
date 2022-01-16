@@ -1,0 +1,46 @@
+{
+  "uid" : "f22867d20ac81eee",
+  "name" : "should click on school year drop down",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee.should click on school year drop down",
+  "historyId" : "934bc67ab72e9e5ee5a345d9823f2acb",
+  "time" : {
+    "start" : 1642323175037,
+    "stop" : 1642323176380,
+    "duration" : 1343
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on school year drop down"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f22867d20ac81eee.json",
+  "parameterValues" : [ ]
+}

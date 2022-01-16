@@ -1,0 +1,46 @@
+{
+  "uid" : "11ea6612ae7071e5",
+  "name" : "should clear School Late Fee pop-up again",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees controls Verification.should clear School Late Fee pop-up again",
+  "historyId" : "aeadd1450f5d305c972d71efa96f1142",
+  "time" : {
+    "start" : 1642323184616,
+    "stop" : 1642323186088,
+    "duration" : 1472
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should clear School Late Fee pop-up again"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11ea6612ae7071e5.json",
+  "parameterValues" : [ ]
+}

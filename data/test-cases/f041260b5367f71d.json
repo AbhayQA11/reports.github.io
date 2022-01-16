@@ -1,0 +1,46 @@
+{
+  "uid" : "f041260b5367f71d",
+  "name" : "should change the Payment Info by clicking on Auto Debit Credit Card Account",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should change the Payment Info by clicking on Auto Debit Credit Card Account",
+  "historyId" : "c9397c35e57d6ce8f0c860ae5b88018b",
+  "time" : {
+    "start" : 1642319307158,
+    "stop" : 1642319308646,
+    "duration" : 1488
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should change the Payment Info by clicking on Auto Debit Credit Card Account"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f041260b5367f71d.json",
+  "parameterValues" : [ ]
+}

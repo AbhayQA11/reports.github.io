@@ -1,0 +1,46 @@
+{
+  "uid" : "646d73737536190a",
+  "name" : "should input correct password",
+  "fullName" : "lucaFamiliesModuleTests: Email Parents page.should input correct password",
+  "historyId" : "11121d5c812ec093d9b6994580359efb",
+  "time" : {
+    "start" : 1642318598176,
+    "stop" : 1642318599335,
+    "duration" : 1159
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "646d73737536190a.json",
+  "parameterValues" : [ ]
+}

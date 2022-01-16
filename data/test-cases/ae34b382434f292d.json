@@ -1,0 +1,46 @@
+{
+  "uid" : "ae34b382434f292d",
+  "name" : "should input school number 11084 in the search field",
+  "fullName" : "lucaFamiliesModuleTests: Email Parents page.should input school number 11084 in the search field",
+  "historyId" : "c1a56fb84961a941860fe62273fb23",
+  "time" : {
+    "start" : 1642318608928,
+    "stop" : 1642318610540,
+    "duration" : 1612
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input school number 11084 in the search field"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae34b382434f292d.json",
+  "parameterValues" : [ ]
+}

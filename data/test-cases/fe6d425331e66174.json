@@ -1,0 +1,46 @@
+{
+  "uid" : "fe6d425331e66174",
+  "name" : "should click on the manage fees and discounts",
+  "fullName" : "Luca Settings: OW API_007 tests.should click on the manage fees and discounts",
+  "historyId" : "20fd2b78387ba8bd4d1fe73b34f00846",
+  "time" : {
+    "start" : 1642323314541,
+    "stop" : 1642323317098,
+    "duration" : 2557
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the manage fees and discounts"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe6d425331e66174.json",
+  "parameterValues" : [ ]
+}

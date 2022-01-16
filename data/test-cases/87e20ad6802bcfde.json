@@ -1,0 +1,46 @@
+{
+  "uid" : "87e20ad6802bcfde",
+  "name" : "should click on the Update Contact Info",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on the Update Contact Info",
+  "historyId" : "9a8e25d6c47f0553cd68a7242bad5881",
+  "time" : {
+    "start" : 1642322985465,
+    "stop" : 1642322987334,
+    "duration" : 1869
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Update Contact Info"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "87e20ad6802bcfde.json",
+  "parameterValues" : [ ]
+}

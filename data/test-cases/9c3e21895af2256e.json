@@ -1,0 +1,46 @@
+{
+  "uid" : "9c3e21895af2256e",
+  "name" : "should modify user data in order to log in the user in EWS",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details Payment settings.should modify user data in order to log in the user in EWS",
+  "historyId" : "d4ac3b0df70ea3dec97755db9729ba07",
+  "time" : {
+    "start" : 1642318376251,
+    "stop" : 1642318412521,
+    "duration" : 36270
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to log in the user in EWS"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c3e21895af2256e.json",
+  "parameterValues" : [ ]
+}

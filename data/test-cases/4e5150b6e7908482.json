@@ -1,0 +1,46 @@
+{
+  "uid" : "4e5150b6e7908482",
+  "name" : "should get and store the Total Due Ammount the family has to pay",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should get and store the Total Due Ammount the family has to pay",
+  "historyId" : "52d8447541da265b1b5e9e5d5f5d1de1",
+  "time" : {
+    "start" : 1642318382625,
+    "stop" : 1642318383214,
+    "duration" : 589
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the Total Due Ammount the family has to pay"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e5150b6e7908482.json",
+  "parameterValues" : [ ]
+}

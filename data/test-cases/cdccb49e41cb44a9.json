@@ -1,0 +1,46 @@
+{
+  "uid" : "cdccb49e41cb44a9",
+  "name" : "should purge the CC family created",
+  "fullName" : "lucaAutomaticDebitSettings: Payment Type Verification.should purge the CC family created",
+  "historyId" : "bc509e82d33c359e5695e916a01b90e1",
+  "time" : {
+    "start" : 1642323577132,
+    "stop" : 1642323583207,
+    "duration" : 6075
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should purge the CC family created"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdccb49e41cb44a9.json",
+  "parameterValues" : [ ]
+}

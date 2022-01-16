@@ -1,0 +1,46 @@
+{
+  "uid" : "9d05764556fe35ac",
+  "name" : "should select the latest school year",
+  "fullName" : "Luca Settings: Manage Payment Plans tests,API_002.should select the latest school year",
+  "historyId" : "58ceefb10b7bb2d225bad5552f71eea9",
+  "time" : {
+    "start" : 1642323220951,
+    "stop" : 1642323224543,
+    "duration" : 3592
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests,API_002"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests,API_002"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests,API_002"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d05764556fe35ac.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "d1938c27455c693d",
+  "name" : "should click the Next button, 1st time",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items.should click the Next button, 1st time",
+  "historyId" : "990ee8ace142ed4d0369a51ba919f9b8",
+  "time" : {
+    "start" : 1642320842182,
+    "stop" : 1642320844905,
+    "duration" : 2723
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Next button, 1st time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d1938c27455c693d.json",
+  "parameterValues" : [ ]
+}

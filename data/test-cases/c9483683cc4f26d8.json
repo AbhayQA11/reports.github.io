@@ -1,0 +1,54 @@
+{
+  "uid" : "c9483683cc4f26d8",
+  "name" : "should select the first record",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should select the first record",
+  "historyId" : "71e7bb13195ed49a2fd5c9e03309baca",
+  "time" : {
+    "start" : 1642322696594,
+    "stop" : 1642322703297,
+    "duration" : 6703
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the first record"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "32d29f78a1a32389",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318473258,
+        "stop" : 1642318479894,
+        "duration" : 6636
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9483683cc4f26d8.json",
+  "parameterValues" : [ ]
+}

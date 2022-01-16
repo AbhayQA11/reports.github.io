@@ -1,0 +1,46 @@
+{
+  "uid" : "840757d1160d5aa8",
+  "name" : "should fill in the Zip Code required form in the Add New family Page",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should fill in the Zip Code required form in the Add New family Page",
+  "historyId" : "9ccc937e6fae3d080a82fea8fa9aa035",
+  "time" : {
+    "start" : 1642319265285,
+    "stop" : 1642319265914,
+    "duration" : 629
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Zip Code required form in the Add New family Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "840757d1160d5aa8.json",
+  "parameterValues" : [ ]
+}

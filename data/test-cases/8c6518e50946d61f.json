@@ -1,0 +1,46 @@
+{
+  "uid" : "8c6518e50946d61f",
+  "name" : "should fill in the Zip Code required form in the Add New family Page",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should fill in the Zip Code required form in the Add New family Page",
+  "historyId" : "f2f360e91a2ee1b618cba0e2d9141b5b",
+  "time" : {
+    "start" : 1642319170646,
+    "stop" : 1642319171348,
+    "duration" : 702
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Zip Code required form in the Add New family Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c6518e50946d61f.json",
+  "parameterValues" : [ ]
+}

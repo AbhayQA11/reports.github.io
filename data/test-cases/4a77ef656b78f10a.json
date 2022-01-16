@@ -1,0 +1,46 @@
+{
+  "uid" : "4a77ef656b78f10a",
+  "name" : "should press the ESC button in order to close the pop up again",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees controls Verification.should press the ESC button in order to close the pop up again",
+  "historyId" : "16c25a3d45583fa5ee67b0228a1dc928",
+  "time" : {
+    "start" : 1642323193838,
+    "stop" : 1642323195870,
+    "duration" : 2032
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should press the ESC button in order to close the pop up again"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a77ef656b78f10a.json",
+  "parameterValues" : [ ]
+}

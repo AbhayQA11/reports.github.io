@@ -1,0 +1,46 @@
+{
+  "uid" : "de382ae16652423c",
+  "name" : "should verify update family and student information page is loaded",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should verify update family and student information page is loaded",
+  "historyId" : "ee3ae170246e94e65b62be56a084c438",
+  "time" : {
+    "start" : 1642317981122,
+    "stop" : 1642317988408,
+    "duration" : 7286
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify update family and student information page is loaded"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de382ae16652423c.json",
+  "parameterValues" : [ ]
+}

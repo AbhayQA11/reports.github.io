@@ -1,0 +1,46 @@
+{
+  "uid" : "74e679892388b759",
+  "name" : "should delete the new added Email Address and verify is not visible anymore",
+  "fullName" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups.should delete the new added Email Address and verify is not visible anymore",
+  "historyId" : "e725279d877a3bca7ea845aa103a2044",
+  "time" : {
+    "start" : 1642320964185,
+    "stop" : 1642320970862,
+    "duration" : 6677
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should delete the new added Email Address and verify is not visible anymore"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74e679892388b759.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "1f43fd643afa31d3",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should load Luca login Page successfully",
+  "historyId" : "b4ef68796026128c1c30e2fdbe9384db",
+  "time" : {
+    "start" : 1642323011082,
+    "stop" : 1642323013977,
+    "duration" : 2895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f43fd643afa31d3.json",
+  "parameterValues" : [ ]
+}

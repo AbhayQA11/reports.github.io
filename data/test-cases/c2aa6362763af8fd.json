@@ -1,0 +1,46 @@
+{
+  "uid" : "c2aa6362763af8fd",
+  "name" : "should click on search button in order to change school and select latest school year",
+  "fullName" : "Luca Settings: Add a student to a pre-existing family and verify UI data API_84, API_85, API_86.should click on search button in order to change school and select latest school year",
+  "historyId" : "7ee9075e631f3a7dcc66aaca8439c365",
+  "time" : {
+    "start" : 1642323615268,
+    "stop" : 1642323616701,
+    "duration" : 1433
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Add a student to a pre-existing family and verify UI data API_84, API_85, API_86"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Add a student to a pre-existing family and verify UI data API_84, API_85, API_86"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button in order to change school and select latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Add a student to a pre-existing family and verify UI data API_84, API_85, API_86"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2aa6362763af8fd.json",
+  "parameterValues" : [ ]
+}

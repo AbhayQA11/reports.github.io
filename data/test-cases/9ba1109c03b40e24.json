@@ -1,0 +1,46 @@
+{
+  "uid" : "9ba1109c03b40e24",
+  "name" : "should verify that the appropriate message is received after Removing the fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should verify that the appropriate message is received after Removing the fee",
+  "historyId" : "f8b5dc218747ad36f73c027a6b951623",
+  "time" : {
+    "start" : 1642320205147,
+    "stop" : 1642320212822,
+    "duration" : 7675
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received after Removing the fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ba1109c03b40e24.json",
+  "parameterValues" : [ ]
+}

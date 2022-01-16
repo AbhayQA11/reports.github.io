@@ -1,0 +1,46 @@
+{
+  "uid" : "f4d3de7dcc07217c",
+  "name" : "should click on Enrollment Center, then add new family",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should click on Enrollment Center, then add new family",
+  "historyId" : "baf34bbbaf8765c8c0073a1357c7262f",
+  "time" : {
+    "start" : 1642317917779,
+    "stop" : 1642317920717,
+    "duration" : 2938
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Enrollment Center, then add new family"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4d3de7dcc07217c.json",
+  "parameterValues" : [ ]
+}

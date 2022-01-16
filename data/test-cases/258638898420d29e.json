@@ -1,0 +1,46 @@
+{
+  "uid" : "258638898420d29e",
+  "name" : "should wait for Pending families to be reached-app business rules tbd",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should wait for Pending families to be reached-app business rules tbd",
+  "historyId" : "47a832f37a21ae5b45b9f0198eda2acb",
+  "time" : {
+    "start" : 1642319200813,
+    "stop" : 1642319209542,
+    "duration" : 8729
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for Pending families to be reached-app business rules tbd"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "258638898420d29e.json",
+  "parameterValues" : [ ]
+}

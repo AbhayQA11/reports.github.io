@@ -1,0 +1,46 @@
+{
+  "uid" : "94b68caba3e39b1b",
+  "name" : "should modify user data in order to log in the user in EWS",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Discount.should modify user data in order to log in the user in EWS",
+  "historyId" : "c36fa87a4d6fb0dfd3d1018e3f3069ad",
+  "time" : {
+    "start" : 1642319625222,
+    "stop" : 1642319662154,
+    "duration" : 36932
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to log in the user in EWS"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94b68caba3e39b1b.json",
+  "parameterValues" : [ ]
+}

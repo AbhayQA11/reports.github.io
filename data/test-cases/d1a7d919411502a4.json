@@ -1,0 +1,46 @@
+{
+  "uid" : "d1a7d919411502a4",
+  "name" : "should click the logout button",
+  "fullName" : "Call Center Authentification tests.should click the logout button",
+  "historyId" : "d4d7525ff15c08ab4a01770be7c96e80",
+  "time" : {
+    "start" : 1642323873668,
+    "stop" : 1642323875596,
+    "duration" : 1928
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the logout button"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d1a7d919411502a4.json",
+  "parameterValues" : [ ]
+}

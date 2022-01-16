@@ -1,0 +1,46 @@
+{
+  "uid" : "e291e4c4405c4303",
+  "name" : "should verify the family Fee description in the Fees tab is the same as in the API call",
+  "fullName" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68.should verify the family Fee description in the Fees tab is the same as in the API call",
+  "historyId" : "af82b05570e8b019725ab30033f50b98",
+  "time" : {
+    "start" : 1642323577205,
+    "stop" : 1642323580409,
+    "duration" : 3204
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the family Fee description in the Fees tab is the same as in the API call"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e291e4c4405c4303.json",
+  "parameterValues" : [ ]
+}

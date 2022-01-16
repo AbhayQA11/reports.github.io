@@ -1,0 +1,46 @@
+{
+  "uid" : "c16a9078af6e31c7",
+  "name" : "should verify that a pop-up appears and proper info is displayed again",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should verify that a pop-up appears and proper info is displayed again",
+  "historyId" : "c0a7ef61454a78f395f832cb8250b259",
+  "time" : {
+    "start" : 1642318263408,
+    "stop" : 1642318265475,
+    "duration" : 2067
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that a pop-up appears and proper info is displayed again"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c16a9078af6e31c7.json",
+  "parameterValues" : [ ]
+}

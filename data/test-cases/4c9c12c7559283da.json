@@ -1,0 +1,46 @@
+{
+  "uid" : "4c9c12c7559283da",
+  "name" : "should reach the Payment Settings page of the family with Auto Debit Bank Account, Checking Type",
+  "fullName" : "Luca Settings: Create a family Via APi, verify Payment Methods in UI API_048, API_049 , API_050, API_051, API_052, API_053, API_054, API_055.should reach the Payment Settings page of the family with Auto Debit Bank Account, Checking Type",
+  "historyId" : "dad9d9f08f7178d76ad22787bb118822",
+  "time" : {
+    "start" : 1642323524454,
+    "stop" : 1642323524870,
+    "duration" : 416
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify Payment Methods in UI API_048, API_049 , API_050, API_051, API_052, API_053, API_054, API_055"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify Payment Methods in UI API_048, API_049 , API_050, API_051, API_052, API_053, API_054, API_055"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach the Payment Settings page of the family with Auto Debit Bank Account, Checking Type"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify Payment Methods in UI API_048, API_049 , API_050, API_051, API_052, API_053, API_054, API_055"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c9c12c7559283da.json",
+  "parameterValues" : [ ]
+}

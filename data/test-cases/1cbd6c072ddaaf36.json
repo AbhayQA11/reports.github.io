@@ -1,0 +1,46 @@
+{
+  "uid" : "1cbd6c072ddaaf36",
+  "name" : "should click on the first Apply button third time",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees controls Verification.should click on the first Apply button third time",
+  "historyId" : "448a274fcb485f21187282326c264b6f",
+  "time" : {
+    "start" : 1642323161964,
+    "stop" : 1642323163545,
+    "duration" : 1581
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the first Apply button third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cbd6c072ddaaf36.json",
+  "parameterValues" : [ ]
+}

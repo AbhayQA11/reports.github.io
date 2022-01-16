@@ -1,0 +1,46 @@
+{
+  "uid" : "c119be58929c599a",
+  "name" : "should click the search button in order to search for the newly created family",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should click the search button in order to search for the newly created family",
+  "historyId" : "bb0ef4f937957d153977d380f28df03a",
+  "time" : {
+    "start" : 1642323417410,
+    "stop" : 1642323418885,
+    "duration" : 1475
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the search button in order to search for the newly created family"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c119be58929c599a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "7d78ed5abe1ff07f",
+  "name" : "should click to download Frequently Asked Questions for Parents",
+  "fullName" : "Main Landing Page, Verify the accessibility of Training Classes.should click to download Frequently Asked Questions for Parents",
+  "historyId" : "588cfc8a766354be7f1c814a1b4ee080",
+  "time" : {
+    "start" : 1642320102070,
+    "stop" : 1642320107444,
+    "duration" : 5374
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click to download Frequently Asked Questions for Parents"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d78ed5abe1ff07f.json",
+  "parameterValues" : [ ]
+}

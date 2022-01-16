@@ -1,0 +1,46 @@
+{
+  "uid" : "73280b141bde64c0",
+  "name" : "should click on the go button",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student.should click on the go button",
+  "historyId" : "f1d87f88159526fc53315689091ed64d",
+  "time" : {
+    "start" : 1642318592641,
+    "stop" : 1642318593972,
+    "duration" : 1331
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the go button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "73280b141bde64c0.json",
+  "parameterValues" : [ ]
+}

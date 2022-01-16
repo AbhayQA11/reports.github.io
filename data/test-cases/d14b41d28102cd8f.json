@@ -1,0 +1,46 @@
+{
+  "uid" : "d14b41d28102cd8f",
+  "name" : "should add a Fee Via Api to the family",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan .should add a Fee Via Api to the family",
+  "historyId" : "7ea4953a08ed60b5bdf3f3e507a70292",
+  "time" : {
+    "start" : 1642323686406,
+    "stop" : 1642323686724,
+    "duration" : 318
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testMethod",
+    "value" : "should add a Fee Via Api to the family"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d14b41d28102cd8f.json",
+  "parameterValues" : [ ]
+}

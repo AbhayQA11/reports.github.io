@@ -1,0 +1,46 @@
+{
+  "uid" : "786f77bcb265c7a9",
+  "name" : "should inpit the student grade name",
+  "fullName" : "homepageTests: Enrollment with all payment options.should inpit the student grade name",
+  "historyId" : "b2892214d57d1ac2a7c71c83c9577073",
+  "time" : {
+    "start" : 1642317926818,
+    "stop" : 1642317929732,
+    "duration" : 2914
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testMethod",
+    "value" : "should inpit the student grade name"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "786f77bcb265c7a9.json",
+  "parameterValues" : [ ]
+}

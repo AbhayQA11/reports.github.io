@@ -1,0 +1,46 @@
+{
+  "uid" : "e2ba87c6d5a8f24",
+  "name" : "should click on the Update Account Info",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on the Update Account Info",
+  "historyId" : "4fa4c7edf5428a58b8508fa245931260",
+  "time" : {
+    "start" : 1642323001837,
+    "stop" : 1642323003724,
+    "duration" : 1887
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Update Account Info"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2ba87c6d5a8f24.json",
+  "parameterValues" : [ ]
+}

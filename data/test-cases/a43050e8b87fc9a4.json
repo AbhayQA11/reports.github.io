@@ -1,0 +1,46 @@
+{
+  "uid" : "a43050e8b87fc9a4",
+  "name" : "should create a family Via Api",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details Payment settings.should create a family Via Api",
+  "historyId" : "a820aa84f9cf3285c043cfec84838f3a",
+  "time" : {
+    "start" : 1642318373025,
+    "stop" : 1642318376251,
+    "duration" : 3226
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family Via Api"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a43050e8b87fc9a4.json",
+  "parameterValues" : [ ]
+}

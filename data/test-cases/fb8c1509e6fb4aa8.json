@@ -1,0 +1,46 @@
+{
+  "uid" : "fb8c1509e6fb4aa8",
+  "name" : "should verify that the Comunication Center Page has been reached, 4th time",
+  "fullName" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard.should verify that the Comunication Center Page has been reached, 4th time",
+  "historyId" : "985c9a87566b8ec6fc1ab5a90803b487",
+  "time" : {
+    "start" : 1642320139665,
+    "stop" : 1642320143246,
+    "duration" : 3581
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Comunication Center Page has been reached, 4th time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb8c1509e6fb4aa8.json",
+  "parameterValues" : [ ]
+}

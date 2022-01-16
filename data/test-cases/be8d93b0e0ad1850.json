@@ -1,0 +1,46 @@
+{
+  "uid" : "be8d93b0e0ad1850",
+  "name" : "should click the go button in order to search for the newly created family",
+  "fullName" : "Luca Settings: OW Api - edit family details, API_026.should click the go button in order to search for the newly created family",
+  "historyId" : "e42b9c6e4925c21b1f682c37e8c64b7d",
+  "time" : {
+    "start" : 1642323439999,
+    "stop" : 1642323441366,
+    "duration" : 1367
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the go button in order to search for the newly created family"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be8d93b0e0ad1850.json",
+  "parameterValues" : [ ]
+}

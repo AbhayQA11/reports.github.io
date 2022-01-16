@@ -1,0 +1,46 @@
+{
+  "uid" : "423eb23ddbb127ce",
+  "name" : "should input valid Static Ammount Smart Follow Up Fee value into the pop up field",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee.should input valid Static Ammount Smart Follow Up Fee value into the pop up field",
+  "historyId" : "a52e4904f290afb19d5f3acacea1944",
+  "time" : {
+    "start" : 1642323192343,
+    "stop" : 1642323193520,
+    "duration" : 1177
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid Static Ammount Smart Follow Up Fee value into the pop up field"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "423eb23ddbb127ce.json",
+  "parameterValues" : [ ]
+}

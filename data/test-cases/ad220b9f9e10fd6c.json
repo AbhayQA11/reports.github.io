@@ -1,0 +1,46 @@
+{
+  "uid" : "ad220b9f9e10fd6c",
+  "name" : "should verify that the pop-up fields and buttons are present and displayed",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should verify that the pop-up fields and buttons are present and displayed",
+  "historyId" : "2ad8634aa95d440b04aa236bd3b71d37",
+  "time" : {
+    "start" : 1642320146796,
+    "stop" : 1642320151608,
+    "duration" : 4812
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the pop-up fields and buttons are present and displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad220b9f9e10fd6c.json",
+  "parameterValues" : [ ]
+}

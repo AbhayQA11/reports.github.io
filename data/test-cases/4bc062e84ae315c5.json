@@ -1,0 +1,46 @@
+{
+  "uid" : "4bc062e84ae315c5",
+  "name" : "should click on the go button",
+  "fullName" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts.should click on the go button",
+  "historyId" : "b67d7ce5089b3627b60944c0492dfb11",
+  "time" : {
+    "start" : 1642319714996,
+    "stop" : 1642319716414,
+    "duration" : 1418
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the go button"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4bc062e84ae315c5.json",
+  "parameterValues" : [ ]
+}

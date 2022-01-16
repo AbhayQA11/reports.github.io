@@ -1,0 +1,48 @@
+{
+  "uid" : "c90b652edf1ebc2f",
+  "name" : "should check if Invoice filter is working",
+  "fullName" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page.should check if Invoice filter is working",
+  "historyId" : "d3e0bf16402bcd6fc4eac84298c71d94",
+  "time" : {
+    "start" : 1642320990689,
+    "stop" : 1642320990689,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check if Invoice filter is working"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c90b652edf1ebc2f.json",
+  "parameterValues" : [ ]
+}

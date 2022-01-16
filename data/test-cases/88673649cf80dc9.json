@@ -1,0 +1,46 @@
+{
+  "uid" : "88673649cf80dc9",
+  "name" : "should enter the enrollment code for school 11084",
+  "fullName" : "homepageTests: Verifies Enrollment code for Remove Fees.should enter the enrollment code for school 11084",
+  "historyId" : "b17686a6192df4cca99ab7b5cfbbfe64",
+  "time" : {
+    "start" : 1642317983026,
+    "stop" : 1642317985963,
+    "duration" : 2937
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should enter the enrollment code for school 11084"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88673649cf80dc9.json",
+  "parameterValues" : [ ]
+}

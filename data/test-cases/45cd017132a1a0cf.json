@@ -1,0 +1,46 @@
+{
+  "uid" : "45cd017132a1a0cf",
+  "name" : "should enter values into the Reason Field",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees controls Verification.should enter values into the Reason Field",
+  "historyId" : "1b9f05e1675f661a902bbb6b095456aa",
+  "time" : {
+    "start" : 1642323171913,
+    "stop" : 1642323173116,
+    "duration" : 1203
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should enter values into the Reason Field"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45cd017132a1a0cf.json",
+  "parameterValues" : [ ]
+}

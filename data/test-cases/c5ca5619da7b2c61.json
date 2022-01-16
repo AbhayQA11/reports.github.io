@@ -1,0 +1,46 @@
+{
+  "uid" : "c5ca5619da7b2c61",
+  "name" : "should verify the Buy Now Give Now Popup is closed, 2nd time",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings.should verify the Buy Now Give Now Popup is closed, 2nd time",
+  "historyId" : "d4baa06de8d7df5fd221d427babe1d8",
+  "time" : {
+    "start" : 1642320860550,
+    "stop" : 1642320862049,
+    "duration" : 1499
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Buy Now Give Now Popup is closed, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5ca5619da7b2c61.json",
+  "parameterValues" : [ ]
+}

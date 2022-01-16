@@ -1,0 +1,46 @@
+{
+  "uid" : "6148fcfb6454c9f5",
+  "name" : "should mouse over and verify the Additional Information Pictogram",
+  "fullName" : "lucaAddANoteTests: Verifying Error Validation.should mouse over and verify the Additional Information Pictogram",
+  "historyId" : "d8e5b1efd89cb868bccbe74dfa58f070",
+  "time" : {
+    "start" : 1642322989521,
+    "stop" : 1642322991312,
+    "duration" : 1791
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouse over and verify the Additional Information Pictogram"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6148fcfb6454c9f5.json",
+  "parameterValues" : [ ]
+}

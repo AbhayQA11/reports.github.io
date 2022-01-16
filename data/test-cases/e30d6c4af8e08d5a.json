@@ -1,0 +1,46 @@
+{
+  "uid" : "e30d6c4af8e08d5a",
+  "name" : "should select All Grades",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should select All Grades",
+  "historyId" : "83a041ee2d68dabe0c1bb84d67a9ca8",
+  "time" : {
+    "start" : 1642320166468,
+    "stop" : 1642320168672,
+    "duration" : 2204
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select All Grades"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e30d6c4af8e08d5a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "cd3c6406bf415f9e",
+  "name" : "should change school and select latest school year",
+  "fullName" : "Luca Settings: OW Api - edit family details, API_026.should change school and select latest school year",
+  "historyId" : "e4ee653d84b612e2586cc151f3fe9bb2",
+  "time" : {
+    "start" : 1642323427006,
+    "stop" : 1642323430576,
+    "duration" : 3570
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testMethod",
+    "value" : "should change school and select latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd3c6406bf415f9e.json",
+  "parameterValues" : [ ]
+}

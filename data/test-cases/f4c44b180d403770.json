@@ -1,0 +1,46 @@
+{
+  "uid" : "f4c44b180d403770",
+  "name" : "should wait for the family and students billing details page to load",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should wait for the family and students billing details page to load",
+  "historyId" : "a39b68285d43e134ef7992578d0476f",
+  "time" : {
+    "start" : 1642323461562,
+    "stop" : 1642323462935,
+    "duration" : 1373
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for the family and students billing details page to load"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4c44b180d403770.json",
+  "parameterValues" : [ ]
+}

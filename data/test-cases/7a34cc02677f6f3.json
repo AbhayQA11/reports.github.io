@@ -1,0 +1,46 @@
+{
+  "uid" : "7a34cc02677f6f3",
+  "name" : "should add general ledger ID",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should add general ledger ID",
+  "historyId" : "4fca968b03091d68e922824deb55021f",
+  "time" : {
+    "start" : 1642323306192,
+    "stop" : 1642323308207,
+    "duration" : 2015
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add general ledger ID"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a34cc02677f6f3.json",
+  "parameterValues" : [ ]
+}

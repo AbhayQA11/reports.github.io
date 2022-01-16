@@ -1,0 +1,46 @@
+{
+  "uid" : "649539b096ac39a7",
+  "name" : "should verify that the appropriate confirmation message is displayed",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account.should verify that the appropriate confirmation message is displayed",
+  "historyId" : "b5dab13d575886eb5a58f7c5e7cfbdcd",
+  "time" : {
+    "start" : 1642319355264,
+    "stop" : 1642319357910,
+    "duration" : 2646
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate confirmation message is displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "649539b096ac39a7.json",
+  "parameterValues" : [ ]
+}

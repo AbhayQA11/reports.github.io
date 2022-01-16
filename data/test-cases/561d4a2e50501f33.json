@@ -1,0 +1,46 @@
+{
+  "uid" : "561d4a2e50501f33",
+  "name" : "should click Cancel Student Info",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should click Cancel Student Info",
+  "historyId" : "7626c11688159f1a06e64f22905d4af4",
+  "time" : {
+    "start" : 1642323479016,
+    "stop" : 1642323480679,
+    "duration" : 1663
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click Cancel Student Info"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "561d4a2e50501f33.json",
+  "parameterValues" : [ ]
+}

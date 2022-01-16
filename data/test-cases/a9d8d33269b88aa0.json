@@ -1,0 +1,46 @@
+{
+  "uid" : "a9d8d33269b88aa0",
+  "name" : "should verify that the Family and Student page is loaded",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should verify that the Family and Student page is loaded",
+  "historyId" : "ef477d0d859b53fb64c39991114a574a",
+  "time" : {
+    "start" : 1642323434403,
+    "stop" : 1642323441749,
+    "duration" : 7346
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Family and Student page is loaded"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9d8d33269b88aa0.json",
+  "parameterValues" : [ ]
+}

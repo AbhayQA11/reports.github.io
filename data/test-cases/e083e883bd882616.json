@@ -1,0 +1,46 @@
+{
+  "uid" : "e083e883bd882616",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios.should load Luca login Page successfully",
+  "historyId" : "a21b238ffc06c6bdf38a45c63e7b7250",
+  "time" : {
+    "start" : 1642321214288,
+    "stop" : 1642321215775,
+    "duration" : 1487
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e083e883bd882616.json",
+  "parameterValues" : [ ]
+}

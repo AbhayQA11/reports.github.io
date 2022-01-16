@@ -1,0 +1,46 @@
+{
+  "uid" : "d6956175d7b197d0",
+  "name" : "should input correct password",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should input correct password",
+  "historyId" : "6e4c7bc7f62fb9fce30bbc0b0908174e",
+  "time" : {
+    "start" : 1642319568615,
+    "stop" : 1642319569740,
+    "duration" : 1125
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6956175d7b197d0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "1bc5712bf2e7bfc2",
+  "name" : "should verify that the Email Parents has been reached",
+  "fullName" : "Main Landing Page, Verify Families + Discounts Menu Accessibility.should verify that the Email Parents has been reached",
+  "historyId" : "17e58f040fa82f31e578b1101aa6db60",
+  "time" : {
+    "start" : 1642319908023,
+    "stop" : 1642319911615,
+    "duration" : 3592
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Email Parents has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1bc5712bf2e7bfc2.json",
+  "parameterValues" : [ ]
+}

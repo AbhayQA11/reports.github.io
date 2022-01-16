@@ -1,0 +1,46 @@
+{
+  "uid" : "8a1dea0aaded6288",
+  "name" : "should get and store the GL ID for the first Fee",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Fees Test Case.should get and store the GL ID for the first Fee",
+  "historyId" : "a71ce59d5dd5a02c4f7295deec496597",
+  "time" : {
+    "start" : 1642323087885,
+    "stop" : 1642323089388,
+    "duration" : 1503
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Fees Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Fees Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the GL ID for the first Fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Fees Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a1dea0aaded6288.json",
+  "parameterValues" : [ ]
+}

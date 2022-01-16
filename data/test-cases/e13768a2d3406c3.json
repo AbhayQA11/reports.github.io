@@ -1,0 +1,46 @@
+{
+  "uid" : "e13768a2d3406c3",
+  "name" : "should verify that the appropriate newly added fee message is received",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should verify that the appropriate newly added fee message is received",
+  "historyId" : "f94a2d4922394254844c8260718af93",
+  "time" : {
+    "start" : 1642320171957,
+    "stop" : 1642320179550,
+    "duration" : 7593
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate newly added fee message is received"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e13768a2d3406c3.json",
+  "parameterValues" : [ ]
+}

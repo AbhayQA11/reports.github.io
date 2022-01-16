@@ -1,0 +1,46 @@
+{
+  "uid" : "e169160980f6ef38",
+  "name" : "should create a family Via Api",
+  "fullName" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee.should create a family Via Api",
+  "historyId" : "e9334e6d44a55d680ab1dba072a6010a",
+  "time" : {
+    "start" : 1642318269644,
+    "stop" : 1642318272929,
+    "duration" : 3285
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family Via Api"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e169160980f6ef38.json",
+  "parameterValues" : [ ]
+}

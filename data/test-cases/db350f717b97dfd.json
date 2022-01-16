@@ -1,0 +1,46 @@
+{
+  "uid" : "db350f717b97dfd",
+  "name" : "should verify that the appropriate message is received when updating a discount",
+  "fullName" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification.should verify that the appropriate message is received when updating a discount",
+  "historyId" : "105f4341150551597d314e217a19a3b3",
+  "time" : {
+    "start" : 1642320234161,
+    "stop" : 1642320241825,
+    "duration" : 7664
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received when updating a discount"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db350f717b97dfd.json",
+  "parameterValues" : [ ]
+}

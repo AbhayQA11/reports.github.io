@@ -1,0 +1,46 @@
+{
+  "uid" : "4c1114d8e766b443",
+  "name" : "should input new pasword into New Pass Field",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should input new pasword into New Pass Field",
+  "historyId" : "4d17ef050cc0ce82f1b37cb71baf8762",
+  "time" : {
+    "start" : 1642323872598,
+    "stop" : 1642323874204,
+    "duration" : 1606
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new pasword into New Pass Field"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c1114d8e766b443.json",
+  "parameterValues" : [ ]
+}

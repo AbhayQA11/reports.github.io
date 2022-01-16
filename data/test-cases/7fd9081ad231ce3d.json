@@ -1,0 +1,46 @@
+{
+  "uid" : "7fd9081ad231ce3d",
+  "name" : "should log out from luca",
+  "fullName" : "lucaEnrollment: verify filters on All families.should log out from luca",
+  "historyId" : "3f3c7ec724505df114da2cdd2aa7772a",
+  "time" : {
+    "start" : 1642319423295,
+    "stop" : 1642319427419,
+    "duration" : 4124
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on All families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on All families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on All families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7fd9081ad231ce3d.json",
+  "parameterValues" : [ ]
+}

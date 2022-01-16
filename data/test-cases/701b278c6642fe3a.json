@@ -1,0 +1,46 @@
+{
+  "uid" : "701b278c6642fe3a",
+  "name" : "should input new value into the ZipCode field",
+  "fullName" : "Renweb Tests: Registration for adding new student.should input new value into the ZipCode field",
+  "historyId" : "9c7a94d5696b30bcf513b840067d9961",
+  "time" : {
+    "start" : 1642318063696,
+    "stop" : 1642318064618,
+    "duration" : 922
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new value into the ZipCode field"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "701b278c6642fe3a.json",
+  "parameterValues" : [ ]
+}

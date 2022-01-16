@@ -1,0 +1,46 @@
+{
+  "uid" : "9ae9f47092288b7c",
+  "name" : "should click on Payments button in Dashboards again",
+  "fullName" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page.should click on Payments button in Dashboards again",
+  "historyId" : "d687188d387e874fbe9db078bc691a62",
+  "time" : {
+    "start" : 1642320937793,
+    "stop" : 1642320938765,
+    "duration" : 972
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Payments button in Dashboards again"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ae9f47092288b7c.json",
+  "parameterValues" : [ ]
+}

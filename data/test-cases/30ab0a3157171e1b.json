@@ -1,0 +1,46 @@
+{
+  "uid" : "30ab0a3157171e1b",
+  "name" : "should verify that the pop-up is displayed and appropriate message is displayed",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should verify that the pop-up is displayed and appropriate message is displayed",
+  "historyId" : "666721d2f6051852e07fda93f6b96839",
+  "time" : {
+    "start" : 1642318424497,
+    "stop" : 1642318426173,
+    "duration" : 1676
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the pop-up is displayed and appropriate message is displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "30ab0a3157171e1b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "5fbb0b000661b1b8",
+  "name" : "should input a school number in the search field",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests.should input a school number in the search field",
+  "historyId" : "2cd5a8cda40677ce9378e136897f3b6c",
+  "time" : {
+    "start" : 1642323726289,
+    "stop" : 1642323727690,
+    "duration" : 1401
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a school number in the search field"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fbb0b000661b1b8.json",
+  "parameterValues" : [ ]
+}

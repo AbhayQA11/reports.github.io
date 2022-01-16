@@ -1,0 +1,46 @@
+{
+  "uid" : "b384910e9b59159f",
+  "name" : "should input the School Student Id",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should input the School Student Id",
+  "historyId" : "5c5f59dbafa2e1adbdb921f6cf532cce",
+  "time" : {
+    "start" : 1642323425686,
+    "stop" : 1642323426314,
+    "duration" : 628
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the School Student Id"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b384910e9b59159f.json",
+  "parameterValues" : [ ]
+}

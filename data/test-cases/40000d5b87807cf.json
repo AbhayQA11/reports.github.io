@@ -1,0 +1,46 @@
+{
+  "uid" : "40000d5b87807cf",
+  "name" : "should click on search button in order to search for the school",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts.should click on search button in order to search for the school",
+  "historyId" : "4065513bebcd5fd3b8c3ad4d0954194b",
+  "time" : {
+    "start" : 1642320330400,
+    "stop" : 1642320331725,
+    "duration" : 1325
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button in order to search for the school"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40000d5b87807cf.json",
+  "parameterValues" : [ ]
+}

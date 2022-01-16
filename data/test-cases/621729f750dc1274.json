@@ -1,0 +1,46 @@
+{
+  "uid" : "621729f750dc1274",
+  "name" : "should verify the Deferred GL ID Changes",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should verify the Deferred GL ID Changes",
+  "historyId" : "a641510fad22c625e72b4b8481469010",
+  "time" : {
+    "start" : 1642323181787,
+    "stop" : 1642323183322,
+    "duration" : 1535
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Deferred GL ID Changes"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "621729f750dc1274.json",
+  "parameterValues" : [ ]
+}

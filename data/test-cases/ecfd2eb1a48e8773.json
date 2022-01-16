@@ -1,0 +1,46 @@
+{
+  "uid" : "ecfd2eb1a48e8773",
+  "name" : "should add a Student Via API",
+  "fullName" : "Luca Settings: Add a student to a pre-existing family and verify UI data API_84, API_85, API_86.should add a Student Via API",
+  "historyId" : "c581f0c641fcb0f4d69b7570dee6a7c3",
+  "time" : {
+    "start" : 1642323573221,
+    "stop" : 1642323600089,
+    "duration" : 26868
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Add a student to a pre-existing family and verify UI data API_84, API_85, API_86"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Add a student to a pre-existing family and verify UI data API_84, API_85, API_86"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add a Student Via API"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Add a student to a pre-existing family and verify UI data API_84, API_85, API_86"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ecfd2eb1a48e8773.json",
+  "parameterValues" : [ ]
+}

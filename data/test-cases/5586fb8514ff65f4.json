@@ -1,0 +1,46 @@
+{
+  "uid" : "5586fb8514ff65f4",
+  "name" : "should click on editing a payment plan name",
+  "fullName" : "Luca Settings: OW API_008 tests.should click on editing a payment plan name",
+  "historyId" : "55beaaaa672a139a50fe57cbe4188e26",
+  "time" : {
+    "start" : 1642323347225,
+    "stop" : 1642323349157,
+    "duration" : 1932
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on editing a payment plan name"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5586fb8514ff65f4.json",
+  "parameterValues" : [ ]
+}

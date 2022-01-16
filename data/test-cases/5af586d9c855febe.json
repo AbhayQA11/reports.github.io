@@ -1,0 +1,46 @@
+{
+  "uid" : "5af586d9c855febe",
+  "name" : "should log out from luca",
+  "fullName" : "Luca Settings: OW Api - Add new family login api API_073.should log out from luca",
+  "historyId" : "bc1e016b1dae20f051bf40fa358307e6",
+  "time" : {
+    "start" : 1642323573189,
+    "stop" : 1642323576089,
+    "duration" : 2900
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5af586d9c855febe.json",
+  "parameterValues" : [ ]
+}

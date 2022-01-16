@@ -1,0 +1,46 @@
+{
+  "uid" : "cfc35aa1b409f52d",
+  "name" : "should click on the Enrollment button",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on the Enrollment button",
+  "historyId" : "18057692db088b9c3ad5a9d4059ed1dc",
+  "time" : {
+    "start" : 1642323010234,
+    "stop" : 1642323012155,
+    "duration" : 1921
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Enrollment button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cfc35aa1b409f52d.json",
+  "parameterValues" : [ ]
+}

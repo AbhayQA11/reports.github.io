@@ -1,0 +1,46 @@
+{
+  "uid" : "c2638bcbbc5f5cd2",
+  "name" : "should fill in the Family Head in order to create a family with Auto Debit Credit Card Option",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should fill in the Family Head in order to create a family with Auto Debit Credit Card Option",
+  "historyId" : "f794a50a3f3fa4f1e98a2a1d8c69b066",
+  "time" : {
+    "start" : 1642319326098,
+    "stop" : 1642319328712,
+    "duration" : 2614
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Family Head in order to create a family with Auto Debit Credit Card Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2638bcbbc5f5cd2.json",
+  "parameterValues" : [ ]
+}

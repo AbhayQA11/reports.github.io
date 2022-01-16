@@ -1,0 +1,46 @@
+{
+  "uid" : "75c5d0c891eccf99",
+  "name" : "should select a grade for the student",
+  "fullName" : "lucaEnrollment: Enroll new family .should select a grade for the student",
+  "historyId" : "dba55756fa7cd41bdd70c6684df06d9c",
+  "time" : {
+    "start" : 1642319119393,
+    "stop" : 1642319120957,
+    "duration" : 1564
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a grade for the student"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75c5d0c891eccf99.json",
+  "parameterValues" : [ ]
+}

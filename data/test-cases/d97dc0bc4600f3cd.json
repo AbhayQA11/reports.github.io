@@ -1,0 +1,46 @@
+{
+  "uid" : "d97dc0bc4600f3cd",
+  "name" : "should input valid luca password",
+  "fullName" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee.should input valid luca password",
+  "historyId" : "372964790ea87a581ccd8e2e3f167b4c",
+  "time" : {
+    "start" : 1642318314589,
+    "stop" : 1642318315786,
+    "duration" : 1197
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid luca password"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d97dc0bc4600f3cd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "9c170e7c1620347c",
+  "name" : "should input the city name",
+  "fullName" : "homepageTests: Verifies Enrollment code for Remove Fees.should input the city name",
+  "historyId" : "2dc455e1d4976848c73e045f324e9f1f",
+  "time" : {
+    "start" : 1642317955440,
+    "stop" : 1642317956461,
+    "duration" : 1021
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the city name"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c170e7c1620347c.json",
+  "parameterValues" : [ ]
+}

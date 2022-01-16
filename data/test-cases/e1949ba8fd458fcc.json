@@ -1,0 +1,46 @@
+{
+  "uid" : "e1949ba8fd458fcc",
+  "name" : "should verify that the Re-Enroll Families Page has been reached",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should verify that the Re-Enroll Families Page has been reached",
+  "historyId" : "8480d8ee22dd18eb82dbc5c15ddeb71e",
+  "time" : {
+    "start" : 1642319954654,
+    "stop" : 1642319958306,
+    "duration" : 3652
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Re-Enroll Families Page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1949ba8fd458fcc.json",
+  "parameterValues" : [ ]
+}

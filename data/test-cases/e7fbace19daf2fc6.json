@@ -1,0 +1,46 @@
+{
+  "uid" : "e7fbace19daf2fc6",
+  "name" : "should select all grades",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should select all grades",
+  "historyId" : "cb3be3abd4800f0bbfa3a0ea77b10023",
+  "time" : {
+    "start" : 1642323313093,
+    "stop" : 1642323315571,
+    "duration" : 2478
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select all grades"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e7fbace19daf2fc6.json",
+  "parameterValues" : [ ]
+}

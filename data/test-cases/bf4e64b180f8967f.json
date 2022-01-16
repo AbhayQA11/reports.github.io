@@ -1,0 +1,46 @@
+{
+  "uid" : "bf4e64b180f8967f",
+  "name" : "should select the latest school year",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification.should select the latest school year",
+  "historyId" : "11d27dda61d0ff0f511d495600d6391c",
+  "time" : {
+    "start" : 1642321098240,
+    "stop" : 1642321101959,
+    "duration" : 3719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf4e64b180f8967f.json",
+  "parameterValues" : [ ]
+}

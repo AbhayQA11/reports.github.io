@@ -1,0 +1,46 @@
+{
+  "uid" : "8a789da35230387c",
+  "name" : "should input into the filter a Family ID of a family with Auto Debit Credit Card Account Payment",
+  "fullName" : "lucaAutomaticDebitSettings: Payment Type Verification.should input into the filter a Family ID of a family with Auto Debit Credit Card Account Payment",
+  "historyId" : "b6c6d3b7bc1830c4968da4b4f4f7e289",
+  "time" : {
+    "start" : 1642323262506,
+    "stop" : 1642323266858,
+    "duration" : 4352
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input into the filter a Family ID of a family with Auto Debit Credit Card Account Payment"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a789da35230387c.json",
+  "parameterValues" : [ ]
+}

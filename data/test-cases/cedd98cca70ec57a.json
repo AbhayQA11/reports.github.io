@@ -1,0 +1,46 @@
+{
+  "uid" : "cedd98cca70ec57a",
+  "name" : "should verify that Largest Discounts by percentage section is displayed, with its elements",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should verify that Largest Discounts by percentage section is displayed, with its elements",
+  "historyId" : "2191a6740165e9218cc0b3241c94be2e",
+  "time" : {
+    "start" : 1642320141051,
+    "stop" : 1642320142714,
+    "duration" : 1663
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Largest Discounts by percentage section is displayed, with its elements"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cedd98cca70ec57a.json",
+  "parameterValues" : [ ]
+}

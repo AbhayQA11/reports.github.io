@@ -1,0 +1,46 @@
+{
+  "uid" : "e6f19a0aea4478f8",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should load Luca login Page successfully",
+  "historyId" : "cf17c7282e9ea1900f5ce7f52a3e8473",
+  "time" : {
+    "start" : 1642317895385,
+    "stop" : 1642317898070,
+    "duration" : 2685
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6f19a0aea4478f8.json",
+  "parameterValues" : [ ]
+}

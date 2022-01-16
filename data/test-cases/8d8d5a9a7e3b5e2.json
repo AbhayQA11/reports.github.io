@@ -1,0 +1,70 @@
+{
+  "uid" : "8d8d5a9a7e3b5e2",
+  "name" : "should verify that 100 items are displayed",
+  "fullName" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check.should verify that 100 items are displayed",
+  "historyId" : "3f2ba1d59f77d5d080e27359d0c88d50",
+  "time" : {
+    "start" : 1642320223420,
+    "stop" : 1642320226304,
+    "duration" : 2884
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 59 to equal 100.",
+  "statusTrace" : "Error: Failed expectation\n                    at lucaFeesDiscountsPage.verifyNoOfItemsInTable (F:/k20automation/pages/lucaPages/lucaFeesAndDiscounts/lucaFeesAndDiscountsPage.js:498:44)\n                    at UserContext.<anonymous> (F:/k20automation/tests/lucaTests/lucaFeesAndDiscountsTests/luca_FeesAndDiscountsPaginationCheckFilterValidation_spec.js:96:21)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 59 to equal 100.",
+    "statusTrace" : "Error: Failed expectation\n                    at lucaFeesDiscountsPage.verifyNoOfItemsInTable (F:/k20automation/pages/lucaPages/lucaFeesAndDiscounts/lucaFeesAndDiscountsPage.js:498:44)\n                    at UserContext.<anonymous> (F:/k20automation/tests/lucaTests/lucaFeesAndDiscountsTests/luca_FeesAndDiscountsPaginationCheckFilterValidation_spec.js:96:21)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1794e259249721e",
+      "name" : "Screenshot",
+      "source" : "1794e259249721e.png",
+      "type" : "image/png",
+      "size" : 244021
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that 100 items are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8d8d5a9a7e3b5e2.json",
+  "parameterValues" : [ ]
+}

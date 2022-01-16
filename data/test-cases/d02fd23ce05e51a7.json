@@ -1,0 +1,46 @@
+{
+  "uid" : "d02fd23ce05e51a7",
+  "name" : "should reach Add a Note page",
+  "fullName" : "lucaAddANoteTests: Verifying Read Only Test User.should reach Add a Note page",
+  "historyId" : "768357b3ec4bb9df050088a407245bc4",
+  "time" : {
+    "start" : 1642322946426,
+    "stop" : 1642322949425,
+    "duration" : 2999
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach Add a Note page"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d02fd23ce05e51a7.json",
+  "parameterValues" : [ ]
+}

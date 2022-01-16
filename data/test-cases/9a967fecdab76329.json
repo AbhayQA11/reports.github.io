@@ -1,0 +1,54 @@
+{
+  "uid" : "9a967fecdab76329",
+  "name" : "should move the mouse over the Families link and click on Manage Families Details",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should move the mouse over the Families link and click on Manage Families Details",
+  "historyId" : "9607b1f786c82d9fca19d380f783d2db",
+  "time" : {
+    "start" : 1642322477388,
+    "stop" : 1642322478562,
+    "duration" : 1174
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should move the mouse over the Families link and click on Manage Families Details"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cabf4867cc62b2f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318299882,
+        "stop" : 1642318300997,
+        "duration" : 1115
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a967fecdab76329.json",
+  "parameterValues" : [ ]
+}

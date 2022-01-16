@@ -1,0 +1,46 @@
+{
+  "uid" : "d674776ed6cf56bb",
+  "name" : "should get and store All the text that was inputed in order to check against it",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should get and store All the text that was inputed in order to check against it",
+  "historyId" : "83b9f193b43a4399c3fecb06754bd88d",
+  "time" : {
+    "start" : 1642322954047,
+    "stop" : 1642322955044,
+    "duration" : 997
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store All the text that was inputed in order to check against it"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d674776ed6cf56bb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "4ededcdbdcb25edb",
+  "name" : "should verify that the appropriate confirmation message is displayed",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should verify that the appropriate confirmation message is displayed",
+  "historyId" : "5473e112c2de7641aaa69ce879534687",
+  "time" : {
+    "start" : 1642319187978,
+    "stop" : 1642319189543,
+    "duration" : 1565
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate confirmation message is displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ededcdbdcb25edb.json",
+  "parameterValues" : [ ]
+}

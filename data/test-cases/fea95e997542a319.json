@@ -1,0 +1,46 @@
+{
+  "uid" : "fea95e997542a319",
+  "name" : "should click on go button in order to change school and select latest school year",
+  "fullName" : "Luca Settings: OW Api - Add new family login api API_073.should click on go button in order to change school and select latest school year",
+  "historyId" : "db562b7b892cdf881376e298d5df1444",
+  "time" : {
+    "start" : 1642323535441,
+    "stop" : 1642323536785,
+    "duration" : 1344
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on go button in order to change school and select latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fea95e997542a319.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "64b2a07333ffaaa4",
+  "name" : "should click on search button in order to change school and select latest school year",
+  "fullName" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63.should click on search button in order to change school and select latest school year",
+  "historyId" : "2cfa4a6d18f986ba6495d8c1bd6e1cb2",
+  "time" : {
+    "start" : 1642323535637,
+    "stop" : 1642323537101,
+    "duration" : 1464
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button in order to change school and select latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64b2a07333ffaaa4.json",
+  "parameterValues" : [ ]
+}

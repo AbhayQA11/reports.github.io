@@ -1,0 +1,46 @@
+{
+  "uid" : "6daf195ac485906a",
+  "name" : "should log out from luca",
+  "fullName" : "lucaAddANoteTests: Verifying Maximum Text Length for input fields.should log out from luca",
+  "historyId" : "66af08a974aa17d9f0093ef162852159",
+  "time" : {
+    "start" : 1642323199957,
+    "stop" : 1642323202930,
+    "duration" : 2973
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Maximum Text Length for input fields"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Maximum Text Length for input fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Maximum Text Length for input fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6daf195ac485906a.json",
+  "parameterValues" : [ ]
+}

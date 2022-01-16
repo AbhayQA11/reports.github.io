@@ -1,0 +1,46 @@
+{
+  "uid" : "c9644461f0e46fbc",
+  "name" : "should input Username",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access.should input Username",
+  "historyId" : "85a1309ab719eacc316963681a381e06",
+  "time" : {
+    "start" : 1642320623070,
+    "stop" : 1642320625632,
+    "duration" : 2562
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input Username"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9644461f0e46fbc.json",
+  "parameterValues" : [ ]
+}

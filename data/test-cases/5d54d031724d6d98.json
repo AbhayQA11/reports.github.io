@@ -1,0 +1,46 @@
+{
+  "uid" : "5d54d031724d6d98",
+  "name" : "should input newly created family",
+  "fullName" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service.should input newly created family",
+  "historyId" : "436fb654d9f92a3d39c10a055909fe3a",
+  "time" : {
+    "start" : 1642323033746,
+    "stop" : 1642323038287,
+    "duration" : 4541
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input newly created family"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d54d031724d6d98.json",
+  "parameterValues" : [ ]
+}

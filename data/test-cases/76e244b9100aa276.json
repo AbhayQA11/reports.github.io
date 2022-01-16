@@ -1,0 +1,46 @@
+{
+  "uid" : "76e244b9100aa276",
+  "name" : "should verify that the Manage Fees & Discounts page has been reached",
+  "fullName" : "Luca Settings: Manage Payment Plans tests API_014.should verify that the Manage Fees & Discounts page has been reached",
+  "historyId" : "a8103c2d2f5b90e748a3d30d483d9752",
+  "time" : {
+    "start" : 1642323374250,
+    "stop" : 1642323377858,
+    "duration" : 3608
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Manage Fees & Discounts page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76e244b9100aa276.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "4d06a5554402b2a",
+  "name" : "should input Valid Password",
+  "fullName" : "Tuition Manager Authentification Module.should input Valid Password",
+  "historyId" : "36a1e462397f2f1fae12cf35cff31f22",
+  "time" : {
+    "start" : 1642323998106,
+    "stop" : 1642323999975,
+    "duration" : 1869
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input Valid Password"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d06a5554402b2a.json",
+  "parameterValues" : [ ]
+}

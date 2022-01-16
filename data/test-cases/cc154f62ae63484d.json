@@ -1,0 +1,46 @@
+{
+  "uid" : "cc154f62ae63484d",
+  "name" : "should modify user data in order to activate the family",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests.should modify user data in order to activate the family",
+  "historyId" : "8d6aadf5856dcb864ca9d0155cb50c7",
+  "time" : {
+    "start" : 1642323637204,
+    "stop" : 1642323674269,
+    "duration" : 37065
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to activate the family"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc154f62ae63484d.json",
+  "parameterValues" : [ ]
+}

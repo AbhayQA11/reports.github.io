@@ -1,0 +1,46 @@
+{
+  "uid" : "e0bc4ca10dab3d55",
+  "name" : "should verify the confirmation message",
+  "fullName" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68.should verify the confirmation message",
+  "historyId" : "6d25114694d14f5d753b77379d49887f",
+  "time" : {
+    "start" : 1642323550297,
+    "stop" : 1642323558074,
+    "duration" : 7777
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the confirmation message"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0bc4ca10dab3d55.json",
+  "parameterValues" : [ ]
+}

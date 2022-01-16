@@ -1,0 +1,46 @@
+{
+  "uid" : "aed4f38c9825b898",
+  "name" : "should verify that the Administration Fee Distribution Type Dropdown is not on the page",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests.should verify that the Administration Fee Distribution Type Dropdown is not on the page",
+  "historyId" : "23719db997f4c4639c35bf301737d9ad",
+  "time" : {
+    "start" : 1642323778500,
+    "stop" : 1642323778978,
+    "duration" : 478
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Administration Fee Distribution Type Dropdown is not on the page"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Fee Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aed4f38c9825b898.json",
+  "parameterValues" : [ ]
+}

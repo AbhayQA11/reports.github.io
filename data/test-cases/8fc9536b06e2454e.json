@@ -1,0 +1,46 @@
+{
+  "uid" : "8fc9536b06e2454e",
+  "name" : "should click the Buy Now Give Now Manage Settings footer button, 1st time",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings.should click the Buy Now Give Now Manage Settings footer button, 1st time",
+  "historyId" : "c1b3a43dca3fd852ff8cf37057323acc",
+  "time" : {
+    "start" : 1642320813844,
+    "stop" : 1642320817740,
+    "duration" : 3896
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Buy Now Give Now Manage Settings footer button, 1st time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fc9536b06e2454e.json",
+  "parameterValues" : [ ]
+}

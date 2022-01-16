@@ -1,0 +1,46 @@
+{
+  "uid" : "8de7479441b40fa1",
+  "name" : "should log out from luca",
+  "fullName" : "lucaAutomaticDebitSettings: Payment Type Verification.should log out from luca",
+  "historyId" : "46a801b8fca86b981240cfb5790d1c55",
+  "time" : {
+    "start" : 1642323587194,
+    "stop" : 1642323590639,
+    "duration" : 3445
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8de7479441b40fa1.json",
+  "parameterValues" : [ ]
+}

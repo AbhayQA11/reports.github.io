@@ -1,0 +1,46 @@
+{
+  "uid" : "2edb74a3f494d8a9",
+  "name" : "should click to accept the Terms and Conditions",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should click to accept the Terms and Conditions",
+  "historyId" : "e3b49974902cf421792e18305bf90d91",
+  "time" : {
+    "start" : 1642317940598,
+    "stop" : 1642317941284,
+    "duration" : 686
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click to accept the Terms and Conditions"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2edb74a3f494d8a9.json",
+  "parameterValues" : [ ]
+}

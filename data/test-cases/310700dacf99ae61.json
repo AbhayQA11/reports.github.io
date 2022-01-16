@@ -1,0 +1,46 @@
+{
+  "uid" : "310700dacf99ae61",
+  "name" : "should log out from luca",
+  "fullName" : "lucaBillingTests: Verify Read Only Test Account.should log out from luca",
+  "historyId" : "ce4afc401114dd38f41913cbfc59bb",
+  "time" : {
+    "start" : 1642319521147,
+    "stop" : 1642319523057,
+    "duration" : 1910
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "310700dacf99ae61.json",
+  "parameterValues" : [ ]
+}

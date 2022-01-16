@@ -1,0 +1,46 @@
+{
+  "uid" : "53bfffc49406b219",
+  "name" : "should select the latest school year",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should select the latest school year",
+  "historyId" : "11c97d9b11687b44a97df9986430ac1f",
+  "time" : {
+    "start" : 1642320129304,
+    "stop" : 1642320133145,
+    "duration" : 3841
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53bfffc49406b219.json",
+  "parameterValues" : [ ]
+}

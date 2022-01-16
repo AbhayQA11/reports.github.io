@@ -1,0 +1,46 @@
+{
+  "uid" : "6524b2288cc5eafc",
+  "name" : "should input school admin password",
+  "fullName" : "lucaDashboardsTests: Luca Payments, add a payment, school user.should input school admin password",
+  "historyId" : "c0590f56b61f337913cc9209cd21ee0d",
+  "time" : {
+    "start" : 1642320991642,
+    "stop" : 1642320992763,
+    "duration" : 1121
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, school user"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, school user"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input school admin password"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, school user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6524b2288cc5eafc.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "df76043bdaa14d20",
+  "name" : "should verify that the appropriate message is received",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests.should verify that the appropriate message is received",
+  "historyId" : "1947effee381f787e2f4ea51c228f972",
+  "time" : {
+    "start" : 1642323785494,
+    "stop" : 1642323793309,
+    "duration" : 7815
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Extend Payment Plan Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df76043bdaa14d20.json",
+  "parameterValues" : [ ]
+}

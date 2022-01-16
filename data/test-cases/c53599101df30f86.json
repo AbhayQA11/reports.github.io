@@ -1,0 +1,46 @@
+{
+  "uid" : "c53599101df30f86",
+  "name" : "should verify Email Addresses To Bcc Payment Confirmation is visible",
+  "fullName" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups.should verify Email Addresses To Bcc Payment Confirmation is visible",
+  "historyId" : "8fa5a9bae119ed603e50baa648d4f41b",
+  "time" : {
+    "start" : 1642320957631,
+    "stop" : 1642320958865,
+    "duration" : 1234
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify Email Addresses To Bcc Payment Confirmation is visible"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c53599101df30f86.json",
+  "parameterValues" : [ ]
+}

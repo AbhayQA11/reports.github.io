@@ -1,0 +1,46 @@
+{
+  "uid" : "6a0dcebc320b8e11",
+  "name" : "should modify user data in order to log in the user in EWS",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify the rest of batch actions actions towards family.should modify user data in order to log in the user in EWS",
+  "historyId" : "51dbd858b42c06aedabd6c28fdbcdae4",
+  "time" : {
+    "start" : 1642318334821,
+    "stop" : 1642318370517,
+    "duration" : 35696
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify the rest of batch actions actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify the rest of batch actions actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to log in the user in EWS"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify the rest of batch actions actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a0dcebc320b8e11.json",
+  "parameterValues" : [ ]
+}

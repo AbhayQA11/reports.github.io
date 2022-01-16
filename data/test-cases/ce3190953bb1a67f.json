@@ -1,0 +1,46 @@
+{
+  "uid" : "ce3190953bb1a67f",
+  "name" : "should create a family with Credit Card Payment Method",
+  "fullName" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056.should create a family with Credit Card Payment Method",
+  "historyId" : "9eb9836cf07c1791abf007702de5d145",
+  "time" : {
+    "start" : 1642323470432,
+    "stop" : 1642323498393,
+    "duration" : 27961
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family with Credit Card Payment Method"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce3190953bb1a67f.json",
+  "parameterValues" : [ ]
+}

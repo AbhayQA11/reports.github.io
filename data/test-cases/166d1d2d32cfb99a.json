@@ -1,0 +1,46 @@
+{
+  "uid" : "166d1d2d32cfb99a",
+  "name" : "should click on the Newly Appeared Late Fee Review button",
+  "fullName" : "lucaAddANoteTests: Verifying Error Validation.should click on the Newly Appeared Late Fee Review button",
+  "historyId" : "dda6d0e2907ce3b6ebd03022af3401ae",
+  "time" : {
+    "start" : 1642322968869,
+    "stop" : 1642322970794,
+    "duration" : 1925
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Newly Appeared Late Fee Review button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "166d1d2d32cfb99a.json",
+  "parameterValues" : [ ]
+}

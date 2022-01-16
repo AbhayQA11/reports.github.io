@@ -1,0 +1,46 @@
+{
+  "uid" : "a921b3a0a32f390d",
+  "name" : "should verify that the Buy Now GiveNow Dashboard page is displayed",
+  "fullName" : "Main Landing Page, Switching School Year Verification .should verify that the Buy Now GiveNow Dashboard page is displayed",
+  "historyId" : "2ae870d587a8fb1eaa8e3e80f182d4cc",
+  "time" : {
+    "start" : 1642320040615,
+    "stop" : 1642320044226,
+    "duration" : 3611
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Buy Now GiveNow Dashboard page is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a921b3a0a32f390d.json",
+  "parameterValues" : [ ]
+}

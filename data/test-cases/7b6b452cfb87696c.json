@@ -1,0 +1,46 @@
+{
+  "uid" : "7b6b452cfb87696c",
+  "name" : "should verify that the Day One page has been reached",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should verify that the Day One page has been reached",
+  "historyId" : "da1cd1d97d365b3aaf24e3bfd7ca5b16",
+  "time" : {
+    "start" : 1642323036237,
+    "stop" : 1642323039915,
+    "duration" : 3678
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Day One page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b6b452cfb87696c.json",
+  "parameterValues" : [ ]
+}

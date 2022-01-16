@@ -1,0 +1,46 @@
+{
+  "uid" : "352f41478dc9e446",
+  "name" : "should click on manage Rate Card",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click on manage Rate Card",
+  "historyId" : "364970c0acb950385c017be30a7da443",
+  "time" : {
+    "start" : 1642319968407,
+    "stop" : 1642319968735,
+    "duration" : 328
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on manage Rate Card"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "352f41478dc9e446.json",
+  "parameterValues" : [ ]
+}

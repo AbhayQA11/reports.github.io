@@ -1,0 +1,46 @@
+{
+  "uid" : "32e709b4ac8e7683",
+  "name" : "should add all the information required for a new fee: Fee Amount",
+  "fullName" : "Luca Settings: OW API_007 tests.should add all the information required for a new fee: Fee Amount",
+  "historyId" : "c25623f5b7b3a452d1051676be8f32e7",
+  "time" : {
+    "start" : 1642323327582,
+    "stop" : 1642323329359,
+    "duration" : 1777
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add all the information required for a new fee: Fee Amount"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32e709b4ac8e7683.json",
+  "parameterValues" : [ ]
+}

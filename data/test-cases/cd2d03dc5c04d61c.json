@@ -1,0 +1,46 @@
+{
+  "uid" : "cd2d03dc5c04d61c",
+  "name" : "should click on Add New Discount button, 3rd time",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should click on Add New Discount button, 3rd time",
+  "historyId" : "d0aaef914e394d886155d94ca2ac7fdf",
+  "time" : {
+    "start" : 1642320194400,
+    "stop" : 1642320196059,
+    "duration" : 1659
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Add New Discount button, 3rd time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd2d03dc5c04d61c.json",
+  "parameterValues" : [ ]
+}

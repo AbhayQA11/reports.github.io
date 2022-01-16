@@ -1,0 +1,46 @@
+{
+  "uid" : "6c3da8f152be2693",
+  "name" : "should create an account with Unknown Payment Method",
+  "fullName" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90.should create an account with Unknown Payment Method",
+  "historyId" : "6c7e0ad19b04e7182eb0395b66521955",
+  "time" : {
+    "start" : 1642323673184,
+    "stop" : 1642323678091,
+    "duration" : 4907
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create an account with Unknown Payment Method"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c3da8f152be2693.json",
+  "parameterValues" : [ ]
+}

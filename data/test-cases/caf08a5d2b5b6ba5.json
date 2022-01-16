@@ -1,0 +1,46 @@
+{
+  "uid" : "caf08a5d2b5b6ba5",
+  "name" : "should complete the registration",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account.should complete the registration",
+  "historyId" : "e4bc6a68218ca1b8df4212413b4a0928",
+  "time" : {
+    "start" : 1642319353715,
+    "stop" : 1642319355264,
+    "duration" : 1549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should complete the registration"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "caf08a5d2b5b6ba5.json",
+  "parameterValues" : [ ]
+}

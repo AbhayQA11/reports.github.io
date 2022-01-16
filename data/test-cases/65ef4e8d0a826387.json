@@ -1,0 +1,46 @@
+{
+  "uid" : "65ef4e8d0a826387",
+  "name" : "should clear Smart Follow Up Fee pop-up",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees controls Verification.should clear Smart Follow Up Fee pop-up",
+  "historyId" : "3d7249607157b7ac33f19443df5c3d43",
+  "time" : {
+    "start" : 1642323175789,
+    "stop" : 1642323177320,
+    "duration" : 1531
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should clear Smart Follow Up Fee pop-up"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65ef4e8d0a826387.json",
+  "parameterValues" : [ ]
+}

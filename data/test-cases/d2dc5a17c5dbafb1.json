@@ -1,0 +1,46 @@
+{
+  "uid" : "d2dc5a17c5dbafb1",
+  "name" : "should input correct password",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should input correct password",
+  "historyId" : "448e508004d571cefb90c153ae31ffd0",
+  "time" : {
+    "start" : 1642318193149,
+    "stop" : 1642318194317,
+    "duration" : 1168
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2dc5a17c5dbafb1.json",
+  "parameterValues" : [ ]
+}

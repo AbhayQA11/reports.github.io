@@ -1,0 +1,46 @@
+{
+  "uid" : "7e44b48982fe56ae",
+  "name" : "should input valid username",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_004.should input valid username",
+  "historyId" : "8be7507fc9e73920d0a4e58a680fbb33",
+  "time" : {
+    "start" : 1642323276144,
+    "stop" : 1642323278275,
+    "duration" : 2131
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid username"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e44b48982fe56ae.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "8523ad417e250d71",
+  "name" : "should select only two tuition months",
+  "fullName" : "Luca Settings: Verify newly added planis displayed in API result, API_030, Verify if user update any payment plan, then updated payment plan data, will be displayed in API result API_031.should select only two tuition months",
+  "historyId" : "cc6a3f97f73c058dd552b55e426ed24e",
+  "time" : {
+    "start" : 1642323455235,
+    "stop" : 1642323456464,
+    "duration" : 1229
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added planis displayed in API result, API_030, Verify if user update any payment plan, then updated payment plan data, will be displayed in API result API_031"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added planis displayed in API result, API_030, Verify if user update any payment plan, then updated payment plan data, will be displayed in API result API_031"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select only two tuition months"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added planis displayed in API result, API_030, Verify if user update any payment plan, then updated payment plan data, will be displayed in API result API_031"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8523ad417e250d71.json",
+  "parameterValues" : [ ]
+}

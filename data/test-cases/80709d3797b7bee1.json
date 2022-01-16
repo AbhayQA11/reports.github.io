@@ -1,0 +1,46 @@
+{
+  "uid" : "80709d3797b7bee1",
+  "name" : "should mouseover Fees and discounts, then select Manage Fees and Discounts",
+  "fullName" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family.should mouseover Fees and discounts, then select Manage Fees and Discounts",
+  "historyId" : "dea488323f0aae37c8e5206b4cc90b93",
+  "time" : {
+    "start" : 1642320326744,
+    "stop" : 1642320329184,
+    "duration" : 2440
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Fees and discounts, then select Manage Fees and Discounts"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Creating, Applying and Removing Fees and Discounts toward a family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80709d3797b7bee1.json",
+  "parameterValues" : [ ]
+}

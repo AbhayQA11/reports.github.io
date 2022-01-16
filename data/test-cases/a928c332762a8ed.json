@@ -1,0 +1,46 @@
+{
+  "uid" : "a928c332762a8ed",
+  "name" : "should check if the family exists in Luca",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Bank Account.should check if the family exists in Luca",
+  "historyId" : "33f90a7af41049309b50ec7793deeabe",
+  "time" : {
+    "start" : 1642318290904,
+    "stop" : 1642318294010,
+    "duration" : 3106
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check if the family exists in Luca"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a928c332762a8ed.json",
+  "parameterValues" : [ ]
+}

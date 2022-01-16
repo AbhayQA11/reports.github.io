@@ -1,0 +1,46 @@
+{
+  "uid" : "3adbd2b88755f1ee",
+  "name" : "should verify pagination and total records number is displayed on Manage Transactions Page",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Transactions Groups.should verify pagination and total records number is displayed on Manage Transactions Page",
+  "historyId" : "8661ed49b97d6579cb2ea6bc35b98554",
+  "time" : {
+    "start" : 1642320924522,
+    "stop" : 1642320925200,
+    "duration" : 678
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Transactions Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Transactions Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify pagination and total records number is displayed on Manage Transactions Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Transactions Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3adbd2b88755f1ee.json",
+  "parameterValues" : [ ]
+}

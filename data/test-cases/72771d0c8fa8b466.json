@@ -1,0 +1,46 @@
+{
+  "uid" : "72771d0c8fa8b466",
+  "name" : "should should input new value into the Student1 Grade Name field",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools.should should input new value into the Student1 Grade Name field",
+  "historyId" : "af2d8a7d0a752a0e12aee509760ed799",
+  "time" : {
+    "start" : 1642318019415,
+    "stop" : 1642318020305,
+    "duration" : 890
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should should input new value into the Student1 Grade Name field"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72771d0c8fa8b466.json",
+  "parameterValues" : [ ]
+}

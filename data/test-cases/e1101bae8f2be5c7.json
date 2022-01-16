@@ -1,0 +1,46 @@
+{
+  "uid" : "e1101bae8f2be5c7",
+  "name" : "should set expiration month",
+  "fullName" : "homepageTests: Enrollment with Credit Card entry.should set expiration month",
+  "historyId" : "aa9d4fccd980b0bf16bc535e4230b92",
+  "time" : {
+    "start" : 1642317874597,
+    "stop" : 1642317875582,
+    "duration" : 985
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should set expiration month"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1101bae8f2be5c7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "af38fbad41d15160",
+  "name" : "should input valid username in order to login succesfully into the application",
+  "fullName" : "Tuition Manager Bank Account Payment Encryption Verification.should input valid username in order to login succesfully into the application",
+  "historyId" : "6c0657b037afd5720a0aaf0d4e2d4bb9",
+  "time" : {
+    "start" : 1642323991011,
+    "stop" : 1642323994739,
+    "duration" : 3728
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid username in order to login succesfully into the application"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af38fbad41d15160.json",
+  "parameterValues" : [ ]
+}

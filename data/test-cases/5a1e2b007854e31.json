@@ -1,0 +1,46 @@
+{
+  "uid" : "5a1e2b007854e31",
+  "name" : "should verify that the Pending Families Page has been reached",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should verify that the Pending Families Page has been reached",
+  "historyId" : "76ad440a9bd1b7d02a875320f0408ef8",
+  "time" : {
+    "start" : 1642319941404,
+    "stop" : 1642319945052,
+    "duration" : 3648
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Pending Families Page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a1e2b007854e31.json",
+  "parameterValues" : [ ]
+}

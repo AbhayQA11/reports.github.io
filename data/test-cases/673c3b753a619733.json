@@ -1,0 +1,48 @@
+{
+  "uid" : "673c3b753a619733",
+  "name" : "should wait for the report Frequently Asked Questions for Parents spanish to get generated",
+  "fullName" : "Main Landing Page, Verify the accessibility of Training Classes.should wait for the report Frequently Asked Questions for Parents spanish to get generated",
+  "historyId" : "674afcca42068663cb68ab1b92ea5d71",
+  "time" : {
+    "start" : 1642320108220,
+    "stop" : 1642320108220,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for the report Frequently Asked Questions for Parents spanish to get generated"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "673c3b753a619733.json",
+  "parameterValues" : [ ]
+}

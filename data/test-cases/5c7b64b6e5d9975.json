@@ -1,0 +1,46 @@
+{
+  "uid" : "5c7b64b6e5d9975",
+  "name" : "should move the mouse over the Families link and click on Manage Families Details",
+  "fullName" : "lucaBillingTests: Verify Read Only Test Account.should move the mouse over the Families link and click on Manage Families Details",
+  "historyId" : "f95d5637bebd7b27ced6cf76fd9eb822",
+  "time" : {
+    "start" : 1642319509293,
+    "stop" : 1642319510308,
+    "duration" : 1015
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should move the mouse over the Families link and click on Manage Families Details"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c7b64b6e5d9975.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "eecadcf4490b3a93",
+  "name" : "should verify results are shown",
+  "fullName" : "homepageTests: Enrollment, Create New Account, Message Validation.should verify results are shown",
+  "historyId" : "d3f3913c807737027a28e7fd85c897d5",
+  "time" : {
+    "start" : 1642317831990,
+    "stop" : 1642317834047,
+    "duration" : 2057
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify results are shown"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eecadcf4490b3a93.json",
+  "parameterValues" : [ ]
+}

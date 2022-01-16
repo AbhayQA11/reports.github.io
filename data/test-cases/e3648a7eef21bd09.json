@@ -1,0 +1,46 @@
+{
+  "uid" : "e3648a7eef21bd09",
+  "name" : "should mouse over Enrollment and click on Wait Listed Families",
+  "fullName" : "lucaEnrollment: verify filters on Wait Listed Families page.should mouse over Enrollment and click on Wait Listed Families",
+  "historyId" : "82919d7b0485b9579b0167c70095dba5",
+  "time" : {
+    "start" : 1642319460118,
+    "stop" : 1642319462678,
+    "duration" : 2560
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouse over Enrollment and click on Wait Listed Families"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3648a7eef21bd09.json",
+  "parameterValues" : [ ]
+}

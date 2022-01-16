@@ -1,0 +1,46 @@
+{
+  "uid" : "8c17b05c56c21fa4",
+  "name" : "should verify that the Secondary Last Name has been Updated",
+  "fullName" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083.should verify that the Secondary Last Name has been Updated",
+  "historyId" : "18e2d26931dfc270d3bcff5aa61649cd",
+  "time" : {
+    "start" : 1642323619514,
+    "stop" : 1642323621005,
+    "duration" : 1491
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Secondary Last Name has been Updated"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c17b05c56c21fa4.json",
+  "parameterValues" : [ ]
+}

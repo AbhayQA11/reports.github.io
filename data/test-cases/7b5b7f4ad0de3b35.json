@@ -1,0 +1,46 @@
+{
+  "uid" : "7b5b7f4ad0de3b35",
+  "name" : "should verify that the appropriate pop-up appears second time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should verify that the appropriate pop-up appears second time",
+  "historyId" : "896d97445ea06ba3addbf3454ddc86a9",
+  "time" : {
+    "start" : 1642318478499,
+    "stop" : 1642318479950,
+    "duration" : 1451
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate pop-up appears second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b5b7f4ad0de3b35.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "5fc76d0ac51c7f94",
+  "name" : "should verify that the Total Amount is the same",
+  "fullName" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification.should verify that the Total Amount is the same",
+  "historyId" : "95e468f654ec1b5ca529a086187d49cd",
+  "time" : {
+    "start" : 1642319821302,
+    "stop" : 1642319828851,
+    "duration" : 7549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Total Amount is the same"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fc76d0ac51c7f94.json",
+  "parameterValues" : [ ]
+}

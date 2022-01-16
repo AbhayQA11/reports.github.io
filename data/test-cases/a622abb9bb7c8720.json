@@ -1,0 +1,46 @@
+{
+  "uid" : "a622abb9bb7c8720",
+  "name" : "should modify user data in order to log in the user in EWS",
+  "fullName" : "lucaBillingTests: Add Fee and Discount to Family.should modify user data in order to log in the user in EWS",
+  "historyId" : "889626e79827e823be49247729acf0de",
+  "time" : {
+    "start" : 1642319494841,
+    "stop" : 1642319532402,
+    "duration" : 37561
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to log in the user in EWS"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a622abb9bb7c8720.json",
+  "parameterValues" : [ ]
+}

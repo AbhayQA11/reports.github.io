@@ -1,0 +1,46 @@
+{
+  "uid" : "65fe3a9662ff5bdb",
+  "name" : "should click on the Update button",
+  "fullName" : "Parent Site Payment Verification.should click on the Update button",
+  "historyId" : "4fbafe1bc977d2bf29375cf12af8e934",
+  "time" : {
+    "start" : 1642323867978,
+    "stop" : 1642323873263,
+    "duration" : 5285
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Update button"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65fe3a9662ff5bdb.json",
+  "parameterValues" : [ ]
+}

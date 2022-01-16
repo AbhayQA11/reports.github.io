@@ -1,0 +1,46 @@
+{
+  "uid" : "332015c9494153f3",
+  "name" : "should click on edit family and student information",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should click on edit family and student information",
+  "historyId" : "5d38fadf1ba0f9225e2358617927e378",
+  "time" : {
+    "start" : 1642317977070,
+    "stop" : 1642317981122,
+    "duration" : 4052
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on edit family and student information"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "332015c9494153f3.json",
+  "parameterValues" : [ ]
+}

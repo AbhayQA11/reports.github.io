@@ -1,0 +1,44 @@
+{
+  "uid" : "3a56efcd363aa5d6",
+  "name" : "should input correct password",
+  "fullName" : "lucaFamiliesModuleTests: View All Families Details Pagination Details.should input correct password",
+  "historyId" : "b5a04913cf90ac1d4e64d2d393eba22c",
+  "time" : {
+    "start" : 1642318237448,
+    "stop" : 1642318238585,
+    "duration" : 1137
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a56efcd363aa5d6.json",
+  "parameterValues" : [ ]
+}

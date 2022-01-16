@@ -1,0 +1,46 @@
+{
+  "uid" : "a2b5058c24a944b2",
+  "name" : "should click on Total Ammount Paid",
+  "fullName" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard.should click on Total Ammount Paid",
+  "historyId" : "2b2e8c9fa9ec29f692343c6bdd7a251e",
+  "time" : {
+    "start" : 1642320031596,
+    "stop" : 1642320034284,
+    "duration" : 2688
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Total Ammount Paid"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2b5058c24a944b2.json",
+  "parameterValues" : [ ]
+}

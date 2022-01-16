@@ -1,0 +1,46 @@
+{
+  "uid" : "f1979dedf9199308",
+  "name" : "should verify that the Fee and Discounts buttons are displayed",
+  "fullName" : "lucaBillingTests: Edit Billing module, Fee and discount month availability.should verify that the Fee and Discounts buttons are displayed",
+  "historyId" : "42bc833029a01719f5541546a6ef9e3e",
+  "time" : {
+    "start" : 1642319845466,
+    "stop" : 1642319848055,
+    "duration" : 2589
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Fee and Discounts buttons are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1979dedf9199308.json",
+  "parameterValues" : [ ]
+}

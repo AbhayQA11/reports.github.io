@@ -1,0 +1,46 @@
+{
+  "uid" : "a611e10640800249",
+  "name" : "should input correct password",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details Payment settings.should input correct password",
+  "historyId" : "de5661c63b8a4dec9c1c94ae45933f0e",
+  "time" : {
+    "start" : 1642318417958,
+    "stop" : 1642318419164,
+    "duration" : 1206
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a611e10640800249.json",
+  "parameterValues" : [ ]
+}

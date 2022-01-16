@@ -1,0 +1,46 @@
+{
+  "uid" : "3f81a6eaf63317ae",
+  "name" : "should make a API payment with that family in order to verify payment history",
+  "fullName" : "Call Center Payment Encryption Tests, Credit card family.should make a API payment with that family in order to verify payment history",
+  "historyId" : "4ad5b9b42a7d6fd2ebfb12d4a259cc14",
+  "time" : {
+    "start" : 1642323918736,
+    "stop" : 1642323919212,
+    "duration" : 476
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should make a API payment with that family in order to verify payment history"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f81a6eaf63317ae.json",
+  "parameterValues" : [ ]
+}

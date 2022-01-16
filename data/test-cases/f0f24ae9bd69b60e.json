@@ -1,0 +1,46 @@
+{
+  "uid" : "f0f24ae9bd69b60e",
+  "name" : "should modify the selected students grade from existing to first grade",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should modify the selected students grade from existing to first grade",
+  "historyId" : "1ffd5a7178b02f55075bddefc86e891f",
+  "time" : {
+    "start" : 1642318545969,
+    "stop" : 1642318547539,
+    "duration" : 1570
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify the selected students grade from existing to first grade"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0f24ae9bd69b60e.json",
+  "parameterValues" : [ ]
+}

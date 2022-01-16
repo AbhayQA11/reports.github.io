@@ -1,0 +1,46 @@
+{
+  "uid" : "f44a68f3ceacc0f9",
+  "name" : "should verify that the newly added Fee is reflected in the Latest Late Fee Status Log",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee.should verify that the newly added Fee is reflected in the Latest Late Fee Status Log",
+  "historyId" : "8ad82193630b30ed5b9ba7a7df1bbca3",
+  "time" : {
+    "start" : 1642323197628,
+    "stop" : 1642323198956,
+    "duration" : 1328
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the newly added Fee is reflected in the Latest Late Fee Status Log"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f44a68f3ceacc0f9.json",
+  "parameterValues" : [ ]
+}

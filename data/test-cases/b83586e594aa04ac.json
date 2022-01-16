@@ -1,0 +1,54 @@
+{
+  "uid" : "b83586e594aa04ac",
+  "name" : "should click the Perform Batch Action button first time",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should click the Perform Batch Action button first time",
+  "historyId" : "d01ec4b1908ee9e09c0c1fa7b7b975ba",
+  "time" : {
+    "start" : 1642322603467,
+    "stop" : 1642322604908,
+    "duration" : 1441
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Perform Batch Action button first time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "19adbf48b2c7dfa3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318382469,
+        "stop" : 1642318383853,
+        "duration" : 1384
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b83586e594aa04ac.json",
+  "parameterValues" : [ ]
+}

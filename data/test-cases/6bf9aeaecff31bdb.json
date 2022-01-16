@@ -1,0 +1,46 @@
+{
+  "uid" : "6bf9aeaecff31bdb",
+  "name" : "should verify Add A Payment Button is disabled if ammount field is empty no matter the options selected fourth time",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment.should verify Add A Payment Button is disabled if ammount field is empty no matter the options selected fourth time",
+  "historyId" : "c3404ad71eb015d0122fe66abf0cc49f",
+  "time" : {
+    "start" : 1642321067659,
+    "stop" : 1642321070308,
+    "duration" : 2649
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify Add A Payment Button is disabled if ammount field is empty no matter the options selected fourth time"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6bf9aeaecff31bdb.json",
+  "parameterValues" : [ ]
+}

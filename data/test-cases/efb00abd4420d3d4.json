@@ -1,0 +1,46 @@
+{
+  "uid" : "efb00abd4420d3d4",
+  "name" : "should log out from luca",
+  "fullName" : "Luca Settings: Verify Luca User can link two families api-92.should log out from luca",
+  "historyId" : "afad67612e8c575f9c90278b744e197e",
+  "time" : {
+    "start" : 1642323921547,
+    "stop" : 1642323923963,
+    "duration" : 2416
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "efb00abd4420d3d4.json",
+  "parameterValues" : [ ]
+}

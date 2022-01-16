@@ -1,0 +1,46 @@
+{
+  "uid" : "fdc6fca0c44d6293",
+  "name" : "should click on the Next Button in order to advance to Verify Payment Page",
+  "fullName" : "Parent Site Payment Verification.should click on the Next Button in order to advance to Verify Payment Page",
+  "historyId" : "da9f330ec8464064c73820094f44e4c2",
+  "time" : {
+    "start" : 1642323901186,
+    "stop" : 1642323902733,
+    "duration" : 1547
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Next Button in order to advance to Verify Payment Page"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fdc6fca0c44d6293.json",
+  "parameterValues" : [ ]
+}

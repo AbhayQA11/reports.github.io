@@ -1,0 +1,46 @@
+{
+  "uid" : "37c5b234d7e54e73",
+  "name" : "should input a family name into the Family Name filter",
+  "fullName" : "Tuition Manager Bank Account Payment Encryption Verification.should input a family name into the Family Name filter",
+  "historyId" : "8b08a3f782130a9da78fe560e3101a60",
+  "time" : {
+    "start" : 1642324026750,
+    "stop" : 1642324032846,
+    "duration" : 6096
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a family name into the Family Name filter"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37c5b234d7e54e73.json",
+  "parameterValues" : [ ]
+}

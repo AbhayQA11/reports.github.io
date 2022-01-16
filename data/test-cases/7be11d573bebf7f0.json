@@ -1,0 +1,46 @@
+{
+  "uid" : "7be11d573bebf7f0",
+  "name" : "should click purge a family button",
+  "fullName" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee.should click purge a family button",
+  "historyId" : "7caf9d4b754f697ece6bd5a8d71e2572",
+  "time" : {
+    "start" : 1642318660312,
+    "stop" : 1642318666434,
+    "duration" : 6122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click purge a family button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families, Apply Student Based Specific month fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7be11d573bebf7f0.json",
+  "parameterValues" : [ ]
+}

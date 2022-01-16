@@ -1,0 +1,46 @@
+{
+  "uid" : "726bd9f9aa712f57",
+  "name" : "should select the latest school year",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should select the latest school year",
+  "historyId" : "f9e553b313d80e59472747f7f4a94b66",
+  "time" : {
+    "start" : 1642319891585,
+    "stop" : 1642319895119,
+    "duration" : 3534
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "726bd9f9aa712f57.json",
+  "parameterValues" : [ ]
+}

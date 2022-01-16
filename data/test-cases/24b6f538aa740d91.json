@@ -1,0 +1,46 @@
+{
+  "uid" : "24b6f538aa740d91",
+  "name" : "should click on Add New Fee Button in order for the pop-up to appear",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should click on Add New Fee Button in order for the pop-up to appear",
+  "historyId" : "2278aef1980fc5a1ef79ec997b0df179",
+  "time" : {
+    "start" : 1642320147464,
+    "stop" : 1642320152974,
+    "duration" : 5510
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Add New Fee Button in order for the pop-up to appear"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24b6f538aa740d91.json",
+  "parameterValues" : [ ]
+}

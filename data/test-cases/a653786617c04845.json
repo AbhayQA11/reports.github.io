@@ -1,0 +1,46 @@
+{
+  "uid" : "a653786617c04845",
+  "name" : "should input the Aditional Authorized Party first and second name",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should input the Aditional Authorized Party first and second name",
+  "historyId" : "897f1e8e2585204643b34409e361be88",
+  "time" : {
+    "start" : 1642323430676,
+    "stop" : 1642323431699,
+    "duration" : 1023
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the Aditional Authorized Party first and second name"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a653786617c04845.json",
+  "parameterValues" : [ ]
+}

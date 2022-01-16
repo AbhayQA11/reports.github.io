@@ -1,0 +1,46 @@
+{
+  "uid" : "6e0500dc7ed44d6",
+  "name" : "should create a family with a Non Existant Fee Name in student Base Billing",
+  "fullName" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63.should create a family with a Non Existant Fee Name in student Base Billing",
+  "historyId" : "9c7b7ebaaf262563249616587cab273f",
+  "time" : {
+    "start" : 1642323489451,
+    "stop" : 1642323523000,
+    "duration" : 33549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family with a Non Existant Fee Name in student Base Billing"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e0500dc7ed44d6.json",
+  "parameterValues" : [ ]
+}

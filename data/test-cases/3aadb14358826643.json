@@ -1,0 +1,46 @@
+{
+  "uid" : "3aadb14358826643",
+  "name" : "should verify that the attachment and Add note are displayed",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should verify that the attachment and Add note are displayed",
+  "historyId" : "1a365cd1f26d3b768d8336d5201515c0",
+  "time" : {
+    "start" : 1642323003613,
+    "stop" : 1642323005080,
+    "duration" : 1467
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the attachment and Add note are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3aadb14358826643.json",
+  "parameterValues" : [ ]
+}

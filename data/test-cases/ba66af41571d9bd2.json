@@ -1,0 +1,70 @@
+{
+  "uid" : "ba66af41571d9bd2",
+  "name" : "should verify that the Manage Payment Plans page has been reached",
+  "fullName" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024.should verify that the Manage Payment Plans page has been reached",
+  "historyId" : "7a2894a35a3179c969f4b345ee645ca5",
+  "time" : {
+    "start" : 1642323274420,
+    "stop" : 1642323279795,
+    "duration" : 5375
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected $.length = 26 to equal 25.\n                Expected $[5] = 'new name1641757462' to equal 'new name1642323206'.\n                Expected $[25] = 'testplan1642323190' to equal undefined.",
+  "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/lucaPages/lucaSettingsPages/lucaManagePaymentPlansPage.js:114:27\n                    at _fulfilled (F:\\k20automation\\node_modules\\q\\q.js:854:54)\n                    at F:\\k20automation\\node_modules\\q\\q.js:883:30\n                    at Promise.promise.promiseDispatch (F:\\k20automation\\node_modules\\q\\q.js:816:13)\n                    at F:\\k20automation\\node_modules\\q\\q.js:624:44\n                    at runSingle (F:\\k20automation\\node_modules\\q\\q.js:137:13)\n                    at flush (F:\\k20automation\\node_modules\\q\\q.js:125:13)\n                    at processTicksAndRejections (internal/process/task_queues.js:75:11)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected $.length = 26 to equal 25.\n                Expected $[5] = 'new name1641757462' to equal 'new name1642323206'.\n                Expected $[25] = 'testplan1642323190' to equal undefined.",
+    "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/lucaPages/lucaSettingsPages/lucaManagePaymentPlansPage.js:114:27\n                    at _fulfilled (F:\\k20automation\\node_modules\\q\\q.js:854:54)\n                    at F:\\k20automation\\node_modules\\q\\q.js:883:30\n                    at Promise.promise.promiseDispatch (F:\\k20automation\\node_modules\\q\\q.js:816:13)\n                    at F:\\k20automation\\node_modules\\q\\q.js:624:44\n                    at runSingle (F:\\k20automation\\node_modules\\q\\q.js:137:13)\n                    at flush (F:\\k20automation\\node_modules\\q\\q.js:125:13)\n                    at processTicksAndRejections (internal/process/task_queues.js:75:11)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "33a9d051fefe40e1",
+      "name" : "Screenshot",
+      "source" : "33a9d051fefe40e1.png",
+      "type" : "image/png",
+      "size" : 171831
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Manage Payment Plans page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests - Number of months calculus API_023, API_024"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ba66af41571d9bd2.json",
+  "parameterValues" : [ ]
+}

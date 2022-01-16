@@ -1,0 +1,46 @@
+{
+  "uid" : "d4fd899899532d03",
+  "name" : "should confirm the deletion of the payment plan",
+  "fullName" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan.should confirm the deletion of the payment plan",
+  "historyId" : "b12963918dc51f41c52faae28cfd7b16",
+  "time" : {
+    "start" : 1642323788328,
+    "stop" : 1642323789834,
+    "duration" : 1506
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan"
+  }, {
+    "name" : "testMethod",
+    "value" : "should confirm the deletion of the payment plan"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Checking that the Payment Plan Audit Trail works correctly using a new and existing Payment Plan"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d4fd899899532d03.json",
+  "parameterValues" : [ ]
+}

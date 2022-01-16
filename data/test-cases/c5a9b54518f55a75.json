@@ -1,0 +1,46 @@
+{
+  "uid" : "c5a9b54518f55a75",
+  "name" : "should click the first family add a payment pictogram",
+  "fullName" : "lucaDashboardsTests: Luca Payments, add a payment, read only user.should click the first family add a payment pictogram",
+  "historyId" : "8fcd2df764f542cfd698701297e72cc5",
+  "time" : {
+    "start" : 1642321158627,
+    "stop" : 1642321160935,
+    "duration" : 2308
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the first family add a payment pictogram"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5a9b54518f55a75.json",
+  "parameterValues" : [ ]
+}

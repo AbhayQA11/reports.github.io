@@ -1,0 +1,46 @@
+{
+  "uid" : "67f1e0445c7ddb59",
+  "name" : "should get and store the newly added Card Number",
+  "fullName" : "homepageTests: Enrolling New Family with Credit Card.should get and store the newly added Card Number",
+  "historyId" : "89fd5de12de955b3857f19885dafcf1e",
+  "time" : {
+    "start" : 1642317976664,
+    "stop" : 1642317978784,
+    "duration" : 2120
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the newly added Card Number"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67f1e0445c7ddb59.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "b0d478a2423945d6",
+  "name" : "should click on Total Withdrawn Families",
+  "fullName" : "Main Landing Page, Verify the accessibility of account page in Dashboard.should click on Total Withdrawn Families",
+  "historyId" : "b47022be20ad0797143f476b866fab85",
+  "time" : {
+    "start" : 1642320012072,
+    "stop" : 1642320015272,
+    "duration" : 3200
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Total Withdrawn Families"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0d478a2423945d6.json",
+  "parameterValues" : [ ]
+}

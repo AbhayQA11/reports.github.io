@@ -1,0 +1,46 @@
+{
+  "uid" : "2b79774f2e0d1ac0",
+  "name" : "should should input new value into the set Student1 First Name field again",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools.should should input new value into the set Student1 First Name field again",
+  "historyId" : "679370f7510fe5d920f7dd142aa476da",
+  "time" : {
+    "start" : 1642318186130,
+    "stop" : 1642318186963,
+    "duration" : 833
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should should input new value into the set Student1 First Name field again"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b79774f2e0d1ac0.json",
+  "parameterValues" : [ ]
+}

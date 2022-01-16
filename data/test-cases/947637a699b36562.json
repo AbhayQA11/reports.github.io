@@ -1,0 +1,46 @@
+{
+  "uid" : "947637a699b36562",
+  "name" : "should Hover Over QuickBooks",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should Hover Over QuickBooks",
+  "historyId" : "89a43e4329e77a4250f8799eacbfd390",
+  "time" : {
+    "start" : 1642323053600,
+    "stop" : 1642323054980,
+    "duration" : 1380
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Hover Over QuickBooks"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "947637a699b36562.json",
+  "parameterValues" : [ ]
+}

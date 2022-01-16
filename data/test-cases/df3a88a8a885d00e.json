@@ -1,0 +1,46 @@
+{
+  "uid" : "df3a88a8a885d00e",
+  "name" : "should click on select all greades in order to create a new fee",
+  "fullName" : "Luca Settings: OW API_007 tests.should click on select all greades in order to create a new fee",
+  "historyId" : "cb477bebde5d596f09d58bbbc3726cd",
+  "time" : {
+    "start" : 1642323335724,
+    "stop" : 1642323338001,
+    "duration" : 2277
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on select all greades in order to create a new fee"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df3a88a8a885d00e.json",
+  "parameterValues" : [ ]
+}

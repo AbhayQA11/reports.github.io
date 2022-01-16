@@ -1,0 +1,46 @@
+{
+  "uid" : "f5a6dad40db5ef5b",
+  "name" : "should logout from luca",
+  "fullName" : "homepageTests: Enrollment with Mail In Invoice payment option.should logout from luca",
+  "historyId" : "ec2727a548e61deeeedcca893ead2f44",
+  "time" : {
+    "start" : 1642317971041,
+    "stop" : 1642317973616,
+    "duration" : 2575
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should logout from luca"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5a6dad40db5ef5b.json",
+  "parameterValues" : [ ]
+}

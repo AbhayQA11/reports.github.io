@@ -1,0 +1,46 @@
+{
+  "uid" : "db7c596154bebe94",
+  "name" : "should click the login button",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools.should click the login button",
+  "historyId" : "5add531bba69da415ea4212d1840c8ee",
+  "time" : {
+    "start" : 1642317985303,
+    "stop" : 1642317991747,
+    "duration" : 6444
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the login button"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db7c596154bebe94.json",
+  "parameterValues" : [ ]
+}

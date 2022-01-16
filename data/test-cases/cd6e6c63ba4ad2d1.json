@@ -1,0 +1,46 @@
+{
+  "uid" : "cd6e6c63ba4ad2d1",
+  "name" : "should verify the Edit Group Popup Help Texts",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups.should verify the Edit Group Popup Help Texts",
+  "historyId" : "474712339a98e704d11bfe376f3a97cd",
+  "time" : {
+    "start" : 1642320898433,
+    "stop" : 1642320899187,
+    "duration" : 754
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Edit Group Popup Help Texts"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd6e6c63ba4ad2d1.json",
+  "parameterValues" : [ ]
+}

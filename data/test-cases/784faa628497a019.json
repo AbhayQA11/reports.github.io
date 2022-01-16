@@ -1,0 +1,46 @@
+{
+  "uid" : "784faa628497a019",
+  "name" : "should select Master Credit Card Payment Option",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should select Master Credit Card Payment Option",
+  "historyId" : "1111e802f71895b3e5434c012c1fd6",
+  "time" : {
+    "start" : 1642319338984,
+    "stop" : 1642319340017,
+    "duration" : 1033
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select Master Credit Card Payment Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "784faa628497a019.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "2d3b1e4b04c37ab",
+  "name" : "should verify that the appropriate confirmation message is displayed",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should verify that the appropriate confirmation message is displayed",
+  "historyId" : "b3efc16e2c043ca63ee0d464f41397b",
+  "time" : {
+    "start" : 1642323435829,
+    "stop" : 1642323439769,
+    "duration" : 3940
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate confirmation message is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d3b1e4b04c37ab.json",
+  "parameterValues" : [ ]
+}

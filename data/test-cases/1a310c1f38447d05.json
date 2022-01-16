@@ -1,0 +1,46 @@
+{
+  "uid" : "1a310c1f38447d05",
+  "name" : "should click on the Account Button",
+  "fullName" : "Main Landing Page, Verify the accessibility of account page in Dashboard.should click on the Account Button",
+  "historyId" : "6f3282e0964fc9637db6f459fec70424",
+  "time" : {
+    "start" : 1642319976707,
+    "stop" : 1642319977324,
+    "duration" : 617
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Account Button"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a310c1f38447d05.json",
+  "parameterValues" : [ ]
+}

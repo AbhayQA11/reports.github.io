@@ -1,0 +1,46 @@
+{
+  "uid" : "b8473cff924a6280",
+  "name" : "should verify that the Parent Registration has been reached",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should verify that the Parent Registration has been reached",
+  "historyId" : "f3f7661614941d1af8e1b0f801028400",
+  "time" : {
+    "start" : 1642319948285,
+    "stop" : 1642319951953,
+    "duration" : 3668
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Parent Registration has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8473cff924a6280.json",
+  "parameterValues" : [ ]
+}

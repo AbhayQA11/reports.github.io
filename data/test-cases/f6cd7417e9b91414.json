@@ -1,0 +1,46 @@
+{
+  "uid" : "f6cd7417e9b91414",
+  "name" : "should load Luca login Page successfully and create a family with CC to use later",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios.should load Luca login Page successfully and create a family with CC to use later",
+  "historyId" : "35b585e7d18276d83c5f178dade28030",
+  "time" : {
+    "start" : 1642321161326,
+    "stop" : 1642321166713,
+    "duration" : 5387
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully and create a family with CC to use later"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6cd7417e9b91414.json",
+  "parameterValues" : [ ]
+}

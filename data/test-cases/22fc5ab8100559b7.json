@@ -1,0 +1,46 @@
+{
+  "uid" : "22fc5ab8100559b7",
+  "name" : "should select the latest school year",
+  "fullName" : "Main Landing Page, Verify that two families can be merged.should select the latest school year",
+  "historyId" : "56e9cb213ab788fda3cebfb159a1d9e2",
+  "time" : {
+    "start" : 1642320157110,
+    "stop" : 1642320160844,
+    "duration" : 3734
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22fc5ab8100559b7.json",
+  "parameterValues" : [ ]
+}

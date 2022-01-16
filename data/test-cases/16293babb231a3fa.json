@@ -1,0 +1,46 @@
+{
+  "uid" : "16293babb231a3fa",
+  "name" : "should verify the BNGN setup is complete",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings.should verify the BNGN setup is complete",
+  "historyId" : "141936c506c019bcc01f42a2a340d141",
+  "time" : {
+    "start" : 1642320874315,
+    "stop" : 1642320875960,
+    "duration" : 1645
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the BNGN setup is complete"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16293babb231a3fa.json",
+  "parameterValues" : [ ]
+}

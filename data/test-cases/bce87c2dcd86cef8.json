@@ -1,0 +1,46 @@
+{
+  "uid" : "bce87c2dcd86cef8",
+  "name" : "should verify that the Detail Settings buttons are visible",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should verify that the Detail Settings buttons are visible",
+  "historyId" : "694f3ee103021dff1b3bc865abefc3f2",
+  "time" : {
+    "start" : 1642323059223,
+    "stop" : 1642323060942,
+    "duration" : 1719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Detail Settings buttons are visible"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bce87c2dcd86cef8.json",
+  "parameterValues" : [ ]
+}

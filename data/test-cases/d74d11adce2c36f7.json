@@ -1,0 +1,46 @@
+{
+  "uid" : "d74d11adce2c36f7",
+  "name" : "should input numerical values inside the input field",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should input numerical values inside the input field",
+  "historyId" : "e6aca09b0b6834b57d791131dac7767b",
+  "time" : {
+    "start" : 1642318399410,
+    "stop" : 1642318410769,
+    "duration" : 11359
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input numerical values inside the input field"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d74d11adce2c36f7.json",
+  "parameterValues" : [ ]
+}

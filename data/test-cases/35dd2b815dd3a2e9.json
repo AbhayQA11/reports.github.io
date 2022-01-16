@@ -1,0 +1,46 @@
+{
+  "uid" : "35dd2b815dd3a2e9",
+  "name" : "should verify revenue is active and DefferedGLID and Income GL ID are shown",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should verify revenue is active and DefferedGLID and Income GL ID are shown",
+  "historyId" : "4f3ae71b2adf40961902baa99f99d3a9",
+  "time" : {
+    "start" : 1642323118384,
+    "stop" : 1642323120547,
+    "duration" : 2163
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify revenue is active and DefferedGLID and Income GL ID are shown"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35dd2b815dd3a2e9.json",
+  "parameterValues" : [ ]
+}

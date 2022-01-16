@@ -1,0 +1,46 @@
+{
+  "uid" : "b991db52f8de5270",
+  "name" : "should input correct password",
+  "fullName" : "Main Landing Page, Verify that two families can be merged.should input correct password",
+  "historyId" : "eedf4a1a9340ed84a74babe95566179",
+  "time" : {
+    "start" : 1642320143152,
+    "stop" : 1642320144948,
+    "duration" : 1796
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b991db52f8de5270.json",
+  "parameterValues" : [ ]
+}

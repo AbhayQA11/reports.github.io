@@ -1,0 +1,46 @@
+{
+  "uid" : "fb80de88cee90989",
+  "name" : "should verify that the Non Existent Fee which was added in the API call is not present in Edit Billing Details",
+  "fullName" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63.should verify that the Non Existent Fee which was added in the API call is not present in Edit Billing Details",
+  "historyId" : "5a994d46e7cae030b541f4fbb9702a83",
+  "time" : {
+    "start" : 1642323561512,
+    "stop" : 1642323563650,
+    "duration" : 2138
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Non Existent Fee which was added in the API call is not present in Edit Billing Details"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb80de88cee90989.json",
+  "parameterValues" : [ ]
+}

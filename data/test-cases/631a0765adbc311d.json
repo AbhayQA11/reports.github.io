@@ -1,0 +1,46 @@
+{
+  "uid" : "631a0765adbc311d",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "Main Landing Page, Verify that two families can be merged.should load Luca login Page successfully",
+  "historyId" : "131e396c7a2771a139b698238bf58494",
+  "time" : {
+    "start" : 1642320138709,
+    "stop" : 1642320141179,
+    "duration" : 2470
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "631a0765adbc311d.json",
+  "parameterValues" : [ ]
+}

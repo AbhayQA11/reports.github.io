@@ -1,0 +1,46 @@
+{
+  "uid" : "c6f94757a0450ce9",
+  "name" : "should verify that Largest Fees by percentage section is displayed, with its elements",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should verify that Largest Fees by percentage section is displayed, with its elements",
+  "historyId" : "897826e16d9b8db086010ceeee837e97",
+  "time" : {
+    "start" : 1642320137807,
+    "stop" : 1642320141051,
+    "duration" : 3244
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Largest Fees by percentage section is displayed, with its elements"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c6f94757a0450ce9.json",
+  "parameterValues" : [ ]
+}

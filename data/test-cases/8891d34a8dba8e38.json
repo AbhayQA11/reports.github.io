@@ -1,0 +1,46 @@
+{
+  "uid" : "8891d34a8dba8e38",
+  "name" : "should verify we are on the Manage Groups Page, 2nd time",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups.should verify we are on the Manage Groups Page, 2nd time",
+  "historyId" : "8e9f9bb488cd21c595c38897089e2b91",
+  "time" : {
+    "start" : 1642320890425,
+    "stop" : 1642320891882,
+    "duration" : 1457
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify we are on the Manage Groups Page, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8891d34a8dba8e38.json",
+  "parameterValues" : [ ]
+}

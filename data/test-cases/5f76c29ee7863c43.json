@@ -1,0 +1,46 @@
+{
+  "uid" : "5f76c29ee7863c43",
+  "name" : "should click on the side Tab",
+  "fullName" : "lucaBillingTests: Verify Read Only Test Account.should click on the side Tab",
+  "historyId" : "1cda162265fb1ea2d3201d31c4e39b6a",
+  "time" : {
+    "start" : 1642319512732,
+    "stop" : 1642319515470,
+    "duration" : 2738
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the side Tab"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f76c29ee7863c43.json",
+  "parameterValues" : [ ]
+}

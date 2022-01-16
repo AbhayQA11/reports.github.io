@@ -1,0 +1,46 @@
+{
+  "uid" : "bb1169515b004d68",
+  "name" : "should click login button in order to verify API data is correct in UI",
+  "fullName" : "Luca Settings: OW Api - Add new family login api API_073.should click login button in order to verify API data is correct in UI",
+  "historyId" : "59b69aeaa0e4b8e094408151fbc90f6f",
+  "time" : {
+    "start" : 1642323527145,
+    "stop" : 1642323533945,
+    "duration" : 6800
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click login button in order to verify API data is correct in UI"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb1169515b004d68.json",
+  "parameterValues" : [ ]
+}

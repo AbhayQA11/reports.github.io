@@ -1,0 +1,46 @@
+{
+  "uid" : "bb73208fd7ffde60",
+  "name" : "should click on search button",
+  "fullName" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service.should click on search button",
+  "historyId" : "2aa38507cea3a6722bcd18b707141692",
+  "time" : {
+    "start" : 1642323025231,
+    "stop" : 1642323026634,
+    "duration" : 1403
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb73208fd7ffde60.json",
+  "parameterValues" : [ ]
+}

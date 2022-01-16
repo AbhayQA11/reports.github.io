@@ -1,0 +1,46 @@
+{
+  "uid" : "253c75de3096c787",
+  "name" : "should click on the General Ledger Id DropDown",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case.should click on the General Ledger Id DropDown",
+  "historyId" : "2f1bd4b83ab93ea8d06a73ef25e6cce3",
+  "time" : {
+    "start" : 1642323104408,
+    "stop" : 1642323106186,
+    "duration" : 1778
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the General Ledger Id DropDown"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "253c75de3096c787.json",
+  "parameterValues" : [ ]
+}

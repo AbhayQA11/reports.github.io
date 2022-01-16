@@ -1,0 +1,46 @@
+{
+  "uid" : "67364b51e0c42a2a",
+  "name" : "should input the school 11084 in the search field",
+  "fullName" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification.should input the school 11084 in the search field",
+  "historyId" : "8e45fbe3526413bd00eaece4e38aff5b",
+  "time" : {
+    "start" : 1642319742514,
+    "stop" : 1642319744185,
+    "duration" : 1671
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the school 11084 in the search field"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67364b51e0c42a2a.json",
+  "parameterValues" : [ ]
+}

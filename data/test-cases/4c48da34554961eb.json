@@ -1,0 +1,46 @@
+{
+  "uid" : "4c48da34554961eb",
+  "name" : "should click on latest year from results",
+  "fullName" : "lucaEnrollment: Page links and controls validation.should click on latest year from results",
+  "historyId" : "21f829755dad3d6d4273e781ea960b02",
+  "time" : {
+    "start" : 1642319026783,
+    "stop" : 1642319030465,
+    "duration" : 3682
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on latest year from results"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c48da34554961eb.json",
+  "parameterValues" : [ ]
+}

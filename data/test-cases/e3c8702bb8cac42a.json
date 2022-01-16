@@ -1,0 +1,46 @@
+{
+  "uid" : "e3c8702bb8cac42a",
+  "name" : "should search for the school 12606 and the press the search button",
+  "fullName" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016.should search for the school 12606 and the press the search button",
+  "historyId" : "5f8badae81db1cab89f80683ef2db36f",
+  "time" : {
+    "start" : 1642323361058,
+    "stop" : 1642323375558,
+    "duration" : 14500
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016"
+  }, {
+    "name" : "testMethod",
+    "value" : "should search for the school 12606 and the press the search button"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3c8702bb8cac42a.json",
+  "parameterValues" : [ ]
+}

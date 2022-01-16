@@ -1,0 +1,44 @@
+{
+  "uid" : "c1dd7f3c5deb80c7",
+  "name" : "should input the mobile phone number",
+  "fullName" : "negativeTests: Enrollment Negative Payer Name test.should input the mobile phone number",
+  "historyId" : "89ab62417c0f55cafc33bfcff1afd55b",
+  "time" : {
+    "start" : 1642318117556,
+    "stop" : 1642318118483,
+    "duration" : 927
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "testClass",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the mobile phone number"
+  }, {
+    "name" : "package",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1dd7f3c5deb80c7.json",
+  "parameterValues" : [ ]
+}

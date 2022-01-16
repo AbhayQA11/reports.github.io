@@ -1,0 +1,46 @@
+{
+  "uid" : "32e57440d70cedf8",
+  "name" : "should verify the Give Now School Footer Message is 150",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings.should verify the Give Now School Footer Message is 150",
+  "historyId" : "b42ee5f1ba45e8161d3ec7eb03840f94",
+  "time" : {
+    "start" : 1642320857510,
+    "stop" : 1642320859039,
+    "duration" : 1529
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Give Now School Footer Message is 150"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32e57440d70cedf8.json",
+  "parameterValues" : [ ]
+}

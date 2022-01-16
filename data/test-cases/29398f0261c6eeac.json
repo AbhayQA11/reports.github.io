@@ -1,0 +1,46 @@
+{
+  "uid" : "29398f0261c6eeac",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "Main Landing Page, Switching School Year Verification .should load Luca login Page successfully",
+  "historyId" : "de428bba23fe2c7d409db2489d718d53",
+  "time" : {
+    "start" : 1642319912918,
+    "stop" : 1642319915644,
+    "duration" : 2726
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29398f0261c6eeac.json",
+  "parameterValues" : [ ]
+}

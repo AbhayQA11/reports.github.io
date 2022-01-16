@@ -1,0 +1,46 @@
+{
+  "uid" : "cdab7d312eb0afb8",
+  "name" : "should verify that the Pending Approval Page has been reached",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should verify that the Pending Approval Page has been reached",
+  "historyId" : "ce10b54215723b1f8314f4d8f6e56996",
+  "time" : {
+    "start" : 1642319932606,
+    "stop" : 1642319936267,
+    "duration" : 3661
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Pending Approval Page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdab7d312eb0afb8.json",
+  "parameterValues" : [ ]
+}

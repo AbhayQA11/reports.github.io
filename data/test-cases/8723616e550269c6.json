@@ -1,0 +1,70 @@
+{
+  "uid" : "8723616e550269c6",
+  "name" : "should verify that the selected option Displays partialy Encryped info",
+  "fullName" : "Call Center Payment Encryption Tests, Credit card family.should verify that the selected option Displays partialy Encryped info",
+  "historyId" : "f7e120c367691707fbce56cfec6b4771",
+  "time" : {
+    "start" : 1642324021213,
+    "stop" : 1642324023395,
+    "duration" : 2182
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '1/18/2022,CC, Amex #9491' to be '1/16/2022,CC, Amex #9491'.",
+  "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/callCenterPages/callCenterPage/callCenterPage.js:469:20\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:804:32\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '1/18/2022,CC, Amex #9491' to be '1/16/2022,CC, Amex #9491'.",
+    "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/callCenterPages/callCenterPage/callCenterPage.js:469:20\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:804:32\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c358421a75ad9f8f",
+      "name" : "Screenshot",
+      "source" : "c358421a75ad9f8f.png",
+      "type" : "image/png",
+      "size" : 119232
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the selected option Displays partialy Encryped info"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "8723616e550269c6.json",
+  "parameterValues" : [ ]
+}

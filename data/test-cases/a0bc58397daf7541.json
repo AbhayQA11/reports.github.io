@@ -1,0 +1,46 @@
+{
+  "uid" : "a0bc58397daf7541",
+  "name" : "should change the payment method to Auto Debit Credit Card Account",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should change the payment method to Auto Debit Credit Card Account",
+  "historyId" : "ea66d28a57ad46ad82b8ed87fde6a713",
+  "time" : {
+    "start" : 1642318530255,
+    "stop" : 1642318531730,
+    "duration" : 1475
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should change the payment method to Auto Debit Credit Card Account"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0bc58397daf7541.json",
+  "parameterValues" : [ ]
+}

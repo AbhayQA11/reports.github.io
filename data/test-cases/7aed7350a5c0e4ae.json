@@ -1,0 +1,44 @@
+{
+  "uid" : "7aed7350a5c0e4ae",
+  "name" : "should click the cancel fee button",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should click the cancel fee button",
+  "historyId" : "9f7c003b118e72015af23d56dd509d6f",
+  "time" : {
+    "start" : 1642318409113,
+    "stop" : 1642318411352,
+    "duration" : 2239
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the cancel fee button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7aed7350a5c0e4ae.json",
+  "parameterValues" : [ ]
+}

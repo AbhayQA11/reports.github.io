@@ -1,0 +1,46 @@
+{
+  "uid" : "4648b790ecd41dc5",
+  "name" : "should input 11084 in search field",
+  "fullName" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard.should input 11084 in search field",
+  "historyId" : "a440acf0135b55b6927cf94def8af273",
+  "time" : {
+    "start" : 1642320010712,
+    "stop" : 1642320012180,
+    "duration" : 1468
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input 11084 in search field"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4648b790ecd41dc5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "be84b7b80e82fcb4",
+  "name" : "should input the School Student Id",
+  "fullName" : "lucaEnrollment: Enroll new family .should input the School Student Id",
+  "historyId" : "add572dda5745929ab78d1bd26202daa",
+  "time" : {
+    "start" : 1642319106715,
+    "stop" : 1642319107355,
+    "duration" : 640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the School Student Id"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be84b7b80e82fcb4.json",
+  "parameterValues" : [ ]
+}

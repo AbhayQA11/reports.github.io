@@ -1,0 +1,46 @@
+{
+  "uid" : "6ad9e9bb539cf5af",
+  "name" : "should get family id",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools.should get family id",
+  "historyId" : "fa56ddb012ff97011386fc8839fe4cd0",
+  "time" : {
+    "start" : 1642318041241,
+    "stop" : 1642318044795,
+    "duration" : 3554
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get family id"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ad9e9bb539cf5af.json",
+  "parameterValues" : [ ]
+}

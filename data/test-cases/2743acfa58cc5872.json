@@ -1,0 +1,46 @@
+{
+  "uid" : "2743acfa58cc5872",
+  "name" : "should click on Enrollment Center, then add new family",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should click on Enrollment Center, then add new family",
+  "historyId" : "2a4015fb284e7c9314efad655de55b72",
+  "time" : {
+    "start" : 1642319323174,
+    "stop" : 1642319326097,
+    "duration" : 2923
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Enrollment Center, then add new family"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2743acfa58cc5872.json",
+  "parameterValues" : [ ]
+}

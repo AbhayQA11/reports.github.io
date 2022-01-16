@@ -1,0 +1,46 @@
+{
+  "uid" : "8443eb6b3179e7e9",
+  "name" : "should click on Total Pending Families",
+  "fullName" : "Main Landing Page, Verify the accessibility of account page in Dashboard.should click on Total Pending Families",
+  "historyId" : "2c0b7f5624ea5fe3e2e226da37c6f7c6",
+  "time" : {
+    "start" : 1642319995458,
+    "stop" : 1642319998696,
+    "duration" : 3238
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Total Pending Families"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8443eb6b3179e7e9.json",
+  "parameterValues" : [ ]
+}

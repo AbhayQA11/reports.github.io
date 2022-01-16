@@ -1,0 +1,46 @@
+{
+  "uid" : "97c37fa4f133a26e",
+  "name" : "should click on edit billing details for the newly added family",
+  "fullName" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification.should click on edit billing details for the newly added family",
+  "historyId" : "dfbbe5b422d9525c9b10cd8f52682194",
+  "time" : {
+    "start" : 1642319812871,
+    "stop" : 1642319821302,
+    "duration" : 8431
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on edit billing details for the newly added family"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97c37fa4f133a26e.json",
+  "parameterValues" : [ ]
+}

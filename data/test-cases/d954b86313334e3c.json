@@ -1,0 +1,46 @@
+{
+  "uid" : "d954b86313334e3c",
+  "name" : "should verify that family name and menu buttons are displayed",
+  "fullName" : "Main Landing Page, Verify Search Functionality.should verify that family name and menu buttons are displayed",
+  "historyId" : "8488aeab2b9017d2dc315a9fb607dcd8",
+  "time" : {
+    "start" : 1642319920812,
+    "stop" : 1642319923828,
+    "duration" : 3016
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that family name and menu buttons are displayed"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d954b86313334e3c.json",
+  "parameterValues" : [ ]
+}

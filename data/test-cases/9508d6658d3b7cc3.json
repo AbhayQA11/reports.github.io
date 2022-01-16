@@ -1,0 +1,46 @@
+{
+  "uid" : "9508d6658d3b7cc3",
+  "name" : "should wait for the edit fee panel",
+  "fullName" : "Luca Settings: OW API_008 tests.should wait for the edit fee panel",
+  "historyId" : "9c7670a86c597b018e9107004cc68656",
+  "time" : {
+    "start" : 1642323349157,
+    "stop" : 1642323350436,
+    "duration" : 1279
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for the edit fee panel"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9508d6658d3b7cc3.json",
+  "parameterValues" : [ ]
+}

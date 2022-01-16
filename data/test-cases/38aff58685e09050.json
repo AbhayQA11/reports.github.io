@@ -1,0 +1,46 @@
+{
+  "uid" : "38aff58685e09050",
+  "name" : "should select the latest school year",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should select the latest school year",
+  "historyId" : "52f3b4d8998054c65f3bde02c4967d5c",
+  "time" : {
+    "start" : 1642322951388,
+    "stop" : 1642322955096,
+    "duration" : 3708
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38aff58685e09050.json",
+  "parameterValues" : [ ]
+}

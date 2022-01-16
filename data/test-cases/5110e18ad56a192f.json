@@ -1,0 +1,46 @@
+{
+  "uid" : "5110e18ad56a192f",
+  "name" : "should modify user data in order to log in the user in EWS",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should modify user data in order to log in the user in EWS",
+  "historyId" : "67df0ddd391fd0700f88fe9b7ba29068",
+  "time" : {
+    "start" : 1642319529303,
+    "stop" : 1642319563611,
+    "duration" : 34308
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to log in the user in EWS"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5110e18ad56a192f.json",
+  "parameterValues" : [ ]
+}

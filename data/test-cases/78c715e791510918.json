@@ -1,0 +1,46 @@
+{
+  "uid" : "78c715e791510918",
+  "name" : "should input the Street Address",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should input the Street Address",
+  "historyId" : "9b4e26ea38a9f520c3d0f0db67295750",
+  "time" : {
+    "start" : 1642323420679,
+    "stop" : 1642323421608,
+    "duration" : 929
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the Street Address"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78c715e791510918.json",
+  "parameterValues" : [ ]
+}

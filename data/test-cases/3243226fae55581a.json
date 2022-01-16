@@ -1,0 +1,46 @@
+{
+  "uid" : "3243226fae55581a",
+  "name" : "should click on selected state code",
+  "fullName" : "homepageTests: Enrollment with Credit Card entry.should click on selected state code",
+  "historyId" : "b9956d8b14d046a2cde3313fb2589628",
+  "time" : {
+    "start" : 1642317848397,
+    "stop" : 1642317849380,
+    "duration" : 983
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on selected state code"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3243226fae55581a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "18cd6533fa237373",
+  "name" : "should select the latest school year",
+  "fullName" : "Main Landing Page, Verify Search Functionality.should select the latest school year",
+  "historyId" : "23589954d165b333b3ebb9d7ce1735af",
+  "time" : {
+    "start" : 1642319914681,
+    "stop" : 1642319918230,
+    "duration" : 3549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18cd6533fa237373.json",
+  "parameterValues" : [ ]
+}

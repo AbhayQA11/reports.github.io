@@ -1,0 +1,46 @@
+{
+  "uid" : "20d9293d1940c8fb",
+  "name" : "should click on Enable/Disable Yets Report",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click on Enable/Disable Yets Report",
+  "historyId" : "133c947b39dbb4a3e3495f914ab95406",
+  "time" : {
+    "start" : 1642319934958,
+    "stop" : 1642319936126,
+    "duration" : 1168
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Enable/Disable Yets Report"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20d9293d1940c8fb.json",
+  "parameterValues" : [ ]
+}

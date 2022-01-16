@@ -1,0 +1,46 @@
+{
+  "uid" : "7ece41e253c261d0",
+  "name" : "should select Card type",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should select Card type",
+  "historyId" : "bb47c486d5e13d4a9e53c3f33c3059a5",
+  "time" : {
+    "start" : 1642318534639,
+    "stop" : 1642318536077,
+    "duration" : 1438
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select Card type"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ece41e253c261d0.json",
+  "parameterValues" : [ ]
+}

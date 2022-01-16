@@ -1,0 +1,46 @@
+{
+  "uid" : "5a45e83a68b2c2aa",
+  "name" : "should verify that the appropriate message is received after Removing the fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should verify that the appropriate message is received after Removing the fee",
+  "historyId" : "2b00450e6176a815248779b724f691b3",
+  "time" : {
+    "start" : 1642320186737,
+    "stop" : 1642320194400,
+    "duration" : 7663
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received after Removing the fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a45e83a68b2c2aa.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "336f770c3139a41d",
+  "name" : "should input no values into the Username and Password fields and click find My Account button",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should input no values into the Username and Password fields and click find My Account button",
+  "historyId" : "d1eb63e544e08cb7a572c111aeabf3a5",
+  "time" : {
+    "start" : 1642318001301,
+    "stop" : 1642318003044,
+    "duration" : 1743
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input no values into the Username and Password fields and click find My Account button"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "336f770c3139a41d.json",
+  "parameterValues" : [ ]
+}

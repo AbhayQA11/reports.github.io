@@ -1,0 +1,48 @@
+{
+  "uid" : "e55b528019a1a338",
+  "name" : "should click on Unblock All Payment button",
+  "fullName" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification.should click on Unblock All Payment button",
+  "historyId" : "2fb4dd3e0f228f3ebe703a271e049c63",
+  "time" : {
+    "start" : 1642323461399,
+    "stop" : 1642323461399,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Unblock All Payment button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e55b528019a1a338.json",
+  "parameterValues" : [ ]
+}

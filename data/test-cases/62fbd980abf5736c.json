@@ -1,0 +1,46 @@
+{
+  "uid" : "62fbd980abf5736c",
+  "name" : "should verify that the Pending Notes and Requests Page is reached",
+  "fullName" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016.should verify that the Pending Notes and Requests Page is reached",
+  "historyId" : "a612f2a3bb68c13c33c180d1d4d4afb7",
+  "time" : {
+    "start" : 1642323357225,
+    "stop" : 1642323359564,
+    "duration" : 2339
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Pending Notes and Requests Page is reached"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62fbd980abf5736c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "464ed334be547cb9",
+  "name" : "should click on the Master Card Option",
+  "fullName" : "Parent Site Payment Verification.should click on the Master Card Option",
+  "historyId" : "26739d8e66e4e79fdd22e2ccb05f7de2",
+  "time" : {
+    "start" : 1642323888782,
+    "stop" : 1642323890312,
+    "duration" : 1530
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Master Card Option"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "464ed334be547cb9.json",
+  "parameterValues" : [ ]
+}

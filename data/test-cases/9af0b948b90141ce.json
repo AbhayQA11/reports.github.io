@@ -1,0 +1,46 @@
+{
+  "uid" : "9af0b948b90141ce",
+  "name" : "should modify user data in order to activate the family",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification.should modify user data in order to activate the family",
+  "historyId" : "9a492d5f23bc52175e82cbdda53dbcec",
+  "time" : {
+    "start" : 1642321049301,
+    "stop" : 1642321082846,
+    "duration" : 33545
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to activate the family"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9af0b948b90141ce.json",
+  "parameterValues" : [ ]
+}

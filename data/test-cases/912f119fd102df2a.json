@@ -1,0 +1,46 @@
+{
+  "uid" : "912f119fd102df2a",
+  "name" : "should load call API successfully and access families method",
+  "fullName" : "Luca Settings: Auth OW Api - access families method API_025.should load call API successfully and access families method",
+  "historyId" : "dee049cbc86e13f2b3d81e83024e964",
+  "time" : {
+    "start" : 1642323357957,
+    "stop" : 1642323391860,
+    "duration" : 33903
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Auth OW Api - access families method API_025"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Auth OW Api - access families method API_025"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load call API successfully and access families method"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Auth OW Api - access families method API_025"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "912f119fd102df2a.json",
+  "parameterValues" : [ ]
+}

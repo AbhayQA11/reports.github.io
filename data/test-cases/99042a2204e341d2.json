@@ -1,0 +1,46 @@
+{
+  "uid" : "99042a2204e341d2",
+  "name" : "should select the Auto Debit Bank Account  Payment Method",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should select the Auto Debit Bank Account  Payment Method",
+  "historyId" : "79cafe6d4fab7b3de91cded70d2198e",
+  "time" : {
+    "start" : 1642317934155,
+    "stop" : 1642317935928,
+    "duration" : 1773
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the Auto Debit Bank Account  Payment Method"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99042a2204e341d2.json",
+  "parameterValues" : [ ]
+}

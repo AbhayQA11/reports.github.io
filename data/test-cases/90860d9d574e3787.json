@@ -1,0 +1,46 @@
+{
+  "uid" : "90860d9d574e3787",
+  "name" : "should fill in the Zip Code in order to create a family with Auto Debit Credit Card Option",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should fill in the Zip Code in order to create a family with Auto Debit Credit Card Option",
+  "historyId" : "28368c5c37b6e3e17b8c8ce51ec80c4f",
+  "time" : {
+    "start" : 1642319332841,
+    "stop" : 1642319333404,
+    "duration" : 563
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Zip Code in order to create a family with Auto Debit Credit Card Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90860d9d574e3787.json",
+  "parameterValues" : [ ]
+}

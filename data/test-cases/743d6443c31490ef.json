@@ -1,0 +1,46 @@
+{
+  "uid" : "743d6443c31490ef",
+  "name" : "should insert the password",
+  "fullName" : "Luca Settings: OW Api - Add new family login api API_073.should insert the password",
+  "historyId" : "db349f9db4c3ea3b17987d7bf57333d1",
+  "time" : {
+    "start" : 1642323564728,
+    "stop" : 1642323571587,
+    "duration" : 6859
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testMethod",
+    "value" : "should insert the password"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "743d6443c31490ef.json",
+  "parameterValues" : [ ]
+}

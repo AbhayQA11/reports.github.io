@@ -1,0 +1,46 @@
+{
+  "uid" : "dbb3e77e56533c25",
+  "name" : "should load the Luca Login Page succesfully",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan .should load the Luca Login Page succesfully",
+  "historyId" : "5c40e8e80b9668cb9cf77f963131e410",
+  "time" : {
+    "start" : 1642323686724,
+    "stop" : 1642323688598,
+    "duration" : 1874
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testMethod",
+    "value" : "should load the Luca Login Page succesfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbb3e77e56533c25.json",
+  "parameterValues" : [ ]
+}

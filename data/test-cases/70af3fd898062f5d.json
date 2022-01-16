@@ -1,0 +1,46 @@
+{
+  "uid" : "70af3fd898062f5d",
+  "name" : "should verify that Income Gl Id is set to Business Expenses in the Table",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should verify that Income Gl Id is set to Business Expenses in the Table",
+  "historyId" : "de9091196c2c653fa1f9c18bdeda7014",
+  "time" : {
+    "start" : 1642323155205,
+    "stop" : 1642323156689,
+    "duration" : 1484
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Income Gl Id is set to Business Expenses in the Table"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70af3fd898062f5d.json",
+  "parameterValues" : [ ]
+}

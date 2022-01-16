@@ -1,0 +1,46 @@
+{
+  "uid" : "451c41905119dc6b",
+  "name" : "should click on go button in order to change school and select latest school year",
+  "fullName" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68.should click on go button in order to change school and select latest school year",
+  "historyId" : "cee458a118775d74ea2284c280cd31aa",
+  "time" : {
+    "start" : 1642323545427,
+    "stop" : 1642323546787,
+    "duration" : 1360
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on go button in order to change school and select latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify Family Base Billing Fields in UI API_64, API_65, API_66, API_67, API_68"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "451c41905119dc6b.json",
+  "parameterValues" : [ ]
+}

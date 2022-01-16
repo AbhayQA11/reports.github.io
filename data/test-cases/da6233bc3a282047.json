@@ -1,0 +1,46 @@
+{
+  "uid" : "da6233bc3a282047",
+  "name" : "should fill in the Home And Mobile Phone in order to create a family with Auto Debit Credit Card Option",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should fill in the Home And Mobile Phone in order to create a family with Auto Debit Credit Card Option",
+  "historyId" : "310e82343b7b580aa0c9bb9e977b6660",
+  "time" : {
+    "start" : 1642319335606,
+    "stop" : 1642319336450,
+    "duration" : 844
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Home And Mobile Phone in order to create a family with Auto Debit Credit Card Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da6233bc3a282047.json",
+  "parameterValues" : [ ]
+}

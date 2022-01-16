@@ -1,0 +1,46 @@
+{
+  "uid" : "1704ea4d815cd4cb",
+  "name" : "should check if no results error message is displayed",
+  "fullName" : "homepageTests: Enrollment, Create New Account, Message Validation.should check if no results error message is displayed",
+  "historyId" : "25be91fb37081f56950bf163d3a81120",
+  "time" : {
+    "start" : 1642317834048,
+    "stop" : 1642317834948,
+    "duration" : 900
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check if no results error message is displayed"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1704ea4d815cd4cb.json",
+  "parameterValues" : [ ]
+}

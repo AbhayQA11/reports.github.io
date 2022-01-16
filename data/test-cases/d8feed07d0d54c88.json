@@ -1,0 +1,46 @@
+{
+  "uid" : "d8feed07d0d54c88",
+  "name" : "should input Invalid User Name",
+  "fullName" : "Call Center Authentification tests.should input Invalid User Name",
+  "historyId" : "538c6e1464eccb28f9044cb387be00f6",
+  "time" : {
+    "start" : 1642323857319,
+    "stop" : 1642323858855,
+    "duration" : 1536
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input Invalid User Name"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8feed07d0d54c88.json",
+  "parameterValues" : [ ]
+}

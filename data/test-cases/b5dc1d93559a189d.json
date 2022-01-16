@@ -1,0 +1,46 @@
+{
+  "uid" : "b5dc1d93559a189d",
+  "name" : "should load Call Center Page succesfully",
+  "fullName" : "Call Center Authentification tests.should load Call Center Page succesfully",
+  "historyId" : "2770dfbcff29b93f5c554398cc69d8cb",
+  "time" : {
+    "start" : 1642323829530,
+    "stop" : 1642323849171,
+    "duration" : 19641
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Call Center Page succesfully"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5dc1d93559a189d.json",
+  "parameterValues" : [ ]
+}

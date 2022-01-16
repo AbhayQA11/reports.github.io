@@ -1,0 +1,46 @@
+{
+  "uid" : "5a531f879ba45cab",
+  "name" : "should Select All Grades for discount",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts.should Select All Grades for discount",
+  "historyId" : "61088f40e115ac7e1f3ebb2ebdf76a86",
+  "time" : {
+    "start" : 1642320384479,
+    "stop" : 1642320386793,
+    "duration" : 2314
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Select All Grades for discount"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a531f879ba45cab.json",
+  "parameterValues" : [ ]
+}

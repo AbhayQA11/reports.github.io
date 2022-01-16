@@ -1,0 +1,46 @@
+{
+  "uid" : "1cb81254229faba2",
+  "name" : "should verify that the appropriate message is received after Removing the fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee.should verify that the appropriate message is received after Removing the fee",
+  "historyId" : "9b40fe012d22c6b598ba9d129f030175",
+  "time" : {
+    "start" : 1642320793702,
+    "stop" : 1642320801448,
+    "duration" : 7746
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received after Removing the fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cb81254229faba2.json",
+  "parameterValues" : [ ]
+}

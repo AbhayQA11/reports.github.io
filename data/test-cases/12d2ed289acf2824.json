@@ -1,0 +1,46 @@
+{
+  "uid" : "12d2ed289acf2824",
+  "name" : "should switch to contact Information tab on Edit Family Page",
+  "fullName" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083.should switch to contact Information tab on Edit Family Page",
+  "historyId" : "339355c4cdc06a971fe4a012bec91c58",
+  "time" : {
+    "start" : 1642323624409,
+    "stop" : 1642323626291,
+    "duration" : 1882
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch to contact Information tab on Edit Family Page"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Update the Secondary And Third Party Info via API, then verify new Data In UI API_82, API_083"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12d2ed289acf2824.json",
+  "parameterValues" : [ ]
+}

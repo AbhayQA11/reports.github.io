@@ -1,0 +1,46 @@
+{
+  "uid" : "87c96fc9f4dd109a",
+  "name" : "should verify that the Routing Number is as previously entered",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should verify that the Routing Number is as previously entered",
+  "historyId" : "712c92cd51ed62a74df4e02b021b13c6",
+  "time" : {
+    "start" : 1642318597197,
+    "stop" : 1642318597783,
+    "duration" : 586
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Routing Number is as previously entered"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "87c96fc9f4dd109a.json",
+  "parameterValues" : [ ]
+}

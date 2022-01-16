@@ -1,0 +1,46 @@
+{
+  "uid" : "b3dd3b7cb3aacb1d",
+  "name" : "should click on login button third time",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should click on login button third time",
+  "historyId" : "b586fcbc3b2e42364096c2fff72a8b46",
+  "time" : {
+    "start" : 1642318210843,
+    "stop" : 1642318212155,
+    "duration" : 1312
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on login button third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3dd3b7cb3aacb1d.json",
+  "parameterValues" : [ ]
+}

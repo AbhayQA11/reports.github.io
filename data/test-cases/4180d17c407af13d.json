@@ -1,0 +1,44 @@
+{
+  "uid" : "4180d17c407af13d",
+  "name" : "should input correct username",
+  "fullName" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases.should input correct username",
+  "historyId" : "59c2e877988f9fca67949df952938d72",
+  "time" : {
+    "start" : 1642318241782,
+    "stop" : 1642318243872,
+    "duration" : 2090
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct username"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4180d17c407af13d.json",
+  "parameterValues" : [ ]
+}

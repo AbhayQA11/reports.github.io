@@ -1,0 +1,46 @@
+{
+  "uid" : "abacd22996dd2755",
+  "name" : "should fill in the Aditional Party Names required form in the Add New family Page",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should fill in the Aditional Party Names required form in the Add New family Page",
+  "historyId" : "27b16fc3a22904639f67eb9eedaa91c2",
+  "time" : {
+    "start" : 1642319175636,
+    "stop" : 1642319176752,
+    "duration" : 1116
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Aditional Party Names required form in the Add New family Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "abacd22996dd2755.json",
+  "parameterValues" : [ ]
+}

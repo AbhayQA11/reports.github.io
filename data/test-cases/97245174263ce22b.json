@@ -1,0 +1,46 @@
+{
+  "uid" : "97245174263ce22b",
+  "name" : "should input correct password",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should input correct password",
+  "historyId" : "353815d2eecfbbb2e44cc8d3ab53a10d",
+  "time" : {
+    "start" : 1642318379581,
+    "stop" : 1642318380786,
+    "duration" : 1205
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97245174263ce22b.json",
+  "parameterValues" : [ ]
+}

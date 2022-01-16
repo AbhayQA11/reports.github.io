@@ -1,0 +1,46 @@
+{
+  "uid" : "da93810066b86edb",
+  "name" : "should compare both hashes again, their length needs to be equal ",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should compare both hashes again, their length needs to be equal ",
+  "historyId" : "3416edf148427e3f7d640ce15d74486e",
+  "time" : {
+    "start" : 1642318178064,
+    "stop" : 1642318178379,
+    "duration" : 315
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should compare both hashes again, their length needs to be equal "
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da93810066b86edb.json",
+  "parameterValues" : [ ]
+}

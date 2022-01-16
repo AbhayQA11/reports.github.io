@@ -1,0 +1,46 @@
+{
+  "uid" : "c5170d741be14e16",
+  "name" : "should get and store the fee name in order to search for it later",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_006.should get and store the fee name in order to search for it later",
+  "historyId" : "d078353e6913001cad0103d94b12f5da",
+  "time" : {
+    "start" : 1642323313360,
+    "stop" : 1642323313955,
+    "duration" : 595
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the fee name in order to search for it later"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5170d741be14e16.json",
+  "parameterValues" : [ ]
+}

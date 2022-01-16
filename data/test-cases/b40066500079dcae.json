@@ -1,0 +1,46 @@
+{
+  "uid" : "b40066500079dcae",
+  "name" : "should check if the family is located in the Parent Registration",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Bank Account.should check if the family is located in the Parent Registration",
+  "historyId" : "561f123c7f55fa583c1d551906a1e661",
+  "time" : {
+    "start" : 1642318294010,
+    "stop" : 1642318295327,
+    "duration" : 1317
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check if the family is located in the Parent Registration"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b40066500079dcae.json",
+  "parameterValues" : [ ]
+}

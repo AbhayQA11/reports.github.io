@@ -1,0 +1,46 @@
+{
+  "uid" : "4cc4b7972136956b",
+  "name" : "should click the search button in order to search for the newly created family",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should click the search button in order to search for the newly created family",
+  "historyId" : "e1100b6f4bb80d795c17dc1c8e3f6b5",
+  "time" : {
+    "start" : 1642323449388,
+    "stop" : 1642323451037,
+    "duration" : 1649
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the search button in order to search for the newly created family"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4cc4b7972136956b.json",
+  "parameterValues" : [ ]
+}

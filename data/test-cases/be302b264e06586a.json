@@ -1,0 +1,46 @@
+{
+  "uid" : "be302b264e06586a",
+  "name" : "should get and store the Email in order to use it later for family search",
+  "fullName" : "homepageTests: Enrolling New Family with Credit Card.should get and store the Email in order to use it later for family search",
+  "historyId" : "c036e75f80783a7e822101d732bd02f1",
+  "time" : {
+    "start" : 1642317944114,
+    "stop" : 1642317946275,
+    "duration" : 2161
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the Email in order to use it later for family search"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be302b264e06586a.json",
+  "parameterValues" : [ ]
+}

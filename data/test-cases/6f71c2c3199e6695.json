@@ -1,0 +1,54 @@
+{
+  "uid" : "6f71c2c3199e6695",
+  "name" : "should input school number 11084 in the search field",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should input school number 11084 in the search field",
+  "historyId" : "c7c8b684b23f1e47b31124e685d638a8",
+  "time" : {
+    "start" : 1642322568861,
+    "stop" : 1642322570302,
+    "duration" : 1441
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input school number 11084 in the search field"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d7a7ff12644bdfe5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318348379,
+        "stop" : 1642318349822,
+        "duration" : 1443
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f71c2c3199e6695.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "7777283211865346",
+  "name" : "should click on Payment Method and then select the Mail in Option",
+  "fullName" : "lucaEnrollment: verify filters on Wait Listed Families page.should click on Payment Method and then select the Mail in Option",
+  "historyId" : "1564fba22c524868a259fb630fce9113",
+  "time" : {
+    "start" : 1642319468310,
+    "stop" : 1642319469794,
+    "duration" : 1484
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Payment Method and then select the Mail in Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7777283211865346.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "b37fa78f67f632d1",
+  "name" : "should change the number of items displayed to 10 and verify that only 10 results are displayed",
+  "fullName" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page.should change the number of items displayed to 10 and verify that only 10 results are displayed",
+  "historyId" : "fddcb73f0f686bde3ca46d4b615f8051",
+  "time" : {
+    "start" : 1642320974069,
+    "stop" : 1642320975101,
+    "duration" : 1032
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should change the number of items displayed to 10 and verify that only 10 results are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Remittance, validate payments tooltips, pagination and drop-downs page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b37fa78f67f632d1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "ccba1c85a680fbdb",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaFamiliesModuleTests: View All Families Details Pagination Details.should load Luca login Page successfully",
+  "historyId" : "595d0740e5581a7e0e6102df2b3e8b59",
+  "time" : {
+    "start" : 1642322396796,
+    "stop" : 1642322400267,
+    "duration" : 3471
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fabd0c5415eea666",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318232206,
+        "stop" : 1642318235127,
+        "duration" : 2921
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ccba1c85a680fbdb.json",
+  "parameterValues" : [ ]
+}

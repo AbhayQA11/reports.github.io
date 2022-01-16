@@ -1,0 +1,46 @@
+{
+  "uid" : "1b9e05f90f8e3f15",
+  "name" : "should log out from luca",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account.should log out from luca",
+  "historyId" : "801fbc1eb7c35a94997f8bfe7a5e6758",
+  "time" : {
+    "start" : 1642321410060,
+    "stop" : 1642321413706,
+    "duration" : 3646
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b9e05f90f8e3f15.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "bcf66497a1727603",
+  "name" : "should should input new value into the Student1 Tuition Ammount field",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools.should should input new value into the Student1 Tuition Ammount field",
+  "historyId" : "46e92585ddce1c9db53489f36f83a783",
+  "time" : {
+    "start" : 1642318021270,
+    "stop" : 1642318022144,
+    "duration" : 874
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should should input new value into the Student1 Tuition Ammount field"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bcf66497a1727603.json",
+  "parameterValues" : [ ]
+}

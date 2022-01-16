@@ -1,0 +1,46 @@
+{
+  "uid" : "7d13fa01f9dc8c0",
+  "name" : "should dismiss the Pop-up by pressing the Continue button",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should dismiss the Pop-up by pressing the Continue button",
+  "historyId" : "140c89c1596a420c82f571b9f96c868d",
+  "time" : {
+    "start" : 1642323872597,
+    "stop" : 1642323872598,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should dismiss the Pop-up by pressing the Continue button"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d13fa01f9dc8c0.json",
+  "parameterValues" : [ ]
+}

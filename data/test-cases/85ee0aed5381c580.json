@@ -1,0 +1,46 @@
+{
+  "uid" : "85ee0aed5381c580",
+  "name" : "should log out from luca",
+  "fullName" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages.should log out from luca",
+  "historyId" : "95dcd13ca295b06ec70e6fcb9b044481",
+  "time" : {
+    "start" : 1642320775762,
+    "stop" : 1642320779018,
+    "duration" : 3256
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85ee0aed5381c580.json",
+  "parameterValues" : [ ]
+}

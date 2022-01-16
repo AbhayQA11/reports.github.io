@@ -1,0 +1,46 @@
+{
+  "uid" : "d3c4ad1ad6bdeef0",
+  "name" : "should click on Undo Changes button",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Fees.should click on Undo Changes button",
+  "historyId" : "cdb2f8839a7613118314c6e404a2b5e8",
+  "time" : {
+    "start" : 1642319691685,
+    "stop" : 1642319692741,
+    "duration" : 1056
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Undo Changes button"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3c4ad1ad6bdeef0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "4dd1de5cc004b8ac",
+  "name" : "should verify that the ammount previously entered is deducted from the Total Due Ammount",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should verify that the ammount previously entered is deducted from the Total Due Ammount",
+  "historyId" : "191188d506b228ec56439fb004d24fde",
+  "time" : {
+    "start" : 1642318412634,
+    "stop" : 1642318413556,
+    "duration" : 922
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the ammount previously entered is deducted from the Total Due Ammount"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4dd1de5cc004b8ac.json",
+  "parameterValues" : [ ]
+}

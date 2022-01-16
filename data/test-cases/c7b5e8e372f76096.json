@@ -1,0 +1,46 @@
+{
+  "uid" : "c7b5e8e372f76096",
+  "name" : "should input valid username",
+  "fullName" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification.should input valid username",
+  "historyId" : "527a31f8db6c719f013494396d88e27a",
+  "time" : {
+    "start" : 1642323213031,
+    "stop" : 1642323216507,
+    "duration" : 3476
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid username"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7b5e8e372f76096.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "2e108c90c7e69157",
+  "name" : "should create a family via Onboard API and verify proper response",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should create a family via Onboard API and verify proper response",
+  "historyId" : "294f1117aa3a42b3b0ae224a286e0cd5",
+  "time" : {
+    "start" : 1642323365009,
+    "stop" : 1642323390012,
+    "duration" : 25003
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family via Onboard API and verify proper response"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e108c90c7e69157.json",
+  "parameterValues" : [ ]
+}

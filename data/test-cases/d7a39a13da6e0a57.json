@@ -1,0 +1,46 @@
+{
+  "uid" : "d7a39a13da6e0a57",
+  "name" : "should click  click on Manage Contact Information",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click  click on Manage Contact Information",
+  "historyId" : "11c9e3701cbb4d1f7bc2cb90ce33b743",
+  "time" : {
+    "start" : 1642319898045,
+    "stop" : 1642319899263,
+    "duration" : 1218
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click  click on Manage Contact Information"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7a39a13da6e0a57.json",
+  "parameterValues" : [ ]
+}

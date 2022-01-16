@@ -1,0 +1,46 @@
+{
+  "uid" : "621f541cc6fa166e",
+  "name" : "should verify Parent 1 first name",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should verify Parent 1 first name",
+  "historyId" : "618434b42d00886f223597149be98725",
+  "time" : {
+    "start" : 1642323443368,
+    "stop" : 1642323444940,
+    "duration" : 1572
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify Parent 1 first name"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "621f541cc6fa166e.json",
+  "parameterValues" : [ ]
+}

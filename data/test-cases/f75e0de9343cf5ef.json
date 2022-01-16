@@ -1,0 +1,54 @@
+{
+  "uid" : "f75e0de9343cf5ef",
+  "name" : "should click on the edit billing details link",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should click on the edit billing details link",
+  "historyId" : "cff1b2b0aca39831908575228e3bacef",
+  "time" : {
+    "start" : 1642322677798,
+    "stop" : 1642322681606,
+    "duration" : 3808
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the edit billing details link"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7d0b08ba110fc183",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318455611,
+        "stop" : 1642318459543,
+        "duration" : 3932
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f75e0de9343cf5ef.json",
+  "parameterValues" : [ ]
+}

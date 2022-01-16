@@ -1,0 +1,46 @@
+{
+  "uid" : "b27d8837bf7a8691",
+  "name" : "should remove the three newly added Discounts third time",
+  "fullName" : "lucaBillingTests: Edit Billing module, multiple discount deletion.should remove the three newly added Discounts third time",
+  "historyId" : "f56e018a5cd0ca6a0ab1c2eeb828f7f7",
+  "time" : {
+    "start" : 1642319800612,
+    "stop" : 1642319801604,
+    "duration" : 992
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "testMethod",
+    "value" : "should remove the three newly added Discounts third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b27d8837bf7a8691.json",
+  "parameterValues" : [ ]
+}

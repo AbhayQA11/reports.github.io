@@ -1,0 +1,46 @@
+{
+  "uid" : "fb759d03cfd0becb",
+  "name" : "should click the logout button",
+  "fullName" : "Call Center Payment Encryption Tests, Bank Account family.should click the logout button",
+  "historyId" : "4a1c6741b178e6b5d92bcb5ee9ab0610",
+  "time" : {
+    "start" : 1642324018144,
+    "stop" : 1642324020575,
+    "duration" : 2431
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the logout button"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb759d03cfd0becb.json",
+  "parameterValues" : [ ]
+}

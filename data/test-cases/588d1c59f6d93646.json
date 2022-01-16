@@ -1,0 +1,46 @@
+{
+  "uid" : "588d1c59f6d93646",
+  "name" : "should select the first record third time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should select the first record third time",
+  "historyId" : "c553d77400d8c9bee23d7c92dffe2ad6",
+  "time" : {
+    "start" : 1642318557165,
+    "stop" : 1642318563833,
+    "duration" : 6668
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the first record third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "588d1c59f6d93646.json",
+  "parameterValues" : [ ]
+}

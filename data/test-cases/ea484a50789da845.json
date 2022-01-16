@@ -1,0 +1,46 @@
+{
+  "uid" : "ea484a50789da845",
+  "name" : "should input seccond different billing street address",
+  "fullName" : "homepageTests: Enrollment with Credit Card entry.should input seccond different billing street address",
+  "historyId" : "988669919d0f87522408ea606e4bf690",
+  "time" : {
+    "start" : 1642317878609,
+    "stop" : 1642317879528,
+    "duration" : 919
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input seccond different billing street address"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea484a50789da845.json",
+  "parameterValues" : [ ]
+}

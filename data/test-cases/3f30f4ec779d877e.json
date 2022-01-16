@@ -1,0 +1,44 @@
+{
+  "uid" : "3f30f4ec779d877e",
+  "name" : "should input a school 11084 in the search field",
+  "fullName" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases.should input a school 11084 in the search field",
+  "historyId" : "be3782ebe6caa76cfb40147098df857e",
+  "time" : {
+    "start" : 1642318251666,
+    "stop" : 1642318253244,
+    "duration" : 1578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a school 11084 in the search field"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f30f4ec779d877e.json",
+  "parameterValues" : [ ]
+}

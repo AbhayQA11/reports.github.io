@@ -1,0 +1,46 @@
+{
+  "uid" : "94a696902065b487",
+  "name" : "should click the Modify Tuition button",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should click the Modify Tuition button",
+  "historyId" : "6614c38a18d4f76830c6229e69046d75",
+  "time" : {
+    "start" : 1642318582604,
+    "stop" : 1642318583663,
+    "duration" : 1059
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Modify Tuition button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94a696902065b487.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "af385bf0200c41b2",
+  "name" : "should click on save Discount button",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts.should click on save Discount button",
+  "historyId" : "3802950eaf7f64c139f8fcfb20ad9880",
+  "time" : {
+    "start" : 1642320388011,
+    "stop" : 1642320390310,
+    "duration" : 2299
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on save Discount button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af385bf0200c41b2.json",
+  "parameterValues" : [ ]
+}

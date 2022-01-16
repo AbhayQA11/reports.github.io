@@ -1,0 +1,46 @@
+{
+  "uid" : "1ea4b88a812d70b2",
+  "name" : "should log out from luca",
+  "fullName" : "Luca Settings: Manage Payment Plans tests,API_002.should log out from luca",
+  "historyId" : "ffe72dfef34bf8874ab60eb66f4facd4",
+  "time" : {
+    "start" : 1642323264509,
+    "stop" : 1642323267438,
+    "duration" : 2929
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests,API_002"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests,API_002"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests,API_002"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ea4b88a812d70b2.json",
+  "parameterValues" : [ ]
+}

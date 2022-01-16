@@ -1,0 +1,46 @@
+{
+  "uid" : "2524e590d3d5ce45",
+  "name" : "should input the student grade name",
+  "fullName" : "homepageTests: Enrollment with Mail In Invoice payment option.should input the student grade name",
+  "historyId" : "a52709964a1bd748ec8b91adc95c9e2d",
+  "time" : {
+    "start" : 1642317894400,
+    "stop" : 1642317897283,
+    "duration" : 2883
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the student grade name"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2524e590d3d5ce45.json",
+  "parameterValues" : [ ]
+}

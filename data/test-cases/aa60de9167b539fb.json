@@ -1,0 +1,46 @@
+{
+  "uid" : "aa60de9167b539fb",
+  "name" : "should click on Billed Vs Paid Chart",
+  "fullName" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard.should click on Billed Vs Paid Chart",
+  "historyId" : "482c9928485c1959d7b57ea22f6ec9",
+  "time" : {
+    "start" : 1642320067261,
+    "stop" : 1642320073098,
+    "duration" : 5837
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Billed Vs Paid Chart"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa60de9167b539fb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "2dbe70de66e7e1c8",
+  "name" : "should click on due Month dropdown and the select the last entry",
+  "fullName" : "lucaEnrollment: verify filters on Deleted Families.should click on due Month dropdown and the select the last entry",
+  "historyId" : "ffd4ef1c92c4decb2ab4069e81713acd",
+  "time" : {
+    "start" : 1642319435236,
+    "stop" : 1642319437041,
+    "duration" : 1805
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on due Month dropdown and the select the last entry"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2dbe70de66e7e1c8.json",
+  "parameterValues" : [ ]
+}

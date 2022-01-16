@@ -1,0 +1,46 @@
+{
+  "uid" : "1d08c8c9d1a9e20",
+  "name" : "should set expiration year",
+  "fullName" : "homepageTests: Enrollment with Credit Card and Debit Bank account option.should set expiration year",
+  "historyId" : "79ac4f27fe4c6ca79621046943951347",
+  "time" : {
+    "start" : 1642317879602,
+    "stop" : 1642317880757,
+    "duration" : 1155
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should set expiration year"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d08c8c9d1a9e20.json",
+  "parameterValues" : [ ]
+}

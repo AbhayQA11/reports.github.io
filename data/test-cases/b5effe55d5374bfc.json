@@ -1,0 +1,44 @@
+{
+  "uid" : "b5effe55d5374bfc",
+  "name" : "should verify family and student page is loaded",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should verify family and student page is loaded",
+  "historyId" : "70602fb7870fb62eb1c2678dc6ffe6e1",
+  "time" : {
+    "start" : 1642318446032,
+    "stop" : 1642318453416,
+    "duration" : 7384
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify family and student page is loaded"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5effe55d5374bfc.json",
+  "parameterValues" : [ ]
+}

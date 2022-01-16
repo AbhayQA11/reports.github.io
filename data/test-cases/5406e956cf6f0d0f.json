@@ -1,0 +1,46 @@
+{
+  "uid" : "5406e956cf6f0d0f",
+  "name" : "should select the first record fourth time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should select the first record fourth time",
+  "historyId" : "bc03b7be9db1dd69d3edbede4222995e",
+  "time" : {
+    "start" : 1642318574504,
+    "stop" : 1642318581174,
+    "duration" : 6670
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the first record fourth time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5406e956cf6f0d0f.json",
+  "parameterValues" : [ ]
+}

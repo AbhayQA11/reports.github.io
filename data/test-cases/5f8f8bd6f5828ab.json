@@ -1,0 +1,46 @@
+{
+  "uid" : "5f8f8bd6f5828ab",
+  "name" : "should verify that total fees to pay have been reset to zero",
+  "fullName" : "homepageTests: Verifies Enrollment code for Remove Fees.should verify that total fees to pay have been reset to zero",
+  "historyId" : "f784945160de9404098ddc05cac6c580",
+  "time" : {
+    "start" : 1642317998250,
+    "stop" : 1642318000914,
+    "duration" : 2664
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that total fees to pay have been reset to zero"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f8f8bd6f5828ab.json",
+  "parameterValues" : [ ]
+}

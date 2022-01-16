@@ -1,0 +1,46 @@
+{
+  "uid" : "d3b08e9334ba96fb",
+  "name" : "should click on the Newly Appeared Late Fee Review button",
+  "fullName" : "lucaAddANoteTests: Create a note and attaching an attachment.should click on the Newly Appeared Late Fee Review button",
+  "historyId" : "28102517b8e2dda8b5aa277a31f1e643",
+  "time" : {
+    "start" : 1642322966421,
+    "stop" : 1642322968275,
+    "duration" : 1854
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Newly Appeared Late Fee Review button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3b08e9334ba96fb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "300f6d763bd56b96",
+  "name" : "should click on lastest school year from search results",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info.should click on lastest school year from search results",
+  "historyId" : "bccc9031d9cf01d68f3ef29f9743fc50",
+  "time" : {
+    "start" : 1642318633968,
+    "stop" : 1642318637692,
+    "duration" : 3724
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on lastest school year from search results"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "300f6d763bd56b96.json",
+  "parameterValues" : [ ]
+}

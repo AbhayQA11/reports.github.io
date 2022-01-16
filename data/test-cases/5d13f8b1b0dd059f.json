@@ -1,0 +1,46 @@
+{
+  "uid" : "5d13f8b1b0dd059f",
+  "name" : "should click the Purge button",
+  "fullName" : "lucaBillingTests: Add Fee and Discount to Family.should click the Purge button",
+  "historyId" : "5e371921c26da8a720705a49a44fb3b1",
+  "time" : {
+    "start" : 1642319645552,
+    "stop" : 1642319651632,
+    "duration" : 6080
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Purge button"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d13f8b1b0dd059f.json",
+  "parameterValues" : [ ]
+}

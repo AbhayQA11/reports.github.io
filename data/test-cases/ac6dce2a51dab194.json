@@ -1,0 +1,46 @@
+{
+  "uid" : "ac6dce2a51dab194",
+  "name" : "should clear the School Late Fee field",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees controls Verification.should clear the School Late Fee field",
+  "historyId" : "1ea14108178bd22ba90825072114fe9f",
+  "time" : {
+    "start" : 1642323163545,
+    "stop" : 1642323165026,
+    "duration" : 1481
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should clear the School Late Fee field"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac6dce2a51dab194.json",
+  "parameterValues" : [ ]
+}

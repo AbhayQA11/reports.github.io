@@ -1,0 +1,46 @@
+{
+  "uid" : "ed8634b02a2cddfe",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "Luca Settings: OW API_008 tests.should load Luca login Page successfully",
+  "historyId" : "73dc1d061c2c4828077745ee0907cbc8",
+  "time" : {
+    "start" : 1642323312017,
+    "stop" : 1642323314902,
+    "duration" : 2885
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed8634b02a2cddfe.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "b0c29508963ad5e5",
+  "name" : "should input lastname of the payer",
+  "fullName" : "homepageTests: Enrollment with Credit Card entry.should input lastname of the payer",
+  "historyId" : "80b49fea857f4631ba042d580868c3a4",
+  "time" : {
+    "start" : 1642317842078,
+    "stop" : 1642317843135,
+    "duration" : 1057
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input lastname of the payer"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0c29508963ad5e5.json",
+  "parameterValues" : [ ]
+}

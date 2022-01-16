@@ -1,0 +1,46 @@
+{
+  "uid" : "9adb0d50c9b07243",
+  "name" : "should log out from luca",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should log out from luca",
+  "historyId" : "56b49344aa8066fb8c14f023221c3dba",
+  "time" : {
+    "start" : 1642323050076,
+    "stop" : 1642323053555,
+    "duration" : 3479
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9adb0d50c9b07243.json",
+  "parameterValues" : [ ]
+}

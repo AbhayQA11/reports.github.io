@@ -1,0 +1,46 @@
+{
+  "uid" : "687e09049a809ada",
+  "name" : "should edit the General Ledger ID for the newly created fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee.should edit the General Ledger ID for the newly created fee",
+  "historyId" : "7db25e6f901d25700b21bb9f77dfcf8c",
+  "time" : {
+    "start" : 1642320835080,
+    "stop" : 1642320836851,
+    "duration" : 1771
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should edit the General Ledger ID for the newly created fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "687e09049a809ada.json",
+  "parameterValues" : [ ]
+}

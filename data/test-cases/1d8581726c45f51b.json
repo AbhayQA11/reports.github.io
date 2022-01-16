@@ -1,0 +1,46 @@
+{
+  "uid" : "1d8581726c45f51b",
+  "name" : "should create a family Via Api in order to use it later",
+  "fullName" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service.should create a family Via Api in order to use it later",
+  "historyId" : "2bbc1eef393b231fd481cefc28b0b3f4",
+  "time" : {
+    "start" : 1642322968817,
+    "stop" : 1642322972189,
+    "duration" : 3372
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family Via Api in order to use it later"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d8581726c45f51b.json",
+  "parameterValues" : [ ]
+}

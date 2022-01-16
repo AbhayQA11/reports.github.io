@@ -1,0 +1,46 @@
+{
+  "uid" : "5057713b97388815",
+  "name" : "should wait for add a note page to load",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should wait for add a note page to load",
+  "historyId" : "201803a256b212d72b07a4af7a22d885",
+  "time" : {
+    "start" : 1642322942111,
+    "stop" : 1642322944401,
+    "duration" : 2290
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for add a note page to load"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5057713b97388815.json",
+  "parameterValues" : [ ]
+}

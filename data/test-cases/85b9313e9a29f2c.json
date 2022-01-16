@@ -1,0 +1,46 @@
+{
+  "uid" : "85b9313e9a29f2c",
+  "name" : "should mouseover Families and Students and select the All Families",
+  "fullName" : "Tuition Manager Bank Account Payment Encryption Verification.should mouseover Families and Students and select the All Families",
+  "historyId" : "abe9a2a286edba6f3d62f113d7473176",
+  "time" : {
+    "start" : 1642324011650,
+    "stop" : 1642324026750,
+    "duration" : 15100
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Families and Students and select the All Families"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85b9313e9a29f2c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "30d095d017655227",
+  "name" : "should input the last name of the additional payer",
+  "fullName" : "homepageTests: Enroll a Family through EWS for a school with No Enrollment Fees.should input the last name of the additional payer",
+  "historyId" : "6d291e73ac75e217eb89460d87645b4",
+  "time" : {
+    "start" : 1642317844765,
+    "stop" : 1642317845694,
+    "duration" : 929
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enroll a Family through EWS for a school with No Enrollment Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enroll a Family through EWS for a school with No Enrollment Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the last name of the additional payer"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enroll a Family through EWS for a school with No Enrollment Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "30d095d017655227.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "85fb931792530697",
+  "name" : "should should input new value into the Second Student Fields field",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools.should should input new value into the Second Student Fields field",
+  "historyId" : "c7d33af15d19b9360d36a25aebd2e42",
+  "time" : {
+    "start" : 1642318023104,
+    "stop" : 1642318025179,
+    "duration" : 2075
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should should input new value into the Second Student Fields field"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85fb931792530697.json",
+  "parameterValues" : [ ]
+}

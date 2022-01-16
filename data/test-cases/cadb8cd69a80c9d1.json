@@ -1,0 +1,46 @@
+{
+  "uid" : "cadb8cd69a80c9d1",
+  "name" : "should input valid password",
+  "fullName" : "lucaAddANoteTests: Verifying Read Only Test User.should input valid password",
+  "historyId" : "3ed2a9ad64ea88b2cc9fb41cc4e04103",
+  "time" : {
+    "start" : 1642322906989,
+    "stop" : 1642322908228,
+    "duration" : 1239
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid password"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cadb8cd69a80c9d1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "f748cb4d24cd8d7e",
+  "name" : "should input correct password",
+  "fullName" : "lucaBillingTests: Edit Billing module, Total Column Verification.should input correct password",
+  "historyId" : "10e042c63d8cee8491555fdb9f3e5743",
+  "time" : {
+    "start" : 1642319738878,
+    "stop" : 1642319740095,
+    "duration" : 1217
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f748cb4d24cd8d7e.json",
+  "parameterValues" : [ ]
+}

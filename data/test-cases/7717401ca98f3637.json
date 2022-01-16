@@ -1,0 +1,46 @@
+{
+  "uid" : "7717401ca98f3637",
+  "name" : "should select the latest school year",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account.should select the latest school year",
+  "historyId" : "9221fb21b6544610457f205485929103",
+  "time" : {
+    "start" : 1642321132712,
+    "stop" : 1642321136452,
+    "duration" : 3740
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7717401ca98f3637.json",
+  "parameterValues" : [ ]
+}

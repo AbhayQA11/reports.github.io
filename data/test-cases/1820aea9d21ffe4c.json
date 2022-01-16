@@ -1,0 +1,46 @@
+{
+  "uid" : "1820aea9d21ffe4c",
+  "name" : "should select a Family Based Fee, Parent Participation Fee",
+  "fullName" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts.should select a Family Based Fee, Parent Participation Fee",
+  "historyId" : "e30a5d984869e528c7d7f5240676ae58",
+  "time" : {
+    "start" : 1642319755036,
+    "stop" : 1642319756112,
+    "duration" : 1076
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a Family Based Fee, Parent Participation Fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1820aea9d21ffe4c.json",
+  "parameterValues" : [ ]
+}

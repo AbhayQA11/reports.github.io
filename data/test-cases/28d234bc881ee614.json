@@ -1,0 +1,44 @@
+{
+  "uid" : "28d234bc881ee614",
+  "name" : "should input email address of the payer",
+  "fullName" : "negativeTests: Enrollment Negative Payer Name test.should input email address of the payer",
+  "historyId" : "c86bb997506075d08bf26674584064ba",
+  "time" : {
+    "start" : 1642318058501,
+    "stop" : 1642318059450,
+    "duration" : 949
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "testClass",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input email address of the payer"
+  }, {
+    "name" : "package",
+    "value" : "negativeTests: Enrollment Negative Payer Name test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28d234bc881ee614.json",
+  "parameterValues" : [ ]
+}

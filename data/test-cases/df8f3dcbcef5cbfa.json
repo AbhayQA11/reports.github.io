@@ -1,0 +1,46 @@
+{
+  "uid" : "df8f3dcbcef5cbfa",
+  "name" : "should click on the Total Outstanding Requests",
+  "fullName" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard.should click on the Total Outstanding Requests",
+  "historyId" : "52473ce210fc3d0053dda850b00298ea",
+  "time" : {
+    "start" : 1642320040194,
+    "stop" : 1642320041728,
+    "duration" : 1534
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Total Outstanding Requests"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df8f3dcbcef5cbfa.json",
+  "parameterValues" : [ ]
+}

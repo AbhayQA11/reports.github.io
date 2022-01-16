@@ -1,0 +1,46 @@
+{
+  "uid" : "653eb9aeb73440c9",
+  "name" : "should input new value into the SchoolStudentId field",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should input new value into the SchoolStudentId field",
+  "historyId" : "5fbfc7d19442ad148acf5933dce5927d",
+  "time" : {
+    "start" : 1642318092061,
+    "stop" : 1642318093047,
+    "duration" : 986
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new value into the SchoolStudentId field"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "653eb9aeb73440c9.json",
+  "parameterValues" : [ ]
+}

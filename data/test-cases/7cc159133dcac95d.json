@@ -1,0 +1,44 @@
+{
+  "uid" : "7cc159133dcac95d",
+  "name" : "should verify that the matching records are displayed in the grid",
+  "fullName" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases.should verify that the matching records are displayed in the grid",
+  "historyId" : "ed98f0feff336ed921f38be2bb3e01ad",
+  "time" : {
+    "start" : 1642318277622,
+    "stop" : 1642318278732,
+    "duration" : 1110
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the matching records are displayed in the grid"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7cc159133dcac95d.json",
+  "parameterValues" : [ ]
+}

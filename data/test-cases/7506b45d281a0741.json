@@ -1,0 +1,46 @@
+{
+  "uid" : "7506b45d281a0741",
+  "name" : "should click on the Edit Information Tab",
+  "fullName" : "Call Center Payment Encryption Tests, Bank Account family.should click on the Edit Information Tab",
+  "historyId" : "d57b5638f1c918bace94a6ea115581e9",
+  "time" : {
+    "start" : 1642323998329,
+    "stop" : 1642324011374,
+    "duration" : 13045
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Edit Information Tab"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7506b45d281a0741.json",
+  "parameterValues" : [ ]
+}

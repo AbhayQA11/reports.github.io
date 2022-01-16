@@ -1,0 +1,46 @@
+{
+  "uid" : "7b1fbb4e20d7e07",
+  "name" : "should log out from luca",
+  "fullName" : "Main Landing Page, Verify Families + Discounts Menu Accessibility.should log out from luca",
+  "historyId" : "318b7e2f7815f26e24ab604b253302da",
+  "time" : {
+    "start" : 1642319932089,
+    "stop" : 1642319935376,
+    "duration" : 3287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b1fbb4e20d7e07.json",
+  "parameterValues" : [ ]
+}

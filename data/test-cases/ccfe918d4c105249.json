@@ -1,0 +1,46 @@
+{
+  "uid" : "ccfe918d4c105249",
+  "name" : "should click on go button in order to change school and select latest school year",
+  "fullName" : "Luca Settings: OW Api - edit family details, API_026.should click on go button in order to change school and select latest school year",
+  "historyId" : "45e8adf2a72b4db41913c6ce5b5cb700",
+  "time" : {
+    "start" : 1642323425677,
+    "stop" : 1642323427006,
+    "duration" : 1329
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on go button in order to change school and select latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ccfe918d4c105249.json",
+  "parameterValues" : [ ]
+}

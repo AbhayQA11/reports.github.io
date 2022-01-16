@@ -1,0 +1,46 @@
+{
+  "uid" : "21f053f3e77a92a3",
+  "name" : "should navigate to the https luca login page",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should navigate to the https luca login page",
+  "historyId" : "b7291d0fe6845a1264bbf5e7b2f197fd",
+  "time" : {
+    "start" : 1642318233471,
+    "stop" : 1642318235497,
+    "duration" : 2026
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should navigate to the https luca login page"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21f053f3e77a92a3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c1f9aa79320b463",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "homepageTests: Enrollment, Create New Account, Message Validation.should load Luca login Page successfully",
+  "historyId" : "96f60cb2428c8b9099c6b6a28f673670",
+  "time" : {
+    "start" : 1642317841918,
+    "stop" : 1642317845468,
+    "duration" : 3550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1f9aa79320b463.json",
+  "parameterValues" : [ ]
+}

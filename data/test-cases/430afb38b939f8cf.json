@@ -1,0 +1,46 @@
+{
+  "uid" : "430afb38b939f8cf",
+  "name" : "should set the password",
+  "fullName" : "homepageTests: Enrollment with Mail In Invoice payment option.should set the password",
+  "historyId" : "e923458573d74d498bd616a99fb88ffc",
+  "time" : {
+    "start" : 1642317955718,
+    "stop" : 1642317957005,
+    "duration" : 1287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should set the password"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "430afb38b939f8cf.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "2b223894e6591a2c",
+  "name" : "should modify user data in order to log in the user in EWS",
+  "fullName" : "lucaBillingTests: Edit Billing module, Total Column Verification.should modify user data in order to log in the user in EWS",
+  "historyId" : "ddca27eaa37a654a98d04629b932d57f",
+  "time" : {
+    "start" : 1642319697558,
+    "stop" : 1642319732424,
+    "duration" : 34866
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to log in the user in EWS"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b223894e6591a2c.json",
+  "parameterValues" : [ ]
+}

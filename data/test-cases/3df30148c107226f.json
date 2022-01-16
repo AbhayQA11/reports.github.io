@@ -1,0 +1,46 @@
+{
+  "uid" : "3df30148c107226f",
+  "name" : "should click On credit Card Month dropdown",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should click On credit Card Month dropdown",
+  "historyId" : "984f5b057ea47efc727f0afe5115932c",
+  "time" : {
+    "start" : 1642319343116,
+    "stop" : 1642319344225,
+    "duration" : 1109
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click On credit Card Month dropdown"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3df30148c107226f.json",
+  "parameterValues" : [ ]
+}

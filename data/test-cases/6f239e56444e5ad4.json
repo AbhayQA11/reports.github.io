@@ -1,0 +1,46 @@
+{
+  "uid" : "6f239e56444e5ad4",
+  "name" : "should verify that the Subject, Describe Information, Call Id and Additional Info fields are displayed",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should verify that the Subject, Describe Information, Call Id and Additional Info fields are displayed",
+  "historyId" : "f7a545fbcd28dc92898c9871ed2820b2",
+  "time" : {
+    "start" : 1642322995955,
+    "stop" : 1642322999060,
+    "duration" : 3105
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Subject, Describe Information, Call Id and Additional Info fields are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f239e56444e5ad4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "5d19da694d92345c",
+  "name" : "should check if the family exists in Luca",
+  "fullName" : "Renweb Tests: Registration for adding new student.should check if the family exists in Luca",
+  "historyId" : "d8ab584ec4905190915cc695ed91a820",
+  "time" : {
+    "start" : 1642318218733,
+    "stop" : 1642318221677,
+    "duration" : 2944
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check if the family exists in Luca"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d19da694d92345c.json",
+  "parameterValues" : [ ]
+}

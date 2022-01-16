@@ -1,0 +1,46 @@
+{
+  "uid" : "88de307d94da756d",
+  "name" : "should verify that the buy now give now  Page has been reached",
+  "fullName" : "Main Landing Page, Switching School Year Verification .should verify that the buy now give now  Page has been reached",
+  "historyId" : "83abb4d78a038c88af25062614627485",
+  "time" : {
+    "start" : 1642320015477,
+    "stop" : 1642320019128,
+    "duration" : 3651
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the buy now give now  Page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88de307d94da756d.json",
+  "parameterValues" : [ ]
+}

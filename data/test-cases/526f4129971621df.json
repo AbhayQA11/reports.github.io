@@ -1,0 +1,46 @@
+{
+  "uid" : "526f4129971621df",
+  "name" : "should click on Error category and then select the General Option",
+  "fullName" : "lucaEnrollment: verify filters on Pending Families.should click on Error category and then select the General Option",
+  "historyId" : "535af43219b127167e69e6971f7a39a7",
+  "time" : {
+    "start" : 1642319425859,
+    "stop" : 1642319428036,
+    "duration" : 2177
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Pending Families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Pending Families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Error category and then select the General Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Pending Families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "526f4129971621df.json",
+  "parameterValues" : [ ]
+}

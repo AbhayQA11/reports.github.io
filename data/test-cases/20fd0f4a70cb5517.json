@@ -1,0 +1,46 @@
+{
+  "uid" : "20fd0f4a70cb5517",
+  "name" : "should click On button in order to turn Off the BN Global settings",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings.should click On button in order to turn Off the BN Global settings",
+  "historyId" : "59b83995832e36e94ea14d4be177c2c1",
+  "time" : {
+    "start" : 1642320819035,
+    "stop" : 1642320821714,
+    "duration" : 2679
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click On button in order to turn Off the BN Global settings"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20fd0f4a70cb5517.json",
+  "parameterValues" : [ ]
+}

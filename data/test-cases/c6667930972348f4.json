@@ -1,0 +1,46 @@
+{
+  "uid" : "c6667930972348f4",
+  "name" : "should verify that the appropriate message is received after Removing the second Discount",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should verify that the appropriate message is received after Removing the second Discount",
+  "historyId" : "7045168f21f0a67ab221f2fde94cc75e",
+  "time" : {
+    "start" : 1642320264073,
+    "stop" : 1642320271689,
+    "duration" : 7616
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received after Removing the second Discount"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c6667930972348f4.json",
+  "parameterValues" : [ ]
+}

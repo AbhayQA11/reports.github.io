@@ -1,0 +1,46 @@
+{
+  "uid" : "6d6104d76b38b697",
+  "name" : "should verify that the appropriate error message is displayed",
+  "fullName" : "lucaEnrollment: Page links and controls validation.should verify that the appropriate error message is displayed",
+  "historyId" : "45ffa2b12c21a7d606f215a13ec7f204",
+  "time" : {
+    "start" : 1642319070155,
+    "stop" : 1642319070485,
+    "duration" : 330
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate error message is displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d6104d76b38b697.json",
+  "parameterValues" : [ ]
+}

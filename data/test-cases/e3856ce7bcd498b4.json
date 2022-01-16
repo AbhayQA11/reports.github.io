@@ -1,0 +1,46 @@
+{
+  "uid" : "e3856ce7bcd498b4",
+  "name" : "should verify chat Page is opened",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should verify chat Page is opened",
+  "historyId" : "708851a1b4c3118488a1501579717217",
+  "time" : {
+    "start" : 1642319874660,
+    "stop" : 1642319877955,
+    "duration" : 3295
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify chat Page is opened"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3856ce7bcd498b4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "68bef33aacb08fe0",
+  "name" : "should click on the Standard Account Recognition Period Type",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should click on the Standard Account Recognition Period Type",
+  "historyId" : "efe153864729572a536ba5bb3cf04106",
+  "time" : {
+    "start" : 1642323166474,
+    "stop" : 1642323168217,
+    "duration" : 1743
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Standard Account Recognition Period Type"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68bef33aacb08fe0.json",
+  "parameterValues" : [ ]
+}

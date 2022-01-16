@@ -1,0 +1,46 @@
+{
+  "uid" : "fbfaa32255dff342",
+  "name" : "should move the mouse over the Families link and click on View All Families",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification.should move the mouse over the Families link and click on View All Families",
+  "historyId" : "e032a1642ff555a94a79f372a4afd370",
+  "time" : {
+    "start" : 1642321101960,
+    "stop" : 1642321104902,
+    "duration" : 2942
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should move the mouse over the Families link and click on View All Families"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Phone Payment Existing Credit Card verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fbfaa32255dff342.json",
+  "parameterValues" : [ ]
+}

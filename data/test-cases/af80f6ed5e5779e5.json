@@ -1,0 +1,46 @@
+{
+  "uid" : "af80f6ed5e5779e5",
+  "name" : "should load Luca login Page successfully in order to verify API data is correct in UI",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should load Luca login Page successfully in order to verify API data is correct in UI",
+  "historyId" : "adbbde7a76498e344906c6585c74263a",
+  "time" : {
+    "start" : 1642323390012,
+    "stop" : 1642323392747,
+    "duration" : 2735
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully in order to verify API data is correct in UI"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af80f6ed5e5779e5.json",
+  "parameterValues" : [ ]
+}

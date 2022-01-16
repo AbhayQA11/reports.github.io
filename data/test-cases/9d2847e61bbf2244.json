@@ -1,0 +1,46 @@
+{
+  "uid" : "9d2847e61bbf2244",
+  "name" : "should select the latest school year",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should select the latest school year",
+  "historyId" : "2ae12e579f774169319e762ba463a2c8",
+  "time" : {
+    "start" : 1642320134588,
+    "stop" : 1642320138331,
+    "duration" : 3743
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d2847e61bbf2244.json",
+  "parameterValues" : [ ]
+}

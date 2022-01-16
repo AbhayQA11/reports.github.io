@@ -1,0 +1,46 @@
+{
+  "uid" : "d84ea650f15bf331",
+  "name" : "should load call API successfully",
+  "fullName" : "Luca Settings: Auth OW Api - access with bad payment plan code tests API_018.should load call API successfully",
+  "historyId" : "cfe7bc2412023e65781a213bbcc9db9d",
+  "time" : {
+    "start" : 1642323353822,
+    "stop" : 1642323355258,
+    "duration" : 1436
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Auth OW Api - access with bad payment plan code tests API_018"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Auth OW Api - access with bad payment plan code tests API_018"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load call API successfully"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Auth OW Api - access with bad payment plan code tests API_018"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d84ea650f15bf331.json",
+  "parameterValues" : [ ]
+}

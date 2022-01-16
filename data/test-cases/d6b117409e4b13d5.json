@@ -1,0 +1,46 @@
+{
+  "uid" : "d6b117409e4b13d5",
+  "name" : "should input valid username",
+  "fullName" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check.should input valid username",
+  "historyId" : "d5eeeca72557aa85b2738e56048afd41",
+  "time" : {
+    "start" : 1642320174797,
+    "stop" : 1642320177319,
+    "duration" : 2522
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid username"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6b117409e4b13d5.json",
+  "parameterValues" : [ ]
+}

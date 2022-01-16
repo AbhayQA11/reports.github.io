@@ -1,0 +1,46 @@
+{
+  "uid" : "c37fb0c9aba96f16",
+  "name" : "should verify that the proper message is displayed in the drop-down notification",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should verify that the proper message is displayed in the drop-down notification",
+  "historyId" : "65016cd04426a830020e2c3d1c7065e7",
+  "time" : {
+    "start" : 1642319198985,
+    "stop" : 1642319200813,
+    "duration" : 1828
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the proper message is displayed in the drop-down notification"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c37fb0c9aba96f16.json",
+  "parameterValues" : [ ]
+}

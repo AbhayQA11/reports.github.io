@@ -1,0 +1,46 @@
+{
+  "uid" : "5780681b48c24801",
+  "name" : "should click on the go button in order to search the family",
+  "fullName" : "homepageTests: Enrollment with Bank Account entry.should click on the go button in order to search the family",
+  "historyId" : "1fb8cb6d5e5a5b2e7fc79880f3c9c85d",
+  "time" : {
+    "start" : 1642317903432,
+    "stop" : 1642317904739,
+    "duration" : 1307
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the go button in order to search the family"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5780681b48c24801.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c7a58b7e6e6fd7a4",
+  "name" : "should enter a new fee amount in the first month",
+  "fullName" : "lucaBillingTests: Edit Billing module, Total Column Verification.should enter a new fee amount in the first month",
+  "historyId" : "8318988d5a875767956040a82a6de8ba",
+  "time" : {
+    "start" : 1642319779849,
+    "stop" : 1642319780934,
+    "duration" : 1085
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should enter a new fee amount in the first month"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7a58b7e6e6fd7a4.json",
+  "parameterValues" : [ ]
+}

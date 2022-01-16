@@ -1,0 +1,46 @@
+{
+  "uid" : "8c30eb98573ae51d",
+  "name" : "should verify the Reason for adjustment in Billing Adjustment Audit Trail Fees tab",
+  "fullName" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056.should verify the Reason for adjustment in Billing Adjustment Audit Trail Fees tab",
+  "historyId" : "f2dd89dfaa0a08c6736d9b4766455563",
+  "time" : {
+    "start" : 1642323542338,
+    "stop" : 1642323545604,
+    "duration" : 3266
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Reason for adjustment in Billing Adjustment Audit Trail Fees tab"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c30eb98573ae51d.json",
+  "parameterValues" : [ ]
+}

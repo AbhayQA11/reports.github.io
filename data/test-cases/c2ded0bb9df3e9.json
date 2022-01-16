@@ -1,0 +1,46 @@
+{
+  "uid" : "c2ded0bb9df3e9",
+  "name" : "should click on edit family and student information",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should click on edit family and student information",
+  "historyId" : "e749e5c0224602069eb4b9a449cb36b2",
+  "time" : {
+    "start" : 1642323462935,
+    "stop" : 1642323467102,
+    "duration" : 4167
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on edit family and student information"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2ded0bb9df3e9.json",
+  "parameterValues" : [ ]
+}

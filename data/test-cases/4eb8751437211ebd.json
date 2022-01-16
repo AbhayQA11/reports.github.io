@@ -1,0 +1,46 @@
+{
+  "uid" : "4eb8751437211ebd",
+  "name" : "click on settings tab",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.click on settings tab",
+  "historyId" : "3c8ee8af35c267a0d9ce11793cf01a33",
+  "time" : {
+    "start" : 1642317988408,
+    "stop" : 1642317990194,
+    "duration" : 1786
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "click on settings tab"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4eb8751437211ebd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "b36fee554e715a67",
+  "name" : "should input the City and the State",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should input the City and the State",
+  "historyId" : "5ac95e479a5220db2c5c9dc483a4187e",
+  "time" : {
+    "start" : 1642317926053,
+    "stop" : 1642317928264,
+    "duration" : 2211
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the City and the State"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b36fee554e715a67.json",
+  "parameterValues" : [ ]
+}

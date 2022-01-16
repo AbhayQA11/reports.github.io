@@ -1,0 +1,46 @@
+{
+  "uid" : "289640d5fc3a7bbd",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should load Luca login Page successfully",
+  "historyId" : "5eb020b30e0a43d5855c9fa0b8695965",
+  "time" : {
+    "start" : 1642319876292,
+    "stop" : 1642319879132,
+    "duration" : 2840
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "289640d5fc3a7bbd.json",
+  "parameterValues" : [ ]
+}

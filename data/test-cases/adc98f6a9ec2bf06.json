@@ -1,0 +1,46 @@
+{
+  "uid" : "adc98f6a9ec2bf06",
+  "name" : "should load call API successfully",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_004.should load call API successfully",
+  "historyId" : "37dba5bbc5e31f2fc2446a3c467e61a8",
+  "time" : {
+    "start" : 1642323299151,
+    "stop" : 1642323303270,
+    "duration" : 4119
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load call API successfully"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "adc98f6a9ec2bf06.json",
+  "parameterValues" : [ ]
+}

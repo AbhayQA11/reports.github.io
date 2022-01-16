@@ -1,0 +1,46 @@
+{
+  "uid" : "19a33100afdeb970",
+  "name" : "should verify message is received, 1st time",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should verify message is received, 1st time",
+  "historyId" : "ccfd1d55f181a9e1381300b608c4d166",
+  "time" : {
+    "start" : 1642320094553,
+    "stop" : 1642320096296,
+    "duration" : 1743
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify message is received, 1st time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19a33100afdeb970.json",
+  "parameterValues" : [ ]
+}

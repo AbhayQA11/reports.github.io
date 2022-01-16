@@ -1,0 +1,76 @@
+{
+  "uid" : "6bd88a44db5cf7ca",
+  "name" : "should create a Split Family",
+  "fullName" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91.should create a Split Family",
+  "historyId" : "17001a3b64006c89a2153ef6c4308aaa",
+  "time" : {
+    "start" : 1642323586038,
+    "stop" : 1642323631736,
+    "duration" : 45698
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "SyntaxError: Unexpected token < in JSON at position 0",
+  "statusTrace" : "SyntaxError: Unexpected token < in JSON at position 0\n                    at JSON.parse (<anonymous>)\n                    at F:/k20automation/pages/apiWorkers/apiModule.js:109:17\n                    at Request.callback (F:\\k20automation\\node_modules\\superagent\\lib\\node\\index.js:826:3)\n                    at IncomingMessage.<anonymous> (F:\\k20automation\\node_modules\\superagent\\lib\\node\\index.js:1036:18)\n                    at IncomingMessage.emit (events.js:327:22)\n                    at endReadableNT (internal/streams/readable.js:1327:12)\n                    at processTicksAndRejections (internal/process/task_queues.js:80:21)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "SyntaxError: Unexpected token < in JSON at position 0",
+    "statusTrace" : "SyntaxError: Unexpected token < in JSON at position 0\n                    at JSON.parse (<anonymous>)\n                    at F:/k20automation/pages/apiWorkers/apiModule.js:109:17\n                    at Request.callback (F:\\k20automation\\node_modules\\superagent\\lib\\node\\index.js:826:3)\n                    at IncomingMessage.<anonymous> (F:\\k20automation\\node_modules\\superagent\\lib\\node\\index.js:1036:18)\n                    at IncomingMessage.emit (events.js:327:22)\n                    at endReadableNT (internal/streams/readable.js:1327:12)\n                    at processTicksAndRejections (internal/process/task_queues.js:80:21)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "308966bd9c6b0292",
+      "name" : "Screenshot",
+      "source" : "308966bd9c6b0292.png",
+      "type" : "image/png",
+      "size" : 10592
+    }, {
+      "uid" : "db199ff38e34129f",
+      "name" : "Screenshot",
+      "source" : "db199ff38e34129f.png",
+      "type" : "image/png",
+      "size" : 10592
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a Split Family"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6bd88a44db5cf7ca.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "e27ad88777187a3d",
+  "name" : "should click on Setup Gl Account Numbers",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should click on Setup Gl Account Numbers",
+  "historyId" : "543e159540da3fb697cca30f37007728",
+  "time" : {
+    "start" : 1642323110510,
+    "stop" : 1642323111449,
+    "duration" : 939
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Setup Gl Account Numbers"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e27ad88777187a3d.json",
+  "parameterValues" : [ ]
+}

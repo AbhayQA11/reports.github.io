@@ -1,0 +1,46 @@
+{
+  "uid" : "44b8a58cbbc43e84",
+  "name" : "should log out from luca",
+  "fullName" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard.should log out from luca",
+  "historyId" : "9a02c1ece3b07a10ce090b2a6d27715",
+  "time" : {
+    "start" : 1642320165161,
+    "stop" : 1642320168593,
+    "duration" : 3432
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44b8a58cbbc43e84.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "53b873c964a3ce99",
+  "name" : "should verify that Deferred GL ID is set to Ar in the Table",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should verify that Deferred GL ID is set to Ar in the Table",
+  "historyId" : "62e4fa0ccf43307c9b712365d98c6935",
+  "time" : {
+    "start" : 1642323153660,
+    "stop" : 1642323155204,
+    "duration" : 1544
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Deferred GL ID is set to Ar in the Table"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53b873c964a3ce99.json",
+  "parameterValues" : [ ]
+}

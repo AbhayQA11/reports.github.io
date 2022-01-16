@@ -1,0 +1,46 @@
+{
+  "uid" : "ab6030f120a7f60f",
+  "name" : "should click on the Close Button, when the pop up appears",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should click on the Close Button, when the pop up appears",
+  "historyId" : "327597c428c6106a6bda47b2f8c751e3",
+  "time" : {
+    "start" : 1642323046295,
+    "stop" : 1642323050076,
+    "duration" : 3781
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Close Button, when the pop up appears"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab6030f120a7f60f.json",
+  "parameterValues" : [ ]
+}

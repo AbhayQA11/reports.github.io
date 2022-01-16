@@ -1,0 +1,46 @@
+{
+  "uid" : "3d2bd0129d5abd79",
+  "name" : "should move the mouse over the Families link and click on View All Families",
+  "fullName" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service.should move the mouse over the Families link and click on View All Families",
+  "historyId" : "5faa07eb357664dd0d1a227a446efe6e",
+  "time" : {
+    "start" : 1642323030420,
+    "stop" : 1642323033744,
+    "duration" : 3324
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testMethod",
+    "value" : "should move the mouse over the Families link and click on View All Families"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d2bd0129d5abd79.json",
+  "parameterValues" : [ ]
+}

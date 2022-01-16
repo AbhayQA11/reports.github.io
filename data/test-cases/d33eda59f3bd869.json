@@ -1,0 +1,54 @@
+{
+  "uid" : "d33eda59f3bd869",
+  "name" : "families, fees, report and enroll tabs should be present",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.families, fees, report and enroll tabs should be present",
+  "historyId" : "eb11693c3b84dabe8cc94e3e68854419",
+  "time" : {
+    "start" : 1642322476544,
+    "stop" : 1642322477388,
+    "duration" : 844
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "families, fees, report and enroll tabs should be present"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e231749d847d0c40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318299054,
+        "stop" : 1642318299882,
+        "duration" : 828
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d33eda59f3bd869.json",
+  "parameterValues" : [ ]
+}

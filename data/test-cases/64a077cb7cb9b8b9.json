@@ -1,0 +1,46 @@
+{
+  "uid" : "64a077cb7cb9b8b9",
+  "name" : "should select a month from the dropdown",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should select a month from the dropdown",
+  "historyId" : "5aa322dbdc19a1fdb915ef4b6b374987",
+  "time" : {
+    "start" : 1642319344225,
+    "stop" : 1642319345332,
+    "duration" : 1107
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a month from the dropdown"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64a077cb7cb9b8b9.json",
+  "parameterValues" : [ ]
+}

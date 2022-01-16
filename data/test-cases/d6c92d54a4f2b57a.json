@@ -1,0 +1,46 @@
+{
+  "uid" : "d6c92d54a4f2b57a",
+  "name" : "should fill in the Student Grade in order to create a family with Bank account Option",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account.should fill in the Student Grade in order to create a family with Bank account Option",
+  "historyId" : "774769371bea1e7942399ceb5ee38bc3",
+  "time" : {
+    "start" : 1642319342411,
+    "stop" : 1642319343755,
+    "duration" : 1344
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Student Grade in order to create a family with Bank account Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6c92d54a4f2b57a.json",
+  "parameterValues" : [ ]
+}

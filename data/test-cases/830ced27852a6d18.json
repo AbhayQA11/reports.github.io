@@ -1,0 +1,46 @@
+{
+  "uid" : "830ced27852a6d18",
+  "name" : "should click Purge button",
+  "fullName" : "lucaAutomaticDebitSettings: Payment Type Verification.should click Purge button",
+  "historyId" : "d78b5209575c240f5166e16bd45a4a02",
+  "time" : {
+    "start" : 1642323571091,
+    "stop" : 1642323577132,
+    "duration" : 6041
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click Purge button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "830ced27852a6d18.json",
+  "parameterValues" : [ ]
+}

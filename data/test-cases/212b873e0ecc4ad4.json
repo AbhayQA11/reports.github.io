@@ -1,0 +1,46 @@
+{
+  "uid" : "212b873e0ecc4ad4",
+  "name" : "should log out from luca",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should log out from luca",
+  "historyId" : "10d586e52cfa2c760891ecbce865112d",
+  "time" : {
+    "start" : 1642319994863,
+    "stop" : 1642319997585,
+    "duration" : 2722
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "212b873e0ecc4ad4.json",
+  "parameterValues" : [ ]
+}

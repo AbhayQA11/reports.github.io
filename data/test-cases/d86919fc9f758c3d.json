@@ -1,0 +1,46 @@
+{
+  "uid" : "d86919fc9f758c3d",
+  "name" : "should confirm deletion and check for notification",
+  "fullName" : "Luca Settings: Manage Payment Plans tests, API_003.should confirm deletion and check for notification",
+  "historyId" : "60a41aa4103fef880a6f73259caa0974",
+  "time" : {
+    "start" : 1642323255883,
+    "stop" : 1642323258188,
+    "duration" : 2305
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "testMethod",
+    "value" : "should confirm deletion and check for notification"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d86919fc9f758c3d.json",
+  "parameterValues" : [ ]
+}

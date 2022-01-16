@@ -1,0 +1,46 @@
+{
+  "uid" : "4e2fa77ddc6f7d41",
+  "name" : "should generate second hash",
+  "fullName" : "Renweb Tests: Registration for adding new student.should generate second hash",
+  "historyId" : "6754bd9ef9e069d6c846c52ef67d664d",
+  "time" : {
+    "start" : 1642318105071,
+    "stop" : 1642318132004,
+    "duration" : 26933
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should generate second hash"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e2fa77ddc6f7d41.json",
+  "parameterValues" : [ ]
+}

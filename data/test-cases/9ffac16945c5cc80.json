@@ -1,0 +1,46 @@
+{
+  "uid" : "9ffac16945c5cc80",
+  "name" : "should input a family name into the Family Name filter",
+  "fullName" : "Tuition Manager Authentification Module.should input a family name into the Family Name filter",
+  "historyId" : "a698663807e87bd058d4f5af28beb7f0",
+  "time" : {
+    "start" : 1642324030290,
+    "stop" : 1642324036098,
+    "duration" : 5808
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a family name into the Family Name filter"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ffac16945c5cc80.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "9c77b094ac7c01b4",
+  "name" : "should input a Valid Username in order to check with no password",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should input a Valid Username in order to check with no password",
+  "historyId" : "78ded4faa9ece6d641001db78443e408",
+  "time" : {
+    "start" : 1642318029872,
+    "stop" : 1642318031929,
+    "duration" : 2057
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a Valid Username in order to check with no password"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c77b094ac7c01b4.json",
+  "parameterValues" : [ ]
+}

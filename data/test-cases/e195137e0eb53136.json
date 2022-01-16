@@ -1,0 +1,46 @@
+{
+  "uid" : "e195137e0eb53136",
+  "name" : "should verify that the Manage Fees & Discounts page has been reached",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should verify that the Manage Fees & Discounts page has been reached",
+  "historyId" : "47e8002ec048cad07aaa2679c294c099",
+  "time" : {
+    "start" : 1642323293823,
+    "stop" : 1642323297454,
+    "duration" : 3631
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Manage Fees & Discounts page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e195137e0eb53136.json",
+  "parameterValues" : [ ]
+}

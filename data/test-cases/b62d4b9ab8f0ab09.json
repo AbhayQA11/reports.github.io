@@ -1,0 +1,46 @@
+{
+  "uid" : "b62d4b9ab8f0ab09",
+  "name" : "should click the Discount Tab in order to remove the latest added Discount - test cleanup",
+  "fullName" : "Luca Settings: Manage Payment Plans tests API_014.should click the Discount Tab in order to remove the latest added Discount - test cleanup",
+  "historyId" : "9c9fed7816b9ecd941c64a1bfc956f40",
+  "time" : {
+    "start" : 1642323401025,
+    "stop" : 1642323403651,
+    "duration" : 2626
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Discount Tab in order to remove the latest added Discount - test cleanup"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b62d4b9ab8f0ab09.json",
+  "parameterValues" : [ ]
+}

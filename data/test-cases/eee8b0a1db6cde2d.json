@@ -1,0 +1,46 @@
+{
+  "uid" : "eee8b0a1db6cde2d",
+  "name" : "should verify the total number of Available Items is correctly Displayed",
+  "fullName" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups.should verify the total number of Available Items is correctly Displayed",
+  "historyId" : "4d24a991f4365f16397a8bdd57f2541c",
+  "time" : {
+    "start" : 1642320925671,
+    "stop" : 1642320927260,
+    "duration" : 1589
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the total number of Available Items is correctly Displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eee8b0a1db6cde2d.json",
+  "parameterValues" : [ ]
+}

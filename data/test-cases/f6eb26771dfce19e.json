@@ -1,0 +1,46 @@
+{
+  "uid" : "f6eb26771dfce19e",
+  "name" : "should verify that the appropriate message is received second time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should verify that the appropriate message is received second time",
+  "historyId" : "da02892298f780a908a7f0efcbe8f8e3",
+  "time" : {
+    "start" : 1642318460415,
+    "stop" : 1642318468772,
+    "duration" : 8357
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6eb26771dfce19e.json",
+  "parameterValues" : [ ]
+}

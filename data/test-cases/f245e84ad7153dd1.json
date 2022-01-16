@@ -1,0 +1,46 @@
+{
+  "uid" : "f245e84ad7153dd1",
+  "name" : "should make a API payment with that family in order to verify payment history",
+  "fullName" : "Call Center Payment Encryption Tests, Bank Account family.should make a API payment with that family in order to verify payment history",
+  "historyId" : "629f43ad33eea5a17e6a09199e710997",
+  "time" : {
+    "start" : 1642323935008,
+    "stop" : 1642323935474,
+    "duration" : 466
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should make a API payment with that family in order to verify payment history"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f245e84ad7153dd1.json",
+  "parameterValues" : [ ]
+}

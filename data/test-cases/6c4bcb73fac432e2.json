@@ -1,0 +1,46 @@
+{
+  "uid" : "6c4bcb73fac432e2",
+  "name" : "should click on the Settings Button, 7th time",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click on the Settings Button, 7th time",
+  "historyId" : "9aaa1b638920005444717927eeabb68",
+  "time" : {
+    "start" : 1642319923145,
+    "stop" : 1642319926549,
+    "duration" : 3404
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Settings Button, 7th time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c4bcb73fac432e2.json",
+  "parameterValues" : [ ]
+}

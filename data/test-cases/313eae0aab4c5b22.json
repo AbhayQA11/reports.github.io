@@ -1,0 +1,46 @@
+{
+  "uid" : "313eae0aab4c5b22",
+  "name" : "should click on lastest school year from search results",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should click on lastest school year from search results",
+  "historyId" : "3be58c414310e370c98b3e2c83a1cc8f",
+  "time" : {
+    "start" : 1642319319610,
+    "stop" : 1642319323174,
+    "duration" : 3564
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on lastest school year from search results"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "313eae0aab4c5b22.json",
+  "parameterValues" : [ ]
+}

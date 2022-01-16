@@ -1,0 +1,70 @@
+{
+  "uid" : "e6648474203d8e6a",
+  "name" : "should load call API successfully and check for fee names",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_006.should load call API successfully and check for fee names",
+  "historyId" : "68a6ce4ca7e9c3b0003b4468011df09a",
+  "time" : {
+    "start" : 1642323331843,
+    "stop" : 1642323335267,
+    "duration" : 3424
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected '19-20BalanceDuein20-21,ActivityFee,AprilAftercare,AugustAftercare,AutomationFamilyFee,AutomationStudentFee,BalloonPayment,DecemberAftercare,FebruaryAftercare,JulyAftercare,LoanPayment,NurseryAfternoonCare,OctoberAftercare,ReverseSiblingDiscount-StudentWithdrew,ReverseStudentDiscount-withdrawal,SeptemberAftercare,SiblingDiscountReversal,TuitionDeposit,TuitionProtection' to equal '19-20BalanceDuein20-21,ActivityFee,AprilAftercare,AugustAftercare,AutomationFamilyFee,AutomationStudentFee,BalloonPayment,DecemberAftercare,FebruaryAftercare,JulyAftercare,LoanPayment,NurseryAfternoonCare,OctoberAftercare,ReverseSiblingDiscount-StudentWithdrew,ReverseStudentDiscount-withdrawal,SeptemberAftercare,SiblingDiscountReversal,TuitionDeposit,TuitionProtection,zzzzzzTemporaryFeeLMpHXbCIEfcMLvV'.",
+  "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/abstractPage/abstractPage.js:732:63\n                    at _fulfilled (F:\\k20automation\\node_modules\\q\\q.js:854:54)\n                    at F:\\k20automation\\node_modules\\q\\q.js:883:30\n                    at Promise.promise.promiseDispatch (F:\\k20automation\\node_modules\\q\\q.js:816:13)\n                    at F:\\k20automation\\node_modules\\q\\q.js:624:44\n                    at runSingle (F:\\k20automation\\node_modules\\q\\q.js:137:13)\n                    at flush (F:\\k20automation\\node_modules\\q\\q.js:125:13)\n                    at processTicksAndRejections (internal/process/task_queues.js:75:11)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected '19-20BalanceDuein20-21,ActivityFee,AprilAftercare,AugustAftercare,AutomationFamilyFee,AutomationStudentFee,BalloonPayment,DecemberAftercare,FebruaryAftercare,JulyAftercare,LoanPayment,NurseryAfternoonCare,OctoberAftercare,ReverseSiblingDiscount-StudentWithdrew,ReverseStudentDiscount-withdrawal,SeptemberAftercare,SiblingDiscountReversal,TuitionDeposit,TuitionProtection' to equal '19-20BalanceDuein20-21,ActivityFee,AprilAftercare,AugustAftercare,AutomationFamilyFee,AutomationStudentFee,BalloonPayment,DecemberAftercare,FebruaryAftercare,JulyAftercare,LoanPayment,NurseryAfternoonCare,OctoberAftercare,ReverseSiblingDiscount-StudentWithdrew,ReverseStudentDiscount-withdrawal,SeptemberAftercare,SiblingDiscountReversal,TuitionDeposit,TuitionProtection,zzzzzzTemporaryFeeLMpHXbCIEfcMLvV'.",
+    "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/abstractPage/abstractPage.js:732:63\n                    at _fulfilled (F:\\k20automation\\node_modules\\q\\q.js:854:54)\n                    at F:\\k20automation\\node_modules\\q\\q.js:883:30\n                    at Promise.promise.promiseDispatch (F:\\k20automation\\node_modules\\q\\q.js:816:13)\n                    at F:\\k20automation\\node_modules\\q\\q.js:624:44\n                    at runSingle (F:\\k20automation\\node_modules\\q\\q.js:137:13)\n                    at flush (F:\\k20automation\\node_modules\\q\\q.js:125:13)\n                    at processTicksAndRejections (internal/process/task_queues.js:75:11)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ec1459d2aaedf367",
+      "name" : "Screenshot",
+      "source" : "ec1459d2aaedf367.png",
+      "type" : "image/png",
+      "size" : 236871
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load call API successfully and check for fee names"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e6648474203d8e6a.json",
+  "parameterValues" : [ ]
+}

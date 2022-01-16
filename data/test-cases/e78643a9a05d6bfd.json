@@ -1,0 +1,46 @@
+{
+  "uid" : "e78643a9a05d6bfd",
+  "name" : "should click on the Block One month button",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on the Block One month button",
+  "historyId" : "f0a159d7f871907ec0cdaf66ca333338",
+  "time" : {
+    "start" : 1642322999962,
+    "stop" : 1642323001837,
+    "duration" : 1875
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Block One month button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e78643a9a05d6bfd.json",
+  "parameterValues" : [ ]
+}

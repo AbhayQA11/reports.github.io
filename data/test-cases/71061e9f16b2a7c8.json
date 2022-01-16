@@ -1,0 +1,46 @@
+{
+  "uid" : "71061e9f16b2a7c8",
+  "name" : "should check the family id in the smart search page",
+  "fullName" : "Luca Settings: OW Api - edit family details, API_026.should check the family id in the smart search page",
+  "historyId" : "77b568ec14dc56374f7fc9f01098e2c",
+  "time" : {
+    "start" : 1642323441366,
+    "stop" : 1642323448471,
+    "duration" : 7105
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check the family id in the smart search page"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71061e9f16b2a7c8.json",
+  "parameterValues" : [ ]
+}

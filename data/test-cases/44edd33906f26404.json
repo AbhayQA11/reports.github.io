@@ -1,0 +1,46 @@
+{
+  "uid" : "44edd33906f26404",
+  "name" : "should verify the confirmation message, 1st time",
+  "fullName" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee.should verify the confirmation message, 1st time",
+  "historyId" : "572821ee783b7023b97298ba8901e998",
+  "time" : {
+    "start" : 1642320751884,
+    "stop" : 1642320759648,
+    "duration" : 7764
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the confirmation message, 1st time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44edd33906f26404.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "6357a3f7fc3d97f6",
+  "name" : "should input 11084 in search field",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should input 11084 in search field",
+  "historyId" : "7719b8a4ee4bc405451676698d3d8b24",
+  "time" : {
+    "start" : 1642319846998,
+    "stop" : 1642319848647,
+    "duration" : 1649
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input 11084 in search field"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6357a3f7fc3d97f6.json",
+  "parameterValues" : [ ]
+}

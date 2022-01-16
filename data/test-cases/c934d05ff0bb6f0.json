@@ -1,0 +1,46 @@
+{
+  "uid" : "c934d05ff0bb6f0",
+  "name" : "should load Luca login Page successfully in order to verify API data is correct in UI",
+  "fullName" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91.should load Luca login Page successfully in order to verify API data is correct in UI",
+  "historyId" : "d790048166e0835ca23a8fdebe12c317",
+  "time" : {
+    "start" : 1642323631736,
+    "stop" : 1642323634480,
+    "duration" : 2744
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully in order to verify API data is correct in UI"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c934d05ff0bb6f0.json",
+  "parameterValues" : [ ]
+}

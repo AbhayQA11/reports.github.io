@@ -1,0 +1,46 @@
+{
+  "uid" : "ce239097c83ac157",
+  "name" : "should verify the confirmation message",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should verify the confirmation message",
+  "historyId" : "c837e21929fc118b3a97a4201d24d25a",
+  "time" : {
+    "start" : 1642323281631,
+    "stop" : 1642323289289,
+    "duration" : 7658
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the confirmation message"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce239097c83ac157.json",
+  "parameterValues" : [ ]
+}

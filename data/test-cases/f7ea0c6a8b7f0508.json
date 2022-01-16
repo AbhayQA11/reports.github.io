@@ -1,0 +1,46 @@
+{
+  "uid" : "f7ea0c6a8b7f0508",
+  "name" : "should input correct username",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student.should input correct username",
+  "historyId" : "6df20a2892ef5feae9790132d8a19f67",
+  "time" : {
+    "start" : 1642318581203,
+    "stop" : 1642318584181,
+    "duration" : 2978
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct username"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7ea0c6a8b7f0508.json",
+  "parameterValues" : [ ]
+}

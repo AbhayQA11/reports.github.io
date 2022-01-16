@@ -1,0 +1,46 @@
+{
+  "uid" : "dcba57e94334c527",
+  "name" : "should compare both hashes, their values needs to be different ",
+  "fullName" : "Renweb Tests: Registration for adding new student.should compare both hashes, their values needs to be different ",
+  "historyId" : "6a7d53ef1a71e5a4426da7305b11d3a1",
+  "time" : {
+    "start" : 1642318132707,
+    "stop" : 1642318133050,
+    "duration" : 343
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should compare both hashes, their values needs to be different "
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcba57e94334c527.json",
+  "parameterValues" : [ ]
+}

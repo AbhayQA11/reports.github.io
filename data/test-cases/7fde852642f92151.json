@@ -1,0 +1,46 @@
+{
+  "uid" : "7fde852642f92151",
+  "name" : "should click on Add New Fee Button in order for the pop-up to appear",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should click on Add New Fee Button in order for the pop-up to appear",
+  "historyId" : "727dd9c263abaf5f6fee222f46b3f88e",
+  "time" : {
+    "start" : 1642323297454,
+    "stop" : 1642323302682,
+    "duration" : 5228
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Add New Fee Button in order for the pop-up to appear"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7fde852642f92151.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "56ab38cef0bbdc8c",
+  "name" : "should log out from luca",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should log out from luca",
+  "historyId" : "1238dc1cda9ec547a2ef58f00f648f98",
+  "time" : {
+    "start" : 1642319615115,
+    "stop" : 1642319618479,
+    "duration" : 3364
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56ab38cef0bbdc8c.json",
+  "parameterValues" : [ ]
+}

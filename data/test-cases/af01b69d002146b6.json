@@ -1,0 +1,46 @@
+{
+  "uid" : "af01b69d002146b6",
+  "name" : "should click the Buy Now Give Now Manage Groups footer button",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups.should click the Buy Now Give Now Manage Groups footer button",
+  "historyId" : "a887c1a2b2bc4f44a0ce7bb90ffc399",
+  "time" : {
+    "start" : 1642320887943,
+    "stop" : 1642320888959,
+    "duration" : 1016
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Buy Now Give Now Manage Groups footer button"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af01b69d002146b6.json",
+  "parameterValues" : [ ]
+}

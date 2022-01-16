@@ -1,0 +1,46 @@
+{
+  "uid" : "98e45f2dead62613",
+  "name" : "should click on register Family button",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should click on register Family button",
+  "historyId" : "2ff869660eac2e13a8c3904615704f9d",
+  "time" : {
+    "start" : 1642317941284,
+    "stop" : 1642317943011,
+    "duration" : 1727
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on register Family button"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98e45f2dead62613.json",
+  "parameterValues" : [ ]
+}

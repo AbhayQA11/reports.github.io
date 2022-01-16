@@ -1,0 +1,46 @@
+{
+  "uid" : "fe3bda14b37d2bae",
+  "name" : "should click on the Add Fee button",
+  "fullName" : "lucaBillingTests: Add Fee and Discount Controls verification.should click on the Add Fee button",
+  "historyId" : "4fe8918f2a575c56670026ee929910bd",
+  "time" : {
+    "start" : 1642319514854,
+    "stop" : 1642319519328,
+    "duration" : 4474
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Add Fee and Discount Controls verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Add Fee and Discount Controls verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Add Fee button"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Add Fee and Discount Controls verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe3bda14b37d2bae.json",
+  "parameterValues" : [ ]
+}

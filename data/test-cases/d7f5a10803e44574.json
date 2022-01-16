@@ -1,0 +1,46 @@
+{
+  "uid" : "d7f5a10803e44574",
+  "name" : "should click on school settings",
+  "fullName" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016.should click on school settings",
+  "historyId" : "375bd076408dde780d8965e34668194a",
+  "time" : {
+    "start" : 1642323375558,
+    "stop" : 1642323379581,
+    "duration" : 4023
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on school settings"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Tuition Manager OW API Check automatic payment option API_015 API_016"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7f5a10803e44574.json",
+  "parameterValues" : [ ]
+}

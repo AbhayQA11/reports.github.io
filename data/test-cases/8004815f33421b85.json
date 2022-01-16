@@ -1,0 +1,46 @@
+{
+  "uid" : "8004815f33421b85",
+  "name" : "should enter reason for billing update",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should enter reason for billing update",
+  "historyId" : "4e249992cfdf635a8242a945b2050870",
+  "time" : {
+    "start" : 1642319595346,
+    "stop" : 1642319596815,
+    "duration" : 1469
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should enter reason for billing update"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8004815f33421b85.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "6a5c33b273dd3ab7",
+  "name" : "should click on search button",
+  "fullName" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification.should click on search button",
+  "historyId" : "775431dad5f259520ed46d25bed4b93c",
+  "time" : {
+    "start" : 1642320186052,
+    "stop" : 1642320187425,
+    "duration" : 1373
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a5c33b273dd3ab7.json",
+  "parameterValues" : [ ]
+}

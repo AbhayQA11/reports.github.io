@@ -1,0 +1,46 @@
+{
+  "uid" : "9fe28cbf4abd4f8d",
+  "name" : "should get school student id for Luca search",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should get school student id for Luca search",
+  "historyId" : "47a302c802aa02677b0e61735a83d787",
+  "time" : {
+    "start" : 1642318105687,
+    "stop" : 1642318106227,
+    "duration" : 540
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get school student id for Luca search"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9fe28cbf4abd4f8d.json",
+  "parameterValues" : [ ]
+}

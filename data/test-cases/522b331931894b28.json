@@ -1,0 +1,46 @@
+{
+  "uid" : "522b331931894b28",
+  "name" : "should verify that Anticipated Deposits are displayed with Date and Amount column",
+  "fullName" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard.should verify that Anticipated Deposits are displayed with Date and Amount column",
+  "historyId" : "73ed20d3bc2150641360d0f75c5e5226",
+  "time" : {
+    "start" : 1642320159827,
+    "stop" : 1642320162420,
+    "duration" : 2593
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Anticipated Deposits are displayed with Date and Amount column"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "522b331931894b28.json",
+  "parameterValues" : [ ]
+}

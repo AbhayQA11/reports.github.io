@@ -1,0 +1,44 @@
+{
+  "uid" : "52e624d4b2ab7a4c",
+  "name" : "should click on the first family record",
+  "fullName" : "lucaFamiliesModuleTests: View All Families Details Pagination Details.should click on the first family record",
+  "historyId" : "cdc48b7a5617dd74675797867fd3ee4d",
+  "time" : {
+    "start" : 1642318269468,
+    "stop" : 1642318271024,
+    "duration" : 1556
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the first family record"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52e624d4b2ab7a4c.json",
+  "parameterValues" : [ ]
+}

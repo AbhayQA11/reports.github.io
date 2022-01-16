@@ -1,0 +1,46 @@
+{
+  "uid" : "fb9b17affb5722cd",
+  "name" : "should verify the Allow Anonymous Donation button is selected by default",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items.should verify the Allow Anonymous Donation button is selected by default",
+  "historyId" : "74d6f8a76e03bc12df1305479faba5a1",
+  "time" : {
+    "start" : 1642320878012,
+    "stop" : 1642320880292,
+    "duration" : 2280
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Allow Anonymous Donation button is selected by default"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb9b17affb5722cd.json",
+  "parameterValues" : [ ]
+}

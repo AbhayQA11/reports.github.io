@@ -1,0 +1,46 @@
+{
+  "uid" : "4d4158f4aa9ce3ad",
+  "name" : "should click on Enrollment Center, once again",
+  "fullName" : "lucaEnrollment: Page links and controls validation.should click on Enrollment Center, once again",
+  "historyId" : "e97d070a5705303ef52587792407d11c",
+  "time" : {
+    "start" : 1642319064878,
+    "stop" : 1642319068083,
+    "duration" : 3205
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Enrollment Center, once again"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d4158f4aa9ce3ad.json",
+  "parameterValues" : [ ]
+}

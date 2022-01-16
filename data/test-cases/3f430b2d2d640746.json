@@ -1,0 +1,46 @@
+{
+  "uid" : "3f430b2d2d640746",
+  "name" : "should click login button",
+  "fullName" : "lucaAutomaticDebitSettings: Payment Type Verification.should click login button",
+  "historyId" : "fe4f8ffea326df3938b7e0518de858ef",
+  "time" : {
+    "start" : 1642323245965,
+    "stop" : 1642323251919,
+    "duration" : 5954
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click login button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f430b2d2d640746.json",
+  "parameterValues" : [ ]
+}

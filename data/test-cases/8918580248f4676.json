@@ -1,0 +1,46 @@
+{
+  "uid" : "8918580248f4676",
+  "name" : "should logout from luca",
+  "fullName" : "homepageTests: Enrollment with Credit Card entry.should logout from luca",
+  "historyId" : "e728abdd5c614214521216f8bac45359",
+  "time" : {
+    "start" : 1642317917377,
+    "stop" : 1642317920154,
+    "duration" : 2777
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should logout from luca"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8918580248f4676.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "4b93441c584a990f",
+  "name" : "should set the password",
+  "fullName" : "homepageTests: Enrolling New Family with Credit Card.should set the password",
+  "historyId" : "eed1d4d88c229a4185e1637445a944df",
+  "time" : {
+    "start" : 1642317997073,
+    "stop" : 1642317998279,
+    "duration" : 1206
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should set the password"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b93441c584a990f.json",
+  "parameterValues" : [ ]
+}

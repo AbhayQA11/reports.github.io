@@ -1,0 +1,46 @@
+{
+  "uid" : "7ebc80cf6ffaf98b",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaDashboardsTests: Luca Payments, add a payment, school user.should load Luca login Page successfully",
+  "historyId" : "899614be94ffad2b26816aa5a8c9286",
+  "time" : {
+    "start" : 1642320986950,
+    "stop" : 1642320989643,
+    "duration" : 2693
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, school user"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, school user"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, school user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ebc80cf6ffaf98b.json",
+  "parameterValues" : [ ]
+}

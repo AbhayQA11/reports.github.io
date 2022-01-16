@@ -1,0 +1,46 @@
+{
+  "uid" : "b6b16135987fb597",
+  "name" : "should fill in the City And State required form in the Add New family Page",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should fill in the City And State required form in the Add New family Page",
+  "historyId" : "4efdb793e9aeebe191d7acd1f7635e4b",
+  "time" : {
+    "start" : 1642319262989,
+    "stop" : 1642319265284,
+    "duration" : 2295
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the City And State required form in the Add New family Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6b16135987fb597.json",
+  "parameterValues" : [ ]
+}

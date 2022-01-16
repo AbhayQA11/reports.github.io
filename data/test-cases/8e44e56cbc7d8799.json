@@ -1,0 +1,46 @@
+{
+  "uid" : "8e44e56cbc7d8799",
+  "name" : "verify that the text size has decreased",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.verify that the text size has decreased",
+  "historyId" : "3f34e04cea1885a9fe876d1cf9423a7d",
+  "time" : {
+    "start" : 1642319857993,
+    "stop" : 1642319858617,
+    "duration" : 624
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "verify that the text size has decreased"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e44e56cbc7d8799.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "adee7df87ccf7245",
+  "name" : "should verify that the adjustments that previously occured are in the Audit Trail grid-fee name",
+  "fullName" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts.should verify that the adjustments that previously occured are in the Audit Trail grid-fee name",
+  "historyId" : "41b830bb3f5d36eb16c015ae3d87f5be",
+  "time" : {
+    "start" : 1642319806534,
+    "stop" : 1642319827718,
+    "duration" : 21184
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the adjustments that previously occured are in the Audit Trail grid-fee name"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Apply and Remove Fee in Edit Billing Contacts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "adee7df87ccf7245.json",
+  "parameterValues" : [ ]
+}

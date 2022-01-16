@@ -1,0 +1,46 @@
+{
+  "uid" : "98861800da1616cc",
+  "name" : "should click on the seccond family",
+  "fullName" : "lucaBillingTests: Verify Read Only Test Account.should click on the seccond family",
+  "historyId" : "5f58d9cde64b98213c0201a458c33efa",
+  "time" : {
+    "start" : 1642319510308,
+    "stop" : 1642319512732,
+    "duration" : 2424
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the seccond family"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98861800da1616cc.json",
+  "parameterValues" : [ ]
+}

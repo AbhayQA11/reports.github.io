@@ -1,0 +1,46 @@
+{
+  "uid" : "69b9ebcff52da613",
+  "name" : "should input school name in search field:12606",
+  "fullName" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029.should input school name in search field:12606",
+  "historyId" : "eff845442dfc5810392a225e45568feb",
+  "time" : {
+    "start" : 1642323215033,
+    "stop" : 1642323216613,
+    "duration" : 1580
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input school name in search field:12606"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69b9ebcff52da613.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "91cc7eb04e7e5c5d",
+  "name" : "should verify that the error message is displayed second time",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should verify that the error message is displayed second time",
+  "historyId" : "3677d036341c33357b912f516552fe9e",
+  "time" : {
+    "start" : 1642318205846,
+    "stop" : 1642318206964,
+    "duration" : 1118
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the error message is displayed second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91cc7eb04e7e5c5d.json",
+  "parameterValues" : [ ]
+}

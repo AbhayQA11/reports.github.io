@@ -1,0 +1,46 @@
+{
+  "uid" : "528ae9f23011ec0d",
+  "name" : "should verify that the appropriate message is received after editing the fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should verify that the appropriate message is received after editing the fee",
+  "historyId" : "b42725741c55be7f70acdf635f8ce00",
+  "time" : {
+    "start" : 1642320187066,
+    "stop" : 1642320194741,
+    "duration" : 7675
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received after editing the fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "528ae9f23011ec0d.json",
+  "parameterValues" : [ ]
+}

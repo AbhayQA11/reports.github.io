@@ -1,0 +1,46 @@
+{
+  "uid" : "4db638e4dba1f467",
+  "name" : "should search the school by School Number",
+  "fullName" : "lucaAuthentificationTests: User Authentification and Author, School Validation.should search the school by School Number",
+  "historyId" : "864e0af2b3d1e9c060cbcd67e4c8f9c4",
+  "time" : {
+    "start" : 1642318225660,
+    "stop" : 1642318227242,
+    "duration" : 1582
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should search the school by School Number"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4db638e4dba1f467.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "80740183157a59ee",
+  "name" : "should modify user data in order to activate the family",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account.should modify user data in order to activate the family",
+  "historyId" : "b055de65c0a2971aa5cb72f77c2ffa6d",
+  "time" : {
+    "start" : 1642321077765,
+    "stop" : 1642321114125,
+    "duration" : 36360
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to activate the family"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80740183157a59ee.json",
+  "parameterValues" : [ ]
+}

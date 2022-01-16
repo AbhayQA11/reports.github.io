@@ -1,0 +1,46 @@
+{
+  "uid" : "23f463521a20387d",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should load Luca login Page successfully",
+  "historyId" : "cafb72514bf7616dcafe4d0079ebc400",
+  "time" : {
+    "start" : 1642319834457,
+    "stop" : 1642319837261,
+    "duration" : 2804
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23f463521a20387d.json",
+  "parameterValues" : [ ]
+}

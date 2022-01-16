@@ -1,0 +1,46 @@
+{
+  "uid" : "5a5c7c5d407d1846",
+  "name" : "should verify that the clientId field is Mandatory",
+  "fullName" : "Luca Settings: Attempt to Add a student to a pre-existing family and verify response API_87, API_88, API_89.should verify that the clientId field is Mandatory",
+  "historyId" : "7295755997aad1a9ddf1dfc7c2f4db3",
+  "time" : {
+    "start" : 1642323600327,
+    "stop" : 1642323601769,
+    "duration" : 1442
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Attempt to Add a student to a pre-existing family and verify response API_87, API_88, API_89"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Attempt to Add a student to a pre-existing family and verify response API_87, API_88, API_89"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the clientId field is Mandatory"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Attempt to Add a student to a pre-existing family and verify response API_87, API_88, API_89"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a5c7c5d407d1846.json",
+  "parameterValues" : [ ]
+}

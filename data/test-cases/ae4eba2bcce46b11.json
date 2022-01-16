@@ -1,0 +1,46 @@
+{
+  "uid" : "ae4eba2bcce46b11",
+  "name" : "should verify the family in luca",
+  "fullName" : "homepageTests: Enrollment with Mail In Invoice payment option.should verify the family in luca",
+  "historyId" : "9679dd3badfaa3d9905e47760f103da4",
+  "time" : {
+    "start" : 1642317966899,
+    "stop" : 1642317971041,
+    "duration" : 4142
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the family in luca"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae4eba2bcce46b11.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "fdc72963c61a01c7",
+  "name" : "should click on manage groups buy now button",
+  "fullName" : "Main Landing Page, Switching School Year Verification .should click on manage groups buy now button",
+  "historyId" : "59b7c6193c6ab7dff90455cbc093c061",
+  "time" : {
+    "start" : 1642320024086,
+    "stop" : 1642320025269,
+    "duration" : 1183
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on manage groups buy now button"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fdc72963c61a01c7.json",
+  "parameterValues" : [ ]
+}

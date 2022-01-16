@@ -1,0 +1,46 @@
+{
+  "uid" : "2cfab97c1775b18c",
+  "name" : "should verify that the Months are displayed in the recognition Period",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should verify that the Months are displayed in the recognition Period",
+  "historyId" : "90deeef9d46c80495a9ac13aa9cd110c",
+  "time" : {
+    "start" : 1642323150544,
+    "stop" : 1642323152150,
+    "duration" : 1606
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Months are displayed in the recognition Period"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2cfab97c1775b18c.json",
+  "parameterValues" : [ ]
+}

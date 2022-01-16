@@ -1,0 +1,46 @@
+{
+  "uid" : "894bf365ee47c605",
+  "name" : "should click on search link",
+  "fullName" : "Tuition Manager Bank Account Payment Encryption Verification.should click on search link",
+  "historyId" : "516de4ca44d092e850c0d9afa76c12c7",
+  "time" : {
+    "start" : 1642324003750,
+    "stop" : 1642324005209,
+    "duration" : 1459
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search link"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "894bf365ee47c605.json",
+  "parameterValues" : [ ]
+}

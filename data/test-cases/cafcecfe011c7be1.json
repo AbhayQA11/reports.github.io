@@ -1,0 +1,46 @@
+{
+  "uid" : "cafcecfe011c7be1",
+  "name" : "should verify the Primary email",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should verify the Primary email",
+  "historyId" : "8e0a92b54fd3cedf4f9056d85b1ef8d1",
+  "time" : {
+    "start" : 1642323459157,
+    "stop" : 1642323460711,
+    "duration" : 1554
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Primary email"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cafcecfe011c7be1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "89dc047084028f89",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should load Luca login Page successfully",
+  "historyId" : "77a55e2f85339636660e1196166ec843",
+  "time" : {
+    "start" : 1642322971876,
+    "stop" : 1642322974372,
+    "duration" : 2496
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "89dc047084028f89.json",
+  "parameterValues" : [ ]
+}

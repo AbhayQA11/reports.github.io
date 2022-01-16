@@ -1,0 +1,46 @@
+{
+  "uid" : "98a56618aa545dd4",
+  "name" : "should change school and select latest school year",
+  "fullName" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056.should change school and select latest school year",
+  "historyId" : "41aefc31ce2c8c5b620356951e5d00b0",
+  "time" : {
+    "start" : 1642323515852,
+    "stop" : 1642323520104,
+    "duration" : 4252
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testMethod",
+    "value" : "should change school and select latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98a56618aa545dd4.json",
+  "parameterValues" : [ ]
+}

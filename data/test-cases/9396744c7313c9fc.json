@@ -1,0 +1,46 @@
+{
+  "uid" : "9396744c7313c9fc",
+  "name" : "should fill the Card Number field with a Mastercard with Convenience Fee",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment.should fill the Card Number field with a Mastercard with Convenience Fee",
+  "historyId" : "7c6f85d0088d535b59fe39d67edd8399",
+  "time" : {
+    "start" : 1642321088237,
+    "stop" : 1642321089202,
+    "duration" : 965
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill the Card Number field with a Mastercard with Convenience Fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9396744c7313c9fc.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c130c24a11b8a845",
+  "name" : "should click on go button",
+  "fullName" : "Luca Settings: Verify Luca User can link two families api-92.should click on go button",
+  "historyId" : "5c13e91f2f3076b8967ef4f5926a5a09",
+  "time" : {
+    "start" : 1642323663611,
+    "stop" : 1642323665022,
+    "duration" : 1411
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on go button"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c130c24a11b8a845.json",
+  "parameterValues" : [ ]
+}

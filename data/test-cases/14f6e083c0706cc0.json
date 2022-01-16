@@ -1,0 +1,46 @@
+{
+  "uid" : "14f6e083c0706cc0",
+  "name" : "should log out from luca",
+  "fullName" : "lucaAuthentificationTests: User Authentification and Author, School Validation.should log out from luca",
+  "historyId" : "b1c56652b4735872171b7f05bb976edc",
+  "time" : {
+    "start" : 1642318233080,
+    "stop" : 1642318236516,
+    "duration" : 3436
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14f6e083c0706cc0.json",
+  "parameterValues" : [ ]
+}

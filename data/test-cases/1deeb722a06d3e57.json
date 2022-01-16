@@ -1,0 +1,46 @@
+{
+  "uid" : "1deeb722a06d3e57",
+  "name" : "should click on Save Fee button, in order to save the newly added fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should click on Save Fee button, in order to save the newly added fee",
+  "historyId" : "58799cd59574bdef32e59a0ce9dd3d3",
+  "time" : {
+    "start" : 1642320169769,
+    "stop" : 1642320171957,
+    "duration" : 2188
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Save Fee button, in order to save the newly added fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1deeb722a06d3e57.json",
+  "parameterValues" : [ ]
+}

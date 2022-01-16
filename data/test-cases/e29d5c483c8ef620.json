@@ -1,0 +1,46 @@
+{
+  "uid" : "e29d5c483c8ef620",
+  "name" : "should verify that the Bank Account Number Field is Displaying Encrypted Info",
+  "fullName" : "Call Center Payment Encryption Tests, Bank Account family.should verify that the Bank Account Number Field is Displaying Encrypted Info",
+  "historyId" : "83a05637116b707312322678fb2a3b4b",
+  "time" : {
+    "start" : 1642324012739,
+    "stop" : 1642324014493,
+    "duration" : 1754
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Bank Account Number Field is Displaying Encrypted Info"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e29d5c483c8ef620.json",
+  "parameterValues" : [ ]
+}

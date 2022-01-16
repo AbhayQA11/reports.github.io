@@ -1,0 +1,46 @@
+{
+  "uid" : "e45a25bfaa42de9a",
+  "name" : "should switch to iframe",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should switch to iframe",
+  "historyId" : "64c769aa26a3df4468b6a1162b546f12",
+  "time" : {
+    "start" : 1642318134680,
+    "stop" : 1642318136228,
+    "duration" : 1548
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch to iframe"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e45a25bfaa42de9a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "90bd04911610da1",
+  "name" : "should move the mouse over the Families link and click on View All Families",
+  "fullName" : "lucaDashboardsTests: Luca Payments, add a payment, read only user.should move the mouse over the Families link and click on View All Families",
+  "historyId" : "a75d80b07c522c093d36d11af643ea4f",
+  "time" : {
+    "start" : 1642321155632,
+    "stop" : 1642321158627,
+    "duration" : 2995
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "testMethod",
+    "value" : "should move the mouse over the Families link and click on View All Families"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90bd04911610da1.json",
+  "parameterValues" : [ ]
+}

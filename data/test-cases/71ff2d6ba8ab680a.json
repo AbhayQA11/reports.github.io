@@ -1,0 +1,46 @@
+{
+  "uid" : "71ff2d6ba8ab680a",
+  "name" : "should click on Total Students",
+  "fullName" : "Main Landing Page, Verify the accessibility of account page in Dashboard.should click on Total Students",
+  "historyId" : "184ba01eaa96c44583a2749a81515418",
+  "time" : {
+    "start" : 1642320003780,
+    "stop" : 1642320007356,
+    "duration" : 3576
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Total Students"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71ff2d6ba8ab680a.json",
+  "parameterValues" : [ ]
+}

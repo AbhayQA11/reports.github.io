@@ -1,0 +1,46 @@
+{
+  "uid" : "38a419462f300015",
+  "name" : "should verify that the General Ledger Id has been modified",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should verify that the General Ledger Id has been modified",
+  "historyId" : "89d1bc5452c4112785cb90af141bb236",
+  "time" : {
+    "start" : 1642320194741,
+    "stop" : 1642320196213,
+    "duration" : 1472
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the General Ledger Id has been modified"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38a419462f300015.json",
+  "parameterValues" : [ ]
+}

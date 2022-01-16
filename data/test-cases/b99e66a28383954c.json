@@ -1,0 +1,46 @@
+{
+  "uid" : "b99e66a28383954c",
+  "name" : "should log out from luca",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should log out from luca",
+  "historyId" : "486fb05d410106205ac0f1dd2425e9e9",
+  "time" : {
+    "start" : 1642317995001,
+    "stop" : 1642317996993,
+    "duration" : 1992
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b99e66a28383954c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "cd5f893d20ca3d81",
+  "name" : "should select the latest school year",
+  "fullName" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service.should select the latest school year",
+  "historyId" : "4e8de331a4c88b76dba737550756269d",
+  "time" : {
+    "start" : 1642323026634,
+    "stop" : 1642323030420,
+    "duration" : 3786
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd5f893d20ca3d81.json",
+  "parameterValues" : [ ]
+}

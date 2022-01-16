@@ -1,0 +1,46 @@
+{
+  "uid" : "37d9f5e434291972",
+  "name" : "should modify user data in order to activate the Bank family",
+  "fullName" : "lucaAutomaticDebitSettings: Payment Type Verification.should modify user data in order to activate the Bank family",
+  "historyId" : "a02660927d469a13264b84b0a37f704c",
+  "time" : {
+    "start" : 1642323204939,
+    "stop" : 1642323240481,
+    "duration" : 35542
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to activate the Bank family"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37d9f5e434291972.json",
+  "parameterValues" : [ ]
+}

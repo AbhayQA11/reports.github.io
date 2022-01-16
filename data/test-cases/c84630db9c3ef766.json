@@ -1,0 +1,46 @@
+{
+  "uid" : "c84630db9c3ef766",
+  "name" : "should log out from luca",
+  "fullName" : "Main Landing Page, Verify the accessibility of Training Classes.should log out from luca",
+  "historyId" : "f8d1ef6653b5bbbe18feafbd79ca7d49",
+  "time" : {
+    "start" : 1642320108220,
+    "stop" : 1642320110962,
+    "duration" : 2742
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c84630db9c3ef766.json",
+  "parameterValues" : [ ]
+}

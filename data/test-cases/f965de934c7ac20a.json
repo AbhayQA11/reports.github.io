@@ -1,0 +1,46 @@
+{
+  "uid" : "f965de934c7ac20a",
+  "name" : "should click on search link",
+  "fullName" : "Tuition Manager Authentification Module.should click on search link",
+  "historyId" : "34a4593c73f6e511b6bf3623626568a2",
+  "time" : {
+    "start" : 1642324012378,
+    "stop" : 1642324013900,
+    "duration" : 1522
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search link"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f965de934c7ac20a.json",
+  "parameterValues" : [ ]
+}

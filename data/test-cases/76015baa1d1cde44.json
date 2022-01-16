@@ -1,0 +1,46 @@
+{
+  "uid" : "76015baa1d1cde44",
+  "name" : "should input new value into the CityName field",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should input new value into the CityName field",
+  "historyId" : "397f2f387af70db3b51704b7e46dcd4",
+  "time" : {
+    "start" : 1642318101353,
+    "stop" : 1642318102290,
+    "duration" : 937
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new value into the CityName field"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76015baa1d1cde44.json",
+  "parameterValues" : [ ]
+}

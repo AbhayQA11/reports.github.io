@@ -1,0 +1,46 @@
+{
+  "uid" : "e6504b367b6ddcd5",
+  "name" : "should click the save button second time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should click the save button second time",
+  "historyId" : "4849804b4b11b5a2c517ccc29e344f8e",
+  "time" : {
+    "start" : 1642318546800,
+    "stop" : 1642318549044,
+    "duration" : 2244
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the save button second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6504b367b6ddcd5.json",
+  "parameterValues" : [ ]
+}

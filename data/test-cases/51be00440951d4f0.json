@@ -1,0 +1,46 @@
+{
+  "uid" : "51be00440951d4f0",
+  "name" : "should verify that the appropriate items are displayed in the Header of the screen",
+  "fullName" : "Main Landing Page, Verify Presence of Elements.should verify that the appropriate items are displayed in the Header of the screen",
+  "historyId" : "24609d713f4ecac345be032bf740663f",
+  "time" : {
+    "start" : 1642319845730,
+    "stop" : 1642319848006,
+    "duration" : 2276
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate items are displayed in the Header of the screen"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51be00440951d4f0.json",
+  "parameterValues" : [ ]
+}

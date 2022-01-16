@@ -1,0 +1,46 @@
+{
+  "uid" : "25be8529c976f670",
+  "name" : "should verify that the Manage User Accounts page has been reached",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should verify that the Manage User Accounts page has been reached",
+  "historyId" : "59274c0920f24ac712eda0b13b62f0ff",
+  "time" : {
+    "start" : 1642319882571,
+    "stop" : 1642319886326,
+    "duration" : 3755
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Manage User Accounts page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25be8529c976f670.json",
+  "parameterValues" : [ ]
+}

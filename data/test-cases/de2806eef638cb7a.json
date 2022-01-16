@@ -1,0 +1,46 @@
+{
+  "uid" : "de2806eef638cb7a",
+  "name" : "should verify that Deffered is active, Deferred GL ID, Income GL ID and Account Regonition Period Type are shown",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should verify that Deffered is active, Deferred GL ID, Income GL ID and Account Regonition Period Type are shown",
+  "historyId" : "226b9a48b96b6c157781f9a6b9b0fa79",
+  "time" : {
+    "start" : 1642323122162,
+    "stop" : 1642323125858,
+    "duration" : 3696
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Deffered is active, Deferred GL ID, Income GL ID and Account Regonition Period Type are shown"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de2806eef638cb7a.json",
+  "parameterValues" : [ ]
+}

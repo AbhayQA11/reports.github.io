@@ -1,0 +1,46 @@
+{
+  "uid" : "b8a76a21e26e224a",
+  "name" : "should select the latest school year",
+  "fullName" : "Main Landing Page, Verify Presence of Elements.should select the latest school year",
+  "historyId" : "705bb836c9acd70d2d44c3737118f918",
+  "time" : {
+    "start" : 1642319839909,
+    "stop" : 1642319843552,
+    "duration" : 3643
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8a76a21e26e224a.json",
+  "parameterValues" : [ ]
+}

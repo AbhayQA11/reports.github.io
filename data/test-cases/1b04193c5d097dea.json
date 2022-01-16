@@ -1,0 +1,46 @@
+{
+  "uid" : "1b04193c5d097dea",
+  "name" : "should set the Username for Ews Login",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should set the Username for Ews Login",
+  "historyId" : "63996dd38d28869f460fb6014ecc05ed",
+  "time" : {
+    "start" : 1642317990195,
+    "stop" : 1642317991088,
+    "duration" : 893
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should set the Username for Ews Login"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b04193c5d097dea.json",
+  "parameterValues" : [ ]
+}

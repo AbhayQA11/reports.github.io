@@ -1,0 +1,46 @@
+{
+  "uid" : "9073f6e20be0316f",
+  "name" : "should click on register Family button, 2nd time",
+  "fullName" : "lucaEnrollment: Enroll new family .should click on register Family button, 2nd time",
+  "historyId" : "374a88b21d9df411f33e23e0e6658165",
+  "time" : {
+    "start" : 1642319120957,
+    "stop" : 1642319122619,
+    "duration" : 1662
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on register Family button, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9073f6e20be0316f.json",
+  "parameterValues" : [ ]
+}

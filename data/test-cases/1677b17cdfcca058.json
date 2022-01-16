@@ -1,0 +1,46 @@
+{
+  "uid" : "1677b17cdfcca058",
+  "name" : "should select the latest school year",
+  "fullName" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard.should select the latest school year",
+  "historyId" : "dd806d57e99ad650c06c03f8da66084a",
+  "time" : {
+    "start" : 1642319991108,
+    "stop" : 1642319994738,
+    "duration" : 3630
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1677b17cdfcca058.json",
+  "parameterValues" : [ ]
+}

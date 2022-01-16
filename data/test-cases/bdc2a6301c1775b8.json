@@ -1,0 +1,46 @@
+{
+  "uid" : "bdc2a6301c1775b8",
+  "name" : "should mouseover Fees and discounts, then select Manage Fees and discounts",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts.should mouseover Fees and discounts, then select Manage Fees and discounts",
+  "historyId" : "dc32da3473e126b6f100b0cffcf48ba9",
+  "time" : {
+    "start" : 1642320335400,
+    "stop" : 1642320338709,
+    "duration" : 3309
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Fees and discounts, then select Manage Fees and discounts"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying sorting filters on newly created Fees and Discounts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bdc2a6301c1775b8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "4953ac1e41934d76",
+  "name" : "should modify user data in order to activate the CC family",
+  "fullName" : "lucaAutomaticDebitSettings: Payment Type Verification.should modify user data in order to activate the CC family",
+  "historyId" : "8c4987e70e42e585840ac003990bde82",
+  "time" : {
+    "start" : 1642323168034,
+    "stop" : 1642323204939,
+    "duration" : 36905
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to activate the CC family"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4953ac1e41934d76.json",
+  "parameterValues" : [ ]
+}

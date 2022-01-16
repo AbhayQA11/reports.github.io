@@ -1,0 +1,46 @@
+{
+  "uid" : "e963c485b6670301",
+  "name" : "should check the family id in the smart search page",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should check the family id in the smart search page",
+  "historyId" : "6457f0bea68a12bd4a42c2afdea60f51",
+  "time" : {
+    "start" : 1642323420305,
+    "stop" : 1642323427430,
+    "duration" : 7125
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check the family id in the smart search page"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e963c485b6670301.json",
+  "parameterValues" : [ ]
+}

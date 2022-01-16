@@ -1,0 +1,46 @@
+{
+  "uid" : "6791a437079a789d",
+  "name" : "should verify that all fields are present in Manage Contact Information",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should verify that all fields are present in Manage Contact Information",
+  "historyId" : "959b73e748dede779bc2417da3b2f228",
+  "time" : {
+    "start" : 1642320079732,
+    "stop" : 1642320082616,
+    "duration" : 2884
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that all fields are present in Manage Contact Information"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6791a437079a789d.json",
+  "parameterValues" : [ ]
+}

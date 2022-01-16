@@ -1,0 +1,46 @@
+{
+  "uid" : "e51158d1068f95e5",
+  "name" : "should verify that the Notes and Requests Page has been reached, 4th time",
+  "fullName" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard.should verify that the Notes and Requests Page has been reached, 4th time",
+  "historyId" : "1c88132691aff3e543201a36eb89675b",
+  "time" : {
+    "start" : 1642320054825,
+    "stop" : 1642320063755,
+    "duration" : 8930
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Notes and Requests Page has been reached, 4th time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e51158d1068f95e5.json",
+  "parameterValues" : [ ]
+}

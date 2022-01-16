@@ -1,0 +1,46 @@
+{
+  "uid" : "7365163db96f2be3",
+  "name" : "should click on stundent in order to create a new fee",
+  "fullName" : "Luca Settings: OW API_007 tests.should click on stundent in order to create a new fee",
+  "historyId" : "f128a7928a45e663324cb6663898b8db",
+  "time" : {
+    "start" : 1642323331137,
+    "stop" : 1642323333430,
+    "duration" : 2293
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on stundent in order to create a new fee"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7365163db96f2be3.json",
+  "parameterValues" : [ ]
+}

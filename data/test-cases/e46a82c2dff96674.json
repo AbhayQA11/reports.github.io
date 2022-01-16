@@ -1,0 +1,46 @@
+{
+  "uid" : "e46a82c2dff96674",
+  "name" : "should verify the Main Phone",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should verify the Main Phone",
+  "historyId" : "36e074877e97fbbb5ed20fa814af517b",
+  "time" : {
+    "start" : 1642323464050,
+    "stop" : 1642323465551,
+    "duration" : 1501
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Main Phone"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e46a82c2dff96674.json",
+  "parameterValues" : [ ]
+}

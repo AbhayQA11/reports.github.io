@@ -1,0 +1,46 @@
+{
+  "uid" : "fba903b61c348efc",
+  "name" : "should click the go button in order to search for the newly created family",
+  "fullName" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056.should click the go button in order to search for the newly created family",
+  "historyId" : "ccbd4baf7c38fa8504c5c21dfe3bf1c0",
+  "time" : {
+    "start" : 1642323529198,
+    "stop" : 1642323530532,
+    "duration" : 1334
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the go button in order to search for the newly created family"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fba903b61c348efc.json",
+  "parameterValues" : [ ]
+}

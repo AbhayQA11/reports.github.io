@@ -1,0 +1,46 @@
+{
+  "uid" : "c66399ac3e71b4f5",
+  "name" : "should fill in the Home And Mobile Phone required form in the Add New family Page",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should fill in the Home And Mobile Phone required form in the Add New family Page",
+  "historyId" : "1522236452c9b6dc4e8e1925b4edaba5",
+  "time" : {
+    "start" : 1642319268537,
+    "stop" : 1642319269616,
+    "duration" : 1079
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Home And Mobile Phone required form in the Add New family Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c66399ac3e71b4f5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "1ce321f1e75d2bb4",
+  "name" : "should logout from Luca",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should logout from Luca",
+  "historyId" : "d27a70bf87d0aa425a4fa2335b617c05",
+  "time" : {
+    "start" : 1642318255946,
+    "stop" : 1642318258027,
+    "duration" : 2081
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should logout from Luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ce321f1e75d2bb4.json",
+  "parameterValues" : [ ]
+}

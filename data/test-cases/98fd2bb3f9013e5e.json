@@ -1,0 +1,46 @@
+{
+  "uid" : "98fd2bb3f9013e5e",
+  "name" : "should close the Smart tuition Privacy Policy",
+  "fullName" : "lucaAuthentificationTests: User Authentification and Author, School Validation.should close the Smart tuition Privacy Policy",
+  "historyId" : "8e63d6fbfe00cbefca64af4834ba31bb",
+  "time" : {
+    "start" : 1642318214302,
+    "stop" : 1642318215444,
+    "duration" : 1142
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should close the Smart tuition Privacy Policy"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98fd2bb3f9013e5e.json",
+  "parameterValues" : [ ]
+}

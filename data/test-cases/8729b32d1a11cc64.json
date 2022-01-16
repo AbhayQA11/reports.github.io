@@ -1,0 +1,46 @@
+{
+  "uid" : "8729b32d1a11cc64",
+  "name" : "should click on the save button",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should click on the save button",
+  "historyId" : "f9cc8dc41f74931abe4d65b8e4de4f26",
+  "time" : {
+    "start" : 1642323139564,
+    "stop" : 1642323142804,
+    "duration" : 3240
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the save button"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8729b32d1a11cc64.json",
+  "parameterValues" : [ ]
+}

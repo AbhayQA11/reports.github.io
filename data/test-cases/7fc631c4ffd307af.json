@@ -1,0 +1,46 @@
+{
+  "uid" : "7fc631c4ffd307af",
+  "name" : "should verify that the Manage Payment Plans page has been reached",
+  "fullName" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029.should verify that the Manage Payment Plans page has been reached",
+  "historyId" : "5c32179b6a5c4f868711dbb3cf7f8a28",
+  "time" : {
+    "start" : 1642323252025,
+    "stop" : 1642323255693,
+    "duration" : 3668
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Manage Payment Plans page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7fc631c4ffd307af.json",
+  "parameterValues" : [ ]
+}

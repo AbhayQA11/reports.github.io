@@ -1,0 +1,46 @@
+{
+  "uid" : "ae89dc29d929bd2",
+  "name" : "should click on search button in order to search for the family",
+  "fullName" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages.should click on search button in order to search for the family",
+  "historyId" : "d232421f7da8e9971779ceb77a4bd4b9",
+  "time" : {
+    "start" : 1642320357186,
+    "stop" : 1642320358617,
+    "duration" : 1431
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button in order to search for the family"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae89dc29d929bd2.json",
+  "parameterValues" : [ ]
+}

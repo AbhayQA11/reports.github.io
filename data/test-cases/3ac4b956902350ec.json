@@ -1,0 +1,46 @@
+{
+  "uid" : "3ac4b956902350ec",
+  "name" : "should verify kk BlackBaud Page Is opened",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should verify kk BlackBaud Page Is opened",
+  "historyId" : "1f2de9c210c01a74802a3fc60fb969de",
+  "time" : {
+    "start" : 1642319867367,
+    "stop" : 1642319872156,
+    "duration" : 4789
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify kk BlackBaud Page Is opened"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ac4b956902350ec.json",
+  "parameterValues" : [ ]
+}

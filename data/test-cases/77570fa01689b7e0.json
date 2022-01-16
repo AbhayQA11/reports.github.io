@@ -1,0 +1,46 @@
+{
+  "uid" : "77570fa01689b7e0",
+  "name" : "should click on the select a discount button first time",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Discount.should click on the select a discount button first time",
+  "historyId" : "77f0ee57bc44396995e9b587ce47f44c",
+  "time" : {
+    "start" : 1642319713775,
+    "stop" : 1642319715594,
+    "duration" : 1819
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the select a discount button first time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "77570fa01689b7e0.json",
+  "parameterValues" : [ ]
+}

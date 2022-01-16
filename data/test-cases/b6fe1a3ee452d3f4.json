@@ -1,0 +1,46 @@
+{
+  "uid" : "b6fe1a3ee452d3f4",
+  "name" : "should input the Aditional Authorized Party first and second name",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should input the Aditional Authorized Party first and second name",
+  "historyId" : "af87cbf8ea84577ac13375caff929b85",
+  "time" : {
+    "start" : 1642317923670,
+    "stop" : 1642317924545,
+    "duration" : 875
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the Aditional Authorized Party first and second name"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6fe1a3ee452d3f4.json",
+  "parameterValues" : [ ]
+}

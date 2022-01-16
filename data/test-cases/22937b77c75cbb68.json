@@ -1,0 +1,46 @@
+{
+  "uid" : "22937b77c75cbb68",
+  "name" : "should verify that the appropriate confirmation message is displayed",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should verify that the appropriate confirmation message is displayed",
+  "historyId" : "528cc3a408bbe099b1dced10d9ca395c",
+  "time" : {
+    "start" : 1642319349743,
+    "stop" : 1642319352637,
+    "duration" : 2894
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate confirmation message is displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22937b77c75cbb68.json",
+  "parameterValues" : [ ]
+}

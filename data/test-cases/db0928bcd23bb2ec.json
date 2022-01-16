@@ -1,0 +1,46 @@
+{
+  "uid" : "db0928bcd23bb2ec",
+  "name" : "should wait for the update family and studnet page to load",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Fees.should wait for the update family and studnet page to load",
+  "historyId" : "cce4faa6d0cb1f2ca78cd737b5942d52",
+  "time" : {
+    "start" : 1642319611002,
+    "stop" : 1642319618114,
+    "duration" : 7112
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for the update family and studnet page to load"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db0928bcd23bb2ec.json",
+  "parameterValues" : [ ]
+}

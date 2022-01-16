@@ -1,0 +1,46 @@
+{
+  "uid" : "21a27701dd927f3",
+  "name" : "should click the Payment Method drop-down ",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should click the Payment Method drop-down ",
+  "historyId" : "c23aba811680442b523c98e4ed0e5f85",
+  "time" : {
+    "start" : 1642317932923,
+    "stop" : 1642317934155,
+    "duration" : 1232
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Payment Method drop-down "
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21a27701dd927f3.json",
+  "parameterValues" : [ ]
+}

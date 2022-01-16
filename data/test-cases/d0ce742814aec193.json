@@ -1,0 +1,46 @@
+{
+  "uid" : "d0ce742814aec193",
+  "name" : "should load Luca login Page successfully in order to verify API data is correct in UI",
+  "fullName" : "Luca Settings: OW Api - edit family details, API_026.should load Luca login Page successfully in order to verify API data is correct in UI",
+  "historyId" : "1e6aa67029942c763276769dd5636dea",
+  "time" : {
+    "start" : 1642323409020,
+    "stop" : 1642323413400,
+    "duration" : 4380
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully in order to verify API data is correct in UI"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0ce742814aec193.json",
+  "parameterValues" : [ ]
+}

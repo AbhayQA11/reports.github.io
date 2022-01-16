@@ -1,0 +1,46 @@
+{
+  "uid" : "27cc423af7546776",
+  "name" : "should select the latest school year",
+  "fullName" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification.should select the latest school year",
+  "historyId" : "cabc0cb5be2e4baecff6d207abe59948",
+  "time" : {
+    "start" : 1642320187425,
+    "stop" : 1642320191177,
+    "duration" : 3752
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "27cc423af7546776.json",
+  "parameterValues" : [ ]
+}

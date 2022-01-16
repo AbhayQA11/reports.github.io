@@ -1,0 +1,46 @@
+{
+  "uid" : "d20566ea8da4f0c",
+  "name" : "should input correct password",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should input correct password",
+  "historyId" : "b1da9b14e1814c81c7d9f09991c234d3",
+  "time" : {
+    "start" : 1642318346182,
+    "stop" : 1642318347461,
+    "duration" : 1279
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d20566ea8da4f0c.json",
+  "parameterValues" : [ ]
+}

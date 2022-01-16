@@ -1,0 +1,46 @@
+{
+  "uid" : "7c4e7140973a6208",
+  "name" : "should add a Discount Via Api to the family",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests.should add a Discount Via Api to the family",
+  "historyId" : "f026b23e5b2e5cc5b846f1245f813bc8",
+  "time" : {
+    "start" : 1642323675313,
+    "stop" : 1642323675662,
+    "duration" : 349
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add a Discount Via Api to the family"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c4e7140973a6208.json",
+  "parameterValues" : [ ]
+}

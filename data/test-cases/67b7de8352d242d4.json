@@ -1,0 +1,46 @@
+{
+  "uid" : "67b7de8352d242d4",
+  "name" : "should click on the side tab from family and student page again",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should click on the side tab from family and student page again",
+  "historyId" : "c4c83c2d541bfac5c8187eab3aa8d093",
+  "time" : {
+    "start" : 1642318501567,
+    "stop" : 1642318503782,
+    "duration" : 2215
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the side tab from family and student page again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67b7de8352d242d4.json",
+  "parameterValues" : [ ]
+}

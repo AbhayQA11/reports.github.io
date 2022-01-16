@@ -1,0 +1,46 @@
+{
+  "uid" : "a37a3b00d9d01974",
+  "name" : "should log out from luca",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should log out from luca",
+  "historyId" : "213cd3a78326ca2a75f8abb0d5896cd0",
+  "time" : {
+    "start" : 1642323084529,
+    "stop" : 1642323087182,
+    "duration" : 2653
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a37a3b00d9d01974.json",
+  "parameterValues" : [ ]
+}

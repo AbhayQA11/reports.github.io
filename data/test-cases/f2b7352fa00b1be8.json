@@ -1,0 +1,46 @@
+{
+  "uid" : "f2b7352fa00b1be8",
+  "name" : "should click on Assigned to First Option",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should click on Assigned to First Option",
+  "historyId" : "f4f261ede4bb146c92c91485d1ebe681",
+  "time" : {
+    "start" : 1642322962252,
+    "stop" : 1642322963703,
+    "duration" : 1451
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Assigned to First Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2b7352fa00b1be8.json",
+  "parameterValues" : [ ]
+}

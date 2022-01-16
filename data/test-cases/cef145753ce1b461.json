@@ -1,0 +1,46 @@
+{
+  "uid" : "cef145753ce1b461",
+  "name" : "should click on the Spread Total button for both students",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Discount.should click on the Spread Total button for both students",
+  "historyId" : "1044bf7be0110cd0de9113a95dadd27d",
+  "time" : {
+    "start" : 1642319723973,
+    "stop" : 1642319725172,
+    "duration" : 1199
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Spread Total button for both students"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cef145753ce1b461.json",
+  "parameterValues" : [ ]
+}

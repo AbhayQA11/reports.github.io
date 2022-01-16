@@ -1,0 +1,46 @@
+{
+  "uid" : "1a6fcf9779be6c1d",
+  "name" : "should select the first record by checking the checkbox next to the family name second time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should select the first record by checking the checkbox next to the family name second time",
+  "historyId" : "506cba4a9de5b928f939aa3b9de650b9",
+  "time" : {
+    "start" : 1642318442431,
+    "stop" : 1642318449102,
+    "duration" : 6671
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the first record by checking the checkbox next to the family name second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a6fcf9779be6c1d.json",
+  "parameterValues" : [ ]
+}

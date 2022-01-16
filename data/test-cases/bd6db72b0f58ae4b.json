@@ -1,0 +1,70 @@
+{
+  "uid" : "bd6db72b0f58ae4b",
+  "name" : "should verify Smarttuition contact info to be displayed",
+  "fullName" : "lucaAuthentificationTests: User Authentification and Author, School Validation.should verify Smarttuition contact info to be displayed",
+  "historyId" : "ef1a37bde04d315991d4dfcffbfd77f7",
+  "time" : {
+    "start" : 1642318209937,
+    "stop" : 1642318212232,
+    "duration" : 2295
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'Telephone: (800) 681-6192 Press 2 for Smart Tuition' to contain 'Telephone: 800-468-8996 for Smart Tuition'.",
+  "statusTrace" : "Error: Failed expectation\n                    at lucaHomePage.verifyFooterText (F:/k20automation/pages/lucaPages/lucaHomePage/lucaLoginPage.js:262:39)\n                    at UserContext.<anonymous> (F:/k20automation/tests/lucaTests/lucaAuthentificationTests/luca_userAuthAndAuthorSchoolValidation_spec.js:19:14)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'Telephone: (800) 681-6192 Press 2 for Smart Tuition' to contain 'Telephone: 800-468-8996 for Smart Tuition'.",
+    "statusTrace" : "Error: Failed expectation\n                    at lucaHomePage.verifyFooterText (F:/k20automation/pages/lucaPages/lucaHomePage/lucaLoginPage.js:262:39)\n                    at UserContext.<anonymous> (F:/k20automation/tests/lucaTests/lucaAuthentificationTests/luca_userAuthAndAuthorSchoolValidation_spec.js:19:14)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f97a560029668db2",
+      "name" : "Screenshot",
+      "source" : "f97a560029668db2.png",
+      "type" : "image/png",
+      "size" : 37409
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify Smarttuition contact info to be displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "bd6db72b0f58ae4b.json",
+  "parameterValues" : [ ]
+}

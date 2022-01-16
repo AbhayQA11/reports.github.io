@@ -1,0 +1,46 @@
+{
+  "uid" : "64dccf54eeabb825",
+  "name" : "should verify that Income Gl Id is set to Business Expenses in the Table",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case.should verify that Income Gl Id is set to Business Expenses in the Table",
+  "historyId" : "7d47f91218c42f444038fb04eb005b2d",
+  "time" : {
+    "start" : 1642323149512,
+    "stop" : 1642323151024,
+    "duration" : 1512
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Income Gl Id is set to Business Expenses in the Table"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64dccf54eeabb825.json",
+  "parameterValues" : [ ]
+}

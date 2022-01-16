@@ -1,0 +1,46 @@
+{
+  "uid" : "c9d0704820820dac",
+  "name" : "should select the latest school year",
+  "fullName" : "Main Landing Page, Switching School Year Verification .should select the latest school year",
+  "historyId" : "a950b3ca820fca22bc15ac52590147e2",
+  "time" : {
+    "start" : 1642319928383,
+    "stop" : 1642319932373,
+    "duration" : 3990
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9d0704820820dac.json",
+  "parameterValues" : [ ]
+}

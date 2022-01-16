@@ -1,0 +1,46 @@
+{
+  "uid" : "b2c503fcf4d168a6",
+  "name" : "should get and store the Email in order to use it later for family search",
+  "fullName" : "homepageTests: Verifies Enrollment code for Remove Fees.should get and store the Email in order to use it later for family search",
+  "historyId" : "69635b288d8fdc178080a8465041f957",
+  "time" : {
+    "start" : 1642317949808,
+    "stop" : 1642317951996,
+    "duration" : 2188
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the Email in order to use it later for family search"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2c503fcf4d168a6.json",
+  "parameterValues" : [ ]
+}

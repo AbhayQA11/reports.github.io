@@ -1,0 +1,46 @@
+{
+  "uid" : "59b391e2c7f1f6cd",
+  "name" : "should log out from luca",
+  "fullName" : "homepageTests: Enrolling New Family with Credit Card.should log out from luca",
+  "historyId" : "10b40017f8e25416965994b1233a8220",
+  "time" : {
+    "start" : 1642318038584,
+    "stop" : 1642318042013,
+    "duration" : 3429
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59b391e2c7f1f6cd.json",
+  "parameterValues" : [ ]
+}

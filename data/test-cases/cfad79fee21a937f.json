@@ -1,0 +1,54 @@
+{
+  "uid" : "cfad79fee21a937f",
+  "name" : "should verify that only families which start with the letter B are displayed",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should verify that only families which start with the letter B are displayed",
+  "historyId" : "b8814f1244f9bf919f0916b22653ad85",
+  "time" : {
+    "start" : 1642322482860,
+    "stop" : 1642322484827,
+    "duration" : 1967
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that only families which start with the letter B are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e217123710a632fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318305321,
+        "stop" : 1642318307138,
+        "duration" : 1817
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cfad79fee21a937f.json",
+  "parameterValues" : [ ]
+}

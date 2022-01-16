@@ -1,0 +1,46 @@
+{
+  "uid" : "d1468257249b3bb2",
+  "name" : "should verify that the error message is displayed third time",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should verify that the error message is displayed third time",
+  "historyId" : "fb70167ec47ee984a0bf71f242f6cd10",
+  "time" : {
+    "start" : 1642318212155,
+    "stop" : 1642318213314,
+    "duration" : 1159
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the error message is displayed third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d1468257249b3bb2.json",
+  "parameterValues" : [ ]
+}

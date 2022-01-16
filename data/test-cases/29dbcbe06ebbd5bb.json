@@ -1,0 +1,46 @@
+{
+  "uid" : "29dbcbe06ebbd5bb",
+  "name" : "should enter a new fee amount in the last month",
+  "fullName" : "lucaBillingTests: Edit Billing module, multiple discount deletion.should enter a new fee amount in the last month",
+  "historyId" : "a4957862095d7aae1ab0895b777ec00f",
+  "time" : {
+    "start" : 1642319808568,
+    "stop" : 1642319809626,
+    "duration" : 1058
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "testMethod",
+    "value" : "should enter a new fee amount in the last month"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29dbcbe06ebbd5bb.json",
+  "parameterValues" : [ ]
+}

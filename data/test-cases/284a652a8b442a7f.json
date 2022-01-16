@@ -1,0 +1,46 @@
+{
+  "uid" : "284a652a8b442a7f",
+  "name" : "should input new value into the CityName field",
+  "fullName" : "Renweb Tests: Registration for adding new student.should input new value into the CityName field",
+  "historyId" : "b6ba8cdbaf2691bd8ace85ecb6370a04",
+  "time" : {
+    "start" : 1642318062818,
+    "stop" : 1642318063696,
+    "duration" : 878
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new value into the CityName field"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "284a652a8b442a7f.json",
+  "parameterValues" : [ ]
+}

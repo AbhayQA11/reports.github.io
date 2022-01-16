@@ -1,0 +1,46 @@
+{
+  "uid" : "c1033b7f34074b",
+  "name" : "should verify that the Save Note button is disabled third time",
+  "fullName" : "lucaAddANoteTests: Verifying Error Validation.should verify that the Save Note button is disabled third time",
+  "historyId" : "7852fb9eb35afaf7f14d98e22b8fc5ba",
+  "time" : {
+    "start" : 1642322970794,
+    "stop" : 1642322972196,
+    "duration" : 1402
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Save Note button is disabled third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1033b7f34074b.json",
+  "parameterValues" : [ ]
+}

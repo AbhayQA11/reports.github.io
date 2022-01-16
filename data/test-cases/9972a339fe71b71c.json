@@ -1,0 +1,46 @@
+{
+  "uid" : "9972a339fe71b71c",
+  "name" : "should get and store the routing number in order to check it later",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should get and store the routing number in order to check it later",
+  "historyId" : "42b0079ac7eee492544518fb2df52224",
+  "time" : {
+    "start" : 1642319278879,
+    "stop" : 1642319279437,
+    "duration" : 558
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the routing number in order to check it later"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9972a339fe71b71c.json",
+  "parameterValues" : [ ]
+}

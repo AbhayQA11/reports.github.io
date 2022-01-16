@@ -1,0 +1,46 @@
+{
+  "uid" : "7b070e679767ee5",
+  "name" : "should verify that the amount in the first month is displayed as zero",
+  "fullName" : "lucaBillingTests: Edit Billing module, multiple discount deletion.should verify that the amount in the first month is displayed as zero",
+  "historyId" : "88887700f2505ffc4371213b46cc4fba",
+  "time" : {
+    "start" : 1642319810498,
+    "stop" : 1642319811049,
+    "duration" : 551
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the amount in the first month is displayed as zero"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b070e679767ee5.json",
+  "parameterValues" : [ ]
+}

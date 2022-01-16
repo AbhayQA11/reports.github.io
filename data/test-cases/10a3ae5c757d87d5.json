@@ -1,0 +1,46 @@
+{
+  "uid" : "10a3ae5c757d87d5",
+  "name" : "should select the Add New Credit Card Option in the Dropdown",
+  "fullName" : "Parent Site Payment Verification.should select the Add New Credit Card Option in the Dropdown",
+  "historyId" : "ea54ebb8d0ff24e8d772214342f71275",
+  "time" : {
+    "start" : 1642323887142,
+    "stop" : 1642323888782,
+    "duration" : 1640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the Add New Credit Card Option in the Dropdown"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10a3ae5c757d87d5.json",
+  "parameterValues" : [ ]
+}

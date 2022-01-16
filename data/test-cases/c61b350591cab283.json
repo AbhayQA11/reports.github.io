@@ -1,0 +1,46 @@
+{
+  "uid" : "c61b350591cab283",
+  "name" : "should add a note to the new family",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should add a note to the new family",
+  "historyId" : "e0b92278de0a8ffbe7100e1a7033dd62",
+  "time" : {
+    "start" : 1642323452394,
+    "stop" : 1642323452928,
+    "duration" : 534
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add a note to the new family"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c61b350591cab283.json",
+  "parameterValues" : [ ]
+}

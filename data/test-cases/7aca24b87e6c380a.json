@@ -1,0 +1,46 @@
+{
+  "uid" : "7aca24b87e6c380a",
+  "name" : "should verify the number of the accounts after performing the Import Process once again",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality .should verify the number of the accounts after performing the Import Process once again",
+  "historyId" : "d269e814e2d3e3f7d2c59d927d5555e1",
+  "time" : {
+    "start" : 1642323054823,
+    "stop" : 1642323061618,
+    "duration" : 6795
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the number of the accounts after performing the Import Process once again"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Import functionality and Filter functionality "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7aca24b87e6c380a.json",
+  "parameterValues" : [ ]
+}

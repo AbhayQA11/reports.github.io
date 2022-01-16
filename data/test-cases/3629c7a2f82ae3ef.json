@@ -1,0 +1,46 @@
+{
+  "uid" : "3629c7a2f82ae3ef",
+  "name" : "should verify that the Families And Students Page has been reached",
+  "fullName" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard.should verify that the Families And Students Page has been reached",
+  "historyId" : "b3575314f4b22b52414018f2f4cf24db",
+  "time" : {
+    "start" : 1642320161553,
+    "stop" : 1642320165161,
+    "duration" : 3608
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Families And Students Page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3629c7a2f82ae3ef.json",
+  "parameterValues" : [ ]
+}

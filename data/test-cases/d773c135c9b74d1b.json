@@ -1,0 +1,46 @@
+{
+  "uid" : "d773c135c9b74d1b",
+  "name" : "should verify that the Recognition Type is set To Deffered in the Table",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should verify that the Recognition Type is set To Deffered in the Table",
+  "historyId" : "48f9a81082a13b06f40e255d1a196db4",
+  "time" : {
+    "start" : 1642323152150,
+    "stop" : 1642323153660,
+    "duration" : 1510
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Recognition Type is set To Deffered in the Table"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d773c135c9b74d1b.json",
+  "parameterValues" : [ ]
+}

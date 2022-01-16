@@ -1,0 +1,46 @@
+{
+  "uid" : "57b45927bcaddf03",
+  "name" : "should click on search button",
+  "fullName" : "Luca Settings: OW API_007 tests.should click on search button",
+  "historyId" : "2d613497d70a04b6c05e967aea89f4e1",
+  "time" : {
+    "start" : 1642323299714,
+    "stop" : 1642323301081,
+    "duration" : 1367
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57b45927bcaddf03.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "8407d0f02533385b",
+  "name" : "should input valid password",
+  "fullName" : "Luca Settings: Manage Payment Plans tests, API_003.should input valid password",
+  "historyId" : "e0dc384abc9d0522fd8215761f76c591",
+  "time" : {
+    "start" : 1642323225174,
+    "stop" : 1642323226464,
+    "duration" : 1290
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid password"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests, API_003"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8407d0f02533385b.json",
+  "parameterValues" : [ ]
+}

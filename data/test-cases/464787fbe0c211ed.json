@@ -1,0 +1,46 @@
+{
+  "uid" : "464787fbe0c211ed",
+  "name" : "should input new value into the SchoolFamilyId field",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Bank Account.should input new value into the SchoolFamilyId field",
+  "historyId" : "f3a5389874300f5b3f9b78faed1cde43",
+  "time" : {
+    "start" : 1642318186621,
+    "stop" : 1642318187426,
+    "duration" : 805
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new value into the SchoolFamilyId field"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "464787fbe0c211ed.json",
+  "parameterValues" : [ ]
+}

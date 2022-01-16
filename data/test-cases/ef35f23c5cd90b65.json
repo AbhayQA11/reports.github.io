@@ -1,0 +1,46 @@
+{
+  "uid" : "ef35f23c5cd90b65",
+  "name" : "should input the school 11084 in the search field",
+  "fullName" : "lucaBillingTests: Edit Billing module, Fee and discount month availability.should input the school 11084 in the search field",
+  "historyId" : "a936ae0741b39983ae2451af8d9e663b",
+  "time" : {
+    "start" : 1642319823723,
+    "stop" : 1642319825327,
+    "duration" : 1604
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the school 11084 in the search field"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef35f23c5cd90b65.json",
+  "parameterValues" : [ ]
+}

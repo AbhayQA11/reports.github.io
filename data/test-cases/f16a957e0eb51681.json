@@ -1,0 +1,46 @@
+{
+  "uid" : "f16a957e0eb51681",
+  "name" : "should verify the confirmation message",
+  "fullName" : "Luca Settings: OW API_008 tests.should verify the confirmation message",
+  "historyId" : "75c4bb42c40a2cf5e3e4d9614e7aff89",
+  "time" : {
+    "start" : 1642323331552,
+    "stop" : 1642323339261,
+    "duration" : 7709
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the confirmation message"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f16a957e0eb51681.json",
+  "parameterValues" : [ ]
+}

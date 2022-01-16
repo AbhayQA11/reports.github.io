@@ -1,0 +1,46 @@
+{
+  "uid" : "a925428307e08055",
+  "name" : "should verify No Recipient warning message is displayed",
+  "fullName" : "lucaFamiliesModuleTests: Email Parents page.should verify No Recipient warning message is displayed",
+  "historyId" : "afb5bd6e3abe59dbd614f7b613682b9b",
+  "time" : {
+    "start" : 1642318622690,
+    "stop" : 1642318623999,
+    "duration" : 1309
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify No Recipient warning message is displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a925428307e08055.json",
+  "parameterValues" : [ ]
+}

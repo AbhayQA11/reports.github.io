@@ -1,0 +1,46 @@
+{
+  "uid" : "d0289582713874e7",
+  "name" : "should click the Sign In Button, 2nd time",
+  "fullName" : "Call Center Authentification tests.should click the Sign In Button, 2nd time",
+  "historyId" : "29a1e252d427ed85bc4cdee7d285be2f",
+  "time" : {
+    "start" : 1642323860363,
+    "stop" : 1642323862412,
+    "duration" : 2049
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the Sign In Button, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Authentification tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0289582713874e7.json",
+  "parameterValues" : [ ]
+}

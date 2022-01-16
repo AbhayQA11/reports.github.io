@@ -1,0 +1,46 @@
+{
+  "uid" : "c084c6d6cef8b02a",
+  "name" : "should input new value into the ZipCode field",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should input new value into the ZipCode field",
+  "historyId" : "be225d6cd88a37218cbe3a75655d1114",
+  "time" : {
+    "start" : 1642318102290,
+    "stop" : 1642318103240,
+    "duration" : 950
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new value into the ZipCode field"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c084c6d6cef8b02a.json",
+  "parameterValues" : [ ]
+}

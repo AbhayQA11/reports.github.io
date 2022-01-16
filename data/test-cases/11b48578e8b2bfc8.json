@@ -1,0 +1,46 @@
+{
+  "uid" : "11b48578e8b2bfc8",
+  "name" : "should add the General LedgerId information for a new Discount",
+  "fullName" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification.should add the General LedgerId information for a new Discount",
+  "historyId" : "56d36876ba6eefafcc5659f66d6a3ca2",
+  "time" : {
+    "start" : 1642320201520,
+    "stop" : 1642320203481,
+    "duration" : 1961
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add the General LedgerId information for a new Discount"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11b48578e8b2bfc8.json",
+  "parameterValues" : [ ]
+}

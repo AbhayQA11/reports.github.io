@@ -1,0 +1,46 @@
+{
+  "uid" : "34d6103911076db5",
+  "name" : "should verify that the Admin Notes and Requests page has been reached",
+  "fullName" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard.should verify that the Admin Notes and Requests page has been reached",
+  "historyId" : "651cbf5f822d10a9e53142f615316b5b",
+  "time" : {
+    "start" : 1642320014731,
+    "stop" : 1642320018445,
+    "duration" : 3714
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Admin Notes and Requests page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34d6103911076db5.json",
+  "parameterValues" : [ ]
+}

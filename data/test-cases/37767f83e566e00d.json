@@ -1,0 +1,46 @@
+{
+  "uid" : "37767f83e566e00d",
+  "name" : "should verify Month Distribution per month, value taken from payment Plan Setting",
+  "fullName" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63.should verify Month Distribution per month, value taken from payment Plan Setting",
+  "historyId" : "31b554a4a10fbcf07829e0a428bfd0c8",
+  "time" : {
+    "start" : 1642323563650,
+    "stop" : 1642323565494,
+    "duration" : 1844
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify Month Distribution per month, value taken from payment Plan Setting"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37767f83e566e00d.json",
+  "parameterValues" : [ ]
+}

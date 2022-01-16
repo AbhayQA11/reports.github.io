@@ -1,0 +1,46 @@
+{
+  "uid" : "fbf934227c3ded00",
+  "name" : "should click on first student",
+  "fullName" : "lucaBillingTests: Add Fee and Discount to Family.should click on first student",
+  "historyId" : "79483f8b17f7436ca3bd3a663e447c66",
+  "time" : {
+    "start" : 1642319562776,
+    "stop" : 1642319563901,
+    "duration" : 1125
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on first student"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fbf934227c3ded00.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "ad0aef08e5f05576",
+  "name" : "should verify that the appropriate Bank -> Credit card confirmation message is received",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should verify that the appropriate Bank -> Credit card confirmation message is received",
+  "historyId" : "c97590da22ff97bde8f81fcad67ab5fb",
+  "time" : {
+    "start" : 1642319325876,
+    "stop" : 1642319328887,
+    "duration" : 3011
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate Bank -> Credit card confirmation message is received"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad0aef08e5f05576.json",
+  "parameterValues" : [ ]
+}

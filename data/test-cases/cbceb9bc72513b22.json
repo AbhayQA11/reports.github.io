@@ -1,0 +1,46 @@
+{
+  "uid" : "cbceb9bc72513b22",
+  "name" : "should verify that Fees and discount button is not displayed when there are not enough months remaining in plan",
+  "fullName" : "lucaBillingTests: Edit Billing module, Fee and discount month availability.should verify that Fees and discount button is not displayed when there are not enough months remaining in plan",
+  "historyId" : "d694574808f42de3906c90a79eaec8c2",
+  "time" : {
+    "start" : 1642319864694,
+    "stop" : 1642319870491,
+    "duration" : 5797
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Fees and discount button is not displayed when there are not enough months remaining in plan"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cbceb9bc72513b22.json",
+  "parameterValues" : [ ]
+}

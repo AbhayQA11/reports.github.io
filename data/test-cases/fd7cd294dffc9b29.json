@@ -1,0 +1,46 @@
+{
+  "uid" : "fd7cd294dffc9b29",
+  "name" : "should search for the school 11084 and the press the search button",
+  "fullName" : "Tuition Manager Authentification Module.should search for the school 11084 and the press the search button",
+  "historyId" : "ef63475dedbef872bdae5380b0e6f8c",
+  "time" : {
+    "start" : 1642324013900,
+    "stop" : 1642324020468,
+    "duration" : 6568
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should search for the school 11084 and the press the search button"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd7cd294dffc9b29.json",
+  "parameterValues" : [ ]
+}

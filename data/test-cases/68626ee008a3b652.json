@@ -1,0 +1,46 @@
+{
+  "uid" : "68626ee008a3b652",
+  "name" : "should purge the families created",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should purge the families created",
+  "historyId" : "df53e1ccc0006f46f4003c950b791df5",
+  "time" : {
+    "start" : 1642319611438,
+    "stop" : 1642319615115,
+    "duration" : 3677
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should purge the families created"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68626ee008a3b652.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "b4ddf19914f1b8c7",
+  "name" : "should verify that all columns are displayed in the grid",
+  "fullName" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases.should verify that all columns are displayed in the grid",
+  "historyId" : "2a47c512c768823fa4491d60ae3742f0",
+  "time" : {
+    "start" : 1642322427560,
+    "stop" : 1642322428319,
+    "duration" : 759
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that all columns are displayed in the grid"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bd61e06a2f9b9dc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318269302,
+        "stop" : 1642318269980,
+        "duration" : 678
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4ddf19914f1b8c7.json",
+  "parameterValues" : [ ]
+}

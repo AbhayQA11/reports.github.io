@@ -1,0 +1,46 @@
+{
+  "uid" : "fc81a10f2b1328d8",
+  "name" : "should press the Enter button in order to login properly",
+  "fullName" : "Tuition Manager Authentification Module.should press the Enter button in order to login properly",
+  "historyId" : "eb4e287002aafc0a8257e04e6c422acb",
+  "time" : {
+    "start" : 1642323999975,
+    "stop" : 1642324009819,
+    "duration" : 9844
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should press the Enter button in order to login properly"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc81a10f2b1328d8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "5d9e4569afa0a11f",
+  "name" : "should click on the login button",
+  "fullName" : "Tuition Manager Authentification Module.should click on the login button",
+  "historyId" : "6c869e6f4400607ede92108aefde6a32",
+  "time" : {
+    "start" : 1642323982360,
+    "stop" : 1642323984898,
+    "duration" : 2538
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the login button"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d9e4569afa0a11f.json",
+  "parameterValues" : [ ]
+}

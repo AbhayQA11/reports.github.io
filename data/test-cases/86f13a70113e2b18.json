@@ -1,0 +1,46 @@
+{
+  "uid" : "86f13a70113e2b18",
+  "name" : "should load luca page successfully",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should load luca page successfully",
+  "historyId" : "79bd433a4cf7606b3711898e5c08cd32",
+  "time" : {
+    "start" : 1642318180594,
+    "stop" : 1642318183352,
+    "duration" : 2758
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load luca page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86f13a70113e2b18.json",
+  "parameterValues" : [ ]
+}

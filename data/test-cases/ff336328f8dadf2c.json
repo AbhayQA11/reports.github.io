@@ -1,0 +1,46 @@
+{
+  "uid" : "ff336328f8dadf2c",
+  "name" : "should click on Student Accounts button",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should click on Student Accounts button",
+  "historyId" : "ba2a3480da2a7404f8f670e7505dab67",
+  "time" : {
+    "start" : 1642323079581,
+    "stop" : 1642323080911,
+    "duration" : 1330
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Student Accounts button"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff336328f8dadf2c.json",
+  "parameterValues" : [ ]
+}

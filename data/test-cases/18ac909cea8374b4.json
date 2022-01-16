@@ -1,0 +1,46 @@
+{
+  "uid" : "18ac909cea8374b4",
+  "name" : "should click on the login button",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should click on the login button",
+  "historyId" : "b67687e11bb265fb3e6611d8e51134cc",
+  "time" : {
+    "start" : 1642318239369,
+    "stop" : 1642318255113,
+    "duration" : 15744
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the login button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18ac909cea8374b4.json",
+  "parameterValues" : [ ]
+}

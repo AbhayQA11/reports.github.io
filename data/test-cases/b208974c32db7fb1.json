@@ -1,0 +1,46 @@
+{
+  "uid" : "b208974c32db7fb1",
+  "name" : "should reach view all families",
+  "fullName" : "lucaAddANoteTests: Verifying Error Validation.should reach view all families",
+  "historyId" : "6e9fa59b43992f0b4653def7623ae79e",
+  "time" : {
+    "start" : 1642322954752,
+    "stop" : 1642322957686,
+    "duration" : 2934
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach view all families"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b208974c32db7fb1.json",
+  "parameterValues" : [ ]
+}

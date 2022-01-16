@@ -1,0 +1,46 @@
+{
+  "uid" : "a3b9f884d2f9aa68",
+  "name" : "should click on Total number of Payments",
+  "fullName" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard.should click on Total number of Payments",
+  "historyId" : "36863b4fc5761f412dd422415d4e2e36",
+  "time" : {
+    "start" : 1642320039092,
+    "stop" : 1642320042486,
+    "duration" : 3394
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Total number of Payments"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3b9f884d2f9aa68.json",
+  "parameterValues" : [ ]
+}

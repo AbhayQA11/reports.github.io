@@ -1,0 +1,46 @@
+{
+  "uid" : "69bba692f3319902",
+  "name" : "should input email address of the payer",
+  "fullName" : "homepageTests: Enrollment with Credit Card and Debit Bank account option.should input email address of the payer",
+  "historyId" : "c5cd3583407c400412a78d93b154e6e4",
+  "time" : {
+    "start" : 1642317842466,
+    "stop" : 1642317843518,
+    "duration" : 1052
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input email address of the payer"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69bba692f3319902.json",
+  "parameterValues" : [ ]
+}

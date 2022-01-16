@@ -1,0 +1,46 @@
+{
+  "uid" : "b36af8ac6b8ba7b0",
+  "name" : "should input a value into the Total Fees to Pay in the first month",
+  "fullName" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification.should input a value into the Total Fees to Pay in the first month",
+  "historyId" : "12f674887e2e60bb1b97170872c8591a",
+  "time" : {
+    "start" : 1642319787717,
+    "stop" : 1642319788610,
+    "duration" : 893
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a value into the Total Fees to Pay in the first month"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b36af8ac6b8ba7b0.json",
+  "parameterValues" : [ ]
+}

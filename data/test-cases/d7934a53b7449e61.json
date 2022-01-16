@@ -1,0 +1,46 @@
+{
+  "uid" : "d7934a53b7449e61",
+  "name" : "should click on my Payment Hystory",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should click on my Payment Hystory",
+  "historyId" : "813ae6c50e0e9744c4c303d7a8d44eff",
+  "time" : {
+    "start" : 1642323910981,
+    "stop" : 1642323918213,
+    "duration" : 7232
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on my Payment Hystory"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7934a53b7449e61.json",
+  "parameterValues" : [ ]
+}

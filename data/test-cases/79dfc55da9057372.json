@@ -1,0 +1,46 @@
+{
+  "uid" : "79dfc55da9057372",
+  "name" : "should switch to default content from iframe",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Bank Account.should switch to default content from iframe",
+  "historyId" : "2a574aec8d1f79fa87fa71f6570042c9",
+  "time" : {
+    "start" : 1642318244786,
+    "stop" : 1642318245190,
+    "duration" : 404
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch to default content from iframe"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79dfc55da9057372.json",
+  "parameterValues" : [ ]
+}

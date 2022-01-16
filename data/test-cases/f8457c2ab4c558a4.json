@@ -1,0 +1,46 @@
+{
+  "uid" : "f8457c2ab4c558a4",
+  "name" : "should select a Family Based Fee, Parent Participation Fee",
+  "fullName" : "lucaBillingTests: Edit Billing module, multiple discount deletion.should select a Family Based Fee, Parent Participation Fee",
+  "historyId" : "3b17b7f66da718c8fd47c4b7a1842c10",
+  "time" : {
+    "start" : 1642319807500,
+    "stop" : 1642319808568,
+    "duration" : 1068
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a Family Based Fee, Parent Participation Fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8457c2ab4c558a4.json",
+  "parameterValues" : [ ]
+}

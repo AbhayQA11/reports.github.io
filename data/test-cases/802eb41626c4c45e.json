@@ -1,0 +1,54 @@
+{
+  "uid" : "802eb41626c4c45e",
+  "name" : "should verify the Account is properly displayed with the last 4 numbers displayed",
+  "fullName" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied.should verify the Account is properly displayed with the last 4 numbers displayed",
+  "historyId" : "b475bd2483e90fcb045fda502a90635f",
+  "time" : {
+    "start" : 1642324181494,
+    "stop" : 1642324187259,
+    "duration" : 5765
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testClass",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Account is properly displayed with the last 4 numbers displayed"
+  }, {
+    "name" : "package",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "23757219aaf13143",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642324072752,
+        "stop" : 1642324078614,
+        "duration" : 5862
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "802eb41626c4c45e.json",
+  "parameterValues" : [ ]
+}

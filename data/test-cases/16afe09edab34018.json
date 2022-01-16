@@ -1,0 +1,46 @@
+{
+  "uid" : "16afe09edab34018",
+  "name" : "should click on the grade dropdown and then select the check all option",
+  "fullName" : "lucaEnrollment: verify filters on Wait Listed Families page.should click on the grade dropdown and then select the check all option",
+  "historyId" : "664ebc8562aefc0762842f554ec855ec",
+  "time" : {
+    "start" : 1642319462679,
+    "stop" : 1642319465695,
+    "duration" : 3016
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the grade dropdown and then select the check all option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16afe09edab34018.json",
+  "parameterValues" : [ ]
+}

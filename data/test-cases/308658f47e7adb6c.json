@@ -1,0 +1,46 @@
+{
+  "uid" : "308658f47e7adb6c",
+  "name" : "should input new value into the PhoneNumber field",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Bank Account.should input new value into the PhoneNumber field",
+  "historyId" : "52f738a92bdcd1bab905f8aed23ad104",
+  "time" : {
+    "start" : 1642318198930,
+    "stop" : 1642318199789,
+    "duration" : 859
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new value into the PhoneNumber field"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "308658f47e7adb6c.json",
+  "parameterValues" : [ ]
+}

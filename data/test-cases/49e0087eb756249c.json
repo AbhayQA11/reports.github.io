@@ -1,0 +1,46 @@
+{
+  "uid" : "49e0087eb756249c",
+  "name" : "should logout from the Parent site",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should logout from the Parent site",
+  "historyId" : "5fcfda61029962c7e15bb0249678fa2e",
+  "time" : {
+    "start" : 1642323930930,
+    "stop" : 1642323933469,
+    "duration" : 2539
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should logout from the Parent site"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "49e0087eb756249c.json",
+  "parameterValues" : [ ]
+}

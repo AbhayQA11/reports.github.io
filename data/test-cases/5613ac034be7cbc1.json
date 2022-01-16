@@ -1,0 +1,46 @@
+{
+  "uid" : "5613ac034be7cbc1",
+  "name" : "should verify that existing Card account information shows the correct last 4 digits of bank account",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should verify that existing Card account information shows the correct last 4 digits of bank account",
+  "historyId" : "58fd9202e45a0c95a5997e0332cffa02",
+  "time" : {
+    "start" : 1642318562983,
+    "stop" : 1642318564168,
+    "duration" : 1185
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that existing Card account information shows the correct last 4 digits of bank account"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5613ac034be7cbc1.json",
+  "parameterValues" : [ ]
+}

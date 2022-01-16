@@ -1,0 +1,46 @@
+{
+  "uid" : "77526a90006b362b",
+  "name" : "should load luca page successfully",
+  "fullName" : "homepageTests: Enrollment with Credit Card entry.should load luca page successfully",
+  "historyId" : "b936a980d78a19ad62bf96fea40552f5",
+  "time" : {
+    "start" : 1642317895819,
+    "stop" : 1642317898613,
+    "duration" : 2794
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load luca page successfully"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "77526a90006b362b.json",
+  "parameterValues" : [ ]
+}

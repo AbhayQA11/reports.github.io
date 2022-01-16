@@ -1,0 +1,46 @@
+{
+  "uid" : "ddf63ce9a1ac6b95",
+  "name" : "should input the first name of the additional payer",
+  "fullName" : "homepageTests: Enrollment with Bank Account entry.should input the first name of the additional payer",
+  "historyId" : "e5856f8fc1e99536eb95bc26f6ab0028",
+  "time" : {
+    "start" : 1642317845725,
+    "stop" : 1642317846666,
+    "duration" : 941
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the first name of the additional payer"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ddf63ce9a1ac6b95.json",
+  "parameterValues" : [ ]
+}

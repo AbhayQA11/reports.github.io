@@ -1,0 +1,46 @@
+{
+  "uid" : "aa7c6afdc20dea34",
+  "name" : "should log out from luca",
+  "fullName" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios.should log out from luca",
+  "historyId" : "ed74a4b041be3e3b2df1534c747d09bd",
+  "time" : {
+    "start" : 1642321504802,
+    "stop" : 1642321508725,
+    "duration" : 3923
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, invalid or expired credit cards scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa7c6afdc20dea34.json",
+  "parameterValues" : [ ]
+}

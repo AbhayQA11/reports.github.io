@@ -1,0 +1,44 @@
+{
+  "uid" : "6be987cc15ceba75",
+  "name" : "should verify that only families which start with the letter C are displayed",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should verify that only families which start with the letter C are displayed",
+  "historyId" : "1a6ee4f827ef9d1869dfaa58cd92b5a9",
+  "time" : {
+    "start" : 1642318308867,
+    "stop" : 1642318310678,
+    "duration" : 1811
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that only families which start with the letter C are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6be987cc15ceba75.json",
+  "parameterValues" : [ ]
+}

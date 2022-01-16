@@ -1,0 +1,46 @@
+{
+  "uid" : "36d152d770f72d8",
+  "name" : "should input correct password",
+  "fullName" : "lucaEnrollment: verify filters on Deleted Families.should input correct password",
+  "historyId" : "b6c0422dd56fbb5c6fe73555a3672652",
+  "time" : {
+    "start" : 1642319403935,
+    "stop" : 1642319405046,
+    "duration" : 1111
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36d152d770f72d8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "23b8cca9eda36b3e",
+  "name" : "shlould input Home Phone and Mobile Phone values",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.shlould input Home Phone and Mobile Phone values",
+  "historyId" : "1149f75ded0a64b6125c98bbe1faa9c3",
+  "time" : {
+    "start" : 1642323424617,
+    "stop" : 1642323425686,
+    "duration" : 1069
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "shlould input Home Phone and Mobile Phone values"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23b8cca9eda36b3e.json",
+  "parameterValues" : [ ]
+}

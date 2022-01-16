@@ -1,0 +1,44 @@
+{
+  "uid" : "d701d84cbd0d4ca3",
+  "name" : "should click to select Colums to Display In Grid",
+  "fullName" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases.should click to select Colums to Display In Grid",
+  "historyId" : "b92e85f1b1bd393ed7999ebf9cd651a8",
+  "time" : {
+    "start" : 1642318261599,
+    "stop" : 1642318266516,
+    "duration" : 4917
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click to select Colums to Display In Grid"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families, Search Field Test Cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d701d84cbd0d4ca3.json",
+  "parameterValues" : [ ]
+}

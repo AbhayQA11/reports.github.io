@@ -1,0 +1,46 @@
+{
+  "uid" : "5df34af6f90aa39c",
+  "name" : "should click on the Late Fees button",
+  "fullName" : "lucaAddANoteTests: Create a note and attaching an attachment.should click on the Late Fees button",
+  "historyId" : "9fc006c59f6784d3cd82e2223187e511",
+  "time" : {
+    "start" : 1642322964465,
+    "stop" : 1642322966420,
+    "duration" : 1955
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Late Fees button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5df34af6f90aa39c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid" : "b00b22262e750c0c",
+  "name" : "should select remove fee again",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should select remove fee again",
+  "historyId" : "bbc10fa9f637f2ecfb470f804400cdd2",
+  "time" : {
+    "start" : 1642318564642,
+    "stop" : 1642318566290,
+    "duration" : 1648
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select remove fee again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b00b22262e750c0c.json",
+  "parameterValues" : [ ]
+}

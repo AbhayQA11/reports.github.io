@@ -1,0 +1,46 @@
+{
+  "uid" : "22f6a40b82563a0d",
+  "name" : "should input a valid Username into the Username field",
+  "fullName" : "Parent Site Payment Verification.should input a valid Username into the Username field",
+  "historyId" : "e40365351abcea7b51783561cddfa31c",
+  "time" : {
+    "start" : 1642323851334,
+    "stop" : 1642323853333,
+    "duration" : 1999
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a valid Username into the Username field"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22f6a40b82563a0d.json",
+  "parameterValues" : [ ]
+}

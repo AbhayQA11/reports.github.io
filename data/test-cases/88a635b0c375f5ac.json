@@ -1,0 +1,46 @@
+{
+  "uid" : "88a635b0c375f5ac",
+  "name" : "should load luca page successfully",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools.should load luca page successfully",
+  "historyId" : "409f194bf84ad8e4edea5bafd3ba3b0a",
+  "time" : {
+    "start" : 1642318044795,
+    "stop" : 1642318047255,
+    "duration" : 2460
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load luca page successfully"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88a635b0c375f5ac.json",
+  "parameterValues" : [ ]
+}

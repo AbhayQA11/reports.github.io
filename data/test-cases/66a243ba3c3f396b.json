@@ -1,0 +1,46 @@
+{
+  "uid" : "66a243ba3c3f396b",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "Main Landing Page, Verify Presence of Elements.should load Luca login Page successfully",
+  "historyId" : "7c5c554a8fb9f43a5c666870a7201b01",
+  "time" : {
+    "start" : 1642319824196,
+    "stop" : 1642319826990,
+    "duration" : 2794
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66a243ba3c3f396b.json",
+  "parameterValues" : [ ]
+}

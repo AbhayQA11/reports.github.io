@@ -1,0 +1,46 @@
+{
+  "uid" : "d75c39650756af1a",
+  "name" : "shlould input Home Phone and Mobile Phone values",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.shlould input Home Phone and Mobile Phone values",
+  "historyId" : "42ee0adbb0371c3716836010700dd144",
+  "time" : {
+    "start" : 1642317928937,
+    "stop" : 1642317929844,
+    "duration" : 907
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "shlould input Home Phone and Mobile Phone values"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d75c39650756af1a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "654da24c9f4c43c",
+  "name" : "should verify that the Families And Students Page has been reached, 5th time",
+  "fullName" : "Main Landing Page, Verify the accessibility of account page in Dashboard.should verify that the Families And Students Page has been reached, 5th time",
+  "historyId" : "ec5128531aa5742f68ecd351b38331c7",
+  "time" : {
+    "start" : 1642320026247,
+    "stop" : 1642320029963,
+    "duration" : 3716
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Families And Students Page has been reached, 5th time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "654da24c9f4c43c.json",
+  "parameterValues" : [ ]
+}

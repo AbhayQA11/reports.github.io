@@ -1,0 +1,46 @@
+{
+  "uid" : "7dbe53c756a84a40",
+  "name" : "should input the School Student Id",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should input the School Student Id",
+  "historyId" : "5ae27a433ad955e501c4eb68aa6aaf10",
+  "time" : {
+    "start" : 1642317929844,
+    "stop" : 1642317930571,
+    "duration" : 727
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the School Student Id"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7dbe53c756a84a40.json",
+  "parameterValues" : [ ]
+}

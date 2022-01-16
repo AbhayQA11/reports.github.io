@@ -1,0 +1,46 @@
+{
+  "uid" : "703075fc4d48daed",
+  "name" : "should add a new ammount",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should add a new ammount",
+  "historyId" : "54095bc24ca37bb1b7eb439b4c4956be",
+  "time" : {
+    "start" : 1642323304326,
+    "stop" : 1642323306192,
+    "duration" : 1866
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add a new ammount"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "703075fc4d48daed.json",
+  "parameterValues" : [ ]
+}

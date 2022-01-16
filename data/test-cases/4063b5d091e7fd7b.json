@@ -1,0 +1,46 @@
+{
+  "uid" : "4063b5d091e7fd7b",
+  "name" : "should add General Ledger Id for the discount",
+  "fullName" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages.should add General Ledger Id for the discount",
+  "historyId" : "290aeddef0b414a160f2f599df0bb0f5",
+  "time" : {
+    "start" : 1642320334578,
+    "stop" : 1642320336620,
+    "duration" : 2042
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add General Ledger Id for the discount"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4063b5d091e7fd7b.json",
+  "parameterValues" : [ ]
+}

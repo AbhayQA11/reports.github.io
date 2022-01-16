@@ -1,0 +1,46 @@
+{
+  "uid" : "e10b6494137a090",
+  "name" : "should modify user data in order to log in the user in EWS",
+  "fullName" : "Main Landing Page, Verify Search Functionality.should modify user data in order to log in the user in EWS",
+  "historyId" : "528df7a0dcbc118770295cd2e8830700",
+  "time" : {
+    "start" : 1642319862874,
+    "stop" : 1642319898593,
+    "duration" : 35719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to log in the user in EWS"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e10b6494137a090.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "b7a8ceed0fd14d7f",
+  "name" : "hould input a value in Bank Account",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.hould input a value in Bank Account",
+  "historyId" : "7df826f724b32b00278840db00da31d",
+  "time" : {
+    "start" : 1642317939346,
+    "stop" : 1642317940598,
+    "duration" : 1252
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "hould input a value in Bank Account"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7a8ceed0fd14d7f.json",
+  "parameterValues" : [ ]
+}

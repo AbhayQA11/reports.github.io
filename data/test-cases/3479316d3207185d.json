@@ -1,0 +1,46 @@
+{
+  "uid" : "3479316d3207185d",
+  "name" : "should click on the Fees and Discounts Menu item",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_006.should click on the Fees and Discounts Menu item",
+  "historyId" : "849d3e8f4813d141d3c7b6b939f7b67",
+  "time" : {
+    "start" : 1642323290338,
+    "stop" : 1642323292309,
+    "duration" : 1971
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Fees and Discounts Menu item"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3479316d3207185d.json",
+  "parameterValues" : [ ]
+}

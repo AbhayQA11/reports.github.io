@@ -1,0 +1,46 @@
+{
+  "uid" : "b6c99d8ea87496eb",
+  "name" : "should click on the Submit Payment & Complete Enrollment button",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools.should click on the Submit Payment & Complete Enrollment button",
+  "historyId" : "96578a08df291be80d3dd27abe8c3bf3",
+  "time" : {
+    "start" : 1642318039634,
+    "stop" : 1642318041241,
+    "duration" : 1607
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Submit Payment & Complete Enrollment button"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6c99d8ea87496eb.json",
+  "parameterValues" : [ ]
+}

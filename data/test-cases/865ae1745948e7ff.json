@@ -1,0 +1,46 @@
+{
+  "uid" : "865ae1745948e7ff",
+  "name" : "should verify that the latest note is now present in the Notes And requests",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should verify that the latest note is now present in the Notes And requests",
+  "historyId" : "cd3cb4034d9579df9d0da2c81f106a7a",
+  "time" : {
+    "start" : 1642323021879,
+    "stop" : 1642323043081,
+    "duration" : 21202
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the latest note is now present in the Notes And requests"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "865ae1745948e7ff.json",
+  "parameterValues" : [ ]
+}

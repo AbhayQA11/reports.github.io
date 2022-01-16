@@ -1,0 +1,46 @@
+{
+  "uid" : "12081c0ea02e2af5",
+  "name" : "should input a family with no Email",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student.should input a family with no Email",
+  "historyId" : "830c18eee400f4c15f0b2f38d3d434a4",
+  "time" : {
+    "start" : 1642318608535,
+    "stop" : 1642318613002,
+    "duration" : 4467
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a family with no Email"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12081c0ea02e2af5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "4dc8e744cf5b07a6",
+  "name" : "should mouse over Enrollment and click on Pending Families",
+  "fullName" : "lucaEnrollment: verify filters on Pending Families.should mouse over Enrollment and click on Pending Families",
+  "historyId" : "5f9341a9030261b511e3a9de6f64221d",
+  "time" : {
+    "start" : 1642319416663,
+    "stop" : 1642319418058,
+    "duration" : 1395
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Pending Families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Pending Families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouse over Enrollment and click on Pending Families"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Pending Families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4dc8e744cf5b07a6.json",
+  "parameterValues" : [ ]
+}

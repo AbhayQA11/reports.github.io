@@ -1,0 +1,46 @@
+{
+  "uid" : "2a12cbc7d3eab044",
+  "name" : "should verify that the appropriate message is received fourth time",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Discount.should verify that the appropriate message is received fourth time",
+  "historyId" : "29f7b926cc443fc88a62935f3e0a5f17",
+  "time" : {
+    "start" : 1642319805269,
+    "stop" : 1642319807835,
+    "duration" : 2566
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received fourth time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a12cbc7d3eab044.json",
+  "parameterValues" : [ ]
+}

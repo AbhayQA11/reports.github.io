@@ -1,0 +1,46 @@
+{
+  "uid" : "deb0686512774781",
+  "name" : "should get and store the Total amount Due in order to check agains Billing later",
+  "fullName" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification.should get and store the Total amount Due in order to check agains Billing later",
+  "historyId" : "b9984a3b1a0c9c37d7467bf40c64ba30",
+  "time" : {
+    "start" : 1642319788610,
+    "stop" : 1642319789210,
+    "duration" : 600
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the Total amount Due in order to check agains Billing later"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "deb0686512774781.json",
+  "parameterValues" : [ ]
+}

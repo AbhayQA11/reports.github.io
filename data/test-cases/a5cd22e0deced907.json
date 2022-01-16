@@ -1,0 +1,46 @@
+{
+  "uid" : "a5cd22e0deced907",
+  "name" : "should input invalid values into the fields",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should input invalid values into the fields",
+  "historyId" : "3fa31b03f0722ee561286be25cce2320",
+  "time" : {
+    "start" : 1642320110677,
+    "stop" : 1642320112835,
+    "duration" : 2158
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input invalid values into the fields"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5cd22e0deced907.json",
+  "parameterValues" : [ ]
+}

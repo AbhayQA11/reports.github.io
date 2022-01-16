@@ -1,0 +1,46 @@
+{
+  "uid" : "c711c322e3ac6e98",
+  "name" : "should verify that the Save Button is disabled when no field is filled",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should verify that the Save Button is disabled when no field is filled",
+  "historyId" : "50d884f9967e0f32396f6c67673270af",
+  "time" : {
+    "start" : 1642320145508,
+    "stop" : 1642320146796,
+    "duration" : 1288
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Save Button is disabled when no field is filled"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c711c322e3ac6e98.json",
+  "parameterValues" : [ ]
+}

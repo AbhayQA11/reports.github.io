@@ -1,0 +1,46 @@
+{
+  "uid" : "134a68039474068d",
+  "name" : "should select All Months",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should select All Months",
+  "historyId" : "ca5d6ae457434fbf7eac8a13704ebc74",
+  "time" : {
+    "start" : 1642320168672,
+    "stop" : 1642320169235,
+    "duration" : 563
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select All Months"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "134a68039474068d.json",
+  "parameterValues" : [ ]
+}

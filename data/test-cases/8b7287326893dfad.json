@@ -1,0 +1,46 @@
+{
+  "uid" : "8b7287326893dfad",
+  "name" : "should create a family Via Api",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account.should create a family Via Api",
+  "historyId" : "22054d42610563e3333c1737562a0f75",
+  "time" : {
+    "start" : 1642321074634,
+    "stop" : 1642321077764,
+    "duration" : 3130
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family Via Api"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b7287326893dfad.json",
+  "parameterValues" : [ ]
+}

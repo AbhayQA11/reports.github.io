@@ -1,0 +1,46 @@
+{
+  "uid" : "74291b52e2b39abc",
+  "name" : "should click Perform Batch button second time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should click Perform Batch button second time",
+  "historyId" : "fc42d5c5f5090d8a2926c30d4e1c4548",
+  "time" : {
+    "start" : 1642318428425,
+    "stop" : 1642318429801,
+    "duration" : 1376
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click Perform Batch button second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74291b52e2b39abc.json",
+  "parameterValues" : [ ]
+}

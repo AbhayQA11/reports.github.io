@@ -1,0 +1,46 @@
+{
+  "uid" : "13ec011f7e246eee",
+  "name" : "should click to Select all Grades",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should click to Select all Grades",
+  "historyId" : "c2e6755864be58002780fc3cb0171c8e",
+  "time" : {
+    "start" : 1642320165432,
+    "stop" : 1642320167650,
+    "duration" : 2218
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click to Select all Grades"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "13ec011f7e246eee.json",
+  "parameterValues" : [ ]
+}

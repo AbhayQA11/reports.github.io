@@ -1,0 +1,46 @@
+{
+  "uid" : "a815b4486ca180db",
+  "name" : "should click on Add New Fee Button in order for the pop-up to appear",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_006.should click on Add New Fee Button in order for the pop-up to appear",
+  "historyId" : "66f4638c0cb01e794bda7188a24b2cef",
+  "time" : {
+    "start" : 1642323294854,
+    "stop" : 1642323299996,
+    "duration" : 5142
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Add New Fee Button in order for the pop-up to appear"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a815b4486ca180db.json",
+  "parameterValues" : [ ]
+}

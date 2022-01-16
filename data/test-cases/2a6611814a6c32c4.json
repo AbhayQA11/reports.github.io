@@ -1,0 +1,46 @@
+{
+  "uid" : "2a6611814a6c32c4",
+  "name" : "should click on the latest created note on the Notes and Requests section",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should click on the latest created note on the Notes and Requests section",
+  "historyId" : "edfea1f1eb7c8963b6039f58cdc9bf54",
+  "time" : {
+    "start" : 1642322994647,
+    "stop" : 1642322997801,
+    "duration" : 3154
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the latest created note on the Notes and Requests section"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a6611814a6c32c4.json",
+  "parameterValues" : [ ]
+}

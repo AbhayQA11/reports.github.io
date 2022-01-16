@@ -1,0 +1,46 @@
+{
+  "uid" : "61710257f9c829d7",
+  "name" : "should input password",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan .should input password",
+  "historyId" : "2263b1cbeebe754dfd206f6902f68c53",
+  "time" : {
+    "start" : 1642323690817,
+    "stop" : 1642323692018,
+    "duration" : 1201
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testMethod",
+    "value" : "should input password"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61710257f9c829d7.json",
+  "parameterValues" : [ ]
+}

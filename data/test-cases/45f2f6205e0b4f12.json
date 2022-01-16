@@ -1,0 +1,46 @@
+{
+  "uid" : "45f2f6205e0b4f12",
+  "name" : "should log out from luca",
+  "fullName" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029.should log out from luca",
+  "historyId" : "53dd2c5ee6813507008ee39b51780c57",
+  "time" : {
+    "start" : 1642323255694,
+    "stop" : 1642323258452,
+    "duration" : 2758
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests API_001 & API_022 & API_028 & API_029"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45f2f6205e0b4f12.json",
+  "parameterValues" : [ ]
+}

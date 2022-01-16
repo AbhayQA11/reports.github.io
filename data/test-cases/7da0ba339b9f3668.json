@@ -1,0 +1,46 @@
+{
+  "uid" : "7da0ba339b9f3668",
+  "name" : "should load Luca login Page successfully and create a family with Bank Account to use later",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should load Luca login Page successfully and create a family with Bank Account to use later",
+  "historyId" : "799d0e3a1284f6e523ca0ae5b4622b9",
+  "time" : {
+    "start" : 1642323820188,
+    "stop" : 1642323824579,
+    "duration" : 4391
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully and create a family with Bank Account to use later"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7da0ba339b9f3668.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "e6b177169e950460",
+  "name" : "should verify that the Account Type is Credit",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should verify that the Account Type is Credit",
+  "historyId" : "9f5e1e617fa9981f364aff45d9c612",
+  "time" : {
+    "start" : 1642319375894,
+    "stop" : 1642319376993,
+    "duration" : 1099
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Account Type is Credit"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6b177169e950460.json",
+  "parameterValues" : [ ]
+}

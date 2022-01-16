@@ -1,0 +1,46 @@
+{
+  "uid" : "ed55ff6cf11a8ae5",
+  "name" : "should verify the Give Now Receipt Message is 300",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings.should verify the Give Now Receipt Message is 300",
+  "historyId" : "a3bfa45f697f96e4c0b24d391f8db11b",
+  "time" : {
+    "start" : 1642320853895,
+    "stop" : 1642320855446,
+    "duration" : 1551
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Give Now Receipt Message is 300"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed55ff6cf11a8ae5.json",
+  "parameterValues" : [ ]
+}

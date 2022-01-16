@@ -1,0 +1,46 @@
+{
+  "uid" : "9a955608a579d0d",
+  "name" : "should click on the Manage Late Fees and Bank Fees Pictogram",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee.should click on the Manage Late Fees and Bank Fees Pictogram",
+  "historyId" : "2ad92687140c387086fdf37ec283f03e",
+  "time" : {
+    "start" : 1642323180652,
+    "stop" : 1642323182878,
+    "duration" : 2226
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Manage Late Fees and Bank Fees Pictogram"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a955608a579d0d.json",
+  "parameterValues" : [ ]
+}

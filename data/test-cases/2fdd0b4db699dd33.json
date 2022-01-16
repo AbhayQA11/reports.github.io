@@ -1,0 +1,46 @@
+{
+  "uid" : "2fdd0b4db699dd33",
+  "name" : "should deselect grade 12",
+  "fullName" : "Luca Settings: OW API_008 tests.should deselect grade 12",
+  "historyId" : "551b9c22971510d42277e57bbaad5d77",
+  "time" : {
+    "start" : 1642323359741,
+    "stop" : 1642323362790,
+    "duration" : 3049
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should deselect grade 12"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2fdd0b4db699dd33.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "99c2feb35d38ebb3",
+  "name" : "should mouseover Fees and discounts, then select Manage Fees and discounts",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access.should mouseover Fees and discounts, then select Manage Fees and discounts",
+  "historyId" : "c99533a6b2bc80b73011539a51aa788a",
+  "time" : {
+    "start" : 1642320634970,
+    "stop" : 1642320637691,
+    "duration" : 2721
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Fees and discounts, then select Manage Fees and discounts"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99c2feb35d38ebb3.json",
+  "parameterValues" : [ ]
+}

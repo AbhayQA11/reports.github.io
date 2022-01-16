@@ -1,0 +1,46 @@
+{
+  "uid" : "5c660dbff4961398",
+  "name" : "should click on the Text Size button, 1st time",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click on the Text Size button, 1st time",
+  "historyId" : "c32c8ef2e1d8b041878beb18b278b3e",
+  "time" : {
+    "start" : 1642319853893,
+    "stop" : 1642319855220,
+    "duration" : 1327
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Text Size button, 1st time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c660dbff4961398.json",
+  "parameterValues" : [ ]
+}

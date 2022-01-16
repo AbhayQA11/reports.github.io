@@ -1,0 +1,46 @@
+{
+  "uid" : "27d5402b8f3ae8f",
+  "name" : "should click on the Due Day dropdown and then select check all options",
+  "fullName" : "lucaEnrollment: verify filters on Deleted Families.should click on the Due Day dropdown and then select check all options",
+  "historyId" : "63847195956632fcb7811e0560db72f0",
+  "time" : {
+    "start" : 1642319432820,
+    "stop" : 1642319435236,
+    "duration" : 2416
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Due Day dropdown and then select check all options"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "27d5402b8f3ae8f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "626469c7a5d6edfb",
+  "name" : "should verify that the Account Info displays Encrypted info",
+  "fullName" : "Call Center Payment Encryption Tests, Credit card family.should verify that the Account Info displays Encrypted info",
+  "historyId" : "ec7938b4f2c9b26bdf645c24053eeb65",
+  "time" : {
+    "start" : 1642323996629,
+    "stop" : 1642323998286,
+    "duration" : 1657
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Account Info displays Encrypted info"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "626469c7a5d6edfb.json",
+  "parameterValues" : [ ]
+}

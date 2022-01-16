@@ -1,0 +1,46 @@
+{
+  "uid" : "525ba60cf7b75562",
+  "name" : "should set the Basis Charter School",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools.should set the Basis Charter School",
+  "historyId" : "f85d491e92209bcce5b5d1e6ec8784c4",
+  "time" : {
+    "start" : 1642318025179,
+    "stop" : 1642318026054,
+    "duration" : 875
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should set the Basis Charter School"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "525ba60cf7b75562.json",
+  "parameterValues" : [ ]
+}

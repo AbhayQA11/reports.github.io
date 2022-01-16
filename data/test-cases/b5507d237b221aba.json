@@ -1,0 +1,46 @@
+{
+  "uid" : "b5507d237b221aba",
+  "name" : "should verify fileds have reverted to previous values, 2nd time",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should verify fileds have reverted to previous values, 2nd time",
+  "historyId" : "eb820bf2e76477dec8630414ee97484d",
+  "time" : {
+    "start" : 1642320108585,
+    "stop" : 1642320110677,
+    "duration" : 2092
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify fileds have reverted to previous values, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5507d237b221aba.json",
+  "parameterValues" : [ ]
+}

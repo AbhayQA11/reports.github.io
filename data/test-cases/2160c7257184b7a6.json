@@ -1,0 +1,46 @@
+{
+  "uid" : "2160c7257184b7a6",
+  "name" : "should fill in the Email required form in the Add New family Page",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should fill in the Email required form in the Add New family Page",
+  "historyId" : "e68e3067b02dd679d550316a4d616e7",
+  "time" : {
+    "start" : 1642319261242,
+    "stop" : 1642319261973,
+    "duration" : 731
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Email required form in the Add New family Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2160c7257184b7a6.json",
+  "parameterValues" : [ ]
+}

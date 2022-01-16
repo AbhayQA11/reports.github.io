@@ -1,0 +1,46 @@
+{
+  "uid" : "e31c040748c4d05d",
+  "name" : "should add Fee Amount",
+  "fullName" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages.should add Fee Amount",
+  "historyId" : "2b640191f2293fcf37f62676a55e407f",
+  "time" : {
+    "start" : 1642320303593,
+    "stop" : 1642320305712,
+    "duration" : 2119
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add Fee Amount"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e31c040748c4d05d.json",
+  "parameterValues" : [ ]
+}

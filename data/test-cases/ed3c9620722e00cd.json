@@ -1,0 +1,46 @@
+{
+  "uid" : "ed3c9620722e00cd",
+  "name" : "should verify that the newly added monthly fee is visible in the Total section",
+  "fullName" : "lucaBillingTests: Edit Billing module, Total Column Verification.should verify that the newly added monthly fee is visible in the Total section",
+  "historyId" : "ad7229a3e143c8a3e125ff939db5132c",
+  "time" : {
+    "start" : 1642319780934,
+    "stop" : 1642319781747,
+    "duration" : 813
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the newly added monthly fee is visible in the Total section"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed3c9620722e00cd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "e522df1472fded25",
+  "name" : "should a family with bank account",
+  "fullName" : "lucaBillingTests: Encryption verification, Verify Accounts Number, AccountType, Card Type, Get Family Snapshot, confirmation ID.should a family with bank account",
+  "historyId" : "23ce085087094f7223fdf242c147e7c5",
+  "time" : {
+    "start" : 1642319855627,
+    "stop" : 1642319858664,
+    "duration" : 3037
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Encryption verification, Verify Accounts Number, AccountType, Card Type, Get Family Snapshot, confirmation ID"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Encryption verification, Verify Accounts Number, AccountType, Card Type, Get Family Snapshot, confirmation ID"
+  }, {
+    "name" : "testMethod",
+    "value" : "should a family with bank account"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Encryption verification, Verify Accounts Number, AccountType, Card Type, Get Family Snapshot, confirmation ID"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e522df1472fded25.json",
+  "parameterValues" : [ ]
+}

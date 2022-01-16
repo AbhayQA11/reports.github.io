@@ -1,0 +1,46 @@
+{
+  "uid" : "38517c719fc009a",
+  "name" : "should click on login button",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click on login button",
+  "historyId" : "ba84e79533e74c7c600c362f46c1158a",
+  "time" : {
+    "start" : 1642319840998,
+    "stop" : 1642319846998,
+    "duration" : 6000
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on login button"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38517c719fc009a.json",
+  "parameterValues" : [ ]
+}

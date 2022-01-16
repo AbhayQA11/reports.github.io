@@ -1,0 +1,46 @@
+{
+  "uid" : "dbef0806229f9972",
+  "name" : "should click on the Knowledge Base",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click on the Knowledge Base",
+  "historyId" : "6ea3c2d2fe7b2bb737bd7cb725d60588",
+  "time" : {
+    "start" : 1642319866213,
+    "stop" : 1642319867367,
+    "duration" : 1154
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Knowledge Base"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbef0806229f9972.json",
+  "parameterValues" : [ ]
+}

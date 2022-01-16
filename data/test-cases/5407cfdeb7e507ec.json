@@ -1,0 +1,46 @@
+{
+  "uid" : "5407cfdeb7e507ec",
+  "name" : "should verify the user receive the Invalid Username/Password Error, 2nd time",
+  "fullName" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site.should verify the user receive the Invalid Username/Password Error, 2nd time",
+  "historyId" : "8108ada7f0551bc96ebbcc3d211a2fa4",
+  "time" : {
+    "start" : 1642323859273,
+    "stop" : 1642323860847,
+    "duration" : 1574
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the user receive the Invalid Username/Password Error, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Authentification, Changing the Password in Luca veryfing Login into Parent Site"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5407cfdeb7e507ec.json",
+  "parameterValues" : [ ]
+}

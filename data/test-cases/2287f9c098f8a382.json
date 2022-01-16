@@ -1,0 +1,46 @@
+{
+  "uid" : "2287f9c098f8a382",
+  "name" : "should select a discount which does Not apply to Any of the students, Early Bird Discount",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Discount.should select a discount which does Not apply to Any of the students, Early Bird Discount",
+  "historyId" : "1f18c84ce766dc48e4038d4136d61209",
+  "time" : {
+    "start" : 1642319759984,
+    "stop" : 1642319762201,
+    "duration" : 2217
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a discount which does Not apply to Any of the students, Early Bird Discount"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2287f9c098f8a382.json",
+  "parameterValues" : [ ]
+}

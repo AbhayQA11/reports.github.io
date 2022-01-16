@@ -1,0 +1,46 @@
+{
+  "uid" : "631acad85c13956e",
+  "name" : "should verify that the Subject field is disabled",
+  "fullName" : "lucaAddANoteTests: Verifying Read Only Test User.should verify that the Subject field is disabled",
+  "historyId" : "d99ecaf8b7a21fb2b70532b22946c379",
+  "time" : {
+    "start" : 1642322958092,
+    "stop" : 1642322959265,
+    "duration" : 1173
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Subject field is disabled"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "631acad85c13956e.json",
+  "parameterValues" : [ ]
+}

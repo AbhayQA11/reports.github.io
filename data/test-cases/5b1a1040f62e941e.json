@@ -1,0 +1,46 @@
+{
+  "uid" : "5b1a1040f62e941e",
+  "name" : "should click on Add New Fee Button in order for the pop-up to appear",
+  "fullName" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee.should click on Add New Fee Button in order for the pop-up to appear",
+  "historyId" : "9cfd73e845aee4de3925f6452a2f5c4c",
+  "time" : {
+    "start" : 1642320738085,
+    "stop" : 1642320743334,
+    "duration" : 5249
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Add New Fee Button in order for the pop-up to appear"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add, Update and Remove a Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b1a1040f62e941e.json",
+  "parameterValues" : [ ]
+}

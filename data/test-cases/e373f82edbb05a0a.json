@@ -1,0 +1,46 @@
+{
+  "uid" : "e373f82edbb05a0a",
+  "name" : "should verify that the appropriate message is received third time",
+  "fullName" : "lucaBillingTests: Add Fee and Discount to Family.should verify that the appropriate message is received third time",
+  "historyId" : "f0262f72a1c7b6f0be67ed8dec59e62e",
+  "time" : {
+    "start" : 1642319625055,
+    "stop" : 1642319627752,
+    "duration" : 2697
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e373f82edbb05a0a.json",
+  "parameterValues" : [ ]
+}

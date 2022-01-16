@@ -1,0 +1,46 @@
+{
+  "uid" : "feb472cb3c4a75a8",
+  "name" : "should click on the payment plan dropdown and then select the check all option",
+  "fullName" : "lucaEnrollment: verify filters on Wait Listed Families page.should click on the payment plan dropdown and then select the check all option",
+  "historyId" : "86db35f7f8b89862cf3877d78050587c",
+  "time" : {
+    "start" : 1642319469794,
+    "stop" : 1642319471840,
+    "duration" : 2046
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the payment plan dropdown and then select the check all option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "feb472cb3c4a75a8.json",
+  "parameterValues" : [ ]
+}

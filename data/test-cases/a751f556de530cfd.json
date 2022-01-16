@@ -1,0 +1,46 @@
+{
+  "uid" : "a751f556de530cfd",
+  "name" : "should fill in the Home And Mobile Phone in order to create a family with Bank account Option",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account.should fill in the Home And Mobile Phone in order to create a family with Bank account Option",
+  "historyId" : "ed519a9c1204d6662ccb19bf35fcd889",
+  "time" : {
+    "start" : 1642319343755,
+    "stop" : 1642319344598,
+    "duration" : 843
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Home And Mobile Phone in order to create a family with Bank account Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a751f556de530cfd.json",
+  "parameterValues" : [ ]
+}

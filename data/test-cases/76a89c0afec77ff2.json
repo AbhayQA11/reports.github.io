@@ -1,0 +1,46 @@
+{
+  "uid" : "76a89c0afec77ff2",
+  "name" : "should fill in the Aditional Party Names in order to create a family with Bank account Option",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account.should fill in the Aditional Party Names in order to create a family with Bank account Option",
+  "historyId" : "7d2e19ac21f5d4ac1fd789de18ae0282",
+  "time" : {
+    "start" : 1642319345164,
+    "stop" : 1642319345986,
+    "duration" : 822
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the Aditional Party Names in order to create a family with Bank account Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with Auto Debit Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76a89c0afec77ff2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "cdd398ae4eb8240d",
+  "name" : "should Get and Store the Describe Situation field in order to check against it later",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should Get and Store the Describe Situation field in order to check against it later",
+  "historyId" : "968b6ff6a64e1c2cb80f71cb679a7082",
+  "time" : {
+    "start" : 1642323012194,
+    "stop" : 1642323012768,
+    "duration" : 574
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Get and Store the Describe Situation field in order to check against it later"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdd398ae4eb8240d.json",
+  "parameterValues" : [ ]
+}

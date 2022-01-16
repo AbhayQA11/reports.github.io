@@ -1,0 +1,48 @@
+{
+  "uid" : "f6bcf81317f28aaf",
+  "name" : "should verify that the Confirm button is disabled fourth time",
+  "fullName" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification.should verify that the Confirm button is disabled fourth time",
+  "historyId" : "e724e28a83e547e7779101bce137b31f",
+  "time" : {
+    "start" : 1642323461400,
+    "stop" : 1642323461400,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Confirm button is disabled fourth time"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6bcf81317f28aaf.json",
+  "parameterValues" : [ ]
+}

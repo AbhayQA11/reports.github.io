@@ -1,0 +1,46 @@
+{
+  "uid" : "11194c3010c2f527",
+  "name" : "should get and store the family id for later comparison",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should get and store the family id for later comparison",
+  "historyId" : "c66d1e896e6bbabc9d21f1b934e271f0",
+  "time" : {
+    "start" : 1642317946386,
+    "stop" : 1642317947973,
+    "duration" : 1587
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the family id for later comparison"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11194c3010c2f527.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c57aaa2084f0546c",
+  "name" : "should click on the Fees and Discounts Menu item",
+  "fullName" : "Luca Settings: Manage Payment Plans tests API_014.should click on the Fees and Discounts Menu item",
+  "historyId" : "a4da852a54d5aad0104c75476c63f1ca",
+  "time" : {
+    "start" : 1642323369726,
+    "stop" : 1642323371749,
+    "duration" : 2023
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Fees and Discounts Menu item"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c57aaa2084f0546c.json",
+  "parameterValues" : [ ]
+}

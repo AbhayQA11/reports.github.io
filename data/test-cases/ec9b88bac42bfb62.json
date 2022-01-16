@@ -1,0 +1,46 @@
+{
+  "uid" : "ec9b88bac42bfb62",
+  "name" : "should create a family Via Api",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info.should create a family Via Api",
+  "historyId" : "5e71350298ced82f961de36b8c76a4fb",
+  "time" : {
+    "start" : 1642318577300,
+    "stop" : 1642318581262,
+    "duration" : 3962
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family Via Api"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec9b88bac42bfb62.json",
+  "parameterValues" : [ ]
+}

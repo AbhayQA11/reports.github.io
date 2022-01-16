@@ -1,0 +1,46 @@
+{
+  "uid" : "baf6212c3c6267d9",
+  "name" : "should verify Address Line 1",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should verify Address Line 1",
+  "historyId" : "8689a4bfda17a433b250d5db8c9cbf7b",
+  "time" : {
+    "start" : 1642323451347,
+    "stop" : 1642323452883,
+    "duration" : 1536
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify Address Line 1"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "baf6212c3c6267d9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,44 @@
+{
+  "uid" : "c020598b005836a4",
+  "name" : "should click on the Due Day dropdown and then select check all options",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should click on the Due Day dropdown and then select check all options",
+  "historyId" : "6a13c3d24d376f865f606d259d329223",
+  "time" : {
+    "start" : 1642318328283,
+    "stop" : 1642318330689,
+    "duration" : 2406
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Due Day dropdown and then select check all options"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c020598b005836a4.json",
+  "parameterValues" : [ ]
+}

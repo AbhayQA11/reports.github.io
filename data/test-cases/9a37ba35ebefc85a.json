@@ -1,0 +1,44 @@
+{
+  "uid" : "9a37ba35ebefc85a",
+  "name" : "should select Deactivated Families from the dropdown",
+  "fullName" : "lucaFamiliesModuleTests: View All Families Details Pagination Details.should select Deactivated Families from the dropdown",
+  "historyId" : "d79f593c16230666667831e2ec2a6f4a",
+  "time" : {
+    "start" : 1642318254690,
+    "stop" : 1642318260623,
+    "duration" : 5933
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select Deactivated Families from the dropdown"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a37ba35ebefc85a.json",
+  "parameterValues" : [ ]
+}

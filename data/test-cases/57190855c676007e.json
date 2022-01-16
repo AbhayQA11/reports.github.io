@@ -1,0 +1,46 @@
+{
+  "uid" : "57190855c676007e",
+  "name" : "should click on Fees Billed YTD",
+  "fullName" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard.should click on Fees Billed YTD",
+  "historyId" : "d87718c6638c533febcbd27a81e22890",
+  "time" : {
+    "start" : 1642320079749,
+    "stop" : 1642320081442,
+    "duration" : 1693
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Fees Billed YTD"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57190855c676007e.json",
+  "parameterValues" : [ ]
+}

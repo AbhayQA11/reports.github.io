@@ -1,0 +1,46 @@
+{
+  "uid" : "ad58eb19d8add1c4",
+  "name" : "should select a payment day",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should select a payment day",
+  "historyId" : "867737aa1e9c428279ff171e72aa04fa",
+  "time" : {
+    "start" : 1642317935928,
+    "stop" : 1642317938014,
+    "duration" : 2086
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a payment day"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad58eb19d8add1c4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "7d80d16030f2add8",
+  "name" : "should verify that only 20 items are displayed",
+  "fullName" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check.should verify that only 20 items are displayed",
+  "historyId" : "dedb84c4be858ff0f14c442fe82697ff",
+  "time" : {
+    "start" : 1642320207725,
+    "stop" : 1642320210265,
+    "duration" : 2540
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that only 20 items are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d80d16030f2add8.json",
+  "parameterValues" : [ ]
+}

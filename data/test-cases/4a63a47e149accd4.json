@@ -1,0 +1,46 @@
+{
+  "uid" : "4a63a47e149accd4",
+  "name" : "should input correct username",
+  "fullName" : "lucaFamiliesModuleTests: Email Parents page.should input correct username",
+  "historyId" : "6abdfc5c1a1ba1fe2e9db5f6c640952f",
+  "time" : {
+    "start" : 1642318595875,
+    "stop" : 1642318598176,
+    "duration" : 2301
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct username"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a63a47e149accd4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "e0d6da380b4e0dde",
+  "name" : "should click on the Withdrawn Student Dispute Button",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on the Withdrawn Student Dispute Button",
+  "historyId" : "7c0050b9dc21a062e70a2797e041826c",
+  "time" : {
+    "start" : 1642323007518,
+    "stop" : 1642323010234,
+    "duration" : 2716
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Withdrawn Student Dispute Button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0d6da380b4e0dde.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c2875623b940753d",
+  "name" : "should purge the families created",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info.should purge the families created",
+  "historyId" : "214d27dc39ef09cf7699b7fb9f5428e7",
+  "time" : {
+    "start" : 1642319684523,
+    "stop" : 1642319688453,
+    "duration" : 3930
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "testMethod",
+    "value" : "should purge the families created"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2875623b940753d.json",
+  "parameterValues" : [ ]
+}

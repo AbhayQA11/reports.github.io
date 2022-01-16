@@ -1,0 +1,46 @@
+{
+  "uid" : "bfde88e8321853b1",
+  "name" : "should click on the Update My Payments Amount button",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should click on the Update My Payments Amount button",
+  "historyId" : "c7d257127cacbe0ae62e3e9266f3aa4f",
+  "time" : {
+    "start" : 1642323926681,
+    "stop" : 1642323929267,
+    "duration" : 2586
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Update My Payments Amount button"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfde88e8321853b1.json",
+  "parameterValues" : [ ]
+}

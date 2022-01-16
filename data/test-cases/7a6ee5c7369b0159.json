@@ -1,0 +1,46 @@
+{
+  "uid" : "7a6ee5c7369b0159",
+  "name" : "should insert deactivation reason",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should insert deactivation reason",
+  "historyId" : "6e01c76b8a9e55cd78d879c36b2f78f8",
+  "time" : {
+    "start" : 1642323474378,
+    "stop" : 1642323475251,
+    "duration" : 873
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should insert deactivation reason"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a6ee5c7369b0159.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "a76aa5ab5d6dfe41",
+  "name" : "should change the page",
+  "fullName" : "lucaEnrollment: verify filters on Parent registration page.should change the page",
+  "historyId" : "bda7e500f5139fefceef723d1e8c881a",
+  "time" : {
+    "start" : 1642319479850,
+    "stop" : 1642319482402,
+    "duration" : 2552
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Parent registration page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Parent registration page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should change the page"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Parent registration page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a76aa5ab5d6dfe41.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "cf5a20e6e8efb7dc",
+  "name" : "should click Continue without Sending Email ",
+  "fullName" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied.should click Continue without Sending Email ",
+  "historyId" : "a0e74dbbd2d5ad80ea87db23cb84e9b2",
+  "time" : {
+    "start" : 1642324180435,
+    "stop" : 1642324181064,
+    "duration" : 629
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testClass",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click Continue without Sending Email "
+  }, {
+    "name" : "package",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2cbedec0fe7fdde7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642324071653,
+        "stop" : 1642324072358,
+        "duration" : 705
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf5a20e6e8efb7dc.json",
+  "parameterValues" : [ ]
+}

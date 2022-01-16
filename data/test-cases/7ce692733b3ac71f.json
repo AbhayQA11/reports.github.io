@@ -1,0 +1,46 @@
+{
+  "uid" : "7ce692733b3ac71f",
+  "name" : "should verify that the Manage Smart Family IDs page is reached",
+  "fullName" : "Main Landing Page, Verify that two families can be merged.should verify that the Manage Smart Family IDs page is reached",
+  "historyId" : "c1f287611aa2fdde2c1fb63e96a7374b",
+  "time" : {
+    "start" : 1642320165751,
+    "stop" : 1642320166989,
+    "duration" : 1238
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Manage Smart Family IDs page is reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify that two families can be merged"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ce692733b3ac71f.json",
+  "parameterValues" : [ ]
+}

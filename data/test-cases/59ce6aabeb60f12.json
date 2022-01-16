@@ -1,0 +1,46 @@
+{
+  "uid" : "59ce6aabeb60f12",
+  "name" : "should mouseover Fees & Discounts and then select Manage fees and Discounts ",
+  "fullName" : "Main Landing Page, Verify Families + Discounts Menu Accessibility.should mouseover Fees & Discounts and then select Manage fees and Discounts ",
+  "historyId" : "5fb6640e55959256cd59c7ac8f9b2e77",
+  "time" : {
+    "start" : 1642319916378,
+    "stop" : 1642319919416,
+    "duration" : 3038
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Fees & Discounts and then select Manage fees and Discounts "
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59ce6aabeb60f12.json",
+  "parameterValues" : [ ]
+}

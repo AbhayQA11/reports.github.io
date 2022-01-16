@@ -1,0 +1,46 @@
+{
+  "uid" : "939255ed01fd3c5d",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should load Luca login Page successfully",
+  "historyId" : "3f484545e25f15464a2e91d9d06d4439",
+  "time" : {
+    "start" : 1642323261464,
+    "stop" : 1642323264368,
+    "duration" : 2904
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "939255ed01fd3c5d.json",
+  "parameterValues" : [ ]
+}

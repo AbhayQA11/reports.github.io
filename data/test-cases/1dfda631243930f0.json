@@ -1,0 +1,46 @@
+{
+  "uid" : "1dfda631243930f0",
+  "name" : "should click on fee drop-down",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should click on fee drop-down",
+  "historyId" : "89d706c534b6dfab28c5332c4a65287e",
+  "time" : {
+    "start" : 1642319590777,
+    "stop" : 1642319592107,
+    "duration" : 1330
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on fee drop-down"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1dfda631243930f0.json",
+  "parameterValues" : [ ]
+}

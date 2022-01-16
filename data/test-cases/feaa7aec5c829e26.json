@@ -1,0 +1,46 @@
+{
+  "uid" : "feaa7aec5c829e26",
+  "name" : "should wait for the update family and studnet page to load",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Discount.should wait for the update family and studnet page to load",
+  "historyId" : "2bbaa9681651cea1d7a69ee125291ecb",
+  "time" : {
+    "start" : 1642319686019,
+    "stop" : 1642319693192,
+    "duration" : 7173
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for the update family and studnet page to load"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "feaa7aec5c829e26.json",
+  "parameterValues" : [ ]
+}

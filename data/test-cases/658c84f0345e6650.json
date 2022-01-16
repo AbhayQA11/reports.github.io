@@ -1,0 +1,46 @@
+{
+  "uid" : "658c84f0345e6650",
+  "name" : "should update first and last name in luca UI",
+  "fullName" : "Luca Settings: OW Api - edit family details, API_026.should update first and last name in luca UI",
+  "historyId" : "a68c81dfeec4ab9c28043a29a91fecc3",
+  "time" : {
+    "start" : 1642323455807,
+    "stop" : 1642323462518,
+    "duration" : 6711
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testMethod",
+    "value" : "should update first and last name in luca UI"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "658c84f0345e6650.json",
+  "parameterValues" : [ ]
+}

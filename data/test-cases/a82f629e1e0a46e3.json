@@ -1,0 +1,46 @@
+{
+  "uid" : "a82f629e1e0a46e3",
+  "name" : "should select the latest school year",
+  "fullName" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard.should select the latest school year",
+  "historyId" : "b3eaae940609e92d67a3be7ca71a596c",
+  "time" : {
+    "start" : 1642320013524,
+    "stop" : 1642320017380,
+    "duration" : 3856
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a82f629e1e0a46e3.json",
+  "parameterValues" : [ ]
+}

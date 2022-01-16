@@ -1,0 +1,46 @@
+{
+  "uid" : "efd40c8ecb757416",
+  "name" : "should verify that the Families and Students page has been reached",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan .should verify that the Families and Students page has been reached",
+  "historyId" : "429cb4a9d3c10edfd7f2fe0b788d246a",
+  "time" : {
+    "start" : 1642323708137,
+    "stop" : 1642323712173,
+    "duration" : 4036
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Families and Students page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "efd40c8ecb757416.json",
+  "parameterValues" : [ ]
+}

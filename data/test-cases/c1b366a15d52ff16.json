@@ -1,0 +1,46 @@
+{
+  "uid" : "c1b366a15d52ff16",
+  "name" : "should log out from luca",
+  "fullName" : "lucaAddANoteTests: Verifying Error Validation.should log out from luca",
+  "historyId" : "fde244a284729b728ccbacc8ab8e0ccb",
+  "time" : {
+    "start" : 1642322991312,
+    "stop" : 1642322994119,
+    "duration" : 2807
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1b366a15d52ff16.json",
+  "parameterValues" : [ ]
+}

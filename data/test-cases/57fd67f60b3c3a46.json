@@ -1,0 +1,46 @@
+{
+  "uid" : "57fd67f60b3c3a46",
+  "name" : "should click login button",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should click login button",
+  "historyId" : "f468f4c234ed5a3836d491d896b997d7",
+  "time" : {
+    "start" : 1642320125317,
+    "stop" : 1642320131860,
+    "duration" : 6543
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click login button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57fd67f60b3c3a46.json",
+  "parameterValues" : [ ]
+}

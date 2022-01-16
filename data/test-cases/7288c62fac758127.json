@@ -1,0 +1,46 @@
+{
+  "uid" : "7288c62fac758127",
+  "name" : "should create a family via Onboard API Using only mandatory fields API_044",
+  "fullName" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046.should create a family via Onboard API Using only mandatory fields API_044",
+  "historyId" : "30d25683737e7684fbae1da18a3a2c6",
+  "time" : {
+    "start" : 1642323394354,
+    "stop" : 1642323401310,
+    "duration" : 6956
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family via Onboard API Using only mandatory fields API_044"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7288c62fac758127.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "45ae23acef376443",
+  "name" : "should modify the latest Discount Amount directly on the Table, again",
+  "fullName" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification.should modify the latest Discount Amount directly on the Table, again",
+  "historyId" : "3c16eb1f9d3c96aa53bfa3a69972898b",
+  "time" : {
+    "start" : 1642320229513,
+    "stop" : 1642320230876,
+    "duration" : 1363
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify the latest Discount Amount directly on the Table, again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Edit Discount in Table Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45ae23acef376443.json",
+  "parameterValues" : [ ]
+}

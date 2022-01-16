@@ -1,0 +1,46 @@
+{
+  "uid" : "b56f385279a08639",
+  "name" : "should set luca username",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools.should set luca username",
+  "historyId" : "5ff7f10b19f682cb1606524de8b24d5c",
+  "time" : {
+    "start" : 1642317981737,
+    "stop" : 1642317984045,
+    "duration" : 2308
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should set luca username"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b56f385279a08639.json",
+  "parameterValues" : [ ]
+}

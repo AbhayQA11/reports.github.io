@@ -1,0 +1,46 @@
+{
+  "uid" : "e70c073dd585ee48",
+  "name" : "should click successfully on create new account",
+  "fullName" : "homepageTests: Enrollment, Create New Account, Message Validation.should click successfully on create new account",
+  "historyId" : "88c7924b901aa1fb0aad5bf552c46c9f",
+  "time" : {
+    "start" : 1642317819175,
+    "stop" : 1642317825293,
+    "duration" : 6118
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click successfully on create new account"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e70c073dd585ee48.json",
+  "parameterValues" : [ ]
+}

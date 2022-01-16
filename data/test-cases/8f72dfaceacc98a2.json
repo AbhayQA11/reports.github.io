@@ -1,0 +1,46 @@
+{
+  "uid" : "8f72dfaceacc98a2",
+  "name" : "should log out from luca",
+  "fullName" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service.should log out from luca",
+  "historyId" : "46996732f965f7e4d514139992db8b41",
+  "time" : {
+    "start" : 1642323326052,
+    "stop" : 1642323328578,
+    "duration" : 2526
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f72dfaceacc98a2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "877ea45360a77bb4",
+  "name" : "should select a Amex Card type",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should select a Amex Card type",
+  "historyId" : "23af4510a7ca653d7830c9ffbfef96b9",
+  "time" : {
+    "start" : 1642318536078,
+    "stop" : 1642318537406,
+    "duration" : 1328
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a Amex Card type"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "877ea45360a77bb4.json",
+  "parameterValues" : [ ]
+}

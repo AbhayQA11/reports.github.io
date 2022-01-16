@@ -1,0 +1,46 @@
+{
+  "uid" : "14c44408efa54c8d",
+  "name" : "should press tab and check that the login button is focused on",
+  "fullName" : "lucaAuthentificationTests: User Authentification and Author, School Validation.should press tab and check that the login button is focused on",
+  "historyId" : "1e69663cd650d253b0fd110bdaee16fa",
+  "time" : {
+    "start" : 1642318220418,
+    "stop" : 1642318221281,
+    "duration" : 863
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should press tab and check that the login button is focused on"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14c44408efa54c8d.json",
+  "parameterValues" : [ ]
+}

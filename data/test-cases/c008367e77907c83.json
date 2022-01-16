@@ -1,0 +1,46 @@
+{
+  "uid" : "c008367e77907c83",
+  "name" : "should search a Family with auto Debit bank Account by Family Id",
+  "fullName" : "Call Center Payment Encryption Tests, Bank Account family.should search a Family with auto Debit bank Account by Family Id",
+  "historyId" : "90962c0df9108166c02b6fe68d93f44b",
+  "time" : {
+    "start" : 1642323940009,
+    "stop" : 1642323941657,
+    "duration" : 1648
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should search a Family with auto Debit bank Account by Family Id"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c008367e77907c83.json",
+  "parameterValues" : [ ]
+}

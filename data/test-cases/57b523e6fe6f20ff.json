@@ -1,0 +1,46 @@
+{
+  "uid" : "57b523e6fe6f20ff",
+  "name" : "should reach the PurgeAFamily Page in order to purge the created families",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests.should reach the PurgeAFamily Page in order to purge the created families",
+  "historyId" : "942df88db8e087ee3925e8a2f71e1234",
+  "time" : {
+    "start" : 1642323780364,
+    "stop" : 1642323786681,
+    "duration" : 6317
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach the PurgeAFamily Page in order to purge the created families"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57b523e6fe6f20ff.json",
+  "parameterValues" : [ ]
+}

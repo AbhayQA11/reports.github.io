@@ -1,0 +1,46 @@
+{
+  "uid" : "8f106b871a37c4be",
+  "name" : "should click on the NO Follow Up Reviequired button",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should click on the NO Follow Up Reviequired button",
+  "historyId" : "987e4519b706fc7a30ef839626171503",
+  "time" : {
+    "start" : 1642322955044,
+    "stop" : 1642322958532,
+    "duration" : 3488
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the NO Follow Up Reviequired button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f106b871a37c4be.json",
+  "parameterValues" : [ ]
+}

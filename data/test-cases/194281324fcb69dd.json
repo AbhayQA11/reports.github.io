@@ -1,0 +1,46 @@
+{
+  "uid" : "194281324fcb69dd",
+  "name" : "should input new value into the PhoneNumber field",
+  "fullName" : "Renweb Tests: Registration for creating new family.should input new value into the PhoneNumber field",
+  "historyId" : "25c5c50f0b65e879f802c99e2d059bde",
+  "time" : {
+    "start" : 1642318058377,
+    "stop" : 1642318059280,
+    "duration" : 903
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new value into the PhoneNumber field"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "194281324fcb69dd.json",
+  "parameterValues" : [ ]
+}

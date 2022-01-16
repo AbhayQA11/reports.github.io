@@ -1,0 +1,46 @@
+{
+  "uid" : "c2170eb2bdd9eb3e",
+  "name" : "should verify the content of the pop up against what was selected",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should verify the content of the pop up against what was selected",
+  "historyId" : "cca698575370a4102b10f7816b7788e4",
+  "time" : {
+    "start" : 1642322997801,
+    "stop" : 1642323000216,
+    "duration" : 2415
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the content of the pop up against what was selected"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2170eb2bdd9eb3e.json",
+  "parameterValues" : [ ]
+}

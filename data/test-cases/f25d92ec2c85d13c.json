@@ -1,0 +1,46 @@
+{
+  "uid" : "f25d92ec2c85d13c",
+  "name" : "should reach Update Family And Student Information for the second family in order to add a new student again",
+  "fullName" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students.should reach Update Family And Student Information for the second family in order to add a new student again",
+  "historyId" : "d274beea40cf2fac1e3743290b7861a",
+  "time" : {
+    "start" : 1642318975392,
+    "stop" : 1642318975798,
+    "duration" : 406
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach Update Family And Student Information for the second family in order to add a new student again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Perform Batch Action Add Fee And Discount on Several Families And Students"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f25d92ec2c85d13c.json",
+  "parameterValues" : [ ]
+}

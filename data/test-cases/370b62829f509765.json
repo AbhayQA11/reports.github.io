@@ -1,0 +1,46 @@
+{
+  "uid" : "370b62829f509765",
+  "name" : "should verify that the Payments Center has been reached, 1st time",
+  "fullName" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard.should verify that the Payments Center has been reached, 1st time",
+  "historyId" : "b26079299a1aa223cd10c7acfb2855c3",
+  "time" : {
+    "start" : 1642320034284,
+    "stop" : 1642320037971,
+    "duration" : 3687
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Payments Center has been reached, 1st time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "370b62829f509765.json",
+  "parameterValues" : [ ]
+}

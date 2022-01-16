@@ -1,0 +1,46 @@
+{
+  "uid" : "c23221db2f3e5a34",
+  "name" : "should switch to default content from iframe, 2nd time",
+  "fullName" : "Renweb Tests: Registration for creating new family.should switch to default content from iframe, 2nd time",
+  "historyId" : "e1022b138e726ec7acac28d21fd55030",
+  "time" : {
+    "start" : 1642318127755,
+    "stop" : 1642318182226,
+    "duration" : 54471
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch to default content from iframe, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c23221db2f3e5a34.json",
+  "parameterValues" : [ ]
+}

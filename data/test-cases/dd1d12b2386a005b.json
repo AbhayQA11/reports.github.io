@@ -1,0 +1,46 @@
+{
+  "uid" : "dd1d12b2386a005b",
+  "name" : "should verify that the Bank Name in the Table is the same as previously entered",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should verify that the Bank Name in the Table is the same as previously entered",
+  "historyId" : "edcae87d0c8185b1e70a2a8f69c3c2eb",
+  "time" : {
+    "start" : 1642318590902,
+    "stop" : 1642318592341,
+    "duration" : 1439
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Bank Name in the Table is the same as previously entered"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd1d12b2386a005b.json",
+  "parameterValues" : [ ]
+}

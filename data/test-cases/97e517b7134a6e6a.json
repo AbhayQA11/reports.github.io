@@ -1,0 +1,46 @@
+{
+  "uid" : "97e517b7134a6e6a",
+  "name" : "should verify that the Fees and Discounts Page has been reached, 3rd time",
+  "fullName" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard.should verify that the Fees and Discounts Page has been reached, 3rd time",
+  "historyId" : "3adcf802b2c96afbdb8d32b722f3de5a",
+  "time" : {
+    "start" : 1642320105835,
+    "stop" : 1642320109438,
+    "duration" : 3603
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Fees and Discounts Page has been reached, 3rd time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97e517b7134a6e6a.json",
+  "parameterValues" : [ ]
+}

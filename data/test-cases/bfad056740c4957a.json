@@ -1,0 +1,46 @@
+{
+  "uid" : "bfad056740c4957a",
+  "name" : "should create a family Via Api",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student.should create a family Via Api",
+  "historyId" : "1fbb9e8fbb365562fc75818ee2e25fec",
+  "time" : {
+    "start" : 1642318538319,
+    "stop" : 1642318542229,
+    "duration" : 3910
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family Via Api"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfad056740c4957a.json",
+  "parameterValues" : [ ]
+}

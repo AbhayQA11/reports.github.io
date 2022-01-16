@@ -1,0 +1,46 @@
+{
+  "uid" : "fb8bb9b5f2dbe7d0",
+  "name" : "families, fees, report and enroll tabs should be present",
+  "fullName" : "lucaAuthentificationTests: User Authentification.families, fees, report and enroll tabs should be present",
+  "historyId" : "279cfa64dd6a8cca9e072b49d203ee3a",
+  "time" : {
+    "start" : 1642318230247,
+    "stop" : 1642318231066,
+    "duration" : 819
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "families, fees, report and enroll tabs should be present"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb8bb9b5f2dbe7d0.json",
+  "parameterValues" : [ ]
+}

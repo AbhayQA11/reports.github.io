@@ -1,0 +1,46 @@
+{
+  "uid" : "61ac1f798c46b1fd",
+  "name" : "should set the password",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should set the password",
+  "historyId" : "23becb068482440d650baa70f279a7d0",
+  "time" : {
+    "start" : 1642317900303,
+    "stop" : 1642317901467,
+    "duration" : 1164
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should set the password"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61ac1f798c46b1fd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "e80e4d92e5fc8d93",
+  "name" : "should select AMEX credit card option",
+  "fullName" : "homepageTests: Enrollment with Credit Card and Debit Bank account option.should select AMEX credit card option",
+  "historyId" : "62651d6edd68968b3583db992e7f3085",
+  "time" : {
+    "start" : 1642317875898,
+    "stop" : 1642317877594,
+    "duration" : 1696
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select AMEX credit card option"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Credit Card and Debit Bank account option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e80e4d92e5fc8d93.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "eedb1497f36fb832",
+  "name" : "should input valid username",
+  "fullName" : "lucaAddANoteTests: Verifying Error Validation.should input valid username",
+  "historyId" : "7dcef2f90ef5a61c0a33189fd46f856c",
+  "time" : {
+    "start" : 1642322904907,
+    "stop" : 1642322907338,
+    "duration" : 2431
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid username"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eedb1497f36fb832.json",
+  "parameterValues" : [ ]
+}

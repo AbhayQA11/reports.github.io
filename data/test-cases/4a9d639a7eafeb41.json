@@ -1,0 +1,46 @@
+{
+  "uid" : "4a9d639a7eafeb41",
+  "name" : "should click on Add New Discount button",
+  "fullName" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages.should click on Add New Discount button",
+  "historyId" : "99ed4574f789ff4850900e02a463ba88",
+  "time" : {
+    "start" : 1642320328975,
+    "stop" : 1642320330694,
+    "duration" : 1719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Add New Discount button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a9d639a7eafeb41.json",
+  "parameterValues" : [ ]
+}

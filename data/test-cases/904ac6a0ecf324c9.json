@@ -1,0 +1,46 @@
+{
+  "uid" : "904ac6a0ecf324c9",
+  "name" : "should verify that the elements in the Dashboard are properly displayed",
+  "fullName" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard.should verify that the elements in the Dashboard are properly displayed",
+  "historyId" : "d078b7e2f9e5420f640b6593b952e54c",
+  "time" : {
+    "start" : 1642319995708,
+    "stop" : 1642320006501,
+    "duration" : 10793
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the elements in the Dashboard are properly displayed"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "904ac6a0ecf324c9.json",
+  "parameterValues" : [ ]
+}

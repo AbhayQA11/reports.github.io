@@ -1,0 +1,46 @@
+{
+  "uid" : "c28d17da83fda459",
+  "name" : "should click on due Month dropdown and the select the last entry",
+  "fullName" : "lucaEnrollment: verify filters on Wait Listed Families page.should click on due Month dropdown and the select the last entry",
+  "historyId" : "6cf3597c866bb8c089e7a1f824827f93",
+  "time" : {
+    "start" : 1642319471840,
+    "stop" : 1642319473658,
+    "duration" : 1818
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on due Month dropdown and the select the last entry"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c28d17da83fda459.json",
+  "parameterValues" : [ ]
+}

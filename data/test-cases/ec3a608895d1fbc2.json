@@ -1,0 +1,44 @@
+{
+  "uid" : "ec3a608895d1fbc2",
+  "name" : "should verify that the appropriate message is shown after clicking Save Changes",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should verify that the appropriate message is shown after clicking Save Changes",
+  "historyId" : "eb3591a7822c6f204c250fd9c3ab20c5",
+  "time" : {
+    "start" : 1642318384774,
+    "stop" : 1642318392890,
+    "duration" : 8116
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is shown after clicking Save Changes"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec3a608895d1fbc2.json",
+  "parameterValues" : [ ]
+}

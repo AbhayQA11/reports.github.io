@@ -1,0 +1,46 @@
+{
+  "uid" : "1051c2329791f5a2",
+  "name" : "should verify that the account number is displayed with only last 6 digits visible",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should verify that the account number is displayed with only last 6 digits visible",
+  "historyId" : "349ddb57e7c44dec6cb9388930c17011",
+  "time" : {
+    "start" : 1642319305973,
+    "stop" : 1642319307158,
+    "duration" : 1185
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the account number is displayed with only last 6 digits visible"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1051c2329791f5a2.json",
+  "parameterValues" : [ ]
+}

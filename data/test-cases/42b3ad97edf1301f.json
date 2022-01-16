@@ -1,0 +1,46 @@
+{
+  "uid" : "42b3ad97edf1301f",
+  "name" : "should click on the View Mode button second time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should click on the View Mode button second time",
+  "historyId" : "5ef2daf05c384f250c61900a62968e74",
+  "time" : {
+    "start" : 1642318461957,
+    "stop" : 1642318464000,
+    "duration" : 2043
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the View Mode button second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42b3ad97edf1301f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "4fe0f933ee8e34f3",
+  "name" : "should verify that payment plans are unchecked",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should verify that payment plans are unchecked",
+  "historyId" : "704e0b66a84e53bb76ca60f2a737f0fb",
+  "time" : {
+    "start" : 1642322505406,
+    "stop" : 1642322506587,
+    "duration" : 1181
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that payment plans are unchecked"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2575c550509f9122",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318327173,
+        "stop" : 1642318328283,
+        "duration" : 1110
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fe0f933ee8e34f3.json",
+  "parameterValues" : [ ]
+}

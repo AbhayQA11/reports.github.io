@@ -1,0 +1,46 @@
+{
+  "uid" : "efe836c09a01e926",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service.should load Luca login Page successfully",
+  "historyId" : "b8b8bcbcacc1470b42e490737aac39d9",
+  "time" : {
+    "start" : 1642323008853,
+    "stop" : 1642323011337,
+    "duration" : 2484
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "efe836c09a01e926.json",
+  "parameterValues" : [ ]
+}

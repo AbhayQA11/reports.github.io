@@ -1,0 +1,46 @@
+{
+  "uid" : "fc9198d0fd7ec76d",
+  "name" : "should click on Account Recognition Type - Revenue",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should click on Account Recognition Type - Revenue",
+  "historyId" : "6da6f1390263afba203885976981aa2",
+  "time" : {
+    "start" : 1642323115706,
+    "stop" : 1642323118384,
+    "duration" : 2678
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Account Recognition Type - Revenue"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc9198d0fd7ec76d.json",
+  "parameterValues" : [ ]
+}

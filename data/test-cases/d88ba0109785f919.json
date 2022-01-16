@@ -1,0 +1,46 @@
+{
+  "uid" : "d88ba0109785f919",
+  "name" : "should click on login button",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should click on login button",
+  "historyId" : "41e16e452626afb9e7005e3ffc76cf86",
+  "time" : {
+    "start" : 1642319147956,
+    "stop" : 1642319153647,
+    "duration" : 5691
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on login button"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d88ba0109785f919.json",
+  "parameterValues" : [ ]
+}

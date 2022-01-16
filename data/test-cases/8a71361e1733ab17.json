@@ -1,0 +1,46 @@
+{
+  "uid" : "8a71361e1733ab17",
+  "name" : "should get and store the email address in order to search the family by it",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should get and store the email address in order to search the family by it",
+  "historyId" : "206537f945acff05ec85db6255a242ef",
+  "time" : {
+    "start" : 1642319186898,
+    "stop" : 1642319187978,
+    "duration" : 1080
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the email address in order to search the family by it"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a71361e1733ab17.json",
+  "parameterValues" : [ ]
+}

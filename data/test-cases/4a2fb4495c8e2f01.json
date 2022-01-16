@@ -1,0 +1,46 @@
+{
+  "uid" : "4a2fb4495c8e2f01",
+  "name" : "should input correct password",
+  "fullName" : "Main Landing Page, Verify the accessibility of account page in Dashboard.should input correct password",
+  "historyId" : "e42a6c2128c70a36c1e54178a840f792",
+  "time" : {
+    "start" : 1642319942859,
+    "stop" : 1642319944124,
+    "duration" : 1265
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a2fb4495c8e2f01.json",
+  "parameterValues" : [ ]
+}

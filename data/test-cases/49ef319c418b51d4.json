@@ -1,0 +1,46 @@
+{
+  "uid" : "49ef319c418b51d4",
+  "name" : "should input new values into the fields and press save, 1st time",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should input new values into the fields and press save, 1st time",
+  "historyId" : "b9e7c6aa125ae50dedc353df46c6ac9a",
+  "time" : {
+    "start" : 1642320082616,
+    "stop" : 1642320087170,
+    "duration" : 4554
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new values into the fields and press save, 1st time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "49ef319c418b51d4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "f7f1dabfafb54b8b",
+  "name" : "should click on Review My Bill",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should click on Review My Bill",
+  "historyId" : "e828fcdc0473f572ab790eb2d87df6a6",
+  "time" : {
+    "start" : 1642323905818,
+    "stop" : 1642323909424,
+    "duration" : 3606
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Review My Bill"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7f1dabfafb54b8b.json",
+  "parameterValues" : [ ]
+}

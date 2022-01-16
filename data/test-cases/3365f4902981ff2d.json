@@ -1,0 +1,46 @@
+{
+  "uid" : "3365f4902981ff2d",
+  "name" : "should modify user data in order to activate the family",
+  "fullName" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service.should modify user data in order to activate the family",
+  "historyId" : "b29cdb596c67ea3473dba8a3523ac716",
+  "time" : {
+    "start" : 1642322972190,
+    "stop" : 1642323008853,
+    "duration" : 36663
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to activate the family"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3365f4902981ff2d.json",
+  "parameterValues" : [ ]
+}

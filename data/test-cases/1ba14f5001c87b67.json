@@ -1,0 +1,46 @@
+{
+  "uid" : "1ba14f5001c87b67",
+  "name" : "should select the latest school year",
+  "fullName" : "lucaEnrollment: verify filters on Parent registration page.should select the latest school year",
+  "historyId" : "3003d93a94c6c3c82f21d35919006492",
+  "time" : {
+    "start" : 1642319444479,
+    "stop" : 1642319447931,
+    "duration" : 3452
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Parent registration page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Parent registration page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Parent registration page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ba14f5001c87b67.json",
+  "parameterValues" : [ ]
+}

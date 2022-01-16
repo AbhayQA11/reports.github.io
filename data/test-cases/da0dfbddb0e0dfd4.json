@@ -1,0 +1,46 @@
+{
+  "uid" : "da0dfbddb0e0dfd4",
+  "name" : "should check if the family is located in the Parent Registration",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should check if the family is located in the Parent Registration",
+  "historyId" : "a4555ab319e0922d007ed34f227ef0d9",
+  "time" : {
+    "start" : 1642318199343,
+    "stop" : 1642318200725,
+    "duration" : 1382
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check if the family is located in the Parent Registration"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da0dfbddb0e0dfd4.json",
+  "parameterValues" : [ ]
+}

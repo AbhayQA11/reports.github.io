@@ -1,0 +1,46 @@
+{
+  "uid" : "b35c4d81ef87ccc7",
+  "name" : "should complete the Describe Situation Field",
+  "fullName" : "lucaAddANoteTests: Create a note and attaching an attachment.should complete the Describe Situation Field",
+  "historyId" : "c6139ab919156b272bbd57d03b4c03a6",
+  "time" : {
+    "start" : 1642322969729,
+    "stop" : 1642322971638,
+    "duration" : 1909
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should complete the Describe Situation Field"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b35c4d81ef87ccc7.json",
+  "parameterValues" : [ ]
+}

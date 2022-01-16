@@ -1,0 +1,46 @@
+{
+  "uid" : "f4d9a802f57981eb",
+  "name" : "should log out from luca",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees controls Verification.should log out from luca",
+  "historyId" : "9e05bc415f738bf97c37033ed9e14067",
+  "time" : {
+    "start" : 1642323195870,
+    "stop" : 1642323197894,
+    "duration" : 2024
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4d9a802f57981eb.json",
+  "parameterValues" : [ ]
+}

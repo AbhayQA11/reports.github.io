@@ -1,0 +1,46 @@
+{
+  "uid" : "d8fddb7973a48fd8",
+  "name" : "should load call API successfully",
+  "fullName" : "Luca Settings: Manage Fees OW API - check expiration date tests API_012 and API_013.should load call API successfully",
+  "historyId" : "d0e1ecfcae468714b363bdf302fda98b",
+  "time" : {
+    "start" : 1642323337919,
+    "stop" : 1642323339758,
+    "duration" : 1839
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Fees OW API - check expiration date tests API_012 and API_013"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Fees OW API - check expiration date tests API_012 and API_013"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load call API successfully"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Fees OW API - check expiration date tests API_012 and API_013"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8fddb7973a48fd8.json",
+  "parameterValues" : [ ]
+}

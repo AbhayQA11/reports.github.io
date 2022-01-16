@@ -1,0 +1,46 @@
+{
+  "uid" : "1e271227516f3b0c",
+  "name" : "should click successfully on create new account",
+  "fullName" : "homepageTests: Enrollment with all payment options.should click successfully on create new account",
+  "historyId" : "7da0755324b82a2a3548e28d1b9ed560",
+  "time" : {
+    "start" : 1642317884273,
+    "stop" : 1642317889747,
+    "duration" : 5474
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click successfully on create new account"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e271227516f3b0c.json",
+  "parameterValues" : [ ]
+}

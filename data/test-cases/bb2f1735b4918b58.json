@@ -1,0 +1,46 @@
+{
+  "uid" : "bb2f1735b4918b58",
+  "name" : "should add all the information required for a new fee: General Ledger Id",
+  "fullName" : "Luca Settings: Manage Payment Plans tests API_014.should add all the information required for a new fee: General Ledger Id",
+  "historyId" : "9abfeac34b4bbe63b38717998366de04",
+  "time" : {
+    "start" : 1642323383906,
+    "stop" : 1642323385639,
+    "duration" : 1733
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add all the information required for a new fee: General Ledger Id"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb2f1735b4918b58.json",
+  "parameterValues" : [ ]
+}

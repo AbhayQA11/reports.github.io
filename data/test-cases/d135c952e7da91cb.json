@@ -1,0 +1,46 @@
+{
+  "uid" : "d135c952e7da91cb",
+  "name" : "should input email address of the payer",
+  "fullName" : "homepageTests: Enrollment with Bank Account entry.should input email address of the payer",
+  "historyId" : "42648d36bf502908339aea8a82c09a86",
+  "time" : {
+    "start" : 1642317844738,
+    "stop" : 1642317845725,
+    "duration" : 987
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input email address of the payer"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d135c952e7da91cb.json",
+  "parameterValues" : [ ]
+}

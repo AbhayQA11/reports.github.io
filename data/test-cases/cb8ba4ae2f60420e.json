@@ -1,0 +1,46 @@
+{
+  "uid" : "cb8ba4ae2f60420e",
+  "name" : "should select the latest school year",
+  "fullName" : "Luca Settings: OW API_007 tests.should select the latest school year",
+  "historyId" : "1bff08a3ac3e7189b06cdc102c03ca44",
+  "time" : {
+    "start" : 1642323301081,
+    "stop" : 1642323304643,
+    "duration" : 3562
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb8ba4ae2f60420e.json",
+  "parameterValues" : [ ]
+}

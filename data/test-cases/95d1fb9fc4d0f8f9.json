@@ -1,0 +1,46 @@
+{
+  "uid" : "95d1fb9fc4d0f8f9",
+  "name" : "should input newly created family",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan .should input newly created family",
+  "historyId" : "9bba3209436ec7f3b396c60770b87c51",
+  "time" : {
+    "start" : 1642323712173,
+    "stop" : 1642323716859,
+    "duration" : 4686
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testMethod",
+    "value" : "should input newly created family"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "95d1fb9fc4d0f8f9.json",
+  "parameterValues" : [ ]
+}

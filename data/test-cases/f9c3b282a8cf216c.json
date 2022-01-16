@@ -1,0 +1,44 @@
+{
+  "uid" : "f9c3b282a8cf216c",
+  "name" : "should click students per family and then select the check all option",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should click students per family and then select the check all option",
+  "historyId" : "e43eb8837849c6a011a5e41b8c73fd62",
+  "time" : {
+    "start" : 1642318311361,
+    "stop" : 1642318314082,
+    "duration" : 2721
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click students per family and then select the check all option"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9c3b282a8cf216c.json",
+  "parameterValues" : [ ]
+}

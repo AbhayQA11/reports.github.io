@@ -1,0 +1,46 @@
+{
+  "uid" : "df1ec58e97ccb4ac",
+  "name" : "should get and store the bank Account number in order to check it later",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should get and store the bank Account number in order to check it later",
+  "historyId" : "c37820ed382c398c1b67accb83a54b4f",
+  "time" : {
+    "start" : 1642319279437,
+    "stop" : 1642319280003,
+    "duration" : 566
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the bank Account number in order to check it later"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df1ec58e97ccb4ac.json",
+  "parameterValues" : [ ]
+}

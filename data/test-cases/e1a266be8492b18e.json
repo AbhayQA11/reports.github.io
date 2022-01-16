@@ -1,0 +1,46 @@
+{
+  "uid" : "e1a266be8492b18e",
+  "name" : "should verify that the error message is displayed first time",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should verify that the error message is displayed first time",
+  "historyId" : "6c10546b0bf01a288cc96face52e4f24",
+  "time" : {
+    "start" : 1642318195931,
+    "stop" : 1642318197137,
+    "duration" : 1206
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the error message is displayed first time"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1a266be8492b18e.json",
+  "parameterValues" : [ ]
+}

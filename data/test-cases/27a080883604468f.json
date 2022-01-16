@@ -1,0 +1,46 @@
+{
+  "uid" : "27a080883604468f",
+  "name" : "should verify that the Custom Reports Page has been reached, with Custom Saved Reports option selected",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should verify that the Custom Reports Page has been reached, with Custom Saved Reports option selected",
+  "historyId" : "73a53d22d0bf76eb2823f0f6eb52350d",
+  "time" : {
+    "start" : 1642319986965,
+    "stop" : 1642319990593,
+    "duration" : 3628
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Custom Reports Page has been reached, with Custom Saved Reports option selected"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "27a080883604468f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "523107f331feb233",
+  "name" : "should modify user data in order to log in the user in EWS",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Fees.should modify user data in order to log in the user in EWS",
+  "historyId" : "73587c5fc4f7906d51b42ab345a71283",
+  "time" : {
+    "start" : 1642319554126,
+    "stop" : 1642319588952,
+    "duration" : 34826
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to log in the user in EWS"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "523107f331feb233.json",
+  "parameterValues" : [ ]
+}

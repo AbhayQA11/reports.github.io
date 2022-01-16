@@ -1,0 +1,46 @@
+{
+  "uid" : "5fecbdcf222e8dda",
+  "name" : "should input correct password",
+  "fullName" : "lucaBillingTests: Add Fee and Discount to Family.should input correct password",
+  "historyId" : "ce594d25be732f7ee31f603f787129fa",
+  "time" : {
+    "start" : 1642319536633,
+    "stop" : 1642319537766,
+    "duration" : 1133
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Add Fee and Discount to Family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fecbdcf222e8dda.json",
+  "parameterValues" : [ ]
+}

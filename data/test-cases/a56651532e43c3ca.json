@@ -1,0 +1,46 @@
+{
+  "uid" : "a56651532e43c3ca",
+  "name" : "should click Specific Months for the discount",
+  "fullName" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages.should click Specific Months for the discount",
+  "historyId" : "af02f378098d5a05c77ce40ffc6b88a",
+  "time" : {
+    "start" : 1642320338966,
+    "stop" : 1642320341346,
+    "duration" : 2380
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click Specific Months for the discount"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a56651532e43c3ca.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "4b2eae5da49e669f",
+  "name" : "should input new value into the ZipCode field",
+  "fullName" : "Renweb Tests: Registration for creating new family.should input new value into the ZipCode field",
+  "historyId" : "d5bfb441b3ddb73a83176de59a5167d4",
+  "time" : {
+    "start" : 1642318056724,
+    "stop" : 1642318057541,
+    "duration" : 817
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new value into the ZipCode field"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b2eae5da49e669f.json",
+  "parameterValues" : [ ]
+}

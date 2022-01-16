@@ -1,0 +1,46 @@
+{
+  "uid" : "8e503189a1a9e646",
+  "name" : "should click on next button in order to reach the stundet page",
+  "fullName" : "homepageTests: Verifies Enrollment code for Remove Fees.should click on next button in order to reach the stundet page",
+  "historyId" : "fddf8f0c628a5e9ffb513110e22a9e3e",
+  "time" : {
+    "start" : 1642317963628,
+    "stop" : 1642317966377,
+    "duration" : 2749
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on next button in order to reach the stundet page"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e503189a1a9e646.json",
+  "parameterValues" : [ ]
+}

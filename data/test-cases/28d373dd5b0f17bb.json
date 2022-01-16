@@ -1,0 +1,46 @@
+{
+  "uid" : "28d373dd5b0f17bb",
+  "name" : "should mouseover Families and then select View All Families",
+  "fullName" : "Main Landing Page, Verify Families + Discounts Menu Accessibility.should mouseover Families and then select View All Families",
+  "historyId" : "4937ba6784dc297d27f03b635c3e73b",
+  "time" : {
+    "start" : 1642319885331,
+    "stop" : 1642319888434,
+    "duration" : 3103
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Families and then select View All Families"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28d373dd5b0f17bb.json",
+  "parameterValues" : [ ]
+}

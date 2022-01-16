@@ -1,0 +1,46 @@
+{
+  "uid" : "1b99640379d8a641",
+  "name" : "should click on the search button, 2nd time",
+  "fullName" : "Main Landing Page, Verify Search Functionality.should click on the search button, 2nd time",
+  "historyId" : "abe34b27da558c546e88de70b94b6bc6",
+  "time" : {
+    "start" : 1642319936114,
+    "stop" : 1642319937247,
+    "duration" : 1133
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the search button, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b99640379d8a641.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "264f1ba72fc15993",
+  "name" : "should mouseover Fees & Discounts and then select Fees and Discounts snapshot",
+  "fullName" : "Main Landing Page, Verify Families + Discounts Menu Accessibility.should mouseover Fees & Discounts and then select Fees and Discounts snapshot",
+  "historyId" : "2c36359f4420fc377dffe4bfafebbffe",
+  "time" : {
+    "start" : 1642319911616,
+    "stop" : 1642319912699,
+    "duration" : 1083
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Fees & Discounts and then select Fees and Discounts snapshot"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "264f1ba72fc15993.json",
+  "parameterValues" : [ ]
+}

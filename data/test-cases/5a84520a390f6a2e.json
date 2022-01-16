@@ -1,0 +1,46 @@
+{
+  "uid" : "5a84520a390f6a2e",
+  "name" : "should click on Enrollment Center, then add new family",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should click on Enrollment Center, then add new family",
+  "historyId" : "ad83f66978ca4be2eac82fb491d7f0dc",
+  "time" : {
+    "start" : 1642323413336,
+    "stop" : 1642323416217,
+    "duration" : 2881
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Enrollment Center, then add new family"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a84520a390f6a2e.json",
+  "parameterValues" : [ ]
+}

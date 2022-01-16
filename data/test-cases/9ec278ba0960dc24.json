@@ -1,0 +1,46 @@
+{
+  "uid" : "9ec278ba0960dc24",
+  "name" : "should input the created family into the family filter again",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios.should input the created family into the family filter again",
+  "historyId" : "cbee0d9f3b9b634c83652e524da8ab12",
+  "time" : {
+    "start" : 1642321388166,
+    "stop" : 1642321393095,
+    "duration" : 4929
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the created family into the family filter again"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ec278ba0960dc24.json",
+  "parameterValues" : [ ]
+}

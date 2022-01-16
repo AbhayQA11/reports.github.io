@@ -1,0 +1,46 @@
+{
+  "uid" : "e810ed919191bf58",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "Main Landing Page, Verify Families + Discounts Menu Accessibility.should load Luca login Page successfully",
+  "historyId" : "f8f67b762cc1af84212aefb3865c78fd",
+  "time" : {
+    "start" : 1642319864836,
+    "stop" : 1642319867661,
+    "duration" : 2825
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e810ed919191bf58.json",
+  "parameterValues" : [ ]
+}

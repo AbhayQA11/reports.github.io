@@ -1,0 +1,46 @@
+{
+  "uid" : "477e4a95d9ad2b9f",
+  "name" : "should change the payment method to Invoice",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should change the payment method to Invoice",
+  "historyId" : "d487e3091d722e4ac6ebc9496f38e08f",
+  "time" : {
+    "start" : 1642318523954,
+    "stop" : 1642318526082,
+    "duration" : 2128
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should change the payment method to Invoice"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "477e4a95d9ad2b9f.json",
+  "parameterValues" : [ ]
+}

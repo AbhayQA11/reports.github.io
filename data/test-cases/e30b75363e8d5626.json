@@ -1,0 +1,46 @@
+{
+  "uid" : "e30b75363e8d5626",
+  "name" : "should log out from luca",
+  "fullName" : "lucaEnrollment: Page links and controls validation.should log out from luca",
+  "historyId" : "a3b0dbb60c0a1dcf43b8b5294ca9ae4b",
+  "time" : {
+    "start" : 1642319070485,
+    "stop" : 1642319072864,
+    "duration" : 2379
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e30b75363e8d5626.json",
+  "parameterValues" : [ ]
+}

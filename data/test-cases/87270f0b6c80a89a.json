@@ -1,0 +1,46 @@
+{
+  "uid" : "87270f0b6c80a89a",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaBillingTests: Verify Read Only Test Account.should load Luca login Page successfully",
+  "historyId" : "a0fbcfa236d745ba1e8438782cb46b21",
+  "time" : {
+    "start" : 1642319495521,
+    "stop" : 1642319498182,
+    "duration" : 2661
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "87270f0b6c80a89a.json",
+  "parameterValues" : [ ]
+}

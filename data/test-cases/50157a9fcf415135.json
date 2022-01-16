@@ -1,0 +1,46 @@
+{
+  "uid" : "50157a9fcf415135",
+  "name" : "should input into the filter a Family ID of a family with Auto Debit Credit Card Account Payment",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account.should input into the filter a Family ID of a family with Auto Debit Credit Card Account Payment",
+  "historyId" : "28cd9d3203522b1e03dd521e77087083",
+  "time" : {
+    "start" : 1642321139439,
+    "stop" : 1642321143721,
+    "duration" : 4282
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input into the filter a Family ID of a family with Auto Debit Credit Card Account Payment"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Apply Phone Payment with new Checking Payment Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50157a9fcf415135.json",
+  "parameterValues" : [ ]
+}

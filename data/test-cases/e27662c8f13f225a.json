@@ -1,0 +1,46 @@
+{
+  "uid" : "e27662c8f13f225a",
+  "name" : "should get new family Id",
+  "fullName" : "homepageTests: Enrolling New Family with Credit Card.should get new family Id",
+  "historyId" : "c4b79b5b4ccfa5f2692e1a3c5904161e",
+  "time" : {
+    "start" : 1642317989624,
+    "stop" : 1642317992222,
+    "duration" : 2598
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get new family Id"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e27662c8f13f225a.json",
+  "parameterValues" : [ ]
+}

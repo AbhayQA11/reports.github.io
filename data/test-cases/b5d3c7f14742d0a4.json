@@ -1,0 +1,46 @@
+{
+  "uid" : "b5d3c7f14742d0a4",
+  "name" : "should click on advance deposit fixed fee",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should click on advance deposit fixed fee",
+  "historyId" : "e25180f9a13fa6f7900480d346b66f4d",
+  "time" : {
+    "start" : 1642319592107,
+    "stop" : 1642319594206,
+    "duration" : 2099
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on advance deposit fixed fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5d3c7f14742d0a4.json",
+  "parameterValues" : [ ]
+}

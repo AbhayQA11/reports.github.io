@@ -1,0 +1,76 @@
+{
+  "uid" : "c63cafbbb38d08d5",
+  "name" : "should select a state from the list",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info.should select a state from the list",
+  "historyId" : "d0d2f49ed7198d98c60633073616a581",
+  "time" : {
+    "start" : 1642318735691,
+    "stop" : 1642319635793,
+    "duration" : 900102
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+  "statusTrace" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n                    at Timeout._onTimeout (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4281:23)\n                    at listOnTimeout (internal/timers.js:554:17)\n                    at processTimers (internal/timers.js:497:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+    "statusTrace" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n                    at Timeout._onTimeout (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4281:23)\n                    at listOnTimeout (internal/timers.js:554:17)\n                    at processTimers (internal/timers.js:497:7)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cee2914f8e586edb",
+      "name" : "Screenshot",
+      "source" : "cee2914f8e586edb.png",
+      "type" : "image/png",
+      "size" : 77712
+    }, {
+      "uid" : "d57bd459e3b39fe4",
+      "name" : "Screenshot",
+      "source" : "d57bd459e3b39fe4.png",
+      "type" : "image/png",
+      "size" : 77712
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a state from the list"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, View Families, Update Parent and Student Info"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c63cafbbb38d08d5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "d624f4d37b481973",
+  "name" : "should Select All Grades for the discount",
+  "fullName" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages.should Select All Grades for the discount",
+  "historyId" : "9821765fd1cca23f9f2b46ad365d1198",
+  "time" : {
+    "start" : 1642320341997,
+    "stop" : 1642320344284,
+    "duration" : 2287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should Select All Grades for the discount"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d624f4d37b481973.json",
+  "parameterValues" : [ ]
+}

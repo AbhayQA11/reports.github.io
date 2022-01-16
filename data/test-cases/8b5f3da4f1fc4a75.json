@@ -1,0 +1,46 @@
+{
+  "uid" : "8b5f3da4f1fc4a75",
+  "name" : "should input a Cvv",
+  "fullName" : "homepageTests: Enrollment with Mail In Invoice payment option.should input a Cvv",
+  "historyId" : "d1da565924895776317dcc4638ed566c",
+  "time" : {
+    "start" : 1642317924305,
+    "stop" : 1642317926741,
+    "duration" : 2436
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a Cvv"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b5f3da4f1fc4a75.json",
+  "parameterValues" : [ ]
+}

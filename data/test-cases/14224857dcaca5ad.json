@@ -1,0 +1,46 @@
+{
+  "uid" : "14224857dcaca5ad",
+  "name" : "should verify the username focus",
+  "fullName" : "lucaAuthentificationTests: User Authentification and Author, School Validation.should verify the username focus",
+  "historyId" : "a980c153d1d724297e0274e7b8a588",
+  "time" : {
+    "start" : 1642318212232,
+    "stop" : 1642318213126,
+    "duration" : 894
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the username focus"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14224857dcaca5ad.json",
+  "parameterValues" : [ ]
+}

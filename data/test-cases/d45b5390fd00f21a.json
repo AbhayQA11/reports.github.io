@@ -1,0 +1,46 @@
+{
+  "uid" : "d45b5390fd00f21a",
+  "name" : "should input a value into the total Discounts spread across plan",
+  "fullName" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification.should input a value into the total Discounts spread across plan",
+  "historyId" : "52ddcde767983f3f56977aa7eea8b731",
+  "time" : {
+    "start" : 1642319786798,
+    "stop" : 1642319787717,
+    "duration" : 919
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a value into the total Discounts spread across plan"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d45b5390fd00f21a.json",
+  "parameterValues" : [ ]
+}

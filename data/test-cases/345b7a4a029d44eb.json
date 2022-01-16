@@ -1,0 +1,46 @@
+{
+  "uid" : "345b7a4a029d44eb",
+  "name" : "should input 03136 into search field",
+  "fullName" : "lucaEnrollment: Page links and controls validation.should input 03136 into search field",
+  "historyId" : "ca1bc5b894bd4abf53d6118fbef2af1e",
+  "time" : {
+    "start" : 1642319023775,
+    "stop" : 1642319025431,
+    "duration" : 1656
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input 03136 into search field"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "345b7a4a029d44eb.json",
+  "parameterValues" : [ ]
+}

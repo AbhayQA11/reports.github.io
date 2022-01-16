@@ -1,0 +1,44 @@
+{
+  "uid" : "79a0eb8e711ac538",
+  "name" : "should click on the first Fees Edit Button",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should click on the first Fees Edit Button",
+  "historyId" : "667a1794201dd2c7e37ac853254b93de",
+  "time" : {
+    "start" : 1642323111449,
+    "stop" : 1642323115706,
+    "duration" : 4257
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the first Fees Edit Button"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79a0eb8e711ac538.json",
+  "parameterValues" : [ ]
+}

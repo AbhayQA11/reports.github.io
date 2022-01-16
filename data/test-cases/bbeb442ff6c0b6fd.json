@@ -1,0 +1,46 @@
+{
+  "uid" : "bbeb442ff6c0b6fd",
+  "name" : "should verify that the register Family button is disabled",
+  "fullName" : "lucaEnrollment: Enroll new family .should verify that the register Family button is disabled",
+  "historyId" : "b10dea641223561bda0af70a50769a3",
+  "time" : {
+    "start" : 1642319110541,
+    "stop" : 1642319111209,
+    "duration" : 668
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the register Family button is disabled"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bbeb442ff6c0b6fd.json",
+  "parameterValues" : [ ]
+}

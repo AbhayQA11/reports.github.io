@@ -1,0 +1,46 @@
+{
+  "uid" : "666ce6ae2c01d6a1",
+  "name" : "should click on editing a payment plan name",
+  "fullName" : "Luca Settings: Manage Payment Plans tests,API_002.should click on editing a payment plan name",
+  "historyId" : "85f4faeaa85419f4187effce32b2eb66",
+  "time" : {
+    "start" : 1642323239133,
+    "stop" : 1642323244656,
+    "duration" : 5523
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests,API_002"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests,API_002"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on editing a payment plan name"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests,API_002"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "666ce6ae2c01d6a1.json",
+  "parameterValues" : [ ]
+}

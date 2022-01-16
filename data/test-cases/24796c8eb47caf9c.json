@@ -1,0 +1,46 @@
+{
+  "uid" : "24796c8eb47caf9c",
+  "name" : "should create a family",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should create a family",
+  "historyId" : "ad57e6ec576bd8d1a32a8249be2d1507",
+  "time" : {
+    "start" : 1642319525623,
+    "stop" : 1642319529303,
+    "duration" : 3680
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24796c8eb47caf9c.json",
+  "parameterValues" : [ ]
+}

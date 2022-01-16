@@ -1,0 +1,46 @@
+{
+  "uid" : "a9b124865ef11d33",
+  "name" : "should select the latest school year",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should select the latest school year",
+  "historyId" : "aae55e93c0365db07045a1fec9c59c97",
+  "time" : {
+    "start" : 1642323027525,
+    "stop" : 1642323031276,
+    "duration" : 3751
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9b124865ef11d33.json",
+  "parameterValues" : [ ]
+}

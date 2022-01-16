@@ -1,0 +1,46 @@
+{
+  "uid" : "751e1d92f6175881",
+  "name" : "should input AMEX card number",
+  "fullName" : "homepageTests: Enrollment with Credit Card entry.should input AMEX card number",
+  "historyId" : "444193be874e294d04dadfb954e0a7c2",
+  "time" : {
+    "start" : 1642317873556,
+    "stop" : 1642317874597,
+    "duration" : 1041
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input AMEX card number"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Credit Card entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "751e1d92f6175881.json",
+  "parameterValues" : [ ]
+}

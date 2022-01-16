@@ -1,0 +1,46 @@
+{
+  "uid" : "9e737539de1c19f9",
+  "name" : "should click on Payment Method",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should click on Payment Method",
+  "historyId" : "924ee4dced49aa0ec4a8a8c39a5a8ca0",
+  "time" : {
+    "start" : 1642319337862,
+    "stop" : 1642319338984,
+    "duration" : 1122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Payment Method"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e737539de1c19f9.json",
+  "parameterValues" : [ ]
+}

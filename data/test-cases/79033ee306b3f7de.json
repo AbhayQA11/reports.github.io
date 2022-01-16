@@ -1,0 +1,46 @@
+{
+  "uid" : "79033ee306b3f7de",
+  "name" : "should select Debit bank account Payment Option",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should select Debit bank account Payment Option",
+  "historyId" : "cc245f71d797eaf3749fbe7807e66d2b",
+  "time" : {
+    "start" : 1642319272421,
+    "stop" : 1642319274292,
+    "duration" : 1871
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should select Debit bank account Payment Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79033ee306b3f7de.json",
+  "parameterValues" : [ ]
+}

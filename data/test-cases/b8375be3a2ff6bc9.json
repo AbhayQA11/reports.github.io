@@ -1,0 +1,46 @@
+{
+  "uid" : "b8375be3a2ff6bc9",
+  "name" : "should move the mouse over the Families link and click on Manage Families Details",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should move the mouse over the Families link and click on Manage Families Details",
+  "historyId" : "7f89cb69bd9f06b3c0b26312e35cac45",
+  "time" : {
+    "start" : 1642318393845,
+    "stop" : 1642318394878,
+    "duration" : 1033
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should move the mouse over the Families link and click on Manage Families Details"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8375be3a2ff6bc9.json",
+  "parameterValues" : [ ]
+}

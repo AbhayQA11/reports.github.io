@@ -1,0 +1,46 @@
+{
+  "uid" : "b26c016175e8873",
+  "name" : "should input valid luca password",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios.should input valid luca password",
+  "historyId" : "62703ffdc803cebe6ac528d1f7c5123b",
+  "time" : {
+    "start" : 1642321210334,
+    "stop" : 1642321211567,
+    "duration" : 1233
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid luca password"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b26c016175e8873.json",
+  "parameterValues" : [ ]
+}

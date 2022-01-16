@@ -1,0 +1,46 @@
+{
+  "uid" : "6c274e13b915626a",
+  "name" : "should select the latest school year",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should select the latest school year",
+  "historyId" : "ebefa0322ee69516d19cb872874771f3",
+  "time" : {
+    "start" : 1642319850033,
+    "stop" : 1642319853893,
+    "duration" : 3860
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c274e13b915626a.json",
+  "parameterValues" : [ ]
+}

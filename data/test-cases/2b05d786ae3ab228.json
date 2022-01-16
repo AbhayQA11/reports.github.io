@@ -1,0 +1,46 @@
+{
+  "uid" : "2b05d786ae3ab228",
+  "name" : "should press the enter key",
+  "fullName" : "lucaAuthentificationTests: User Authentification and Author, School Validation.should press the enter key",
+  "historyId" : "faf7e4e4c87812210daa3b95b24a21cd",
+  "time" : {
+    "start" : 1642318221281,
+    "stop" : 1642318224836,
+    "duration" : 3555
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should press the enter key"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b05d786ae3ab228.json",
+  "parameterValues" : [ ]
+}

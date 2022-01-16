@@ -1,0 +1,46 @@
+{
+  "uid" : "2815ba3cb9fcba51",
+  "name" : "should verify that the Credit Card Number Field is Displaying Encrypted Info",
+  "fullName" : "Call Center Payment Encryption Tests, Credit card family.should verify that the Credit Card Number Field is Displaying Encrypted Info",
+  "historyId" : "1004079a51626127a64d997df84492a4",
+  "time" : {
+    "start" : 1642324039331,
+    "stop" : 1642324041029,
+    "duration" : 1698
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Credit Card Number Field is Displaying Encrypted Info"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2815ba3cb9fcba51.json",
+  "parameterValues" : [ ]
+}

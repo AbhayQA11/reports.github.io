@@ -1,0 +1,46 @@
+{
+  "uid" : "81f10e76c6f24f0",
+  "name" : "should verify that the Recognition Type is set To Revenue in the Table",
+  "fullName" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case.should verify that the Recognition Type is set To Revenue in the Table",
+  "historyId" : "f7dd90d26c6613830fa224df12958fe2",
+  "time" : {
+    "start" : 1642323146556,
+    "stop" : 1642323148046,
+    "duration" : 1490
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Recognition Type is set To Revenue in the Table"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks SetupGL Account Cash and Other Test Case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "81f10e76c6f24f0.json",
+  "parameterValues" : [ ]
+}

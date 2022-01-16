@@ -1,0 +1,46 @@
+{
+  "uid" : "df5c70272140eafa",
+  "name" : "should log out from luca",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should log out from luca",
+  "historyId" : "1fc434ce41ddce28d96271a339bee0aa",
+  "time" : {
+    "start" : 1642319991761,
+    "stop" : 1642319994070,
+    "duration" : 2309
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df5c70272140eafa.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "90d025a393d9ff52",
+  "name" : "should click on the One Time Payment Option",
+  "fullName" : "Parent Site Payment Verification.should click on the One Time Payment Option",
+  "historyId" : "f190bf77c32c4865e714902f0057f72e",
+  "time" : {
+    "start" : 1642323890312,
+    "stop" : 1642323890312,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the One Time Payment Option"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90d025a393d9ff52.json",
+  "parameterValues" : [ ]
+}

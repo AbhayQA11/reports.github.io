@@ -1,0 +1,46 @@
+{
+  "uid" : "b046f887b1fdb06d",
+  "name" : "should get and store the second hash",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should get and store the second hash",
+  "historyId" : "403ca452d6fedd0036b4bbce57cff8f",
+  "time" : {
+    "start" : 1642318177006,
+    "stop" : 1642318177725,
+    "duration" : 719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the second hash"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b046f887b1fdb06d.json",
+  "parameterValues" : [ ]
+}

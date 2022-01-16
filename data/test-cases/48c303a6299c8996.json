@@ -1,0 +1,46 @@
+{
+  "uid" : "48c303a6299c8996",
+  "name" : "should click on the In-Active Fee button",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should click on the In-Active Fee button",
+  "historyId" : "1ff1d0f5904a533e46ae5273db33c4",
+  "time" : {
+    "start" : 1642320212822,
+    "stop" : 1642320214174,
+    "duration" : 1352
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the In-Active Fee button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48c303a6299c8996.json",
+  "parameterValues" : [ ]
+}

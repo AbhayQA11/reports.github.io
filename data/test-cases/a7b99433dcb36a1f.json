@@ -1,0 +1,46 @@
+{
+  "uid" : "a7b99433dcb36a1f",
+  "name" : "should select the Payment method to be American Express",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should select the Payment method to be American Express",
+  "historyId" : "cb9aad4d1a62bb16b91fdd2a847bf3b4",
+  "time" : {
+    "start" : 1642318136228,
+    "stop" : 1642318137903,
+    "duration" : 1675
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the Payment method to be American Express"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7b99433dcb36a1f.json",
+  "parameterValues" : [ ]
+}

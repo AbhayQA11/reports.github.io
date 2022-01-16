@@ -1,0 +1,46 @@
+{
+  "uid" : "76625c6931fb8802",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaEnrollment: verify filters on Wait Listed Families page.should load Luca login Page successfully",
+  "historyId" : "dbbe8765b947701f8dbd92b7b9d62cf3",
+  "time" : {
+    "start" : 1642319441644,
+    "stop" : 1642319444224,
+    "duration" : 2580
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Wait Listed Families page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76625c6931fb8802.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "58252a60cc65ec3a",
+  "name" : "should modify user data in order to activate the family",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan .should modify user data in order to activate the family",
+  "historyId" : "35e9ffcd9c286bd76ee0daa79b973b14",
+  "time" : {
+    "start" : 1642323609776,
+    "stop" : 1642323686405,
+    "duration" : 76629
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to activate the family"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "58252a60cc65ec3a.json",
+  "parameterValues" : [ ]
+}

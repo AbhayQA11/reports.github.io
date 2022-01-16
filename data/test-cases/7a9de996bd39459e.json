@@ -1,0 +1,46 @@
+{
+  "uid" : "7a9de996bd39459e",
+  "name" : "should verify that the grade was modified",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should verify that the grade was modified",
+  "historyId" : "e64a63ac2b1cbc6730077335adc3f4fd",
+  "time" : {
+    "start" : 1642318556499,
+    "stop" : 1642318557165,
+    "duration" : 666
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the grade was modified"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a9de996bd39459e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "b190c28289d18fe0",
+  "name" : "should wait for the year change message",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should wait for the year change message",
+  "historyId" : "647df7daa841126ee19ab4fb73cf7dbe",
+  "time" : {
+    "start" : 1642317952890,
+    "stop" : 1642317954170,
+    "duration" : 1280
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for the year change message"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b190c28289d18fe0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "5b8b257d6e7ec307",
+  "name" : "should verify school changed year",
+  "fullName" : "lucaBillingTests: Edit Billing module, Fee and discount month availability.should verify school changed year",
+  "historyId" : "36a8f7b4007c5e68fa2d3c375da79128",
+  "time" : {
+    "start" : 1642319850518,
+    "stop" : 1642319852346,
+    "duration" : 1828
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 'School Year has changed to 2014-2015 (11084).' to be 'School Year has changed to 2019-2020 (11084).'.",
+  "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/lucaPages/lucaLandingPage/lucaLandingPage.js:1687:20\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:804:32\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Expected 'School Year has changed to 2014-2015 (11084).' to be 'School Year has changed to 2019-2020 (11084).'.",
+    "statusTrace" : "Error: Failed expectation\n                    at F:/k20automation/pages/lucaPages/lucaLandingPage/lucaLandingPage.js:1687:20\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:804:32\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2cfdbdb6c269f12e",
+      "name" : "Screenshot",
+      "source" : "2cfdbdb6c269f12e.png",
+      "type" : "image/png",
+      "size" : 156656
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify school changed year"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "5b8b257d6e7ec307.json",
+  "parameterValues" : [ ]
+}

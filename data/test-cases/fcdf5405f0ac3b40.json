@@ -1,0 +1,46 @@
+{
+  "uid" : "fcdf5405f0ac3b40",
+  "name" : "should click successfully on create new account",
+  "fullName" : "homepageTests: Enrollment with Bank Account entry.should click successfully on create new account",
+  "historyId" : "c2ab08e1a3abad208556ca5d512d35fb",
+  "time" : {
+    "start" : 1642317821772,
+    "stop" : 1642317827569,
+    "duration" : 5797
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click successfully on create new account"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fcdf5405f0ac3b40.json",
+  "parameterValues" : [ ]
+}

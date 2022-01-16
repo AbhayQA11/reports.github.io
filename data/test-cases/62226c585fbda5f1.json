@@ -1,0 +1,46 @@
+{
+  "uid" : "62226c585fbda5f1",
+  "name" : "should modify user data in order to log in into Jake site",
+  "fullName" : "Tuition Manager Bank Account Payment Encryption Verification.should modify user data in order to log in into Jake site",
+  "historyId" : "375388cee11558d2e0e58da6dc987ea",
+  "time" : {
+    "start" : 1642323950522,
+    "stop" : 1642323989388,
+    "duration" : 38866
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to log in into Jake site"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Bank Account Payment Encryption Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62226c585fbda5f1.json",
+  "parameterValues" : [ ]
+}

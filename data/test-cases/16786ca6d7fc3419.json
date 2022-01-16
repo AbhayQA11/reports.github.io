@@ -1,0 +1,46 @@
+{
+  "uid" : "16786ca6d7fc3419",
+  "name" : "should input an Amex Card Number into the required field",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should input an Amex Card Number into the required field",
+  "historyId" : "3ebbfe3961813a89c5c50e365b78c651",
+  "time" : {
+    "start" : 1642318137903,
+    "stop" : 1642318139575,
+    "duration" : 1672
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input an Amex Card Number into the required field"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16786ca6d7fc3419.json",
+  "parameterValues" : [ ]
+}

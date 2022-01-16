@@ -1,0 +1,46 @@
+{
+  "uid" : "644fd5d685a4c4b0",
+  "name" : "should click on selected state code",
+  "fullName" : "homepageTests: Enrollment with all payment options.should click on selected state code",
+  "historyId" : "ec397ac9efb9abf8c5569e36c87f2cf9",
+  "time" : {
+    "start" : 1642317912224,
+    "stop" : 1642317913201,
+    "duration" : 977
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on selected state code"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "644fd5d685a4c4b0.json",
+  "parameterValues" : [ ]
+}

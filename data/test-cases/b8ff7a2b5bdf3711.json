@@ -1,0 +1,46 @@
+{
+  "uid" : "b8ff7a2b5bdf3711",
+  "name" : "should load Luca login Page successfully and create a family with CC to use later",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should load Luca login Page successfully and create a family with CC to use later",
+  "historyId" : "cd187c7320d49aceff55ac33cea19f74",
+  "time" : {
+    "start" : 1642318463495,
+    "stop" : 1642318467058,
+    "duration" : 3563
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully and create a family with CC to use later"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8ff7a2b5bdf3711.json",
+  "parameterValues" : [ ]
+}

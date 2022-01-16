@@ -1,0 +1,46 @@
+{
+  "uid" : "3db3d688bf91a0ea",
+  "name" : "should set the password",
+  "fullName" : "homepageTests: Enrollment with Bank Account entry.should set the password",
+  "historyId" : "c3a3e3dd0bba8d0788405273fbeede61",
+  "time" : {
+    "start" : 1642317894277,
+    "stop" : 1642317895426,
+    "duration" : 1149
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should set the password"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3db3d688bf91a0ea.json",
+  "parameterValues" : [ ]
+}

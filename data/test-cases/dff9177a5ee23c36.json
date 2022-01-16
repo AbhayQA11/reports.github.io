@@ -1,0 +1,46 @@
+{
+  "uid" : "dff9177a5ee23c36",
+  "name" : "should mouseover Enrollment and then select Wait Listed Families",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should mouseover Enrollment and then select Wait Listed Families",
+  "historyId" : "95d0662da1d8f4da62203bdeeeb77acb",
+  "time" : {
+    "start" : 1642319964685,
+    "stop" : 1642319967333,
+    "duration" : 2648
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Enrollment and then select Wait Listed Families"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dff9177a5ee23c36.json",
+  "parameterValues" : [ ]
+}

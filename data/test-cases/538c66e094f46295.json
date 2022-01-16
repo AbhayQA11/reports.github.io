@@ -1,0 +1,46 @@
+{
+  "uid" : "538c66e094f46295",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaBillingTests: Edit Billing module, Total Column Verification.should load Luca login Page successfully",
+  "historyId" : "58ee164b678a1a989b83998b8d3e3c8",
+  "time" : {
+    "start" : 1642319732424,
+    "stop" : 1642319736204,
+    "duration" : 3780
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "538c66e094f46295.json",
+  "parameterValues" : [ ]
+}

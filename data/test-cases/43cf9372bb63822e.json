@@ -1,0 +1,46 @@
+{
+  "uid" : "43cf9372bb63822e",
+  "name" : "should get and store the Total Active Families ammount",
+  "fullName" : "Main Landing Page, Verify the accessibility of account page in Dashboard.should get and store the Total Active Families ammount",
+  "historyId" : "45545c958aae19468cb2104673f319a7",
+  "time" : {
+    "start" : 1642319988286,
+    "stop" : 1642319988863,
+    "duration" : 577
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the Total Active Families ammount"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43cf9372bb63822e.json",
+  "parameterValues" : [ ]
+}

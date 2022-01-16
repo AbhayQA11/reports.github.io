@@ -1,0 +1,46 @@
+{
+  "uid" : "f2fa90f304cb47ec",
+  "name" : "should click credit card year payment settings",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should click credit card year payment settings",
+  "historyId" : "6763214a0c5215287201bcf2639b012a",
+  "time" : {
+    "start" : 1642318543954,
+    "stop" : 1642318545327,
+    "duration" : 1373
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click credit card year payment settings"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2fa90f304cb47ec.json",
+  "parameterValues" : [ ]
+}

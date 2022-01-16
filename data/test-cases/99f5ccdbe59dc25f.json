@@ -1,0 +1,46 @@
+{
+  "uid" : "99f5ccdbe59dc25f",
+  "name" : "should input valid Text Reason Field value into the pop up field",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee.should input valid Text Reason Field value into the pop up field",
+  "historyId" : "a7b91fbf37fd3e2002c79ad23021e296",
+  "time" : {
+    "start" : 1642323193520,
+    "stop" : 1642323194720,
+    "duration" : 1200
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid Text Reason Field value into the pop up field"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees Add and Remove Late Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99f5ccdbe59dc25f.json",
+  "parameterValues" : [ ]
+}

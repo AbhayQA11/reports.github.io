@@ -1,0 +1,54 @@
+{
+  "uid" : "487faa32e96fcfb3",
+  "name" : "should uncheck all options from the Due Day dropdown",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should uncheck all options from the Due Day dropdown",
+  "historyId" : "90cf384216ff7ade9e72babb0db57e80",
+  "time" : {
+    "start" : 1642322510778,
+    "stop" : 1642322511741,
+    "duration" : 963
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should uncheck all options from the Due Day dropdown"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "26f4b84469d27375",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318331718,
+        "stop" : 1642318332675,
+        "duration" : 957
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "487faa32e96fcfb3.json",
+  "parameterValues" : [ ]
+}

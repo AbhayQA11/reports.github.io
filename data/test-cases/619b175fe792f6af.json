@@ -1,0 +1,46 @@
+{
+  "uid" : "619b175fe792f6af",
+  "name" : "should verify the confirmation message",
+  "fullName" : "Luca Settings: OW Api - Add new family login api API_073.should verify the confirmation message",
+  "historyId" : "6962e1cf109c42e9a753ca05542ebff7",
+  "time" : {
+    "start" : 1642323540349,
+    "stop" : 1642323548369,
+    "duration" : 8020
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the confirmation message"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "619b175fe792f6af.json",
+  "parameterValues" : [ ]
+}

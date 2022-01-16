@@ -1,0 +1,46 @@
+{
+  "uid" : "eeefae8e558039d1",
+  "name" : "should click on active families link",
+  "fullName" : "lucaEnrollment: Page links and controls validation.should click on active families link",
+  "historyId" : "f0b4aa298d81b58edb144179b3696fd3",
+  "time" : {
+    "start" : 1642319059079,
+    "stop" : 1642319062020,
+    "duration" : 2941
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on active families link"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eeefae8e558039d1.json",
+  "parameterValues" : [ ]
+}

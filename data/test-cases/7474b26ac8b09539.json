@@ -1,0 +1,46 @@
+{
+  "uid" : "7474b26ac8b09539",
+  "name" : "should get the family id",
+  "fullName" : "homepageTests: Enrollment with all payment options.should get the family id",
+  "historyId" : "c3242daccaf640e39a99a0910881ff5",
+  "time" : {
+    "start" : 1642317951336,
+    "stop" : 1642317954014,
+    "duration" : 2678
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get the family id"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7474b26ac8b09539.json",
+  "parameterValues" : [ ]
+}

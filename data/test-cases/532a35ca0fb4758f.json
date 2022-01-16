@@ -1,0 +1,46 @@
+{
+  "uid" : "532a35ca0fb4758f",
+  "name" : "should change school to 03136",
+  "fullName" : "lucaEnrollment: verify filters on Parent registration page.should change school to 03136",
+  "historyId" : "f62184f3351d688b38b168aff53902d2",
+  "time" : {
+    "start" : 1642319441749,
+    "stop" : 1642319443179,
+    "duration" : 1430
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Parent registration page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Parent registration page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should change school to 03136"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Parent registration page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "532a35ca0fb4758f.json",
+  "parameterValues" : [ ]
+}

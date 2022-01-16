@@ -1,0 +1,46 @@
+{
+  "uid" : "9fbfe3a5abfef53e",
+  "name" : "should click on the grade dropdown and then select the check all option",
+  "fullName" : "lucaEnrollment: verify filters on Deleted Families.should click on the grade dropdown and then select the check all option",
+  "historyId" : "8fb69fad5214e3296bc5a9fd1289ac90",
+  "time" : {
+    "start" : 1642319422291,
+    "stop" : 1642319425306,
+    "duration" : 3015
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the grade dropdown and then select the check all option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9fbfe3a5abfef53e.json",
+  "parameterValues" : [ ]
+}

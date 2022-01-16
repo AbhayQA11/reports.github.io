@@ -1,0 +1,46 @@
+{
+  "uid" : "4a627960c7fe1a41",
+  "name" : "should validate in ow api that the family appears deactivated",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should validate in ow api that the family appears deactivated",
+  "historyId" : "25084693e02519d5e4f04e666e2d644b",
+  "time" : {
+    "start" : 1642323477541,
+    "stop" : 1642323477931,
+    "duration" : 390
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should validate in ow api that the family appears deactivated"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a627960c7fe1a41.json",
+  "parameterValues" : [ ]
+}

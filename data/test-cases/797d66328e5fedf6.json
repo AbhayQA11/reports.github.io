@@ -1,0 +1,54 @@
+{
+  "uid" : "797d66328e5fedf6",
+  "name" : "should verify that Active Families tab is Highlighted",
+  "fullName" : "lucaFamiliesModuleTests: View All Families Details Pagination Details.should verify that Active Families tab is Highlighted",
+  "historyId" : "6933dc5259abc1e5f058c107e4358c51",
+  "time" : {
+    "start" : 1642322429850,
+    "stop" : 1642322431104,
+    "duration" : 1254
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Active Families tab is Highlighted"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: View All Families Details Pagination Details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dae8d9adb99d4875",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318264717,
+        "stop" : 1642318265736,
+        "duration" : 1019
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "797d66328e5fedf6.json",
+  "parameterValues" : [ ]
+}

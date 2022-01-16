@@ -1,0 +1,46 @@
+{
+  "uid" : "62cf6d00dd108e6a",
+  "name" : "should wait for the family and students billing details page to load",
+  "fullName" : "Luca Settings: OW Api - Add new family login api API_073.should wait for the family and students billing details page to load",
+  "historyId" : "9af3270add148c3502f1b207dbf05722",
+  "time" : {
+    "start" : 1642323559443,
+    "stop" : 1642323560689,
+    "duration" : 1246
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for the family and students billing details page to load"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62cf6d00dd108e6a.json",
+  "parameterValues" : [ ]
+}

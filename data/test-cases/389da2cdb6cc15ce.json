@@ -1,0 +1,46 @@
+{
+  "uid" : "389da2cdb6cc15ce",
+  "name" : "should log out from luca",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should log out from luca",
+  "historyId" : "37d9bc881e1dddce25701da0d6aee227",
+  "time" : {
+    "start" : 1642318532093,
+    "stop" : 1642318535786,
+    "duration" : 3693
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "389da2cdb6cc15ce.json",
+  "parameterValues" : [ ]
+}

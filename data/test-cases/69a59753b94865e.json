@@ -1,0 +1,46 @@
+{
+  "uid" : "69a59753b94865e",
+  "name" : "should input valid password",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should input valid password",
+  "historyId" : "1e6ee7ff31fb50a37ebe92f050d40f1c",
+  "time" : {
+    "start" : 1642322906776,
+    "stop" : 1642322908037,
+    "duration" : 1261
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid password"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69a59753b94865e.json",
+  "parameterValues" : [ ]
+}

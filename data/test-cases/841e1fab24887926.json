@@ -1,0 +1,46 @@
+{
+  "uid" : "841e1fab24887926",
+  "name" : "should verify that the Buttons are not Present",
+  "fullName" : "lucaBillingTests: Verify Read Only Test Account.should verify that the Buttons are not Present",
+  "historyId" : "dd9d7d3abf685706c3de0b30e83173c7",
+  "time" : {
+    "start" : 1642319519225,
+    "stop" : 1642319521147,
+    "duration" : 1922
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Buttons are not Present"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "841e1fab24887926.json",
+  "parameterValues" : [ ]
+}

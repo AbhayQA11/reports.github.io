@@ -1,0 +1,46 @@
+{
+  "uid" : "bd8945a805fd507f",
+  "name" : "should click on Admin Notes",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click on Admin Notes",
+  "historyId" : "c93971445cf0a27c1f5fbd0edd1975e1",
+  "time" : {
+    "start" : 1642319926549,
+    "stop" : 1642319927773,
+    "duration" : 1224
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Admin Notes"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd8945a805fd507f.json",
+  "parameterValues" : [ ]
+}

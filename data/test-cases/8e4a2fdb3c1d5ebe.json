@@ -1,0 +1,46 @@
+{
+  "uid" : "8e4a2fdb3c1d5ebe",
+  "name" : "should click login button",
+  "fullName" : "Luca Settings: Manage Payment Plans tests API_014.should click login button",
+  "historyId" : "aedb64fde5e91712a40510e82b436d2f",
+  "time" : {
+    "start" : 1642323347564,
+    "stop" : 1642323355341,
+    "duration" : 7777
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click login button"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e4a2fdb3c1d5ebe.json",
+  "parameterValues" : [ ]
+}

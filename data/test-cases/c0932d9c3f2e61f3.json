@@ -1,0 +1,48 @@
+{
+  "uid" : "c0932d9c3f2e61f3",
+  "name" : "encountered a declaration exception",
+  "fullName" : "Luca Settings: Verify Agreement text is present api-92.encountered a declaration exception",
+  "historyId" : "b4d61a30fa576a8e1fa406e5b68f9a93",
+  "time" : {
+    "start" : 1642323331207,
+    "stop" : 1642323331574,
+    "duration" : 367
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Known failure - agreementText does not match",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify Agreement text is present api-92"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify Agreement text is present api-92"
+  }, {
+    "name" : "testMethod",
+    "value" : "encountered a declaration exception"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify Agreement text is present api-92"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c0932d9c3f2e61f3.json",
+  "parameterValues" : [ ]
+}

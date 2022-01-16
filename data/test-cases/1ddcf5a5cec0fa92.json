@@ -1,0 +1,46 @@
+{
+  "uid" : "1ddcf5a5cec0fa92",
+  "name" : "should click the next buton in order to validate deposit details",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools.should click the next buton in order to validate deposit details",
+  "historyId" : "48621abd341b089ccb8a536aa497e656",
+  "time" : {
+    "start" : 1642318038084,
+    "stop" : 1642318039634,
+    "duration" : 1550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the next buton in order to validate deposit details"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Charter schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ddcf5a5cec0fa92.json",
+  "parameterValues" : [ ]
+}

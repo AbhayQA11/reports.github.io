@@ -1,0 +1,46 @@
+{
+  "uid" : "f9b72d33dc121d44",
+  "name" : "should input the zip code",
+  "fullName" : "homepageTests: Enrollment with all payment options.should input the zip code",
+  "historyId" : "88b749b396fa7f1a1333e544fafbe36a",
+  "time" : {
+    "start" : 1642317913201,
+    "stop" : 1642317914198,
+    "duration" : 997
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the zip code"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9b72d33dc121d44.json",
+  "parameterValues" : [ ]
+}

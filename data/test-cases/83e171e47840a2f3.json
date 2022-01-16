@@ -1,0 +1,46 @@
+{
+  "uid" : "83e171e47840a2f3",
+  "name" : "should input school number 11084 in the search field",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should input school number 11084 in the search field",
+  "historyId" : "2e00c45bb7c20f98c47fea79631024bc",
+  "time" : {
+    "start" : 1642318387059,
+    "stop" : 1642318388627,
+    "duration" : 1568
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input school number 11084 in the search field"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83e171e47840a2f3.json",
+  "parameterValues" : [ ]
+}

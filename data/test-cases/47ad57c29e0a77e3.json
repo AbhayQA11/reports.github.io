@@ -1,0 +1,46 @@
+{
+  "uid" : "47ad57c29e0a77e3",
+  "name" : "should select the latest school year",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_004.should select the latest school year",
+  "historyId" : "3229db7cb67f8da9b4472ddc8f5d1e38",
+  "time" : {
+    "start" : 1642323289289,
+    "stop" : 1642323292947,
+    "duration" : 3658
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_004"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47ad57c29e0a77e3.json",
+  "parameterValues" : [ ]
+}

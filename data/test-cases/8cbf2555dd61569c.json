@@ -1,0 +1,46 @@
+{
+  "uid" : "8cbf2555dd61569c",
+  "name" : "should input correct password",
+  "fullName" : "lucaBillingTests: Edit Billing module, multiple discount deletion.should input correct password",
+  "historyId" : "2a94c9085b6bc4c3a59014a49b1d2ac2",
+  "time" : {
+    "start" : 1642319753016,
+    "stop" : 1642319754207,
+    "duration" : 1191
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, multiple discount deletion"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8cbf2555dd61569c.json",
+  "parameterValues" : [ ]
+}

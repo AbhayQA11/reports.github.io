@@ -1,0 +1,46 @@
+{
+  "uid" : "8c8cd70d3c7463ae",
+  "name" : "should verify Change Confirmation Message",
+  "fullName" : "lucaAddANoteTests: Create a note and attaching an attachment.should verify Change Confirmation Message",
+  "historyId" : "e7e127ef564ebd386b19bbcfa4066d37",
+  "time" : {
+    "start" : 1642322984456,
+    "stop" : 1642322993154,
+    "duration" : 8698
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify Change Confirmation Message"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c8cd70d3c7463ae.json",
+  "parameterValues" : [ ]
+}

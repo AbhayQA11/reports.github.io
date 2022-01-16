@@ -1,0 +1,46 @@
+{
+  "uid" : "a5f23c117cd2be38",
+  "name" : "should click due date",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details Payment settings.should click due date",
+  "historyId" : "b4f76fa8f59ac29177b10bdd88713b96",
+  "time" : {
+    "start" : 1642318425545,
+    "stop" : 1642318433204,
+    "duration" : 7659
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click due date"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5f23c117cd2be38.json",
+  "parameterValues" : [ ]
+}

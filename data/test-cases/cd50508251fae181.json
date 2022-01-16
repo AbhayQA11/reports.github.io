@@ -1,0 +1,46 @@
+{
+  "uid" : "cd50508251fae181",
+  "name" : "should click the login button",
+  "fullName" : "homepageTests: Enrollment with Mail In Invoice payment option.should click the login button",
+  "historyId" : "c184385deffc7c7c27b88a8cc5f7efa6",
+  "time" : {
+    "start" : 1642317957005,
+    "stop" : 1642317963863,
+    "duration" : 6858
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the login button"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Mail In Invoice payment option"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd50508251fae181.json",
+  "parameterValues" : [ ]
+}

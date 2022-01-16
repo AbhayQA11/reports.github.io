@@ -1,0 +1,46 @@
+{
+  "uid" : "e0c5525b8dbfcbca",
+  "name" : "should click on the Spread Total button for both students",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Fees.should click on the Spread Total button for both students",
+  "historyId" : "fd32819958e6b5c7ea2466abc656a961",
+  "time" : {
+    "start" : 1642319650552,
+    "stop" : 1642319651675,
+    "duration" : 1123
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Spread Total button for both students"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0c5525b8dbfcbca.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "8177dfd5255f041e",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "Main Landing Page, Verify Search Functionality.should load Luca login Page successfully",
+  "historyId" : "ed1c7ab66c29c5ae2efecdd49eb10e51",
+  "time" : {
+    "start" : 1642319898593,
+    "stop" : 1642319900847,
+    "duration" : 2254
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8177dfd5255f041e.json",
+  "parameterValues" : [ ]
+}

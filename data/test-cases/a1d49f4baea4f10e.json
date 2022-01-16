@@ -1,0 +1,46 @@
+{
+  "uid" : "a1d49f4baea4f10e",
+  "name" : "should click on Error Severity and then select the Warning option",
+  "fullName" : "lucaEnrollment: verify filters on Pending Families.should click on Error Severity and then select the Warning option",
+  "historyId" : "73af2c448dc63ebcaa557b87e28f6e4d",
+  "time" : {
+    "start" : 1642319428036,
+    "stop" : 1642319430008,
+    "duration" : 1972
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Pending Families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Pending Families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Error Severity and then select the Warning option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Pending Families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1d49f4baea4f10e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "adf928bfc189bbeb",
+  "name" : "should verify the language drop-down",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should verify the language drop-down",
+  "historyId" : "425d98eb96a743872838f09ca892d563",
+  "time" : {
+    "start" : 1642323482424,
+    "stop" : 1642323483994,
+    "duration" : 1570
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the language drop-down"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "adf928bfc189bbeb.json",
+  "parameterValues" : [ ]
+}

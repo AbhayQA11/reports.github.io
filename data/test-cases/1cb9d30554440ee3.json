@@ -1,0 +1,46 @@
+{
+  "uid" : "1cb9d30554440ee3",
+  "name" : "should log out of luca",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Bank Account.should log out of luca",
+  "historyId" : "b0534a1c20b08146e2c87a0b4310a7a0",
+  "time" : {
+    "start" : 1642318295327,
+    "stop" : 1642318298556,
+    "duration" : 3229
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out of luca"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cb9d30554440ee3.json",
+  "parameterValues" : [ ]
+}

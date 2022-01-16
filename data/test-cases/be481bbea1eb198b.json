@@ -1,0 +1,46 @@
+{
+  "uid" : "be481bbea1eb198b",
+  "name" : "should mouseover Families and then select Email Parents",
+  "fullName" : "Main Landing Page, Verify Families + Discounts Menu Accessibility.should mouseover Families and then select Email Parents",
+  "historyId" : "223cffa235e4aa78e05af9dbe1c3cd0f",
+  "time" : {
+    "start" : 1642319904466,
+    "stop" : 1642319908022,
+    "duration" : 3556
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Families and then select Email Parents"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be481bbea1eb198b.json",
+  "parameterValues" : [ ]
+}

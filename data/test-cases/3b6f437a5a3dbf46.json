@@ -1,0 +1,46 @@
+{
+  "uid" : "3b6f437a5a3dbf46",
+  "name" : "should input Bank Routing Number",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should input Bank Routing Number",
+  "historyId" : "dbc97f559d3609e140912ce08a63b743",
+  "time" : {
+    "start" : 1642318571138,
+    "stop" : 1642318572828,
+    "duration" : 1690
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input Bank Routing Number"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b6f437a5a3dbf46.json",
+  "parameterValues" : [ ]
+}

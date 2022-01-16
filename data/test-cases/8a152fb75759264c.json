@@ -1,0 +1,46 @@
+{
+  "uid" : "8a152fb75759264c",
+  "name" : "should modify user data in order to log in the user in EWS",
+  "fullName" : "Call Center Payment Encryption Tests, Credit card family.should modify user data in order to log in the user in EWS",
+  "historyId" : "eccb3f0a78d3ed6562a9bfaa2242263e",
+  "time" : {
+    "start" : 1642323883054,
+    "stop" : 1642323918736,
+    "duration" : 35682
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to log in the user in EWS"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Credit card family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a152fb75759264c.json",
+  "parameterValues" : [ ]
+}

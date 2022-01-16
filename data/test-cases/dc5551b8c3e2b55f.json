@@ -1,0 +1,46 @@
+{
+  "uid" : "dc5551b8c3e2b55f",
+  "name" : "should check that the password field is focused on",
+  "fullName" : "lucaAuthentificationTests: User Authentification and Author, School Validation.should check that the password field is focused on",
+  "historyId" : "438acf82072d5abbad92681d1a07ce25",
+  "time" : {
+    "start" : 1642318218320,
+    "stop" : 1642318219227,
+    "duration" : 907
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check that the password field is focused on"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc5551b8c3e2b55f.json",
+  "parameterValues" : [ ]
+}

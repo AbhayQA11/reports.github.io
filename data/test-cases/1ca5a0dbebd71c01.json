@@ -1,0 +1,46 @@
+{
+  "uid" : "1ca5a0dbebd71c01",
+  "name" : "should load luca page successfully",
+  "fullName" : "homepageTests: Enrolling New Family with Credit Card.should load luca page successfully",
+  "historyId" : "d121b953fcc76b0062904d0e12e4305d",
+  "time" : {
+    "start" : 1642317992222,
+    "stop" : 1642317994834,
+    "duration" : 2612
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load luca page successfully"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ca5a0dbebd71c01.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "d7dfb03c938bf4fb",
+  "name" : "should load enrollment page successfully",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should load enrollment page successfully",
+  "historyId" : "1f49889e991d209c9ba4b01b3375261",
+  "time" : {
+    "start" : 1642317996993,
+    "stop" : 1642318001301,
+    "duration" : 4308
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load enrollment page successfully"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7dfb03c938bf4fb.json",
+  "parameterValues" : [ ]
+}

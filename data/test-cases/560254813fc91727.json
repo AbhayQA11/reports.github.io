@@ -1,0 +1,46 @@
+{
+  "uid" : "560254813fc91727",
+  "name" : "should load call API successfully",
+  "fullName" : "Luca Settings: Manage Payment Plans - check expiration date tests, API_010 and API_011.should load call API successfully",
+  "historyId" : "7173cf415bca876d172224fb4473d7c4",
+  "time" : {
+    "start" : 1642323333825,
+    "stop" : 1642323335633,
+    "duration" : 1808
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans - check expiration date tests, API_010 and API_011"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans - check expiration date tests, API_010 and API_011"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load call API successfully"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans - check expiration date tests, API_010 and API_011"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "560254813fc91727.json",
+  "parameterValues" : [ ]
+}

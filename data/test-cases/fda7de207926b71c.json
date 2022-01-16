@@ -1,0 +1,46 @@
+{
+  "uid" : "fda7de207926b71c",
+  "name" : "should input valid username",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should input valid username",
+  "historyId" : "edfe75a0a72734026ef86fb32ce665f",
+  "time" : {
+    "start" : 1642323264368,
+    "stop" : 1642323266651,
+    "duration" : 2283
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid username"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fda7de207926b71c.json",
+  "parameterValues" : [ ]
+}

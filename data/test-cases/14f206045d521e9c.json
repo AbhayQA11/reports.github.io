@@ -1,0 +1,46 @@
+{
+  "uid" : "14f206045d521e9c",
+  "name" : "should add cvv",
+  "fullName" : "homepageTests: Verifies Enrollment code for Remove Fees.should add cvv",
+  "historyId" : "aa4d857e91f088d4e6f868d3b6422cc4",
+  "time" : {
+    "start" : 1642317995639,
+    "stop" : 1642317998250,
+    "duration" : 2611
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add cvv"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "14f206045d521e9c.json",
+  "parameterValues" : [ ]
+}

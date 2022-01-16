@@ -1,0 +1,46 @@
+{
+  "uid" : "d84e8781de53a971",
+  "name" : "should get and store the newly added amount",
+  "fullName" : "Parent Site Payment Verification.should get and store the newly added amount",
+  "historyId" : "61659e508a2fbb2eb919d2061b553f84",
+  "time" : {
+    "start" : 1642323900059,
+    "stop" : 1642323901186,
+    "duration" : 1127
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the newly added amount"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d84e8781de53a971.json",
+  "parameterValues" : [ ]
+}

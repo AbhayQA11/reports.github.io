@@ -1,0 +1,46 @@
+{
+  "uid" : "e12e99872adf8c69",
+  "name" : "should click login button",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees controls Verification.should click login button",
+  "historyId" : "5a82ea19d8fbefb87bdc9b6d5f8b7360",
+  "time" : {
+    "start" : 1642323123973,
+    "stop" : 1642323130679,
+    "duration" : 6706
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click login button"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e12e99872adf8c69.json",
+  "parameterValues" : [ ]
+}

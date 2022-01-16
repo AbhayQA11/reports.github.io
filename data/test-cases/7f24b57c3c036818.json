@@ -1,0 +1,46 @@
+{
+  "uid" : "7f24b57c3c036818",
+  "name" : "should click login button",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click login button",
+  "historyId" : "e2ca624094e441c1559be27a27572be4",
+  "time" : {
+    "start" : 1642322908329,
+    "stop" : 1642322948510,
+    "duration" : 40181
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click login button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f24b57c3c036818.json",
+  "parameterValues" : [ ]
+}

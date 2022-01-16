@@ -1,0 +1,46 @@
+{
+  "uid" : "e2252b7c33f7048a",
+  "name" : "should click on Manage Payment Plans",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click on Manage Payment Plans",
+  "historyId" : "774c95850f182456946772d2465160fd",
+  "time" : {
+    "start" : 1642319906440,
+    "stop" : 1642319911319,
+    "duration" : 4879
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Manage Payment Plans"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2252b7c33f7048a.json",
+  "parameterValues" : [ ]
+}

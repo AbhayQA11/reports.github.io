@@ -1,0 +1,70 @@
+{
+  "uid" : "2b0157460241e2b6",
+  "name" : "should verify the Payment Amount",
+  "fullName" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied.should verify the Payment Amount",
+  "historyId" : "be281a71e343541ea68742e25cba95a8",
+  "time" : {
+    "start" : 1642324195949,
+    "stop" : 1642324197443,
+    "duration" : 1494
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testClass",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Payment Amount"
+  }, {
+    "name" : "package",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled using Credit Card with CC Fee and without, and a Payment can be applied"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1d00ae8f2eda2711",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642324188787,
+        "stop" : 1642324190383,
+        "duration" : 1596
+      }
+    }, {
+      "uid" : "6b373b2b2338e5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642324087695,
+        "stop" : 1642324089226,
+        "duration" : 1531
+      }
+    }, {
+      "uid" : "98da0e83822553ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642324080150,
+        "stop" : 1642324081657,
+        "duration" : 1507
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b0157460241e2b6.json",
+  "parameterValues" : [ ]
+}

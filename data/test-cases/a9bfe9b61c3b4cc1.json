@@ -1,0 +1,46 @@
+{
+  "uid" : "a9bfe9b61c3b4cc1",
+  "name" : "should click on luca family in a specific year ",
+  "fullName" : "lucaAuthentificationTests: User Authentification and Author, School Validation.should click on luca family in a specific year ",
+  "historyId" : "6243be2e475a8462916f31ed1d820429",
+  "time" : {
+    "start" : 1642318228581,
+    "stop" : 1642318233080,
+    "duration" : 4499
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on luca family in a specific year "
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification and Author, School Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9bfe9b61c3b4cc1.json",
+  "parameterValues" : [ ]
+}

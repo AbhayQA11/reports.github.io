@@ -1,0 +1,46 @@
+{
+  "uid" : "bac6c5e57a2ebf61",
+  "name" : "should verify that the Call Id, Attachment element and Save Note buttons are disabled",
+  "fullName" : "lucaAddANoteTests: Verifying Read Only Test User.should verify that the Call Id, Attachment element and Save Note buttons are disabled",
+  "historyId" : "4e0b756193ed3cc91d87460bc66e1872",
+  "time" : {
+    "start" : 1642322962173,
+    "stop" : 1642322963272,
+    "duration" : 1099
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Call Id, Attachment element and Save Note buttons are disabled"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bac6c5e57a2ebf61.json",
+  "parameterValues" : [ ]
+}

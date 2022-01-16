@@ -1,0 +1,46 @@
+{
+  "uid" : "f2a3d5f8cce560fe",
+  "name" : "should input the newly created Fee name into the Applied Billing Items Filter",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts.should input the newly created Fee name into the Applied Billing Items Filter",
+  "historyId" : "9811074373f603dc9db9398dc9d14b9a",
+  "time" : {
+    "start" : 1642320707693,
+    "stop" : 1642320711184,
+    "duration" : 3491
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the newly created Fee name into the Applied Billing Items Filter"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying Drag and Drop Functionality for Fees and Discounts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f2a3d5f8cce560fe.json",
+  "parameterValues" : [ ]
+}

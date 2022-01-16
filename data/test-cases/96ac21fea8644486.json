@@ -1,0 +1,54 @@
+{
+  "uid" : "96ac21fea8644486",
+  "name" : "should select family view from the View Mode drop-down first time",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should select family view from the View Mode drop-down first time",
+  "historyId" : "a598a242935ff2655515f01d153bc3e9",
+  "time" : {
+    "start" : 1642322579860,
+    "stop" : 1642322583310,
+    "duration" : 3450
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select family view from the View Mode drop-down first time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3ed854fa119d3775",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318358965,
+        "stop" : 1642318362342,
+        "duration" : 3377
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96ac21fea8644486.json",
+  "parameterValues" : [ ]
+}

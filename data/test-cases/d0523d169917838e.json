@@ -1,0 +1,46 @@
+{
+  "uid" : "d0523d169917838e",
+  "name" : "should type a search term and get message",
+  "fullName" : "homepageTests: Enrollment, Create New Account, Message Validation.should type a search term and get message",
+  "historyId" : "85548346336441d24375d61047a3831a",
+  "time" : {
+    "start" : 1642317825294,
+    "stop" : 1642317828884,
+    "duration" : 3590
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should type a search term and get message"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment, Create New Account, Message Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0523d169917838e.json",
+  "parameterValues" : [ ]
+}

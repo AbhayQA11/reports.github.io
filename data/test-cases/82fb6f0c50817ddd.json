@@ -1,0 +1,46 @@
+{
+  "uid" : "82fb6f0c50817ddd",
+  "name" : "should click on the Notes Dashboard Button, 2nd time",
+  "fullName" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard.should click on the Notes Dashboard Button, 2nd time",
+  "historyId" : "8ce2f86b8941f8e568315abbf89180e3",
+  "time" : {
+    "start" : 1642320036490,
+    "stop" : 1642320040194,
+    "duration" : 3704
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Notes Dashboard Button, 2nd time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "82fb6f0c50817ddd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c84c3ae4c43ba99a",
+  "name" : "should verify that the pop-up fields and buttons are present and displayed",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should verify that the pop-up fields and buttons are present and displayed",
+  "historyId" : "6912a9a24efa50029cb9ab316c36f7ea",
+  "time" : {
+    "start" : 1642320152974,
+    "stop" : 1642320156984,
+    "duration" : 4010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the pop-up fields and buttons are present and displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c84c3ae4c43ba99a.json",
+  "parameterValues" : [ ]
+}

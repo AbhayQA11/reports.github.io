@@ -1,0 +1,46 @@
+{
+  "uid" : "e9064c29cefb92e7",
+  "name" : "should click on Submit test data, 1st time",
+  "fullName" : "Renweb Tests: Registration for creating new family.should click on Submit test data, 1st time",
+  "historyId" : "f4e7c1d7bbe4ce8022f9f9c0823b42d7",
+  "time" : {
+    "start" : 1642318088054,
+    "stop" : 1642318088609,
+    "duration" : 555
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Submit test data, 1st time"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e9064c29cefb92e7.json",
+  "parameterValues" : [ ]
+}

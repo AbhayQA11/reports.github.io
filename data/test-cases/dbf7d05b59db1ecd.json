@@ -1,0 +1,46 @@
+{
+  "uid" : "dbf7d05b59db1ecd",
+  "name" : "should verify that various links are displayed in the Family Account Summary Page",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should verify that various links are displayed in the Family Account Summary Page",
+  "historyId" : "7b91549b5ec2f3a3f0cfe95136023c55",
+  "time" : {
+    "start" : 1642319191088,
+    "stop" : 1642319194062,
+    "duration" : 2974
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that various links are displayed in the Family Account Summary Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbf7d05b59db1ecd.json",
+  "parameterValues" : [ ]
+}

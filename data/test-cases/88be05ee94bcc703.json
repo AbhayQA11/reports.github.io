@@ -1,0 +1,46 @@
+{
+  "uid" : "88be05ee94bcc703",
+  "name" : "should input 10 digits into the Smart Follow-Up Fee field",
+  "fullName" : "lucaManageLateFeesTests: Manage Late Fees controls Verification.should input 10 digits into the Smart Follow-Up Fee field",
+  "historyId" : "48010b250d524e016edc42837e0b7b65",
+  "time" : {
+    "start" : 1642323190281,
+    "stop" : 1642323191449,
+    "duration" : 1168
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input 10 digits into the Smart Follow-Up Fee field"
+  }, {
+    "name" : "package",
+    "value" : "lucaManageLateFeesTests: Manage Late Fees controls Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88be05ee94bcc703.json",
+  "parameterValues" : [ ]
+}

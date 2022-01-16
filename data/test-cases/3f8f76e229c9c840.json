@@ -1,0 +1,44 @@
+{
+  "uid" : "3f8f76e229c9c840",
+  "name" : "should click on the payment plan dropdown and then select the check all option",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should click on the payment plan dropdown and then select the check all option",
+  "historyId" : "1c9fc30b2822e796ec7994a7311cf510",
+  "time" : {
+    "start" : 1642318322734,
+    "stop" : 1642318325060,
+    "duration" : 2326
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the payment plan dropdown and then select the check all option"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f8f76e229c9c840.json",
+  "parameterValues" : [ ]
+}

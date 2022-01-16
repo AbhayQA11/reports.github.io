@@ -1,0 +1,46 @@
+{
+  "uid" : "acd664ccefc04aec",
+  "name" : "should click on login button",
+  "fullName" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard.should click on login button",
+  "historyId" : "69096dbdb8813449143c5f81b4271733",
+  "time" : {
+    "start" : 1642320008067,
+    "stop" : 1642320014731,
+    "duration" : 6664
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on login button"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "acd664ccefc04aec.json",
+  "parameterValues" : [ ]
+}

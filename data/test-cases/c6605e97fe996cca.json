@@ -1,0 +1,46 @@
+{
+  "uid" : "c6605e97fe996cca",
+  "name" : "should verify that the appropriate login error message is received when password field is empty",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should verify that the appropriate login error message is received when password field is empty",
+  "historyId" : "aafd5bbcebe5a1b4e4ba2e27d66dd8e1",
+  "time" : {
+    "start" : 1642318033466,
+    "stop" : 1642318037126,
+    "duration" : 3660
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate login error message is received when password field is empty"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c6605e97fe996cca.json",
+  "parameterValues" : [ ]
+}

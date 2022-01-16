@@ -1,0 +1,46 @@
+{
+  "uid" : "cfd816d9011cce20",
+  "name" : "should load Luca login Page successfully in order to verify API data is correct in UI",
+  "fullName" : "Luca Settings: Verify Luca User can link two families api-92.should load Luca login Page successfully in order to verify API data is correct in UI",
+  "historyId" : "9bdde8963ec548a0738d2bc37af73381",
+  "time" : {
+    "start" : 1642323648663,
+    "stop" : 1642323651549,
+    "duration" : 2886
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully in order to verify API data is correct in UI"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cfd816d9011cce20.json",
+  "parameterValues" : [ ]
+}

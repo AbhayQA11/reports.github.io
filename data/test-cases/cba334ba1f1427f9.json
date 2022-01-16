@@ -1,0 +1,46 @@
+{
+  "uid" : "cba334ba1f1427f9",
+  "name" : "should click students per family and then select the check all option",
+  "fullName" : "lucaEnrollment: verify filters on All families.should click students per family and then select the check all option",
+  "historyId" : "4699433c1dc2ed4a738f3699f29719fe",
+  "time" : {
+    "start" : 1642319393740,
+    "stop" : 1642319396344,
+    "duration" : 2604
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on All families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on All families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click students per family and then select the check all option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on All families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cba334ba1f1427f9.json",
+  "parameterValues" : [ ]
+}

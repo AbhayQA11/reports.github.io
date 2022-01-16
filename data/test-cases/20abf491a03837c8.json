@@ -1,0 +1,46 @@
+{
+  "uid" : "20abf491a03837c8",
+  "name" : "should click login",
+  "fullName" : "lucaDashboardsTests: Luca Payments, add a payment, read only user.should click login",
+  "historyId" : "ad682aaad5fc49fd4cc9459462d6e2bc",
+  "time" : {
+    "start" : 1642321149272,
+    "stop" : 1642321155632,
+    "duration" : 6360
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click login"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20abf491a03837c8.json",
+  "parameterValues" : [ ]
+}

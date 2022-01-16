@@ -1,0 +1,46 @@
+{
+  "uid" : "be27570d5dbd96fd",
+  "name" : "should modify user data in order to activate the family",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should modify user data in order to activate the family",
+  "historyId" : "44e685c232ad98d9251e1465faa58dee",
+  "time" : {
+    "start" : 1642322902782,
+    "stop" : 1642322971876,
+    "duration" : 69094
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should modify user data in order to activate the family"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be27570d5dbd96fd.json",
+  "parameterValues" : [ ]
+}

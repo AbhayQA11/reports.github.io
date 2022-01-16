@@ -1,0 +1,46 @@
+{
+  "uid" : "e6ffd9061d692334",
+  "name" : "should click on login button",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should click on login button",
+  "historyId" : "46d1608d351254f3d06b6ec400e11f4c",
+  "time" : {
+    "start" : 1642319882711,
+    "stop" : 1642319888621,
+    "duration" : 5910
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on login button"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6ffd9061d692334.json",
+  "parameterValues" : [ ]
+}

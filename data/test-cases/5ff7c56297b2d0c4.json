@@ -1,0 +1,46 @@
+{
+  "uid" : "5ff7c56297b2d0c4",
+  "name" : "should verify that the appropriate confirmation message is received again",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details Payment settings.should verify that the appropriate confirmation message is received again",
+  "historyId" : "5f6dcf245f53c7063f82dfd9212c583a",
+  "time" : {
+    "start" : 1642318445380,
+    "stop" : 1642318447181,
+    "duration" : 1801
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate confirmation message is received again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ff7c56297b2d0c4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c7225a8fc8078304",
+  "name" : "should input valid password",
+  "fullName" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service.should input valid password",
+  "historyId" : "a6fa6443eff82d26b8a320de31db6ae1",
+  "time" : {
+    "start" : 1642323015612,
+    "stop" : 1642323016965,
+    "duration" : 1353
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid password"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a Note Invoice directed to Customer Service"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7225a8fc8078304.json",
+  "parameterValues" : [ ]
+}

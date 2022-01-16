@@ -1,0 +1,46 @@
+{
+  "uid" : "26fbb8a6b7fc61b0",
+  "name" : "should load luca page successfully",
+  "fullName" : "homepageTests: Enrollment with all payment options.should load luca page successfully",
+  "historyId" : "e0302a904cff0137d0e9e37d6d45722e",
+  "time" : {
+    "start" : 1642317954014,
+    "stop" : 1642317956462,
+    "duration" : 2448
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load luca page successfully"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "26fbb8a6b7fc61b0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "59c82619591b7aee",
+  "name" : "should get and store the first hash",
+  "fullName" : "Renweb Tests: Registration for creating new family.should get and store the first hash",
+  "historyId" : "78c5a4e1cde1a96ef3bc78834ef5425b",
+  "time" : {
+    "start" : 1642318087355,
+    "stop" : 1642318088054,
+    "duration" : 699
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the first hash"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "59c82619591b7aee.json",
+  "parameterValues" : [ ]
+}

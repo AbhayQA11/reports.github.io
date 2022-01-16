@@ -1,0 +1,46 @@
+{
+  "uid" : "3bc5c24d9a4f417",
+  "name" : "should verify that the school student ids upload Page has been reached",
+  "fullName" : "Main Landing Page, Switching School Year Verification .should verify that the school student ids upload Page has been reached",
+  "historyId" : "8bb6c2982ef66ccd0b2cf9d5c12fa409",
+  "time" : {
+    "start" : 1642319985930,
+    "stop" : 1642319989625,
+    "duration" : 3695
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the school student ids upload Page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3bc5c24d9a4f417.json",
+  "parameterValues" : [ ]
+}

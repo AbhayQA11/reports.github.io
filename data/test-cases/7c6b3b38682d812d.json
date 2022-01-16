@@ -1,0 +1,46 @@
+{
+  "uid" : "7c6b3b38682d812d",
+  "name" : "should click purge afamily button",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should click purge afamily button",
+  "historyId" : "9242f2fdc03b17fd072310c232bd450b",
+  "time" : {
+    "start" : 1642318521707,
+    "stop" : 1642318527826,
+    "duration" : 6119
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click purge afamily button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c6b3b38682d812d.json",
+  "parameterValues" : [ ]
+}

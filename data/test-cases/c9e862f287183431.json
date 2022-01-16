@@ -1,0 +1,46 @@
+{
+  "uid" : "c9e862f287183431",
+  "name" : "should click on go button in order to search by the created family family ID",
+  "fullName" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91.should click on go button in order to search by the created family family ID",
+  "historyId" : "40cc9a46f3c5c1e67c7627e633a6c5a1",
+  "time" : {
+    "start" : 1642323645633,
+    "stop" : 1642323647084,
+    "duration" : 1451
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on go button in order to search by the created family family ID"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify User can create a Split family via APi Endpoint, api-91"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9e862f287183431.json",
+  "parameterValues" : [ ]
+}

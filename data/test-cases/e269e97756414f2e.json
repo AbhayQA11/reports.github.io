@@ -1,0 +1,48 @@
+{
+  "uid" : "e269e97756414f2e",
+  "name" : "should send valid data into the Reason field third time",
+  "fullName" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification.should send valid data into the Reason field third time",
+  "historyId" : "18be84f6fe98adcff7c4d8a2f2526cea",
+  "time" : {
+    "start" : 1642323461386,
+    "stop" : 1642323461387,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should send valid data into the Reason field third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e269e97756414f2e.json",
+  "parameterValues" : [ ]
+}

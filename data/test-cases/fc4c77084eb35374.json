@@ -1,0 +1,46 @@
+{
+  "uid" : "fc4c77084eb35374",
+  "name" : "should click on Resources Link in order to reach Help Resources page",
+  "fullName" : "Main Landing Page, Verify the accessibility of Training Classes.should click on Resources Link in order to reach Help Resources page",
+  "historyId" : "59470208d73a83a352108da01ef96178",
+  "time" : {
+    "start" : 1642320100875,
+    "stop" : 1642320102070,
+    "duration" : 1195
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Resources Link in order to reach Help Resources page"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc4c77084eb35374.json",
+  "parameterValues" : [ ]
+}

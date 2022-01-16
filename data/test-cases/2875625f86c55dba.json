@@ -1,0 +1,46 @@
+{
+  "uid" : "2875625f86c55dba",
+  "name" : "should hover over the Enrollment tab and verify that the hyperlinks with icons are displayed",
+  "fullName" : "lucaEnrollment: Page links and controls validation.should hover over the Enrollment tab and verify that the hyperlinks with icons are displayed",
+  "historyId" : "f2531a72437e6c3f3f84feb2d9c4eb82",
+  "time" : {
+    "start" : 1642319045918,
+    "stop" : 1642319049360,
+    "duration" : 3442
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should hover over the Enrollment tab and verify that the hyperlinks with icons are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Page links and controls validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2875625f86c55dba.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "2b6f4510ac30241c",
+  "name" : "should input username for a Luca Test User",
+  "fullName" : "lucaDashboardsTests: Luca Payments, add a payment, read only user.should input username for a Luca Test User",
+  "historyId" : "55ec8f50358c4562058540aa9b0ddf38",
+  "time" : {
+    "start" : 1642321145644,
+    "stop" : 1642321148005,
+    "duration" : 2361
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input username for a Luca Test User"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b6f4510ac30241c.json",
+  "parameterValues" : [ ]
+}

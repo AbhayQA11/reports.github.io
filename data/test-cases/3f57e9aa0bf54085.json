@@ -1,0 +1,76 @@
+{
+  "uid" : "3f57e9aa0bf54085",
+  "name" : "should add a student with Credit Card Method",
+  "fullName" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90.should add a student with Credit Card Method",
+  "historyId" : "6aec253519539fb77df89fe0c29d4590",
+  "time" : {
+    "start" : 1642323610687,
+    "stop" : 1642323666332,
+    "duration" : 55645
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "<html>\n                <head><title>502 Bad Gateway</title></head>\n                <body>\n                <center><h1>502 Bad Gateway</h1></center>\n                <hr><center>openresty/1.15.8.2</center>\n                </body>\n                </html>\n                 thrown",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "<html>\n                <head><title>502 Bad Gateway</title></head>\n                <body>\n                <center><h1>502 Bad Gateway</h1></center>\n                <hr><center>openresty/1.15.8.2</center>\n                </body>\n                </html>\n                 thrown",
+    "statusTrace" : "undefined",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "77e3c1a11ac9098b",
+      "name" : "Screenshot",
+      "source" : "77e3c1a11ac9098b.png",
+      "type" : "image/png",
+      "size" : 10592
+    }, {
+      "uid" : "746de52f3f60597f",
+      "name" : "Screenshot",
+      "source" : "746de52f3f60597f.png",
+      "type" : "image/png",
+      "size" : 10592
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add a student with Credit Card Method"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: add a student and verify payment methods: Unknown, Credit Card, Ach API_90"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3f57e9aa0bf54085.json",
+  "parameterValues" : [ ]
+}

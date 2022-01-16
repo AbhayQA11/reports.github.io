@@ -1,0 +1,46 @@
+{
+  "uid" : "96e23a8493a67bc",
+  "name" : "should create a family with Empty mandatory fields in the Student Base Billing",
+  "fullName" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63.should create a family with Empty mandatory fields in the Student Base Billing",
+  "historyId" : "9f81cf1831530afefa3b09ad41341d9a",
+  "time" : {
+    "start" : 1642323565494,
+    "stop" : 1642323566975,
+    "duration" : 1481
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family with Empty mandatory fields in the Student Base Billing"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify Incidental Billing API_61, API_62, API_63"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96e23a8493a67bc.json",
+  "parameterValues" : [ ]
+}

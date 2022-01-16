@@ -1,0 +1,46 @@
+{
+  "uid" : "a23eebf28d20f6f7",
+  "name" : "should input the full fee amount in the Total column",
+  "fullName" : "lucaBillingTests: Edit Billing module, Total Column Verification.should input the full fee amount in the Total column",
+  "historyId" : "6e102d1966a60ae8e5fd1da7541f8c85",
+  "time" : {
+    "start" : 1642319765349,
+    "stop" : 1642319767108,
+    "duration" : 1759
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the full fee amount in the Total column"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a23eebf28d20f6f7.json",
+  "parameterValues" : [ ]
+}

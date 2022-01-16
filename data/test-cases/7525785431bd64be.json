@@ -1,0 +1,46 @@
+{
+  "uid" : "7525785431bd64be",
+  "name" : "should mouse Move Over Fees and Discounts and verify the presence of the links",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should mouse Move Over Fees and Discounts and verify the presence of the links",
+  "historyId" : "4ad03ba670975bc4f2a7d0c7420bbb82",
+  "time" : {
+    "start" : 1642320133145,
+    "stop" : 1642320136013,
+    "duration" : 2868
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouse Move Over Fees and Discounts and verify the presence of the links"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7525785431bd64be.json",
+  "parameterValues" : [ ]
+}

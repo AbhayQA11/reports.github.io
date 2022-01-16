@@ -1,0 +1,46 @@
+{
+  "uid" : "f205c06ea09a52f5",
+  "name" : "should click on Account Recognition Type Deferred, again",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should click on Account Recognition Type Deferred, again",
+  "historyId" : "739bc84acebed56dc978b8807adb854e",
+  "time" : {
+    "start" : 1642323129023,
+    "stop" : 1642323130749,
+    "duration" : 1726
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Account Recognition Type Deferred, again"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f205c06ea09a52f5.json",
+  "parameterValues" : [ ]
+}

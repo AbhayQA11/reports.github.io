@@ -1,0 +1,46 @@
+{
+  "uid" : "38a29ae971bba09a",
+  "name" : "should verify that the error message is displayed fourth time",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should verify that the error message is displayed fourth time",
+  "historyId" : "c9df5653fc92890c491dd5348eba13ec",
+  "time" : {
+    "start" : 1642318219970,
+    "stop" : 1642318221146,
+    "duration" : 1176
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the error message is displayed fourth time"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38a29ae971bba09a.json",
+  "parameterValues" : [ ]
+}

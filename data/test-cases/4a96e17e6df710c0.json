@@ -1,0 +1,46 @@
+{
+  "uid" : "4a96e17e6df710c0",
+  "name" : "should click on the Others button",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on the Others button",
+  "historyId" : "1d2ac2d64d921be9d8f0656a6aceb016",
+  "time" : {
+    "start" : 1642322978378,
+    "stop" : 1642322980015,
+    "duration" : 1637
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Others button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a96e17e6df710c0.json",
+  "parameterValues" : [ ]
+}

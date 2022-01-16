@@ -1,0 +1,46 @@
+{
+  "uid" : "cca1dd66aa91b49f",
+  "name" : "should input correct password",
+  "fullName" : "lucaEnrollment: Uploading Same Spreadsheet Enrollment Data Twice.should input correct password",
+  "historyId" : "d0b7cdf32499cd8948e09a4994d55e3a",
+  "time" : {
+    "start" : 1642319101566,
+    "stop" : 1642319102774,
+    "duration" : 1208
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Uploading Same Spreadsheet Enrollment Data Twice"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Uploading Same Spreadsheet Enrollment Data Twice"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct password"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Uploading Same Spreadsheet Enrollment Data Twice"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cca1dd66aa91b49f.json",
+  "parameterValues" : [ ]
+}

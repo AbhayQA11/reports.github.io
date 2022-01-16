@@ -1,0 +1,46 @@
+{
+  "uid" : "7301b82a814b4775",
+  "name" : "should verify only some sections are visible to a School User in the payment information page",
+  "fullName" : "lucaDashboardsTests: Luca Payments, add a payment, read only user.should verify only some sections are visible to a School User in the payment information page",
+  "historyId" : "e86d0dcda363eee2a8210295fd295700",
+  "time" : {
+    "start" : 1642321160935,
+    "stop" : 1642321167164,
+    "duration" : 6229
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify only some sections are visible to a School User in the payment information page"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, read only user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7301b82a814b4775.json",
+  "parameterValues" : [ ]
+}

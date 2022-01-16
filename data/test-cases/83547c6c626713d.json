@@ -1,0 +1,46 @@
+{
+  "uid" : "83547c6c626713d",
+  "name" : "should click on Student",
+  "fullName" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee.should click on Student",
+  "historyId" : "26edec33d75b41533f86b2f7c89caa40",
+  "time" : {
+    "start" : 1642320814847,
+    "stop" : 1642320817191,
+    "duration" : 2344
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Student"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Create, Edit and Remove Fee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83547c6c626713d.json",
+  "parameterValues" : [ ]
+}

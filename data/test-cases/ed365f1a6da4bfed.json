@@ -1,0 +1,46 @@
+{
+  "uid" : "ed365f1a6da4bfed",
+  "name" : "should input username",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups.should input username",
+  "historyId" : "d8a1a6711a8b12f9e7076ebb1c89199",
+  "time" : {
+    "start" : 1642320872139,
+    "stop" : 1642320874366,
+    "duration" : 2227
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input username"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed365f1a6da4bfed.json",
+  "parameterValues" : [ ]
+}

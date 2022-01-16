@@ -1,0 +1,46 @@
+{
+  "uid" : "421d7360f8d752c1",
+  "name" : "should select the Payment Method",
+  "fullName" : "lucaEnrollment: Enroll new family .should select the Payment Method",
+  "historyId" : "ab4c8b741d753540c2c58bfda83700c3",
+  "time" : {
+    "start" : 1642319107355,
+    "stop" : 1642319110541,
+    "duration" : 3186
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the Payment Method"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "421d7360f8d752c1.json",
+  "parameterValues" : [ ]
+}

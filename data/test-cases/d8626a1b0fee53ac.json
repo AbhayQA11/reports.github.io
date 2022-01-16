@@ -1,0 +1,46 @@
+{
+  "uid" : "d8626a1b0fee53ac",
+  "name" : "should verify that the appropriate buttons appear after clicking the Add Discount button",
+  "fullName" : "lucaBillingTests: Add Fee and Discount Controls verification.should verify that the appropriate buttons appear after clicking the Add Discount button",
+  "historyId" : "789d90ed90879336665c4befe34f42cf",
+  "time" : {
+    "start" : 1642319529342,
+    "stop" : 1642319531022,
+    "duration" : 1680
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Add Fee and Discount Controls verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Add Fee and Discount Controls verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate buttons appear after clicking the Add Discount button"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Add Fee and Discount Controls verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8626a1b0fee53ac.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "5fa2be41a9016a3b",
+  "name" : "should click on the Settings Button, then click on Manage Contact Information",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should click on the Settings Button, then click on Manage Contact Information",
+  "historyId" : "fd2d1eae653a54e92adc8ff6e71ba10c",
+  "time" : {
+    "start" : 1642320071824,
+    "stop" : 1642320076111,
+    "duration" : 4287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Settings Button, then click on Manage Contact Information"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fa2be41a9016a3b.json",
+  "parameterValues" : [ ]
+}

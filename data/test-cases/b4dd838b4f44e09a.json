@@ -1,0 +1,46 @@
+{
+  "uid" : "b4dd838b4f44e09a",
+  "name" : "should verify that the Lates Entry Amount is what was paid before",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should verify that the Lates Entry Amount is what was paid before",
+  "historyId" : "1acc6d1af2c534eb9f4415a9c476c379",
+  "time" : {
+    "start" : 1642323918213,
+    "stop" : 1642323920065,
+    "duration" : 1852
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Lates Entry Amount is what was paid before"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4dd838b4f44e09a.json",
+  "parameterValues" : [ ]
+}

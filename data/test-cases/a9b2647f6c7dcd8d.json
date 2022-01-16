@@ -1,0 +1,46 @@
+{
+  "uid" : "a9b2647f6c7dcd8d",
+  "name" : "should click on login button",
+  "fullName" : "lucaBillingTests: Edit Billing module, Fee and discount month availability.should click on login button",
+  "historyId" : "cd02a0b08ed7418397e6e783a5fe3ff4",
+  "time" : {
+    "start" : 1642319815014,
+    "stop" : 1642319823723,
+    "duration" : 8709
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on login button"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9b2647f6c7dcd8d.json",
+  "parameterValues" : [ ]
+}

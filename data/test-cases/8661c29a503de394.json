@@ -1,0 +1,46 @@
+{
+  "uid" : "8661c29a503de394",
+  "name" : "should select A Payment Day",
+  "fullName" : "lucaEnrollment: Enroll new family and Verify links.should select A Payment Day",
+  "historyId" : "c2b27be3f811678ecc773e4dfa885ce5",
+  "time" : {
+    "start" : 1642319179874,
+    "stop" : 1642319181974,
+    "duration" : 2100
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select A Payment Day"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family and Verify links"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8661c29a503de394.json",
+  "parameterValues" : [ ]
+}

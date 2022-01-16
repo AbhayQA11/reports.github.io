@@ -1,0 +1,46 @@
+{
+  "uid" : "4b795a1f4cb9e1f",
+  "name" : "should select a Fee, Advance deposit fixed",
+  "fullName" : "lucaBillingTests: Edit Billing module, Total Column Verification.should select a Fee, Advance deposit fixed",
+  "historyId" : "3c657d9397d33744e292896b2f61fc2a",
+  "time" : {
+    "start" : 1642319787802,
+    "stop" : 1642319790016,
+    "duration" : 2214
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a Fee, Advance deposit fixed"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b795a1f4cb9e1f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "eb724c9ef2a9a579",
+  "name" : "should input a Invalid User Name",
+  "fullName" : "Tuition Manager Authentification Module.should input a Invalid User Name",
+  "historyId" : "efee0f8afe0df85feab5709f319622ca",
+  "time" : {
+    "start" : 1642323986430,
+    "stop" : 1642323993587,
+    "duration" : 7157
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a Invalid User Name"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb724c9ef2a9a579.json",
+  "parameterValues" : [ ]
+}

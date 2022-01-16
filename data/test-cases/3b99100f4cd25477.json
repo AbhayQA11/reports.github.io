@@ -1,0 +1,70 @@
+{
+  "uid" : "3b99100f4cd25477",
+  "name" : "should select Across Plan for Discount",
+  "fullName" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests.should select Across Plan for Discount",
+  "historyId" : "9b6ca4a9423be5c525a04fb5a9efb7c3",
+  "time" : {
+    "start" : 1642323763679,
+    "stop" : 1642323769508,
+    "duration" : 5829
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: Wait timed out after 5120ms",
+  "statusTrace" : "TimeoutError: Wait timed out after 5120ms\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n                From: Task: <anonymous wait>\n                    at ControlFlow.browser.driver.controlFlow.execute (F:\\k20automation\\configs\\conf.js:538:21)\n                    at scheduleWait (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2188:20)\n                    at ControlFlow.wait (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2517:12)\n                    at Driver.wait (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:934:29)\n                    at run (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\browser.js:66:16)\n                    at abstractPage.waitForElementPresent (F:/k20automation/pages/abstractPage/abstractPage.js:331:13)\n                    at lucaPaymentPlansPage.verifyDistributionTypeDropdownValues (F:/k20automation/pages/lucaPages/lucaChangePaymentPlansPage/lucaPaymentPlansPage.js:196:14)\n                    at UserContext.<anonymous> (F:/k20automation/tests/lucaTests/lucaChangePaymentPlansTests/luca_ChangePaymentPlansDiscountTests_spec.js:119:17)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                From: Task: Run it(\"should select Across Plan for Discount\") in control flow\n                    at ControlFlow.browser.driver.controlFlow.execute (F:\\k20automation\\configs\\conf.js:538:21)\n                    at UserContext.<anonymous> (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n                    at ControlFlow.emit (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n                    at ControlFlow.shutdown_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (F:/k20automation/tests/lucaTests/lucaChangePaymentPlansTests/luca_ChangePaymentPlansDiscountTests_spec.js:118:3)\n                    at addSpecsToSuite (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (F:/k20automation/tests/lucaTests/lucaChangePaymentPlansTests/luca_ChangePaymentPlansDiscountTests_spec.js:15:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n                    at loader (F:\\k20automation\\node_modules\\babel-register\\lib\\node.js:144:5)\n                    at Object.require.extensions.<computed> [as .js] (F:\\k20automation\\node_modules\\babel-register\\lib\\node.js:154:7)\n                    at Module.load (internal/modules/cjs/loader.js:928:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Failed: Wait timed out after 5120ms",
+    "statusTrace" : "TimeoutError: Wait timed out after 5120ms\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2201:17\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:93:5)\n                From: Task: <anonymous wait>\n                    at ControlFlow.browser.driver.controlFlow.execute (F:\\k20automation\\configs\\conf.js:538:21)\n                    at scheduleWait (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2188:20)\n                    at ControlFlow.wait (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2517:12)\n                    at Driver.wait (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\webdriver.js:934:29)\n                    at run (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\browser.js:58:33)\n                    at ProtractorBrowser.to.<computed> [as wait] (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\browser.js:66:16)\n                    at abstractPage.waitForElementPresent (F:/k20automation/pages/abstractPage/abstractPage.js:331:13)\n                    at lucaPaymentPlansPage.verifyDistributionTypeDropdownValues (F:/k20automation/pages/lucaPages/lucaChangePaymentPlansPage/lucaPaymentPlansPage.js:196:14)\n                    at UserContext.<anonymous> (F:/k20automation/tests/lucaTests/lucaChangePaymentPlansTests/luca_ChangePaymentPlansDiscountTests_spec.js:119:17)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                From: Task: Run it(\"should select Across Plan for Discount\") in control flow\n                    at ControlFlow.browser.driver.controlFlow.execute (F:\\k20automation\\configs\\conf.js:538:21)\n                    at UserContext.<anonymous> (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at runNext (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4257:20)\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4264:13\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4172:9\n                    at C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:64:48\n                    at ControlFlow.emit (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\events.js:62:21)\n                    at ControlFlow.shutdown_ (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2674:10)\n                From asynchronous test: \n                Error\n                    at Suite.<anonymous> (F:/k20automation/tests/lucaTests/lucaChangePaymentPlansTests/luca_ChangePaymentPlansDiscountTests_spec.js:118:3)\n                    at addSpecsToSuite (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\Abhay-PC\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (F:/k20automation/tests/lucaTests/lucaChangePaymentPlansTests/luca_ChangePaymentPlansDiscountTests_spec.js:15:1)\n                    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n                    at loader (F:\\k20automation\\node_modules\\babel-register\\lib\\node.js:144:5)\n                    at Object.require.extensions.<computed> [as .js] (F:\\k20automation\\node_modules\\babel-register\\lib\\node.js:154:7)\n                    at Module.load (internal/modules/cjs/loader.js:928:32)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "195dbc8e065744cc",
+      "name" : "Screenshot",
+      "source" : "195dbc8e065744cc.png",
+      "type" : "image/png",
+      "size" : 77194
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select Across Plan for Discount"
+  }, {
+    "name" : "package",
+    "value" : "lucaChangePaymentPlans: Change Payment Plan module, Payment Plan Discount Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3b99100f4cd25477.json",
+  "parameterValues" : [ ]
+}

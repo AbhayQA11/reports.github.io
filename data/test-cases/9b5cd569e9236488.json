@@ -1,0 +1,46 @@
+{
+  "uid" : "9b5cd569e9236488",
+  "name" : "should load call API successfully",
+  "fullName" : "Luca Settings: Auth OW Api - Generate school token, API_071.should load call API successfully",
+  "historyId" : "96c114e2ac9e49e9f786cd50e9ec49f3",
+  "time" : {
+    "start" : 1642323482661,
+    "stop" : 1642323484162,
+    "duration" : 1501
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Auth OW Api - Generate school token, API_071"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Auth OW Api - Generate school token, API_071"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load call API successfully"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Auth OW Api - Generate school token, API_071"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b5cd569e9236488.json",
+  "parameterValues" : [ ]
+}

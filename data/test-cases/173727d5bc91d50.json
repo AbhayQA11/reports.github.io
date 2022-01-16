@@ -1,0 +1,46 @@
+{
+  "uid" : "173727d5bc91d50",
+  "name" : "should click on find my account button third time",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should click on find my account button third time",
+  "historyId" : "ab87c3b4a01f37c62452e5fff30c9cf2",
+  "time" : {
+    "start" : 1642318031930,
+    "stop" : 1642318033465,
+    "duration" : 1535
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on find my account button third time"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "173727d5bc91d50.json",
+  "parameterValues" : [ ]
+}

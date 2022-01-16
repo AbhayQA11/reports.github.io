@@ -1,0 +1,46 @@
+{
+  "uid" : "79a5325fe4ef26f7",
+  "name" : "should dismiss the notification",
+  "fullName" : "Luca Settings: OW API_007 tests.should dismiss the notification",
+  "historyId" : "d210d22373519140718c0dc9b1d7683",
+  "time" : {
+    "start" : 1642323357540,
+    "stop" : 1642323359045,
+    "duration" : 1505
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should dismiss the notification"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79a5325fe4ef26f7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "8ad1b498c996f485",
+  "name" : "should add a student with the Api to the newly crated family",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should add a student with the Api to the newly crated family",
+  "historyId" : "91d76028a6a2be7bb5eac40e6debfdaf",
+  "time" : {
+    "start" : 1642318374912,
+    "stop" : 1642318375268,
+    "duration" : 356
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add a student with the Api to the newly crated family"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ad1b498c996f485.json",
+  "parameterValues" : [ ]
+}

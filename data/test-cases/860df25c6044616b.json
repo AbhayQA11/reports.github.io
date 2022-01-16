@@ -1,0 +1,46 @@
+{
+  "uid" : "860df25c6044616b",
+  "name" : "should click on the NO Follow Up Reviequired button",
+  "fullName" : "lucaAddANoteTests: Create a note and attaching an attachment.should click on the NO Follow Up Reviequired button",
+  "historyId" : "2f67b56e7a35d5c5b2b2d82353f3443d",
+  "time" : {
+    "start" : 1642322974309,
+    "stop" : 1642322977944,
+    "duration" : 3635
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the NO Follow Up Reviequired button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "860df25c6044616b.json",
+  "parameterValues" : [ ]
+}

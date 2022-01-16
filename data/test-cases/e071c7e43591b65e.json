@@ -1,0 +1,46 @@
+{
+  "uid" : "e071c7e43591b65e",
+  "name" : "should click on select all months in order to create a new fee",
+  "fullName" : "Luca Settings: OW API_007 tests.should click on select all months in order to create a new fee",
+  "historyId" : "749eb587b0639508e5616dda0234e26c",
+  "time" : {
+    "start" : 1642323338001,
+    "stop" : 1642323338571,
+    "duration" : 570
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on select all months in order to create a new fee"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e071c7e43591b65e.json",
+  "parameterValues" : [ ]
+}

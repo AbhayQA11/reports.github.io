@@ -1,0 +1,46 @@
+{
+  "uid" : "85ac2e61d122694c",
+  "name" : "should check the family id in the smart search page",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should check the family id in the smart search page",
+  "historyId" : "144bb2c5dd8612ea7995b7f74cea5f19",
+  "time" : {
+    "start" : 1642323452928,
+    "stop" : 1642323460012,
+    "duration" : 7084
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check the family id in the smart search page"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85ac2e61d122694c.json",
+  "parameterValues" : [ ]
+}

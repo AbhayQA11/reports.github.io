@@ -1,0 +1,76 @@
+{
+  "uid" : "f7913d770d66423f",
+  "name" : "should create secondary Split Family",
+  "fullName" : "Luca Settings: Verify Luca User can link two families api-92.should create secondary Split Family",
+  "historyId" : "bd7fd6cbe8e5a90152ee5d7f10d2bf59",
+  "time" : {
+    "start" : 1642323612874,
+    "stop" : 1642323648662,
+    "duration" : 35788
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "SyntaxError: Unexpected token < in JSON at position 0",
+  "statusTrace" : "SyntaxError: Unexpected token < in JSON at position 0\n                    at JSON.parse (<anonymous>)\n                    at F:/k20automation/pages/apiWorkers/apiModule.js:109:17\n                    at Request.callback (F:\\k20automation\\node_modules\\superagent\\lib\\node\\index.js:826:3)\n                    at IncomingMessage.<anonymous> (F:\\k20automation\\node_modules\\superagent\\lib\\node\\index.js:1036:18)\n                    at IncomingMessage.emit (events.js:327:22)\n                    at endReadableNT (internal/streams/readable.js:1327:12)\n                    at processTicksAndRejections (internal/process/task_queues.js:80:21)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "SyntaxError: Unexpected token < in JSON at position 0",
+    "statusTrace" : "SyntaxError: Unexpected token < in JSON at position 0\n                    at JSON.parse (<anonymous>)\n                    at F:/k20automation/pages/apiWorkers/apiModule.js:109:17\n                    at Request.callback (F:\\k20automation\\node_modules\\superagent\\lib\\node\\index.js:826:3)\n                    at IncomingMessage.<anonymous> (F:\\k20automation\\node_modules\\superagent\\lib\\node\\index.js:1036:18)\n                    at IncomingMessage.emit (events.js:327:22)\n                    at endReadableNT (internal/streams/readable.js:1327:12)\n                    at processTicksAndRejections (internal/process/task_queues.js:80:21)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dda6eb1b5375e772",
+      "name" : "Screenshot",
+      "source" : "dda6eb1b5375e772.png",
+      "type" : "image/png",
+      "size" : 10592
+    }, {
+      "uid" : "5b767e43a114a5a6",
+      "name" : "Screenshot",
+      "source" : "5b767e43a114a5a6.png",
+      "type" : "image/png",
+      "size" : 10592
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create secondary Split Family"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f7913d770d66423f.json",
+  "parameterValues" : [ ]
+}

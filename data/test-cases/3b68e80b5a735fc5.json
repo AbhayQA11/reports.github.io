@@ -1,0 +1,46 @@
+{
+  "uid" : "3b68e80b5a735fc5",
+  "name" : "should click on the Bank Account button in the Tab list",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should click on the Bank Account button in the Tab list",
+  "historyId" : "52f91b3befa8fba3be33e70b5242981a",
+  "time" : {
+    "start" : 1642323887477,
+    "stop" : 1642323889090,
+    "duration" : 1613
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Bank Account button in the Tab list"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b68e80b5a735fc5.json",
+  "parameterValues" : [ ]
+}

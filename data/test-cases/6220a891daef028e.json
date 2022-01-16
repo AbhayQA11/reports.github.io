@@ -1,0 +1,46 @@
+{
+  "uid" : "6220a891daef028e",
+  "name" : "should get and store the Discount name in order to search for it later",
+  "fullName" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages.should get and store the Discount name in order to search for it later",
+  "historyId" : "78a75d7cddd395b4a2da7caf4d07dea7",
+  "time" : {
+    "start" : 1642320344931,
+    "stop" : 1642320345488,
+    "duration" : 557
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the Discount name in order to search for it later"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6220a891daef028e.json",
+  "parameterValues" : [ ]
+}

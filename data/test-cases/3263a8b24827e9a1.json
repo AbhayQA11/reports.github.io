@@ -1,0 +1,46 @@
+{
+  "uid" : "3263a8b24827e9a1",
+  "name" : "should verify Changes Confirmation Message for the 1st fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria.should verify Changes Confirmation Message for the 1st fee",
+  "historyId" : "7f8a41aa7f1e2e70b84adbe84dee9a65",
+  "time" : {
+    "start" : 1642320269921,
+    "stop" : 1642320277694,
+    "duration" : 7773
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify Changes Confirmation Message for the 1st fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification, check filter Criteria"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3263a8b24827e9a1.json",
+  "parameterValues" : [ ]
+}

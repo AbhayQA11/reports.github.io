@@ -1,0 +1,46 @@
+{
+  "uid" : "788069a4439d2def",
+  "name" : "should delete the amount previously entered in the Total column",
+  "fullName" : "lucaBillingTests: Edit Billing module, Total Column Verification.should delete the amount previously entered in the Total column",
+  "historyId" : "784d6348f2f0ae1ae6ba81fe323c40f3",
+  "time" : {
+    "start" : 1642319778423,
+    "stop" : 1642319779849,
+    "duration" : 1426
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should delete the amount previously entered in the Total column"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "788069a4439d2def.json",
+  "parameterValues" : [ ]
+}

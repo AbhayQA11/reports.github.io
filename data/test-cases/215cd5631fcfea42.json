@@ -1,0 +1,46 @@
+{
+  "uid" : "215cd5631fcfea42",
+  "name" : "should attempt to create the same family with the same values and verify family is not accepted API_045",
+  "fullName" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046.should attempt to create the same family with the same values and verify family is not accepted API_045",
+  "historyId" : "a8321b55b9ea5349e29ceb1595b2e1b3",
+  "time" : {
+    "start" : 1642323401310,
+    "stop" : 1642323402937,
+    "duration" : 1627
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046"
+  }, {
+    "name" : "testMethod",
+    "value" : "should attempt to create the same family with the same values and verify family is not accepted API_045"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi with ONLY mandatory fields, verify Family creation API_044, API_045, API_046"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "215cd5631fcfea42.json",
+  "parameterValues" : [ ]
+}

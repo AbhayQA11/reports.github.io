@@ -1,0 +1,46 @@
+{
+  "uid" : "2dd5d811600e0039",
+  "name" : "should save changes in manage contact information, 1st time",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should save changes in manage contact information, 1st time",
+  "historyId" : "1e8ce6e98cb838cf7a074c50fdd9f4a",
+  "time" : {
+    "start" : 1642320093991,
+    "stop" : 1642320094553,
+    "duration" : 562
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should save changes in manage contact information, 1st time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2dd5d811600e0039.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "32150374ab33a86e",
+  "name" : "should click on the Next button in order to advance to Payment Confirmation Page",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should click on the Next button in order to advance to Payment Confirmation Page",
+  "historyId" : "51c5a881a0bc74b8a44039c41b0588c5",
+  "time" : {
+    "start" : 1642323899188,
+    "stop" : 1642323904323,
+    "duration" : 5135
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Next button in order to advance to Payment Confirmation Page"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32150374ab33a86e.json",
+  "parameterValues" : [ ]
+}

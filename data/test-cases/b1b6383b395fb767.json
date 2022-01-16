@@ -1,0 +1,46 @@
+{
+  "uid" : "b1b6383b395fb767",
+  "name" : "should select the Payment method to be Debit My bank Account",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Bank Account.should select the Payment method to be Debit My bank Account",
+  "historyId" : "f94b1acaa84c6df934236af0ec96cff3",
+  "time" : {
+    "start" : 1642318231925,
+    "stop" : 1642318233493,
+    "duration" : 1568
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the Payment method to be Debit My bank Account"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b1b6383b395fb767.json",
+  "parameterValues" : [ ]
+}

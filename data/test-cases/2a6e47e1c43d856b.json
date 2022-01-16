@@ -1,0 +1,46 @@
+{
+  "uid" : "2a6e47e1c43d856b",
+  "name" : "should verify that the School Finance Information page has been reached",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should verify that the School Finance Information page has been reached",
+  "historyId" : "971c36900628c87ec3dbea226a1a8f8",
+  "time" : {
+    "start" : 1642319890920,
+    "stop" : 1642319894600,
+    "duration" : 3680
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the School Finance Information page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a6e47e1c43d856b.json",
+  "parameterValues" : [ ]
+}

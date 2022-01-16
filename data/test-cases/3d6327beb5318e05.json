@@ -1,0 +1,54 @@
+{
+  "uid" : "3d6327beb5318e05",
+  "name" : "should verify that the appropriate message is received after clicking submit fee again",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should verify that the appropriate message is received after clicking submit fee again",
+  "historyId" : "19f9ae4929b7aba00740adbd59b1ea65",
+  "time" : {
+    "start" : 1642322746251,
+    "stop" : 1642322754055,
+    "duration" : 7804
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received after clicking submit fee again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e5304571e44c1b6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318521743,
+        "stop" : 1642318529449,
+        "duration" : 7706
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d6327beb5318e05.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "7947756527acd737",
+  "name" : "should mouseover Enrollment and then select Deleted Families",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should mouseover Enrollment and then select Deleted Families",
+  "historyId" : "fc0a272db04a4f735d945e580755c71e",
+  "time" : {
+    "start" : 1642319914654,
+    "stop" : 1642319919853,
+    "duration" : 5199
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Enrollment and then select Deleted Families"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7947756527acd737.json",
+  "parameterValues" : [ ]
+}

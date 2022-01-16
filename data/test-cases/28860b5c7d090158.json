@@ -1,0 +1,48 @@
+{
+  "uid" : "28860b5c7d090158",
+  "name" : "should verify that the appropriate message is received third time",
+  "fullName" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification.should verify that the appropriate message is received third time",
+  "historyId" : "af14daafb00a7d54c2377562edf69d70",
+  "time" : {
+    "start" : 1642323461399,
+    "stop" : 1642323461399,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28860b5c7d090158.json",
+  "parameterValues" : [ ]
+}

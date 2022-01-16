@@ -1,0 +1,46 @@
+{
+  "uid" : "44164fc68b269709",
+  "name" : "should verify that the manage fees and discounts Page has been reached",
+  "fullName" : "Main Landing Page, Verify Families + Discounts Menu Accessibility.should verify that the manage fees and discounts Page has been reached",
+  "historyId" : "11978e2336eda6e1e3665e1cf123b121",
+  "time" : {
+    "start" : 1642319919416,
+    "stop" : 1642319923110,
+    "duration" : 3694
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the manage fees and discounts Page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44164fc68b269709.json",
+  "parameterValues" : [ ]
+}

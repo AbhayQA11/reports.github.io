@@ -1,0 +1,46 @@
+{
+  "uid" : "6a5b70c4f2d13504",
+  "name" : "should verify that the appropriate message is received third time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should verify that the appropriate message is received third time",
+  "historyId" : "7d670612c5450a118129478767007f34",
+  "time" : {
+    "start" : 1642318490750,
+    "stop" : 1642318492555,
+    "duration" : 1805
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a5b70c4f2d13504.json",
+  "parameterValues" : [ ]
+}

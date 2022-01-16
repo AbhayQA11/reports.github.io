@@ -1,0 +1,46 @@
+{
+  "uid" : "1cb8c9e31465bb3a",
+  "name" : "should mouse-over the 90 day Deliquency percentage Charts, then check if the apropriate Past Due Amount is shown",
+  "fullName" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard.should mouse-over the 90 day Deliquency percentage Charts, then check if the apropriate Past Due Amount is shown",
+  "historyId" : "d5f8a4fdd903bddbabacd3b3d3c0d9c0",
+  "time" : {
+    "start" : 1642320170616,
+    "stop" : 1642320174730,
+    "duration" : 4114
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouse-over the 90 day Deliquency percentage Charts, then check if the apropriate Past Due Amount is shown"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Follow Up page and Deliquency in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cb8c9e31465bb3a.json",
+  "parameterValues" : [ ]
+}

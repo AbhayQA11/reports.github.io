@@ -1,0 +1,46 @@
+{
+  "uid" : "a895682f3014e15c",
+  "name" : "should input a Credit Card Number",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings.should input a Credit Card Number",
+  "historyId" : "3bb8ea6e7909b99d4ff653c5a2cbb3f3",
+  "time" : {
+    "start" : 1642318539382,
+    "stop" : 1642318540850,
+    "duration" : 1468
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a Credit Card Number"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details, Change payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a895682f3014e15c.json",
+  "parameterValues" : [ ]
+}

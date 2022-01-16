@@ -1,0 +1,46 @@
+{
+  "uid" : "767d1717ba3c97bb",
+  "name" : "should fill in the student grade required form in the Add New family Page",
+  "fullName" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification.should fill in the student grade required form in the Add New family Page",
+  "historyId" : "7f691cc8acde6283a3df64d965b6da7c",
+  "time" : {
+    "start" : 1642319776895,
+    "stop" : 1642319778406,
+    "duration" : 1511
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill in the student grade required form in the Add New family Page"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "767d1717ba3c97bb.json",
+  "parameterValues" : [ ]
+}

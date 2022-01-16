@@ -1,0 +1,46 @@
+{
+  "uid" : "a7df73533988ca8d",
+  "name" : "should click on the Fees Inquiry button",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on the Fees Inquiry button",
+  "historyId" : "da6ed94afa3fc41c5ab20cc8123a1356",
+  "time" : {
+    "start" : 1642322969838,
+    "stop" : 1642322971661,
+    "duration" : 1823
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Fees Inquiry button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7df73533988ca8d.json",
+  "parameterValues" : [ ]
+}

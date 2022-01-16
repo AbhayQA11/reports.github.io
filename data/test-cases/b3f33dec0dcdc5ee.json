@@ -1,0 +1,46 @@
+{
+  "uid" : "b3f33dec0dcdc5ee",
+  "name" : "should input alphabetical values into the input field and verify that it is not accepted",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should input alphabetical values into the input field and verify that it is not accepted",
+  "historyId" : "6833584b5478d291ed54c4b05b8218ea",
+  "time" : {
+    "start" : 1642318583663,
+    "stop" : 1642318585739,
+    "duration" : 2076
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input alphabetical values into the input field and verify that it is not accepted"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3f33dec0dcdc5ee.json",
+  "parameterValues" : [ ]
+}

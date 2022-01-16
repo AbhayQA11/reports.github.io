@@ -1,0 +1,46 @@
+{
+  "uid" : "9e002ac8b19568e6",
+  "name" : "should send an ammount into the Pay a Different Amount Field",
+  "fullName" : "Parent Site Payment Verification.should send an ammount into the Pay a Different Amount Field",
+  "historyId" : "b28b05e21eab3847267e45cb327ec5c2",
+  "time" : {
+    "start" : 1642323898336,
+    "stop" : 1642323900058,
+    "duration" : 1722
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should send an ammount into the Pay a Different Amount Field"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e002ac8b19568e6.json",
+  "parameterValues" : [ ]
+}

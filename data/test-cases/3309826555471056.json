@@ -1,0 +1,46 @@
+{
+  "uid" : "3309826555471056",
+  "name" : "should click on the go button",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should click on the go button",
+  "historyId" : "b9dd472825c500f1ea56a8cbc88075bc",
+  "time" : {
+    "start" : 1642319577057,
+    "stop" : 1642319578359,
+    "duration" : 1302
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the go button"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3309826555471056.json",
+  "parameterValues" : [ ]
+}

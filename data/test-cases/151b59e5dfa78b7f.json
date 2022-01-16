@@ -1,0 +1,46 @@
+{
+  "uid" : "151b59e5dfa78b7f",
+  "name" : "should select the latest school year",
+  "fullName" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check.should select the latest school year",
+  "historyId" : "39cb80434cb32a2ac85a1a6420199c0d",
+  "time" : {
+    "start" : 1642320189028,
+    "stop" : 1642320192693,
+    "duration" : 3665
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Filters Verification, Pagination check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "151b59e5dfa78b7f.json",
+  "parameterValues" : [ ]
+}

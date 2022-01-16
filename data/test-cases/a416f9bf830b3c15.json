@@ -1,0 +1,46 @@
+{
+  "uid" : "a416f9bf830b3c15",
+  "name" : "should complete the Subject field",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should complete the Subject field",
+  "historyId" : "74fb6700fad7d97fec16c082fe5b6792",
+  "time" : {
+    "start" : 1642323008973,
+    "stop" : 1642323010375,
+    "duration" : 1402
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should complete the Subject field"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a416f9bf830b3c15.json",
+  "parameterValues" : [ ]
+}

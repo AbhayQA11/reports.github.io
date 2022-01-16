@@ -1,0 +1,46 @@
+{
+  "uid" : "be9042dedc6257f4",
+  "name" : "should log out from luca",
+  "fullName" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check.should log out from luca",
+  "historyId" : "1e556c4f59d38bce075f80025de1305a",
+  "time" : {
+    "start" : 1642320293946,
+    "stop" : 1642320296734,
+    "duration" : 2788
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Hyperlinks and Controls check"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be9042dedc6257f4.json",
+  "parameterValues" : [ ]
+}

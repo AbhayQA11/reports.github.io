@@ -1,0 +1,46 @@
+{
+  "uid" : "15c502b000fe7b40",
+  "name" : "should verify that the Routing is displayed with only last 6 digits visible",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should verify that the Routing is displayed with only last 6 digits visible",
+  "historyId" : "d6d4eb7e4ccee59fac4d469ae9d2de52",
+  "time" : {
+    "start" : 1642319304827,
+    "stop" : 1642319305973,
+    "duration" : 1146
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Routing is displayed with only last 6 digits visible"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "15c502b000fe7b40.json",
+  "parameterValues" : [ ]
+}

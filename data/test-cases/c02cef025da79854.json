@@ -1,0 +1,46 @@
+{
+  "uid" : "c02cef025da79854",
+  "name" : "should enter the zip code",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should enter the zip code",
+  "historyId" : "d744c8af34b588da40e6354d22b1fe7f",
+  "time" : {
+    "start" : 1642323423873,
+    "stop" : 1642323424617,
+    "duration" : 744
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should enter the zip code"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c02cef025da79854.json",
+  "parameterValues" : [ ]
+}

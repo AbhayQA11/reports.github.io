@@ -1,0 +1,46 @@
+{
+  "uid" : "eeb115844f57fcfc",
+  "name" : "should switch to default content from iframe, 3rd time",
+  "fullName" : "Renweb Tests: Registration for adding new student.should switch to default content from iframe, 3rd time",
+  "historyId" : "682462ccbbf945cee9a2beddea39f882",
+  "time" : {
+    "start" : 1642318200933,
+    "stop" : 1642318201352,
+    "duration" : 419
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch to default content from iframe, 3rd time"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eeb115844f57fcfc.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "73715c90102c0d7e",
+  "name" : "should click on lastest school year from search results",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should click on lastest school year from search results",
+  "historyId" : "6a96128a854d4a121e00607c327003b4",
+  "time" : {
+    "start" : 1642322571737,
+    "stop" : 1642322575594,
+    "duration" : 3857
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on lastest school year from search results"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "696442d7016e6332",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318351177,
+        "stop" : 1642318354977,
+        "duration" : 3800
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "73715c90102c0d7e.json",
+  "parameterValues" : [ ]
+}

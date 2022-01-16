@@ -1,0 +1,46 @@
+{
+  "uid" : "baa65571f900ab0e",
+  "name" : "should click purge button",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Discount.should click purge button",
+  "historyId" : "4188fceae16f645cf0d45fe3189269fe",
+  "time" : {
+    "start" : 1642319807836,
+    "stop" : 1642319813886,
+    "duration" : 6050
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click purge button"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "baa65571f900ab0e.json",
+  "parameterValues" : [ ]
+}

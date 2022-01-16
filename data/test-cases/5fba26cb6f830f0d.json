@@ -1,0 +1,46 @@
+{
+  "uid" : "5fba26cb6f830f0d",
+  "name" : "should create a Split Family",
+  "fullName" : "Luca Settings: Verify Luca User can link two families api-92.should create a Split Family",
+  "historyId" : "2c59933b3cdf3851f535992b1cb03d53",
+  "time" : {
+    "start" : 1642323593215,
+    "stop" : 1642323612874,
+    "duration" : 19659
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a Split Family"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify Luca User can link two families api-92"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5fba26cb6f830f0d.json",
+  "parameterValues" : [ ]
+}

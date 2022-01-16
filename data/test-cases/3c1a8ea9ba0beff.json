@@ -1,0 +1,46 @@
+{
+  "uid" : "3c1a8ea9ba0beff",
+  "name" : "should select a Income Gl ID Option again",
+  "fullName" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type.should select a Income Gl ID Option again",
+  "historyId" : "de2fe4c576ea5db3a6d597a4c09ef272",
+  "time" : {
+    "start" : 1642323164954,
+    "stop" : 1642323166474,
+    "duration" : 1520
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a Income Gl ID Option again"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: Verify QuickBooks Account Recognition Type"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c1a8ea9ba0beff.json",
+  "parameterValues" : [ ]
+}

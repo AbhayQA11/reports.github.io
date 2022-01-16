@@ -1,0 +1,46 @@
+{
+  "uid" : "be75df662ed8cce3",
+  "name" : "should change school to 10879",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should change school to 10879",
+  "historyId" : "2ba1c976247c45d543e39c36078641f2",
+  "time" : {
+    "start" : 1642319248568,
+    "stop" : 1642319250142,
+    "duration" : 1574
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should change school to 10879"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be75df662ed8cce3.json",
+  "parameterValues" : [ ]
+}

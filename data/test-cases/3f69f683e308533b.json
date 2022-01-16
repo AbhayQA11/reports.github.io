@@ -1,0 +1,46 @@
+{
+  "uid" : "3f69f683e308533b",
+  "name" : "should complete the Describe Situation Field",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should complete the Describe Situation Field",
+  "historyId" : "ac0e6be5cf3cd9c68e7a97b6f0aba4b2",
+  "time" : {
+    "start" : 1642322949657,
+    "stop" : 1642322951546,
+    "duration" : 1889
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should complete the Describe Situation Field"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f69f683e308533b.json",
+  "parameterValues" : [ ]
+}

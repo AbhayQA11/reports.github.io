@@ -1,0 +1,46 @@
+{
+  "uid" : "6edeb067704e0de5",
+  "name" : "should click on go button",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Bank Account.should click on go button",
+  "historyId" : "c724ba3b645a7f886c0ec580251de90",
+  "time" : {
+    "start" : 1642318289544,
+    "stop" : 1642318290904,
+    "duration" : 1360
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on go button"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6edeb067704e0de5.json",
+  "parameterValues" : [ ]
+}

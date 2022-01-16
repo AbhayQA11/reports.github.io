@@ -1,0 +1,46 @@
+{
+  "uid" : "f04f7bd7d0ee30e3",
+  "name" : "should log out from luca",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios.should log out from luca",
+  "historyId" : "98cc9ae434175c52de03ae5521831df5",
+  "time" : {
+    "start" : 1642321562343,
+    "stop" : 1642321565386,
+    "duration" : 3043
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f04f7bd7d0ee30e3.json",
+  "parameterValues" : [ ]
+}

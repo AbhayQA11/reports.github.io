@@ -1,0 +1,46 @@
+{
+  "uid" : "bab7ee9c7a4c7702",
+  "name" : "should verify that the appropriate message is received frist time",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Discount.should verify that the appropriate message is received frist time",
+  "historyId" : "2a267f391a3a420bbaf7a07a419eac9",
+  "time" : {
+    "start" : 1642319734086,
+    "stop" : 1642319737158,
+    "duration" : 3072
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received frist time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Discount"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bab7ee9c7a4c7702.json",
+  "parameterValues" : [ ]
+}

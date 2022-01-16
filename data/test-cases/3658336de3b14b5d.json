@@ -1,0 +1,46 @@
+{
+  "uid" : "3658336de3b14b5d",
+  "name" : "should select a Family Based Fee, Parent Participation Fee",
+  "fullName" : "lucaBillingTests: Edit Billing module, Total Column Verification.should select a Family Based Fee, Parent Participation Fee",
+  "historyId" : "4a5549c929ca1ec05a9de433f7782cd3",
+  "time" : {
+    "start" : 1642319764229,
+    "stop" : 1642319765349,
+    "duration" : 1120
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a Family Based Fee, Parent Participation Fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3658336de3b14b5d.json",
+  "parameterValues" : [ ]
+}

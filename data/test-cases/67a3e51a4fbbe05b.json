@@ -1,0 +1,46 @@
+{
+  "uid" : "67a3e51a4fbbe05b",
+  "name" : "should verify that the total ammount cannot be higher than 6 digits",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should verify that the total ammount cannot be higher than 6 digits",
+  "historyId" : "ada4d4146453ba613dd42acd3a0496eb",
+  "time" : {
+    "start" : 1642319598398,
+    "stop" : 1642319599148,
+    "duration" : 750
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the total ammount cannot be higher than 6 digits"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67a3e51a4fbbe05b.json",
+  "parameterValues" : [ ]
+}

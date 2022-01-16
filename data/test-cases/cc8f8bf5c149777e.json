@@ -1,0 +1,46 @@
+{
+  "uid" : "cc8f8bf5c149777e",
+  "name" : "should click on the Family Withdrawal button",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on the Family Withdrawal button",
+  "historyId" : "9c546b6ad08e88bd9c7e916ab5bc6922",
+  "time" : {
+    "start" : 1642323005558,
+    "stop" : 1642323007518,
+    "duration" : 1960
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Family Withdrawal button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc8f8bf5c149777e.json",
+  "parameterValues" : [ ]
+}

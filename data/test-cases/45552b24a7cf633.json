@@ -1,0 +1,46 @@
+{
+  "uid" : "45552b24a7cf633",
+  "name" : "should click on save fee button",
+  "fullName" : "Luca Settings: OW API_008 tests.should click on save fee button",
+  "historyId" : "19eaff5e10c805c7f799e9fab7e7c6d4",
+  "time" : {
+    "start" : 1642323362790,
+    "stop" : 1642323365055,
+    "duration" : 2265
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on save fee button"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45552b24a7cf633.json",
+  "parameterValues" : [ ]
+}

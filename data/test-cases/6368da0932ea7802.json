@@ -1,0 +1,46 @@
+{
+  "uid" : "6368da0932ea7802",
+  "name" : "should reach the Manage Fees and Discounts page again",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools.should reach the Manage Fees and Discounts page again",
+  "historyId" : "4ae4b2a7fba34ef40dc6443380896c22",
+  "time" : {
+    "start" : 1642318159500,
+    "stop" : 1642318162230,
+    "duration" : 2730
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach the Manage Fees and Discounts page again"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6368da0932ea7802.json",
+  "parameterValues" : [ ]
+}

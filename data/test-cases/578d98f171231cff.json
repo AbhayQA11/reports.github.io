@@ -1,0 +1,46 @@
+{
+  "uid" : "578d98f171231cff",
+  "name" : "should verify that the proper error is displayed in the drop-down notification",
+  "fullName" : "lucaEnrollment: Enroll new family .should verify that the proper error is displayed in the drop-down notification",
+  "historyId" : "a30df71718875db7d44eadc7cccddaeb",
+  "time" : {
+    "start" : 1642319113541,
+    "stop" : 1642319116405,
+    "duration" : 2864
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the proper error is displayed in the drop-down notification"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "578d98f171231cff.json",
+  "parameterValues" : [ ]
+}

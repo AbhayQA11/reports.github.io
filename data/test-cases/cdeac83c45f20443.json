@@ -1,0 +1,46 @@
+{
+  "uid" : "cdeac83c45f20443",
+  "name" : "should log out of luca",
+  "fullName" : "Renweb Tests: Registration for adding new student.should log out of luca",
+  "historyId" : "8682ec2ccb4cae9806f57f1977d166d7",
+  "time" : {
+    "start" : 1642318226429,
+    "stop" : 1642318229744,
+    "duration" : 3315
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out of luca"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdeac83c45f20443.json",
+  "parameterValues" : [ ]
+}

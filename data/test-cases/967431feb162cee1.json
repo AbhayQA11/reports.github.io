@@ -1,0 +1,46 @@
+{
+  "uid" : "967431feb162cee1",
+  "name" : "should input valid username",
+  "fullName" : "Luca Settings: OW API_008 tests.should input valid username",
+  "historyId" : "21948f0b32e6f0668f58a57919e7adab",
+  "time" : {
+    "start" : 1642323314902,
+    "stop" : 1642323317352,
+    "duration" : 2450
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid username"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_008 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "967431feb162cee1.json",
+  "parameterValues" : [ ]
+}

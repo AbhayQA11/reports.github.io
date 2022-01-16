@@ -1,0 +1,46 @@
+{
+  "uid" : "f909abfda507351d",
+  "name" : "should reach the Opt-out Green Invoice Off, again",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should reach the Opt-out Green Invoice Off, again",
+  "historyId" : "49f4428e707e8a5a0fbaa4a0137999ef",
+  "time" : {
+    "start" : 1642318483534,
+    "stop" : 1642318485205,
+    "duration" : 1671
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach the Opt-out Green Invoice Off, again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f909abfda507351d.json",
+  "parameterValues" : [ ]
+}

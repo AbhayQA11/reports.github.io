@@ -1,0 +1,46 @@
+{
+  "uid" : "f251c6fba26ba346",
+  "name" : "should verify the Error Message stating to enter the username",
+  "fullName" : "Tuition Manager Authentification Module.should verify the Error Message stating to enter the username",
+  "historyId" : "c445b66f9157568f8ab5ab201bb55d90",
+  "time" : {
+    "start" : 1642323975039,
+    "stop" : 1642323976662,
+    "duration" : 1623
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Error Message stating to enter the username"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f251c6fba26ba346.json",
+  "parameterValues" : [ ]
+}

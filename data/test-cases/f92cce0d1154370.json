@@ -1,0 +1,46 @@
+{
+  "uid" : "f92cce0d1154370",
+  "name" : "should mouseover Enrollment and then select Parent Registration",
+  "fullName" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility.should mouseover Enrollment and then select Parent Registration",
+  "historyId" : "b923f067072e726c9c9399b08122f1d6",
+  "time" : {
+    "start" : 1642319945052,
+    "stop" : 1642319948285,
+    "duration" : 3233
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should mouseover Enrollment and then select Parent Registration"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Reports and Enrollment Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f92cce0d1154370.json",
+  "parameterValues" : [ ]
+}

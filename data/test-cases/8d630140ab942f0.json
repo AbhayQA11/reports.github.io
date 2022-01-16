@@ -1,0 +1,46 @@
+{
+  "uid" : "8d630140ab942f0",
+  "name" : "should remove all the existing fees by pressing the Remove button second time",
+  "fullName" : "lucaBillingTests: Edit Billing module, Total Column Verification.should remove all the existing fees by pressing the Remove button second time",
+  "historyId" : "28f5110a2c3400a99d4d54a6c9368b17",
+  "time" : {
+    "start" : 1642319801652,
+    "stop" : 1642319802635,
+    "duration" : 983
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should remove all the existing fees by pressing the Remove button second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Total Column Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d630140ab942f0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "f51e947fb613802f",
+  "name" : "should click on Payment Method and then select the Mail in Option",
+  "fullName" : "lucaEnrollment: verify filters on Deleted Families.should click on Payment Method and then select the Mail in Option",
+  "historyId" : "1b7365d3315403c736bfc440085e2c6d",
+  "time" : {
+    "start" : 1642319427903,
+    "stop" : 1642319429377,
+    "duration" : 1474
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Payment Method and then select the Mail in Option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f51e947fb613802f.json",
+  "parameterValues" : [ ]
+}

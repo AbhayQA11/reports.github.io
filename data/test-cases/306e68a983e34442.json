@@ -1,0 +1,46 @@
+{
+  "uid" : "306e68a983e34442",
+  "name" : "should log out from luca",
+  "fullName" : "Luca Settings: OW Api - edit family details, API_026.should log out from luca",
+  "historyId" : "bdcc56301cd21122c362b5078506793e",
+  "time" : {
+    "start" : 1642323465035,
+    "stop" : 1642323467831,
+    "duration" : 2796
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "306e68a983e34442.json",
+  "parameterValues" : [ ]
+}

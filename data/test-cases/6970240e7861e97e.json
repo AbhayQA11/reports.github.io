@@ -1,0 +1,46 @@
+{
+  "uid" : "6970240e7861e97e",
+  "name" : "should log out from luca",
+  "fullName" : "Main Landing Page, Switching School Year Verification .should log out from luca",
+  "historyId" : "2c4c24ee2a837aebc3d0d12d9267d337",
+  "time" : {
+    "start" : 1642320044226,
+    "stop" : 1642320047267,
+    "duration" : 3041
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Switching School Year Verification "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6970240e7861e97e.json",
+  "parameterValues" : [ ]
+}

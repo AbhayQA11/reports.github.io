@@ -1,0 +1,46 @@
+{
+  "uid" : "6f116325b0be1d9d",
+  "name" : "should click Schedule the first report button in the Custom Saved Reports area",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items.should click Schedule the first report button in the Custom Saved Reports area",
+  "historyId" : "d76d99d788396f8e342782a3d0c0be3d",
+  "time" : {
+    "start" : 1642320827867,
+    "stop" : 1642320829060,
+    "duration" : 1193
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click Schedule the first report button in the Custom Saved Reports area"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Items"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f116325b0be1d9d.json",
+  "parameterValues" : [ ]
+}

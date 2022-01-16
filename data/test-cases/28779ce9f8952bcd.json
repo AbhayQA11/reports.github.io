@@ -1,0 +1,46 @@
+{
+  "uid" : "28779ce9f8952bcd",
+  "name" : "should input the Street Address",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should input the Street Address",
+  "historyId" : "3e2d49fb6390bc8b1ad61ac9cc729583",
+  "time" : {
+    "start" : 1642317925202,
+    "stop" : 1642317926053,
+    "duration" : 851
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the Street Address"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28779ce9f8952bcd.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "3107acc8c8bc7248",
+  "name" : "should click on family ",
+  "fullName" : "Renweb Tests: Registration for adding new student.should click on family ",
+  "historyId" : "f809e8b449534bd486b214e26d5851c9",
+  "time" : {
+    "start" : 1642318223049,
+    "stop" : 1642318225728,
+    "duration" : 2679
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on family "
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3107acc8c8bc7248.json",
+  "parameterValues" : [ ]
+}

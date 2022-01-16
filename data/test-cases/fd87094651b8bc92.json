@@ -1,0 +1,48 @@
+{
+  "uid" : "fd87094651b8bc92",
+  "name" : "encountered a declaration exception",
+  "fullName" : "Main Landing Page, Verify the accessibility of Training Classes.encountered a declaration exception",
+  "historyId" : "f37d7ed70b3b230597e4a9e06e39b6b9",
+  "time" : {
+    "start" : 1642320076479,
+    "stop" : 1642320076810,
+    "duration" : 331
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Skipped",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testMethod",
+    "value" : "encountered a declaration exception"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd87094651b8bc92.json",
+  "parameterValues" : [ ]
+}

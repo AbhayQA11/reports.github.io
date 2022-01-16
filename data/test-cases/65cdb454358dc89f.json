@@ -1,0 +1,46 @@
+{
+  "uid" : "65cdb454358dc89f",
+  "name" : "should create a family via Onboard API",
+  "fullName" : "Luca Settings: Attempt to Add a student to a pre-existing family and verify response API_87, API_88, API_89.should create a family via Onboard API",
+  "historyId" : "3316eddb2cc1769d384173632b41faa8",
+  "time" : {
+    "start" : 1642323572260,
+    "stop" : 1642323600327,
+    "duration" : 28067
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Attempt to Add a student to a pre-existing family and verify response API_87, API_88, API_89"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Attempt to Add a student to a pre-existing family and verify response API_87, API_88, API_89"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family via Onboard API"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Attempt to Add a student to a pre-existing family and verify response API_87, API_88, API_89"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65cdb454358dc89f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "33869fffac2273bc",
+  "name" : "should verify that the Manage Payment Plans page has been reached",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should verify that the Manage Payment Plans page has been reached",
+  "historyId" : "f576b78ea22eaba9f672e94f14436e94",
+  "time" : {
+    "start" : 1642319911320,
+    "stop" : 1642319914971,
+    "duration" : 3651
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Manage Payment Plans page has been reached"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33869fffac2273bc.json",
+  "parameterValues" : [ ]
+}

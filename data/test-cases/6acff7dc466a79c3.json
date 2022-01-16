@@ -1,0 +1,46 @@
+{
+  "uid" : "6acff7dc466a79c3",
+  "name" : "should click on the Enrollment Fees",
+  "fullName" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools.should click on the Enrollment Fees",
+  "historyId" : "e1c5835759f0dbe8644483b58a9ca735",
+  "time" : {
+    "start" : 1642318000561,
+    "stop" : 1642318003147,
+    "duration" : 2586
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testClass",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Enrollment Fees"
+  }, {
+    "name" : "package",
+    "value" : "externalTests: Verify that External Registration creates family correctly for Basis Independent Schools"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6acff7dc466a79c3.json",
+  "parameterValues" : [ ]
+}

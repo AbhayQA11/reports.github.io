@@ -1,0 +1,46 @@
+{
+  "uid" : "bf71f430335ce223",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "lucaAddANoteTests: Create a note and attaching an attachment.should load Luca login Page successfully",
+  "historyId" : "9642c4ec974e5ad5d6f9260ab93feea1",
+  "time" : {
+    "start" : 1642322899684,
+    "stop" : 1642322904829,
+    "duration" : 5145
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf71f430335ce223.json",
+  "parameterValues" : [ ]
+}

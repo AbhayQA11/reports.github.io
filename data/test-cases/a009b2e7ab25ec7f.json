@@ -1,0 +1,46 @@
+{
+  "uid" : "a009b2e7ab25ec7f",
+  "name" : "should click on search button",
+  "fullName" : "lucaAddANoteTests: Create a note and attaching an attachment.should click on search button",
+  "historyId" : "9b0baf396304e3b499d47f880556abff",
+  "time" : {
+    "start" : 1642322949001,
+    "stop" : 1642322950329,
+    "duration" : 1328
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on search button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a009b2e7ab25ec7f.json",
+  "parameterValues" : [ ]
+}

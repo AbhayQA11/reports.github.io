@@ -1,0 +1,46 @@
+{
+  "uid" : "7e333ee4987543fa",
+  "name" : "should verify that various buttons are displayed in the Smart Search page",
+  "fullName" : "Main Landing Page, Verify Search Functionality.should verify that various buttons are displayed in the Smart Search page",
+  "historyId" : "f7dda72454f79df71239b1455f2f2474",
+  "time" : {
+    "start" : 1642319927479,
+    "stop" : 1642319934958,
+    "duration" : 7479
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that various buttons are displayed in the Smart Search page"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Search Functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e333ee4987543fa.json",
+  "parameterValues" : [ ]
+}

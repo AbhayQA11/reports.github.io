@@ -1,0 +1,46 @@
+{
+  "uid" : "366e9f364202cc11",
+  "name" : "should click on Submit test data, again",
+  "fullName" : "Renweb Tests: Registration for adding new student.should click on Submit test data, again",
+  "historyId" : "9343f5012f0a350a009bb75aa6e06a20",
+  "time" : {
+    "start" : 1642318199223,
+    "stop" : 1642318199820,
+    "duration" : 597
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Submit test data, again"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "366e9f364202cc11.json",
+  "parameterValues" : [ ]
+}

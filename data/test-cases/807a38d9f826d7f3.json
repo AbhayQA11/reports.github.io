@@ -1,0 +1,46 @@
+{
+  "uid" : "807a38d9f826d7f3",
+  "name" : "should input new pasword into New Pass Field",
+  "fullName" : "Parent Site Payment Verification.should input new pasword into New Pass Field",
+  "historyId" : "c93927e6c2ab61e48df34a10e70d73f2",
+  "time" : {
+    "start" : 1642323863940,
+    "stop" : 1642323865781,
+    "duration" : 1841
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input new pasword into New Pass Field"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "807a38d9f826d7f3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "33dd699bf3c53ceb",
+  "name" : "should verify that the appropriate message is displayed on the page",
+  "fullName" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access.should verify that the appropriate message is displayed on the page",
+  "historyId" : "915d0c3946fdad8432e09752fa89ebed",
+  "time" : {
+    "start" : 1642320660285,
+    "stop" : 1642320661846,
+    "duration" : 1561
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is displayed on the page"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Verifying School Administrator Account has limited access"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33dd699bf3c53ceb.json",
+  "parameterValues" : [ ]
+}

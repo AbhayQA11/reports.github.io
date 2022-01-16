@@ -1,0 +1,46 @@
+{
+  "uid" : "198dc8a73a2e9e3a",
+  "name" : "should purge the families created",
+  "fullName" : "lucaEnrollment: Verifying Payment Information for the a Family with CC.should purge the families created",
+  "historyId" : "f2c2437a808f8401db284371f26e70cd",
+  "time" : {
+    "start" : 1642319382935,
+    "stop" : 1642319387268,
+    "duration" : 4333
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "testMethod",
+    "value" : "should purge the families created"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Verifying Payment Information for the a Family with CC"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "198dc8a73a2e9e3a.json",
+  "parameterValues" : [ ]
+}

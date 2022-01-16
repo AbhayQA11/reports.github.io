@@ -1,0 +1,46 @@
+{
+  "uid" : "20fe835ac273fed9",
+  "name" : "should click on the Manage Accounts dropdown button",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click on the Manage Accounts dropdown button",
+  "historyId" : "9e24e858a896d051dddcbdf230ff6388",
+  "time" : {
+    "start" : 1642319881394,
+    "stop" : 1642319882571,
+    "duration" : 1177
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Manage Accounts dropdown button"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20fe835ac273fed9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "a7995c72e088a099",
+  "name" : "should input a reason, then click submit third time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should input a reason, then click submit third time",
+  "historyId" : "61ece06ef642aa070d5ccc62c056eab1",
+  "time" : {
+    "start" : 1642318511584,
+    "stop" : 1642318513211,
+    "duration" : 1627
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a reason, then click submit third time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a7995c72e088a099.json",
+  "parameterValues" : [ ]
+}

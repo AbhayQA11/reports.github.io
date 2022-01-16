@@ -1,0 +1,46 @@
+{
+  "uid" : "a38a1e77939838b4",
+  "name" : "should log out from luca",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should log out from luca",
+  "historyId" : "86558b6484ef7f8714f762607b8ce48d",
+  "time" : {
+    "start" : 1642320113382,
+    "stop" : 1642320116617,
+    "duration" : 3235
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a38a1e77939838b4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "a713dd26aa38105f",
+  "name" : "should select the latest school year",
+  "fullName" : "Main Landing Page, Verify Families + Discounts Menu Accessibility.should select the latest school year",
+  "historyId" : "d8306fa45dfca2b600766fed928b7955",
+  "time" : {
+    "start" : 1642319880988,
+    "stop" : 1642319885331,
+    "duration" : 4343
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a713dd26aa38105f.json",
+  "parameterValues" : [ ]
+}

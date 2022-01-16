@@ -1,0 +1,46 @@
+{
+  "uid" : "282e6fc339a64c19",
+  "name" : "should input No Password",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should input No Password",
+  "historyId" : "dc9152809df153754833ab4f87e9d30",
+  "time" : {
+    "start" : 1642318028090,
+    "stop" : 1642318029872,
+    "duration" : 1782
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input No Password"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "282e6fc339a64c19.json",
+  "parameterValues" : [ ]
+}

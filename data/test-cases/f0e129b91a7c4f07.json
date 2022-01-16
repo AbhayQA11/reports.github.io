@@ -1,0 +1,46 @@
+{
+  "uid" : "f0e129b91a7c4f07",
+  "name" : "should click on the Spread Total button",
+  "fullName" : "lucaBillingTests: Validate ammount Field.should click on the Spread Total button",
+  "historyId" : "2447dbac36040aeb0374c9064dee628e",
+  "time" : {
+    "start" : 1642319600321,
+    "stop" : 1642319603981,
+    "duration" : 3660
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Spread Total button"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Validate ammount Field"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0e129b91a7c4f07.json",
+  "parameterValues" : [ ]
+}

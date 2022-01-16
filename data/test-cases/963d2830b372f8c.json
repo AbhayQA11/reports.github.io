@@ -1,0 +1,46 @@
+{
+  "uid" : "963d2830b372f8c",
+  "name" : "should click on the family",
+  "fullName" : "Luca Settings: OW Api - edit family details, API_026.should click on the family",
+  "historyId" : "bf11e9c249d49da9bc035665639c73fc",
+  "time" : {
+    "start" : 1642323448471,
+    "stop" : 1642323450059,
+    "duration" : 1588
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the family"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - edit family details, API_026"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "963d2830b372f8c.json",
+  "parameterValues" : [ ]
+}

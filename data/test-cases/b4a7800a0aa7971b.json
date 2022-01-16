@@ -1,0 +1,54 @@
+{
+  "uid" : "b4a7800a0aa7971b",
+  "name" : "should verify the Invalid User name/Password Error Message",
+  "fullName" : "Tuition Manager Authentification Module.should verify the Invalid User name/Password Error Message",
+  "historyId" : "757f36be6785ee18f2e34fb1565ec59e",
+  "time" : {
+    "start" : 1642323993587,
+    "stop" : 1642323995216,
+    "duration" : 1629
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testClass",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the Invalid User name/Password Error Message"
+  }, {
+    "name" : "package",
+    "value" : "Tuition Manager Authentification Module"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "db88899044c55ab3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642323984898,
+        "stop" : 1642323986429,
+        "duration" : 1531
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4a7800a0aa7971b.json",
+  "parameterValues" : [ ]
+}

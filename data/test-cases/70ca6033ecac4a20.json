@@ -1,0 +1,44 @@
+{
+  "uid" : "70ca6033ecac4a20",
+  "name" : "should input alphabetical values inside the input field and then make sure that incorrect input is not accepted",
+  "fullName" : "lucaFamiliesModuleTests: Apply fee towards family.should input alphabetical values inside the input field and then make sure that incorrect input is not accepted",
+  "historyId" : "651de751bb553b81435dc76c2b638d33",
+  "time" : {
+    "start" : 1642318404933,
+    "stop" : 1642318409113,
+    "duration" : 4180
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input alphabetical values inside the input field and then make sure that incorrect input is not accepted"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Apply fee towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70ca6033ecac4a20.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "723671b66528a275",
+  "name" : "should purge the ACH family created",
+  "fullName" : "lucaAutomaticDebitSettings: Payment Type Verification.should purge the ACH family created",
+  "historyId" : "e9c4b7a12a48cf93fa31da16153c2f10",
+  "time" : {
+    "start" : 1642323583207,
+    "stop" : 1642323587194,
+    "duration" : 3987
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should purge the ACH family created"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Payment Type Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "723671b66528a275.json",
+  "parameterValues" : [ ]
+}

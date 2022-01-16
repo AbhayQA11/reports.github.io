@@ -1,0 +1,46 @@
+{
+  "uid" : "32c7a16a4f0181a9",
+  "name" : "should click on the Late Fees button",
+  "fullName" : "lucaAddANoteTests: Verifying Error Validation.should click on the Late Fees button",
+  "historyId" : "8090d9adc416f33ab371b4c6e23563f5",
+  "time" : {
+    "start" : 1642322965594,
+    "stop" : 1642322967491,
+    "duration" : 1897
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Late Fees button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Error Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32c7a16a4f0181a9.json",
+  "parameterValues" : [ ]
+}

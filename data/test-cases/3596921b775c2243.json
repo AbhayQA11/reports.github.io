@@ -1,0 +1,46 @@
+{
+  "uid" : "3596921b775c2243",
+  "name" : "should move the mouse over the Families link and click on Manage Families Details, again",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student.should move the mouse over the Families link and click on Manage Families Details, again",
+  "historyId" : "fbcd726309bf45752d197e806ab63513",
+  "time" : {
+    "start" : 1642318840020,
+    "stop" : 1642318841001,
+    "duration" : 981
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should move the mouse over the Families link and click on Manage Families Details, again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3596921b775c2243.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "5a4ff7d7a0fc600c",
+  "name" : "should verify that all options are checked",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verification.should verify that all options are checked",
+  "historyId" : "458a9d2e7e12f99e3d469895c8bc1e73",
+  "time" : {
+    "start" : 1642322492156,
+    "stop" : 1642322493039,
+    "duration" : 883
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that all options are checked"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ea931cf650da892d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642318314082,
+        "stop" : 1642318315068,
+        "duration" : 986
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a4ff7d7a0fc600c.json",
+  "parameterValues" : [ ]
+}

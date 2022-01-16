@@ -1,0 +1,46 @@
+{
+  "uid" : "f944300f358bc2bc",
+  "name" : "should input Credit Card holder second name",
+  "fullName" : "homepageTests: Verifies Enrollment code for Remove Fees.should input Credit Card holder second name",
+  "historyId" : "57aeb1ddc1f3e8cddcaa42158dda10fb",
+  "time" : {
+    "start" : 1642317989712,
+    "stop" : 1642317990702,
+    "duration" : 990
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input Credit Card holder second name"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Verifies Enrollment code for Remove Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f944300f358bc2bc.json",
+  "parameterValues" : [ ]
+}

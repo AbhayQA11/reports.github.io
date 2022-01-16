@@ -1,0 +1,46 @@
+{
+  "uid" : "98f7b0bc75b609bf",
+  "name" : "should close the Pop up",
+  "fullName" : "lucaAuthentificationTests: User Authentification.should close the Pop up",
+  "historyId" : "a25802aa51e429a4781fa0c61e15e3b8",
+  "time" : {
+    "start" : 1642318265476,
+    "stop" : 1642318267025,
+    "duration" : 1549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should close the Pop up"
+  }, {
+    "name" : "package",
+    "value" : "lucaAuthentificationTests: User Authentification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98f7b0bc75b609bf.json",
+  "parameterValues" : [ ]
+}

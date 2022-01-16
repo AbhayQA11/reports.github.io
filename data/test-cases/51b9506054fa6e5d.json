@@ -1,0 +1,46 @@
+{
+  "uid" : "51b9506054fa6e5d",
+  "name" : "should input a value in Bank Rooting",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should input a value in Bank Rooting",
+  "historyId" : "4b98bde005944873d76e042a1bbe1c5a",
+  "time" : {
+    "start" : 1642317938014,
+    "stop" : 1642317939346,
+    "duration" : 1332
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a value in Bank Rooting"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51b9506054fa6e5d.json",
+  "parameterValues" : [ ]
+}

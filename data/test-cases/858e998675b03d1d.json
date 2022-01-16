@@ -1,0 +1,46 @@
+{
+  "uid" : "858e998675b03d1d",
+  "name" : "should click on the first family from the Recent Familes section",
+  "fullName" : "Main Landing Page, Verify the accessibility of account page in Dashboard.should click on the first family from the Recent Familes section",
+  "historyId" : "4c121839a8848a61c5e20dc46aac0470",
+  "time" : {
+    "start" : 1642320020134,
+    "stop" : 1642320026247,
+    "duration" : 6113
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the first family from the Recent Familes section"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of account page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "858e998675b03d1d.json",
+  "parameterValues" : [ ]
+}

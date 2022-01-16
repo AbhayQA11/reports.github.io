@@ -1,0 +1,46 @@
+{
+  "uid" : "4077c95048c5ecaa",
+  "name" : "should click on login button",
+  "fullName" : "Main Landing Page, Verify Families + Discounts Menu Accessibility.should click on login button",
+  "historyId" : "95641db385f70b5c0ad59fd541f1b6fc",
+  "time" : {
+    "start" : 1642319871034,
+    "stop" : 1642319878146,
+    "duration" : 7112
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on login button"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Families + Discounts Menu Accessibility"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4077c95048c5ecaa.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "eafd40fe8eb29e17",
+  "name" : "should click the deactivate Families button once again",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should click the deactivate Families button once again",
+  "historyId" : "7fa481b3f5e63f79069886be8518b6e6",
+  "time" : {
+    "start" : 1642318509925,
+    "stop" : 1642318511584,
+    "duration" : 1659
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the deactivate Families button once again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eafd40fe8eb29e17.json",
+  "parameterValues" : [ ]
+}

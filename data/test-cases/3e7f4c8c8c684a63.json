@@ -1,0 +1,46 @@
+{
+  "uid" : "3e7f4c8c8c684a63",
+  "name" : "should click on Fees and Discounts",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI.should click on Fees and Discounts",
+  "historyId" : "1a681c40d3d8bdb8ef2d5ffc75e0b1bc",
+  "time" : {
+    "start" : 1642322968026,
+    "stop" : 1642322969838,
+    "duration" : 1812
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Fees and Discounts"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e7f4c8c8c684a63.json",
+  "parameterValues" : [ ]
+}

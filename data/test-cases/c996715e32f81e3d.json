@@ -1,0 +1,46 @@
+{
+  "uid" : "c996715e32f81e3d",
+  "name" : "should input school name in search field:12606",
+  "fullName" : "Luca Settings: OW API_007 tests.should input school name in search field:12606",
+  "historyId" : "2bfb3dd92dd5573589f4ce196bb58e3f",
+  "time" : {
+    "start" : 1642323298268,
+    "stop" : 1642323299714,
+    "duration" : 1446
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input school name in search field:12606"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c996715e32f81e3d.json",
+  "parameterValues" : [ ]
+}

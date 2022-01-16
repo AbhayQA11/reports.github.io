@@ -1,0 +1,46 @@
+{
+  "uid" : "750a1e096638af7b",
+  "name" : "should verify that the appropriate message is received",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should verify that the appropriate message is received",
+  "historyId" : "af8deb8050b03b42ef00bb4007e751f6",
+  "time" : {
+    "start" : 1642323014174,
+    "stop" : 1642323021879,
+    "duration" : 7705
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate message is received"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "750a1e096638af7b.json",
+  "parameterValues" : [ ]
+}

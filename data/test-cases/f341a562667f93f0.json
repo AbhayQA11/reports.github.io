@@ -1,0 +1,46 @@
+{
+  "uid" : "f341a562667f93f0",
+  "name" : "should add a Incorrect Email Address and Verify Error Message is Displayed",
+  "fullName" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups.should add a Incorrect Email Address and Verify Error Message is Displayed",
+  "historyId" : "91b4c752c9da5fe13aa21aa0c407c62b",
+  "time" : {
+    "start" : 1642320958865,
+    "stop" : 1642320960793,
+    "duration" : 1928
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add a Incorrect Email Address and Verify Error Message is Displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Reports module, Buy Now Give Now Create Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f341a562667f93f0.json",
+  "parameterValues" : [ ]
+}

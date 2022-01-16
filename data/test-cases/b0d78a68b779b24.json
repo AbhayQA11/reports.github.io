@@ -1,0 +1,46 @@
+{
+  "uid" : "b0d78a68b779b24",
+  "name" : "should click login button",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should click login button",
+  "historyId" : "9fd4c335a4242c59222a7a51b0ddde40",
+  "time" : {
+    "start" : 1642322908037,
+    "stop" : 1642322929419,
+    "duration" : 21382
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click login button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0d78a68b779b24.json",
+  "parameterValues" : [ ]
+}

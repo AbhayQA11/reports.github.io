@@ -1,0 +1,46 @@
+{
+  "uid" : "e63aae4bc4189c29",
+  "name" : "should log out from luca",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should log out from luca",
+  "historyId" : "b0088f5faa692c3426410edc33c64c46",
+  "time" : {
+    "start" : 1642320271689,
+    "stop" : 1642320274396,
+    "duration" : 2707
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e63aae4bc4189c29.json",
+  "parameterValues" : [ ]
+}

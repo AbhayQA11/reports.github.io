@@ -1,0 +1,46 @@
+{
+  "uid" : "ca15f4f4fcd9f728",
+  "name" : "should enter the Zip Code",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should enter the Zip Code",
+  "historyId" : "b5ecc27c83122dad35948e9f95328cc5",
+  "time" : {
+    "start" : 1642317928264,
+    "stop" : 1642317928937,
+    "duration" : 673
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should enter the Zip Code"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ca15f4f4fcd9f728.json",
+  "parameterValues" : [ ]
+}

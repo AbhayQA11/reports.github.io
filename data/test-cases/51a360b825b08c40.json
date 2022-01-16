@@ -1,0 +1,46 @@
+{
+  "uid" : "51a360b825b08c40",
+  "name" : "should log out from luca",
+  "fullName" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups.should log out from luca",
+  "historyId" : "62d1e182bc82c7b1433654fa2b1f86a",
+  "time" : {
+    "start" : 1642320902734,
+    "stop" : 1642320905263,
+    "duration" : 2529
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "lucaBuyNowGiveNowTests: Buy Now Give Now Manage Groups"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51a360b825b08c40.json",
+  "parameterValues" : [ ]
+}

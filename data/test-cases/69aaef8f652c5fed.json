@@ -1,0 +1,46 @@
+{
+  "uid" : "69aaef8f652c5fed",
+  "name" : "should add general ledger ID",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_006.should add general ledger ID",
+  "historyId" : "c8f2bea8b6ea14fccac78a217959c909",
+  "time" : {
+    "start" : 1642323303426,
+    "stop" : 1642323305217,
+    "duration" : 1791
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testMethod",
+    "value" : "should add general ledger ID"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "69aaef8f652c5fed.json",
+  "parameterValues" : [ ]
+}

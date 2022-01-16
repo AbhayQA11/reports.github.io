@@ -1,0 +1,46 @@
+{
+  "uid" : "3fce6720e00071a0",
+  "name" : "should switch the year view to two years behind",
+  "fullName" : "lucaBillingTests: Edit Billing module, Fee and discount month availability.should switch the year view to two years behind",
+  "historyId" : "e0b2a31ad10a45b09494953446c69726",
+  "time" : {
+    "start" : 1642319848055,
+    "stop" : 1642319850518,
+    "duration" : 2463
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch the year view to two years behind"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Fee and discount month availability"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3fce6720e00071a0.json",
+  "parameterValues" : [ ]
+}

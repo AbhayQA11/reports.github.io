@@ -1,0 +1,46 @@
+{
+  "uid" : "7c4ffc9264739687",
+  "name" : "should verify Third Party Email",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should verify Third Party Email",
+  "historyId" : "a91a450393d99845771c40b1353048d6",
+  "time" : {
+    "start" : 1642323462242,
+    "stop" : 1642323464050,
+    "duration" : 1808
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify Third Party Email"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c4ffc9264739687.json",
+  "parameterValues" : [ ]
+}

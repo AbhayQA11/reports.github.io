@@ -1,0 +1,46 @@
+{
+  "uid" : "cafc922906623419",
+  "name" : "should compare both hashes again, their length needs to be equal",
+  "fullName" : "Renweb Tests: Registration for creating new family.should compare both hashes again, their length needs to be equal",
+  "historyId" : "c9bd74ad18b0bc81b3309e68e4be0a53",
+  "time" : {
+    "start" : 1642318125563,
+    "stop" : 1642318125891,
+    "duration" : 328
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should compare both hashes again, their length needs to be equal"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cafc922906623419.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "c1464d9ed74264d7",
+  "name" : "should click on enrollment Status and then select the Enrolled option",
+  "fullName" : "lucaEnrollment: verify filters on All families.should click on enrollment Status and then select the Enrolled option",
+  "historyId" : "8e9bc28ad2bd21dbee498f825de0c2a7",
+  "time" : {
+    "start" : 1642319397822,
+    "stop" : 1642319398972,
+    "duration" : 1150
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on All families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on All families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on enrollment Status and then select the Enrolled option"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on All families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1464d9ed74264d7.json",
+  "parameterValues" : [ ]
+}

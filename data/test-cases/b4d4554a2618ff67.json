@@ -1,0 +1,46 @@
+{
+  "uid" : "b4d4554a2618ff67",
+  "name" : "should set expiration month",
+  "fullName" : "homepageTests: Enrolling New Family with Credit Card.should set expiration month",
+  "historyId" : "d9578f27e58ec77c5aaafcc7aa8e3e48",
+  "time" : {
+    "start" : 1642317978784,
+    "stop" : 1642317979769,
+    "duration" : 985
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should set expiration month"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrolling New Family with Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4d4554a2618ff67.json",
+  "parameterValues" : [ ]
+}

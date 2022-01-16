@@ -1,0 +1,46 @@
+{
+  "uid" : "76e6963f87644879",
+  "name" : "should click on the Newly Appeared Late Fee Review button",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should click on the Newly Appeared Late Fee Review button",
+  "historyId" : "ef844288fc7d9e2045560abdc4f0a560",
+  "time" : {
+    "start" : 1642322946253,
+    "stop" : 1642322948207,
+    "duration" : 1954
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Newly Appeared Late Fee Review button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76e6963f87644879.json",
+  "parameterValues" : [ ]
+}

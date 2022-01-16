@@ -1,0 +1,46 @@
+{
+  "uid" : "a5a7d73fdfc808a2",
+  "name" : "should input correct read only username for school 11084",
+  "fullName" : "lucaBillingTests: Verify Read Only Test Account.should input correct read only username for school 11084",
+  "historyId" : "e1c24b81d09be1f893c2f7a11b9e7378",
+  "time" : {
+    "start" : 1642319498182,
+    "stop" : 1642319500361,
+    "duration" : 2179
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input correct read only username for school 11084"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Read Only Test Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5a7d73fdfc808a2.json",
+  "parameterValues" : [ ]
+}

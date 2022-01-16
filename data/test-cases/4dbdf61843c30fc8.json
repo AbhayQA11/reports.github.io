@@ -1,0 +1,46 @@
+{
+  "uid" : "4dbdf61843c30fc8",
+  "name" : "should wait for the report Frequently Asked Questions for Parents to get generated",
+  "fullName" : "Main Landing Page, Verify the accessibility of Training Classes.should wait for the report Frequently Asked Questions for Parents to get generated",
+  "historyId" : "58779b8153596740bd0da21c32eb22",
+  "time" : {
+    "start" : 1642320107444,
+    "stop" : 1642320107893,
+    "duration" : 449
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testMethod",
+    "value" : "should wait for the report Frequently Asked Questions for Parents to get generated"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4dbdf61843c30fc8.json",
+  "parameterValues" : [ ]
+}

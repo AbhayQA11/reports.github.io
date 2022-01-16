@@ -1,0 +1,46 @@
+{
+  "uid" : "ded4f622429f6651",
+  "name" : "shuld input into the filter a Family Id of a family with Auto Debit Bank Account",
+  "fullName" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification.shuld input into the filter a Family Id of a family with Auto Debit Bank Account",
+  "historyId" : "57a260821ff434c9c6545f38f8ec261e",
+  "time" : {
+    "start" : 1642323234305,
+    "stop" : 1642323238608,
+    "duration" : 4303
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "shuld input into the filter a Family Id of a family with Auto Debit Bank Account"
+  }, {
+    "name" : "package",
+    "value" : "lucaAutomaticDebitSettings: Block and Stop Payments Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ded4f622429f6651.json",
+  "parameterValues" : [ ]
+}

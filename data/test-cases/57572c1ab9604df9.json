@@ -1,0 +1,46 @@
+{
+  "uid" : "57572c1ab9604df9",
+  "name" : "should select all months",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should select all months",
+  "historyId" : "52b1176361886257b1e3180f92f6ef42",
+  "time" : {
+    "start" : 1642323315571,
+    "stop" : 1642323316193,
+    "duration" : 622
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select all months"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57572c1ab9604df9.json",
+  "parameterValues" : [ ]
+}

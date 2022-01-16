@@ -1,0 +1,46 @@
+{
+  "uid" : "3a35b56e4551579c",
+  "name" : "should select the first record by checking the checkbox next to the family name again",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should select the first record by checking the checkbox next to the family name again",
+  "historyId" : "79f6d0c10427536cbadd6a59f8a391d9",
+  "time" : {
+    "start" : 1642318442299,
+    "stop" : 1642318449001,
+    "duration" : 6702
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the first record by checking the checkbox next to the family name again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a35b56e4551579c.json",
+  "parameterValues" : [ ]
+}

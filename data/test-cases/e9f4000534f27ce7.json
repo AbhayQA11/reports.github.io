@@ -1,0 +1,46 @@
+{
+  "uid" : "e9f4000534f27ce7",
+  "name" : "should select student view from the View Mode dropdown",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should select student view from the View Mode dropdown",
+  "historyId" : "60d8ac12da5d07694c60c5d325c50cc8",
+  "time" : {
+    "start" : 1642318517983,
+    "stop" : 1642318519816,
+    "duration" : 1833
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select student view from the View Mode dropdown"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e9f4000534f27ce7.json",
+  "parameterValues" : [ ]
+}

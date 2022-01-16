@@ -1,0 +1,46 @@
+{
+  "uid" : "1933a5ff2267b5f2",
+  "name" : "should verify that the Credit Card number is displayed with only last 6 digits visible",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should verify that the Credit Card number is displayed with only last 6 digits visible",
+  "historyId" : "d775473bd3842f34e51b5acf1c108958",
+  "time" : {
+    "start" : 1642319347382,
+    "stop" : 1642319348489,
+    "duration" : 1107
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Credit Card number is displayed with only last 6 digits visible"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1933a5ff2267b5f2.json",
+  "parameterValues" : [ ]
+}

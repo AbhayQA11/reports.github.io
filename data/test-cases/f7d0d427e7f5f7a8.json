@@ -1,0 +1,46 @@
+{
+  "uid" : "f7d0d427e7f5f7a8",
+  "name" : "should click on the SmartTuition logo, 3rd time",
+  "fullName" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard.should click on the SmartTuition logo, 3rd time",
+  "historyId" : "ca319f55ae54570af72f38cd2141983e",
+  "time" : {
+    "start" : 1642320035147,
+    "stop" : 1642320036490,
+    "duration" : 1343
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the SmartTuition logo, 3rd time"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7d0d427e7f5f7a8.json",
+  "parameterValues" : [ ]
+}

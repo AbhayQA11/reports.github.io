@@ -1,0 +1,46 @@
+{
+  "uid" : "6501e542883bfdaf",
+  "name" : "should verify the International Phone",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should verify the International Phone",
+  "historyId" : "31f50a6d7c6872be57aeb49e56463836",
+  "time" : {
+    "start" : 1642323467116,
+    "stop" : 1642323468776,
+    "duration" : 1660
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the International Phone"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6501e542883bfdaf.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "2a1350845a5fd7c9",
+  "name" : "should click on the Prepare & Send Mail button",
+  "fullName" : "lucaFamiliesModuleTests: Email Parents page.should click on the Prepare & Send Mail button",
+  "historyId" : "f1e6f8adf42660d532ebf22c79b06f14",
+  "time" : {
+    "start" : 1642318618970,
+    "stop" : 1642318622690,
+    "duration" : 3720
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Prepare & Send Mail button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Email Parents page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a1350845a5fd7c9.json",
+  "parameterValues" : [ ]
+}

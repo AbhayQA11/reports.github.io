@@ -1,0 +1,46 @@
+{
+  "uid" : "33a293c0e3ddd11b",
+  "name" : "should switch the year view to two years behind",
+  "fullName" : "lucaDashboardsTests: Luca Payments, add a payment, school user.should switch the year view to two years behind",
+  "historyId" : "82f24509a14cd5a2582dfb6c5d0f6f88",
+  "time" : {
+    "start" : 1642320998827,
+    "stop" : 1642321001112,
+    "duration" : 2285
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, school user"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, school user"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch the year view to two years behind"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, add a payment, school user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33a293c0e3ddd11b.json",
+  "parameterValues" : [ ]
+}

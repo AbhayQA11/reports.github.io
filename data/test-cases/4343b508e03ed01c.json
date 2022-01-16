@@ -1,0 +1,46 @@
+{
+  "uid" : "4343b508e03ed01c",
+  "name" : "should change the payment date from 30th to 1st of the month",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families details Payment settings.should change the payment date from 30th to 1st of the month",
+  "historyId" : "80bf422d4319080e8c82f225b48418cd",
+  "time" : {
+    "start" : 1642318443838,
+    "stop" : 1642318445380,
+    "duration" : 1542
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "testMethod",
+    "value" : "should change the payment date from 30th to 1st of the month"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families details Payment settings"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4343b508e03ed01c.json",
+  "parameterValues" : [ ]
+}

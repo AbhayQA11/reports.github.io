@@ -1,0 +1,46 @@
+{
+  "uid" : "4252cc73898e49e9",
+  "name" : "should verify that the Bank info inside Verify Payment is displayed with only the last 4 numbers displayed",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should verify that the Bank info inside Verify Payment is displayed with only the last 4 numbers displayed",
+  "historyId" : "a1c37ceaf32d610f1a2e52458fc8dfe4",
+  "time" : {
+    "start" : 1642323897503,
+    "stop" : 1642323899188,
+    "duration" : 1685
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Bank info inside Verify Payment is displayed with only the last 4 numbers displayed"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4252cc73898e49e9.json",
+  "parameterValues" : [ ]
+}

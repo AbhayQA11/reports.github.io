@@ -1,0 +1,46 @@
+{
+  "uid" : "97c1ff4ded541a5b",
+  "name" : "should verify that Account Types buttons are visible",
+  "fullName" : "lucaQuickBooksTests: QuickBooks General Settings Validation.should verify that Account Types buttons are visible",
+  "historyId" : "bce28fdd8e09660d2b7c6f2c738b3a7d",
+  "time" : {
+    "start" : 1642323060942,
+    "stop" : 1642323062644,
+    "duration" : 1702
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Account Types buttons are visible"
+  }, {
+    "name" : "package",
+    "value" : "lucaQuickBooksTests: QuickBooks General Settings Validation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97c1ff4ded541a5b.json",
+  "parameterValues" : [ ]
+}

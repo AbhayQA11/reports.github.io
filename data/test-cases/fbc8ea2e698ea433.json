@@ -1,0 +1,46 @@
+{
+  "uid" : "fbc8ea2e698ea433",
+  "name" : "should input the family Heads first and last name",
+  "fullName" : "Luca Settings: Luca Enrollment, Enroll new family, API_027.should input the family Heads first and last name",
+  "historyId" : "acffe5158d53a0304fc0ae060aea978d",
+  "time" : {
+    "start" : 1642323416217,
+    "stop" : 1642323418650,
+    "duration" : 2433
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the family Heads first and last name"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Luca Enrollment, Enroll new family, API_027"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fbc8ea2e698ea433.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "3d66ac83ceb1d4d0",
+  "name" : "should verify Add a Payment button is disabled when the CVV field is not completed",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment.should verify Add a Payment button is disabled when the CVV field is not completed",
+  "historyId" : "6292cb08866da745ab90ec078d3acc5e",
+  "time" : {
+    "start" : 1642321093492,
+    "stop" : 1642321096114,
+    "duration" : 2622
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify Add a Payment button is disabled when the CVV field is not completed"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate Payment information page from familes, add a payment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d66ac83ceb1d4d0.json",
+  "parameterValues" : [ ]
+}

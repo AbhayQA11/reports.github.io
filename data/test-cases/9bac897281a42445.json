@@ -1,0 +1,46 @@
+{
+  "uid" : "9bac897281a42445",
+  "name" : "should click on Escape button in order to close the pop-up for the fee",
+  "fullName" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages.should click on Escape button in order to close the pop-up for the fee",
+  "historyId" : "9152bf8d32ffd659957aac94c0164d1e",
+  "time" : {
+    "start" : 1642320471826,
+    "stop" : 1642320472701,
+    "duration" : 875
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Escape button in order to close the pop-up for the fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9bac897281a42445.json",
+  "parameterValues" : [ ]
+}

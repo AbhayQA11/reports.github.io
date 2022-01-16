@@ -1,0 +1,46 @@
+{
+  "uid" : "95aea431077c7d0f",
+  "name" : "should select a Value from the Month expiration dropdown",
+  "fullName" : "Renweb Tests: Registration for creating new family, using Credit Card.should select a Value from the Month expiration dropdown",
+  "historyId" : "d3e995a69c8fa436df6ef5d124f9af72",
+  "time" : {
+    "start" : 1642318139575,
+    "stop" : 1642318141220,
+    "duration" : 1645
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select a Value from the Month expiration dropdown"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for creating new family, using Credit Card"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "95aea431077c7d0f.json",
+  "parameterValues" : [ ]
+}

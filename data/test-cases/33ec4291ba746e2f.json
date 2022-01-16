@@ -1,0 +1,46 @@
+{
+  "uid" : "33ec4291ba746e2f",
+  "name" : "should create a family Via Api",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action.should create a family Via Api",
+  "historyId" : "2d4315ebebf64774cd192864c146de7b",
+  "time" : {
+    "start" : 1642318301190,
+    "stop" : 1642318304282,
+    "duration" : 3092
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "testMethod",
+    "value" : "should create a family Via Api"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families, Apply discount batch action"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33ec4291ba746e2f.json",
+  "parameterValues" : [ ]
+}

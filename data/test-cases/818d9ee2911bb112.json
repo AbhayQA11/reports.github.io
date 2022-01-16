@@ -1,0 +1,48 @@
+{
+  "uid" : "818d9ee2911bb112",
+  "name" : "should verify and delete the Frequently Asked Questions for Parents Spanish document",
+  "fullName" : "Main Landing Page, Verify the accessibility of Training Classes.should verify and delete the Frequently Asked Questions for Parents Spanish document",
+  "historyId" : "6be6017a8454f19e4b8e0396719d7884",
+  "time" : {
+    "start" : 1642320108220,
+    "stop" : 1642320108220,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify and delete the Frequently Asked Questions for Parents Spanish document"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "818d9ee2911bb112.json",
+  "parameterValues" : [ ]
+}

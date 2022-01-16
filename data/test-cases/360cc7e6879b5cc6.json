@@ -1,0 +1,46 @@
+{
+  "uid" : "360cc7e6879b5cc6",
+  "name" : "shlould input Home Phone and Mobile Phone values",
+  "fullName" : "lucaEnrollment: Enroll new family .shlould input Home Phone and Mobile Phone values",
+  "historyId" : "8f7b7b65debbd3b522541402921311fc",
+  "time" : {
+    "start" : 1642319105663,
+    "stop" : 1642319106715,
+    "duration" : 1052
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testMethod",
+    "value" : "shlould input Home Phone and Mobile Phone values"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "360cc7e6879b5cc6.json",
+  "parameterValues" : [ ]
+}

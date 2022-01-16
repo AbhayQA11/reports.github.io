@@ -1,0 +1,46 @@
+{
+  "uid" : "804b6d2fb9f2d55d",
+  "name" : "should check if the family is located in the Parent Registration",
+  "fullName" : "Renweb Tests: Registration for adding new student.should check if the family is located in the Parent Registration",
+  "historyId" : "6f35103c636e41a029824658f8ce7c5",
+  "time" : {
+    "start" : 1642318221677,
+    "stop" : 1642318223049,
+    "duration" : 1372
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testClass",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should check if the family is located in the Parent Registration"
+  }, {
+    "name" : "package",
+    "value" : "Renweb Tests: Registration for adding new student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "804b6d2fb9f2d55d.json",
+  "parameterValues" : [ ]
+}

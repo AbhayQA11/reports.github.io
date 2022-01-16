@@ -1,0 +1,46 @@
+{
+  "uid" : "5d50794f466c96e1",
+  "name" : "should click the purge a family button",
+  "fullName" : "lucaEnrollment: Enroll new family .should click the purge a family button",
+  "historyId" : "3be3fd158222281e4cc2f844d697f9b3",
+  "time" : {
+    "start" : 1642319127046,
+    "stop" : 1642319133255,
+    "duration" : 6209
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the purge a family button"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new family "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d50794f466c96e1.json",
+  "parameterValues" : [ ]
+}

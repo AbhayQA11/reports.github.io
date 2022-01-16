@@ -1,0 +1,46 @@
+{
+  "uid" : "4774b5dfe6f2ebc8",
+  "name" : "should click on Specific Months",
+  "fullName" : "lucaFeesAndDiscountsTests: Add Discount Verification.should click on Specific Months",
+  "historyId" : "a42f5d0321afbad04d07e4cf0807ba19",
+  "time" : {
+    "start" : 1642320162594,
+    "stop" : 1642320164803,
+    "duration" : 2209
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Specific Months"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Add Discount Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4774b5dfe6f2ebc8.json",
+  "parameterValues" : [ ]
+}

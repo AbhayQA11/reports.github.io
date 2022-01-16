@@ -1,0 +1,46 @@
+{
+  "uid" : "dac628416193bf0b",
+  "name" : "should verify that Your Password has been updated is displayed",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should verify that Your Password has been updated is displayed",
+  "historyId" : "4bd79d55aec58428eb22fa80afaae065",
+  "time" : {
+    "start" : 1642323882209,
+    "stop" : 1642323883698,
+    "duration" : 1489
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that Your Password has been updated is displayed"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dac628416193bf0b.json",
+  "parameterValues" : [ ]
+}

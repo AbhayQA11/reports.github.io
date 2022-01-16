@@ -1,0 +1,46 @@
+{
+  "uid" : "6a4f8b5b1000b81d",
+  "name" : "should load Luca login Page successfully and create a family with CC to use later",
+  "fullName" : "Parent Site Payment Verification.should load Luca login Page successfully and create a family with CC to use later",
+  "historyId" : "6be5becde00c76c636213198c8f15926",
+  "time" : {
+    "start" : 1642323797838,
+    "stop" : 1642323802001,
+    "duration" : 4163
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully and create a family with CC to use later"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site Payment Verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a4f8b5b1000b81d.json",
+  "parameterValues" : [ ]
+}

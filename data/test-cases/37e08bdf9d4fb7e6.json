@@ -1,0 +1,46 @@
+{
+  "uid" : "37e08bdf9d4fb7e6",
+  "name" : "should click on Low Priority button",
+  "fullName" : "lucaAddANoteTests: Create a note and attaching an attachment.should click on Low Priority button",
+  "historyId" : "833c1370e8808887d43dd2187cd20e47",
+  "time" : {
+    "start" : 1642322977944,
+    "stop" : 1642322981744,
+    "duration" : 3800
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Low Priority button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Create a note and attaching an attachment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37e08bdf9d4fb7e6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "8ab02d4afe283d9c",
+  "name" : "should verify Second Parent Second Name",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should verify Second Parent Second Name",
+  "historyId" : "dd799bf56947fa5408bd45a16ab6dfc5",
+  "time" : {
+    "start" : 1642323447958,
+    "stop" : 1642323449459,
+    "duration" : 1501
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify Second Parent Second Name"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ab02d4afe283d9c.json",
+  "parameterValues" : [ ]
+}

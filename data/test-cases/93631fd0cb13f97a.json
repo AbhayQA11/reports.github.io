@@ -1,0 +1,46 @@
+{
+  "uid" : "93631fd0cb13f97a",
+  "name" : "should verify that the appropriate login error message is received when the username and password fields are empty",
+  "fullName" : "homepageTests: EWS Authentification Verification test cases.should verify that the appropriate login error message is received when the username and password fields are empty",
+  "historyId" : "5e5c8ebf28b40fb114ed36c3b76ee184",
+  "time" : {
+    "start" : 1642318003044,
+    "stop" : 1642318007578,
+    "duration" : 4534
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the appropriate login error message is received when the username and password fields are empty"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: EWS Authentification Verification test cases"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93631fd0cb13f97a.json",
+  "parameterValues" : [ ]
+}

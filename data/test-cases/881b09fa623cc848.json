@@ -1,0 +1,46 @@
+{
+  "uid" : "881b09fa623cc848",
+  "name" : "should verify that the DropDown, Undo Changes, Reason Box and Remove buttons disappeared",
+  "fullName" : "lucaBillingTests: Add Fee and Discount Controls verification.should verify that the DropDown, Undo Changes, Reason Box and Remove buttons disappeared",
+  "historyId" : "60d14a457140540e04122c17aeddde71",
+  "time" : {
+    "start" : 1642319522568,
+    "stop" : 1642319525533,
+    "duration" : 2965
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Add Fee and Discount Controls verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Add Fee and Discount Controls verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the DropDown, Undo Changes, Reason Box and Remove buttons disappeared"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Add Fee and Discount Controls verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "881b09fa623cc848.json",
+  "parameterValues" : [ ]
+}

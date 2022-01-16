@@ -1,0 +1,46 @@
+{
+  "uid" : "583ab5013521e9b9",
+  "name" : "should reach the Manage Fees and Discounts page again",
+  "fullName" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages.should reach the Manage Fees and Discounts page again",
+  "historyId" : "fa64194293b91b4ebd7fb147de09198",
+  "time" : {
+    "start" : 1642320596941,
+    "stop" : 1642320599699,
+    "duration" : 2758
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "testMethod",
+    "value" : "should reach the Manage Fees and Discounts page again"
+  }, {
+    "name" : "package",
+    "value" : "lucaFeesAndDiscountsTests: Check Negative Amount Error messages"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "583ab5013521e9b9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "1ed11b706271a939",
+  "name" : "should verify that the Note Or Request Type buttons are disabled",
+  "fullName" : "lucaAddANoteTests: Verifying Read Only Test User.should verify that the Note Or Request Type buttons are disabled",
+  "historyId" : "71ac50c85bbbc05f468b767b471b5b69",
+  "time" : {
+    "start" : 1642322951642,
+    "stop" : 1642322958092,
+    "duration" : 6450
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Note Or Request Type buttons are disabled"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Read Only Test User"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ed11b706271a939.json",
+  "parameterValues" : [ ]
+}

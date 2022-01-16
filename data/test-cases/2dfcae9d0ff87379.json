@@ -1,0 +1,46 @@
+{
+  "uid" : "2dfcae9d0ff87379",
+  "name" : "should log out from luca",
+  "fullName" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard.should log out from luca",
+  "historyId" : "d43f32feea83b797c871fb4ef99d69cd",
+  "time" : {
+    "start" : 1642320081313,
+    "stop" : 1642320084542,
+    "duration" : 3229
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Payment page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2dfcae9d0ff87379.json",
+  "parameterValues" : [ ]
+}

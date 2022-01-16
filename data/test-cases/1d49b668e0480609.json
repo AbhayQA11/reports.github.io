@@ -1,0 +1,46 @@
+{
+  "uid" : "1d49b668e0480609",
+  "name" : "should get and store the total number of Total Notes in order to verify the number later",
+  "fullName" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard.should get and store the total number of Total Notes in order to verify the number later",
+  "historyId" : "cc61577578ed88ada73201b7652ca400",
+  "time" : {
+    "start" : 1642320010159,
+    "stop" : 1642320011273,
+    "duration" : 1114
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the total number of Total Notes in order to verify the number later"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d49b668e0480609.json",
+  "parameterValues" : [ ]
+}

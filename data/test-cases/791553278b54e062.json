@@ -1,0 +1,46 @@
+{
+  "uid" : "791553278b54e062",
+  "name" : "should input the same password into the Re-type password field",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should input the same password into the Re-type password field",
+  "historyId" : "a7c6033a48a9a8f41264c2b5b7485203",
+  "time" : {
+    "start" : 1642323874807,
+    "stop" : 1642323876369,
+    "duration" : 1562
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input the same password into the Re-type password field"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "791553278b54e062.json",
+  "parameterValues" : [ ]
+}

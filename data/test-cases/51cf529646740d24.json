@@ -1,0 +1,46 @@
+{
+  "uid" : "51cf529646740d24",
+  "name" : "should input valid password",
+  "fullName" : "Luca Settings: OW API_007 tests.should input valid password",
+  "historyId" : "19a746f4c839a12ca04518a50006a59",
+  "time" : {
+    "start" : 1642323290914,
+    "stop" : 1642323292108,
+    "duration" : 1194
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input valid password"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW API_007 tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51cf529646740d24.json",
+  "parameterValues" : [ ]
+}

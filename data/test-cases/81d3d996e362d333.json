@@ -1,0 +1,46 @@
+{
+  "uid" : "81d3d996e362d333",
+  "name" : "should verify that the Succesfully Saved confirmation message is received",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should verify that the Succesfully Saved confirmation message is received",
+  "historyId" : "e96f45154be1ebd081c8e06aba357cec",
+  "time" : {
+    "start" : 1642319328887,
+    "stop" : 1642319330582,
+    "duration" : 1695
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the Succesfully Saved confirmation message is received"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "81d3d996e362d333.json",
+  "parameterValues" : [ ]
+}

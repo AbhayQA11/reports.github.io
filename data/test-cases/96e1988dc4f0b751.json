@@ -1,0 +1,54 @@
+{
+  "uid" : "96e1988dc4f0b751",
+  "name" : "should switch to Students tab on Edit Family page",
+  "fullName" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43.should switch to Students tab on Edit Family page",
+  "historyId" : "293213e63ff0f5184f769ce550b88121",
+  "time" : {
+    "start" : 1642323470539,
+    "stop" : 1642323472088,
+    "duration" : 1549
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch to Students tab on Edit Family page"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi then check response and UI for valid data API_43"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "84c929eebdf90b5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642323468776,
+        "stop" : 1642323470539,
+        "duration" : 1763
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96e1988dc4f0b751.json",
+  "parameterValues" : [ ]
+}

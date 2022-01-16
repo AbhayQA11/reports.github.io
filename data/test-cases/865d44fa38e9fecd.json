@@ -1,0 +1,46 @@
+{
+  "uid" : "865d44fa38e9fecd",
+  "name" : "should return to the Deleted Families Tab",
+  "fullName" : "lucaEnrollment: verify filters on Deleted Families.should return to the Deleted Families Tab",
+  "historyId" : "92060ee123ab1f16af1107f39f154345",
+  "time" : {
+    "start" : 1642319439515,
+    "stop" : 1642319442604,
+    "duration" : 3089
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "testMethod",
+    "value" : "should return to the Deleted Families Tab"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: verify filters on Deleted Families"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "865d44fa38e9fecd.json",
+  "parameterValues" : [ ]
+}

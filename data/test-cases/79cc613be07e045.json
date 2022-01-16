@@ -1,0 +1,46 @@
+{
+  "uid" : "79cc613be07e045",
+  "name" : "should click on Low Priority button",
+  "fullName" : "lucaAddANoteTests: Validating Created Notes Parameters.should click on Low Priority button",
+  "historyId" : "e239c8bdcf7c5520c1afcc367f05d89",
+  "time" : {
+    "start" : 1642322958532,
+    "stop" : 1642322962252,
+    "duration" : 3720
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on Low Priority button"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Validating Created Notes Parameters"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "79cc613be07e045.json",
+  "parameterValues" : [ ]
+}

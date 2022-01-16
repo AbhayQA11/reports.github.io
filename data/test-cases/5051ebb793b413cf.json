@@ -1,0 +1,46 @@
+{
+  "uid" : "5051ebb793b413cf",
+  "name" : "should click on next button in order to reach the payment page",
+  "fullName" : "homepageTests: Enrollment with all payment options.should click on next button in order to reach the payment page",
+  "historyId" : "d7deb902dc256c97a2690d0c00c63810",
+  "time" : {
+    "start" : 1642317929732,
+    "stop" : 1642317932446,
+    "duration" : 2714
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on next button in order to reach the payment page"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with all payment options"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5051ebb793b413cf.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "797ed5b8454ed815",
+  "name" : "should get and store the Discount name in order to search for it later",
+  "fullName" : "Luca Settings: Manage Payment Plans tests API_014.should get and store the Discount name in order to search for it later",
+  "historyId" : "becbdd5d50d43fb7c75004933ea2d093",
+  "time" : {
+    "start" : 1642323387612,
+    "stop" : 1642323388159,
+    "duration" : 547
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "testMethod",
+    "value" : "should get and store the Discount name in order to search for it later"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Manage Payment Plans tests API_014"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "797ed5b8454ed815.json",
+  "parameterValues" : [ ]
+}

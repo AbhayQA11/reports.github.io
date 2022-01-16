@@ -1,0 +1,46 @@
+{
+  "uid" : "c92b9d9d34075fe0",
+  "name" : "should verify that the followUp Required buttons are displayed",
+  "fullName" : "lucaAddANoteTests: Verifying Controls UI + Create Note.should verify that the followUp Required buttons are displayed",
+  "historyId" : "7a1a27542b5d1862e6c1c073e5b28ab0",
+  "time" : {
+    "start" : 1642322999060,
+    "stop" : 1642322999849,
+    "duration" : 789
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the followUp Required buttons are displayed"
+  }, {
+    "name" : "package",
+    "value" : "lucaAddANoteTests: Verifying Controls UI + Create Note"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c92b9d9d34075fe0.json",
+  "parameterValues" : [ ]
+}

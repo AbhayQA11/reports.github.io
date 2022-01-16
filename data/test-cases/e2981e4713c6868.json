@@ -1,0 +1,46 @@
+{
+  "uid" : "e2981e4713c6868",
+  "name" : "should click on the first family from the Recent Billing Adjustments section",
+  "fullName" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard.should click on the first family from the Recent Billing Adjustments section",
+  "historyId" : "a62e0e98480a288f37c1043bc1e187d3",
+  "time" : {
+    "start" : 1642320156984,
+    "stop" : 1642320161553,
+    "duration" : 4569
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the first family from the Recent Billing Adjustments section"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2981e4713c6868.json",
+  "parameterValues" : [ ]
+}

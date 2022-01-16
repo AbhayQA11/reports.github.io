@@ -1,0 +1,46 @@
+{
+  "uid" : "1debd275710f0805",
+  "name" : "should verify that the save Changes button is disabled",
+  "fullName" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab.should verify that the save Changes button is disabled",
+  "historyId" : "4f3798898407bf5f689bc00f8de98688",
+  "time" : {
+    "start" : 1642320112835,
+    "stop" : 1642320113382,
+    "duration" : 547
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the save Changes button is disabled"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Manage Contact Information functionality in Settings tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1debd275710f0805.json",
+  "parameterValues" : [ ]
+}

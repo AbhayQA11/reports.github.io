@@ -1,0 +1,46 @@
+{
+  "uid" : "76ed7670e2651b19",
+  "name" : "should click on manage Type Codes and student Codes",
+  "fullName" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar.should click on manage Type Codes and student Codes",
+  "historyId" : "eb5945c0953a511a4fcc70a6504ab6e5",
+  "time" : {
+    "start" : 1642319959717,
+    "stop" : 1642319961304,
+    "duration" : 1587
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on manage Type Codes and student Codes"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify Presence of Elements in Top Menu Bar"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76ed7670e2651b19.json",
+  "parameterValues" : [ ]
+}

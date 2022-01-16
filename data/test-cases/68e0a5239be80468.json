@@ -1,0 +1,46 @@
+{
+  "uid" : "68e0a5239be80468",
+  "name" : "should log out from luca",
+  "fullName" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005.should log out from luca",
+  "historyId" : "713d7c775cb73767e528394c716dd662",
+  "time" : {
+    "start" : 1642323344747,
+    "stop" : 1642323347580,
+    "duration" : 2833
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Verify newly added fees or discount is displaying in API Result API_005"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68e0a5239be80468.json",
+  "parameterValues" : [ ]
+}

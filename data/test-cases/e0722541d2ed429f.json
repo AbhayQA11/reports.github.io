@@ -1,0 +1,46 @@
+{
+  "uid" : "e0722541d2ed429f",
+  "name" : "should switch to iFrame, 1st time",
+  "fullName" : "Call Center Payment Encryption Tests, Bank Account family.should switch to iFrame, 1st time",
+  "historyId" : "7e59a22210a96e82d317c40afbcf10fc",
+  "time" : {
+    "start" : 1642323938752,
+    "stop" : 1642323940009,
+    "duration" : 1257
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testClass",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch to iFrame, 1st time"
+  }, {
+    "name" : "package",
+    "value" : "Call Center Payment Encryption Tests, Bank Account family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0722541d2ed429f.json",
+  "parameterValues" : [ ]
+}

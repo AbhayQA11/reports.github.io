@@ -1,0 +1,46 @@
+{
+  "uid" : "402b191692864eb6",
+  "name" : "should log out from luca",
+  "fullName" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard.should log out from luca",
+  "historyId" : "4735fa2e60d90437a38726d95af2ba7",
+  "time" : {
+    "start" : 1642320070638,
+    "stop" : 1642320073865,
+    "duration" : 3227
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log out from luca"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Notes page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "402b191692864eb6.json",
+  "parameterValues" : [ ]
+}

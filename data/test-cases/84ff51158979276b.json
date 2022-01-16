@@ -1,0 +1,48 @@
+{
+  "uid" : "84ff51158979276b",
+  "name" : "encountered a declaration exception",
+  "fullName" : "bbPaymentServices: Luca - Verifying that a family can be enrolled in a school with Smart Shield on.encountered a declaration exception",
+  "historyId" : "5782b14679b0158cfd873ae6cd8739b8",
+  "time" : {
+    "start" : 1642324065608,
+    "stop" : 1642324065958,
+    "duration" : 350
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "The test is skipped since the Smart Shield page does not worck due to an 404 error",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled in a school with Smart Shield on"
+  }, {
+    "name" : "testClass",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled in a school with Smart Shield on"
+  }, {
+    "name" : "testMethod",
+    "value" : "encountered a declaration exception"
+  }, {
+    "name" : "package",
+    "value" : "bbPaymentServices: Luca - Verifying that a family can be enrolled in a school with Smart Shield on"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "84ff51158979276b.json",
+  "parameterValues" : [ ]
+}

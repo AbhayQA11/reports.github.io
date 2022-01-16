@@ -1,0 +1,46 @@
+{
+  "uid" : "93336785f695afd8",
+  "name" : "should click on the Select A Fee drop-down first time",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Fees.should click on the Select A Fee drop-down first time",
+  "historyId" : "548730bfc6a3ee330187c5bda36320b0",
+  "time" : {
+    "start" : 1642319640636,
+    "stop" : 1642319642122,
+    "duration" : 1486
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Select A Fee drop-down first time"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93336785f695afd8.json",
+  "parameterValues" : [ ]
+}

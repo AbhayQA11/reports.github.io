@@ -1,0 +1,46 @@
+{
+  "uid" : "c29d2724f9931b22",
+  "name" : "should verify the confirmation message",
+  "fullName" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056.should verify the confirmation message",
+  "historyId" : "6450818b03909e2e4a4a6cf106428449",
+  "time" : {
+    "start" : 1642323520104,
+    "stop" : 1642323527742,
+    "duration" : 7638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify the confirmation message"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: Create a family Via APi, verify data in Edit Billing Details API_056"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c29d2724f9931b22.json",
+  "parameterValues" : [ ]
+}

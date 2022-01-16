@@ -1,0 +1,46 @@
+{
+  "uid" : "c27eae3861d36574",
+  "name" : "should load Luca login Page successfully",
+  "fullName" : "Luca Settings: OW with Fees and Discounts tests API_006.should load Luca login Page successfully",
+  "historyId" : "d925c7bb7890ffdcf32c7c8410692ecf",
+  "time" : {
+    "start" : 1642323270178,
+    "stop" : 1642323272842,
+    "duration" : 2664
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "testMethod",
+    "value" : "should load Luca login Page successfully"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW with Fees and Discounts tests API_006"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c27eae3861d36574.json",
+  "parameterValues" : [ ]
+}

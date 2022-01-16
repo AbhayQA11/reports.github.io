@@ -1,0 +1,46 @@
+{
+  "uid" : "b823f3553d23a20a",
+  "name" : "should submit an ammount for the first and second Student Fee",
+  "fullName" : "lucaBillingTests: Verify Applicable Not applicable Fees.should submit an ammount for the first and second Student Fee",
+  "historyId" : "7ba354fe0acc19b714c6b18366578351",
+  "time" : {
+    "start" : 1642319648145,
+    "stop" : 1642319650552,
+    "duration" : 2407
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "testMethod",
+    "value" : "should submit an ammount for the first and second Student Fee"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Verify Applicable Not applicable Fees"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b823f3553d23a20a.json",
+  "parameterValues" : [ ]
+}

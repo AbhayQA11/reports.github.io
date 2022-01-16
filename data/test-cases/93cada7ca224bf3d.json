@@ -1,0 +1,46 @@
+{
+  "uid" : "93cada7ca224bf3d",
+  "name" : "should click on the Select A Fee DropDown",
+  "fullName" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios.should click on the Select A Fee DropDown",
+  "historyId" : "d63c584538aea209467bc2804e116979",
+  "time" : {
+    "start" : 1642321316920,
+    "stop" : 1642321318399,
+    "duration" : 1479
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the Select A Fee DropDown"
+  }, {
+    "name" : "package",
+    "value" : "lucaDashboardsTests: Luca Payments, Validate custom allocation scenarios"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93cada7ca224bf3d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "51b836570af5802f",
+  "name" : "should verify that the buttons in the action column are present",
+  "fullName" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification.should verify that the buttons in the action column are present",
+  "historyId" : "5373049e1526a6e5b942fe45ba90c75b",
+  "time" : {
+    "start" : 1642319760903,
+    "stop" : 1642319765283,
+    "duration" : 4380
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify that the buttons in the action column are present"
+  }, {
+    "name" : "package",
+    "value" : "lucaBillingTests: Edit Billing module, Pending Families + add new family verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51b836570af5802f.json",
+  "parameterValues" : [ ]
+}

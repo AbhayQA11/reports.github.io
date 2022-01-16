@@ -1,0 +1,46 @@
+{
+  "uid" : "38067e52907620e1",
+  "name" : "should logout from luca",
+  "fullName" : "homepageTests: Enrollment with Bank Account entry.should logout from luca",
+  "historyId" : "1705be621080def0174d6c97dc195f67",
+  "time" : {
+    "start" : 1642317910289,
+    "stop" : 1642317912730,
+    "duration" : 2441
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testClass",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "testMethod",
+    "value" : "should logout from luca"
+  }, {
+    "name" : "package",
+    "value" : "homepageTests: Enrollment with Bank Account entry"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38067e52907620e1.json",
+  "parameterValues" : [ ]
+}

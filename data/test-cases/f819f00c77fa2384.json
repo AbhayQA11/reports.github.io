@@ -1,0 +1,46 @@
+{
+  "uid" : "f819f00c77fa2384",
+  "name" : "should check the new family Id",
+  "fullName" : "lucaEnrollment: Enroll new Pending family and Verify links .should check the new family Id",
+  "historyId" : "6b4a3879493eba65882b92ed08cd9cf1",
+  "time" : {
+    "start" : 1642319349584,
+    "stop" : 1642319351021,
+    "duration" : 1437
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testClass",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "testMethod",
+    "value" : "should check the new family Id"
+  }, {
+    "name" : "package",
+    "value" : "lucaEnrollment: Enroll new Pending family and Verify links "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f819f00c77fa2384.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid" : "ef728c7a39e1ae82",
+  "name" : "should verify and delete the Frequently Asked Questions for Parents document",
+  "fullName" : "Main Landing Page, Verify the accessibility of Training Classes.should verify and delete the Frequently Asked Questions for Parents document",
+  "historyId" : "5a16941931b1994836980a83e9714019",
+  "time" : {
+    "start" : 1642320107893,
+    "stop" : 1642320108220,
+    "duration" : 327
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify and delete the Frequently Asked Questions for Parents document"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Training Classes"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef728c7a39e1ae82.json",
+  "parameterValues" : [ ]
+}

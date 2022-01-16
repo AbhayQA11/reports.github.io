@@ -1,0 +1,46 @@
+{
+  "uid" : "d950da41458f02c2",
+  "name" : "should click on the grade drop-down and then select the check all option",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student.should click on the grade drop-down and then select the check all option",
+  "historyId" : "e5879e1500537ac082b27a78b00d9b7",
+  "time" : {
+    "start" : 1642318598579,
+    "stop" : 1642318604012,
+    "duration" : 5433
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the grade drop-down and then select the check all option"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families filters, Add Update Student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d950da41458f02c2.json",
+  "parameterValues" : [ ]
+}

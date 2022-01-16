@@ -1,0 +1,46 @@
+{
+  "uid" : "b9aa874e2ffe7a86",
+  "name" : "should select the latest school year",
+  "fullName" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard.should select the latest school year",
+  "historyId" : "129613d9ab6855552e5489127921907b",
+  "time" : {
+    "start" : 1642320021401,
+    "stop" : 1642320026017,
+    "duration" : 4616
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testClass",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "testMethod",
+    "value" : "should select the latest school year"
+  }, {
+    "name" : "package",
+    "value" : "Main Landing Page, Verify the accessibility of Billing page in Dashboard"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9aa874e2ffe7a86.json",
+  "parameterValues" : [ ]
+}

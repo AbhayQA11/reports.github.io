@@ -1,0 +1,46 @@
+{
+  "uid" : "42c8ca9033f0c80",
+  "name" : "should click on the family",
+  "fullName" : "Luca Settings: OW Api - Add new family login api API_073.should click on the family",
+  "historyId" : "630e70aeaa406d53bd8c7d135a18c9a5",
+  "time" : {
+    "start" : 1642323557928,
+    "stop" : 1642323559443,
+    "duration" : 1515
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testClass",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click on the family"
+  }, {
+    "name" : "package",
+    "value" : "Luca Settings: OW Api - Add new family login api API_073"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42c8ca9033f0c80.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,55 @@
+{
+  "uid" : "c23e649cd051e5d0",
+  "name" : "should dismiss the Pop-up by pressing the Continue button",
+  "fullName" : "Parent Site, Payment verification for a family with Bank Account.should dismiss the Pop-up by pressing the Continue button",
+  "historyId" : "140c89c1596a420c82f571b9f96c868d",
+  "time" : {
+    "start" : 1642323909424,
+    "stop" : 1642323910981,
+    "duration" : 1557
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testClass",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "testMethod",
+    "value" : "should dismiss the Pop-up by pressing the Continue button"
+  }, {
+    "name" : "package",
+    "value" : "Parent Site, Payment verification for a family with Bank Account"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7d13fa01f9dc8c0",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1642323872597,
+        "stop" : 1642323872598,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c23e649cd051e5d0.json",
+  "parameterValues" : [ ]
+}

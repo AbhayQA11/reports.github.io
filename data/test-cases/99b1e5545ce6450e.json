@@ -1,0 +1,46 @@
+{
+  "uid" : "99b1e5545ce6450e",
+  "name" : "should click the change Type Code button",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should click the change Type Code button",
+  "historyId" : "3b74957dddef36c629c98e5c5e9cb6b8",
+  "time" : {
+    "start" : 1642318422797,
+    "stop" : 1642318424497,
+    "duration" : 1700
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click the change Type Code button"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99b1e5545ce6450e.json",
+  "parameterValues" : [ ]
+}

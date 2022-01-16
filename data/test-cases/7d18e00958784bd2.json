@@ -1,0 +1,46 @@
+{
+  "uid" : "7d18e00958784bd2",
+  "name" : "should input a reason, then click submit second time",
+  "fullName" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family.should input a reason, then click submit second time",
+  "historyId" : "401cc23d8ce988000f49ac7dd104ecff",
+  "time" : {
+    "start" : 1642318485205,
+    "stop" : 1642318486932,
+    "duration" : 1727
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testClass",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input a reason, then click submit second time"
+  }, {
+    "name" : "package",
+    "value" : "lucaFamiliesModuleTests: Manage Families verify Batch actions towards family"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d18e00958784bd2.json",
+  "parameterValues" : [ ]
+}
